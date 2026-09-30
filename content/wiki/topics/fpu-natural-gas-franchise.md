@@ -1,0 +1,16 @@
+---
+slug: fpu-natural-gas-franchise
+title: FPU natural-gas franchise (Ord. 5148-25)
+---
+
+# FPU natural-gas franchise (Ord. 5148-25)
+
+Ordinance granting Florida Public Utilities Company a **non-exclusive 30-year** franchise to distribute natural gas in West Palm Beach, with a **6%** franchise fee on gross natural-gas sales revenue in the City (per pass-fail / agenda text).
+
+## Appearances
+
+| Date | Stage | Notes | Text |
+|------|-------|-------|------|
+| 2026-08-03 | 2nd reading — **approved** (pass/fail) | Replaces expired 1989 ordinance-agreement framework | [agenda](../../meetings/2026-08-03/agenda.md) · [pass-fail](../../meetings/2026-08-03/pass-fail.md) |
+
+Official PDF: [pf-08_03_26](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-pass-fail-agendas-pfa/2026-08-aug-pfa/pf-08_03_26-city-commission-agenda.pdf)

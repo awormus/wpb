@@ -19,5 +19,8 @@ Small markdown wiki for **cross-linking** City Commission agenda items, ordinanc
 | Axon / police tech contracts | [topics/axon-police-tech.md](topics/axon-police-tech.md) | 2026-09-28 agenda (Res. 228-26) |
 | FY2027 budget & millage | [topics/fy2027-budget-millage.md](topics/fy2027-budget-millage.md) | 2026-09-08 tentative + 2026-09-23 final special agendas |
 | Commercial solid-waste franchises | [topics/commercial-solid-waste-franchises.md](topics/commercial-solid-waste-franchises.md) | 2026-09-28 agenda (Ord. 5184-26, 2nd reading) |
+| FPU natural-gas franchise (Ord. 5148-25) | [topics/fpu-natural-gas-franchise.md](topics/fpu-natural-gas-franchise.md) | 2026-08-03 pass/fail (2nd reading approved) |
+| CityPlace CPD / Convention Center District (Ord. 5179-26) | [topics/cityplace-convention-center-district.md](topics/cityplace-convention-center-district.md) | 2026-08-31 pass/fail (2nd reading approved) |
+| Sign regulations rewrite (Ord. 5180-26) | [topics/sign-code-rewrite.md](topics/sign-code-rewrite.md) | 2026-08-31 pass/fail (2nd reading approved) |
 
 Add a row when you create a new topic page.
