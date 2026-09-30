@@ -14,12 +14,12 @@ Small markdown wiki for **cross-linking** City Commission agenda items, ordinanc
 | Topic | Page | Latest appearance |
 |-------|------|-------------------|
 | 2050 Mobility Plan & mobility fees | [topics/mobility-plan-2050.md](topics/mobility-plan-2050.md) | 2026-09-28 agenda (Ord. 5182-26, 2nd reading) |
-| Affordable housing inventory & surplus conveyances | [topics/affordable-housing-inventory.md](topics/affordable-housing-inventory.md) | 2026-04-13 Res. 77-26; 2026-05-26 Res. 123-26; 2026-09-28 agenda (Res. 205-26, 214-26) |
+| Affordable housing inventory & surplus conveyances | [topics/affordable-housing-inventory.md](topics/affordable-housing-inventory.md) | 2026-03-30 Res. 75-26; 2026-04-13 Res. 77-26; 2026-05-26 Res. 123-26; 2026-09-28 agenda (Res. 205-26, 214-26) |
 | Forest Hill High / Winters Street vacation | [topics/forest-hill-winters-street.md](topics/forest-hill-winters-street.md) | 2026-09-28 agenda (Res. 208-26) |
 | Axon / police tech contracts | [topics/axon-police-tech.md](topics/axon-police-tech.md) | 2026-09-28 agenda (Res. 228-26) |
 | FY2027 budget & millage | [topics/fy2027-budget-millage.md](topics/fy2027-budget-millage.md) | 2026-07-16 NTE + 2026-09-08 tentative + 2026-09-23 final special agendas |
 | Commercial solid-waste franchises | [topics/commercial-solid-waste-franchises.md](topics/commercial-solid-waste-franchises.md) | 2026-09-28 agenda (Ord. 5184-26, 2nd reading) |
-| FPU natural-gas franchise (Ord. 5148-25) | [topics/fpu-natural-gas-franchise.md](topics/fpu-natural-gas-franchise.md) | 2026-04-13 not approved; 2026-06-08 postponed; 2026-08-03 approved |
+| FPU natural-gas franchise (Ord. 5148-25) | [topics/fpu-natural-gas-franchise.md](topics/fpu-natural-gas-franchise.md) | 2026-03-30 1st reading; 2026-04-13 not approved; 2026-06-08 postponed; 2026-08-03 approved |
 | CityPlace CPD / Convention Center District (Ord. 5179-26) | [topics/cityplace-convention-center-district.md](topics/cityplace-convention-center-district.md) | 2026-08-31 pass/fail (2nd reading approved) |
 | Sign regulations rewrite (Ord. 5180-26) | [topics/sign-code-rewrite.md](topics/sign-code-rewrite.md) | 2026-08-31 pass/fail (2nd reading approved) |
 
@@ -29,5 +29,6 @@ Small markdown wiki for **cross-linking** City Commission agenda items, ordinanc
 
 | Greene School CPD (Ord. 5169-26 / Res. 103-26) | [topics/greene-school-cpd.md](topics/greene-school-cpd.md) | 2026-05-26 1st reading; 2026-06-08 approved |
 | Norton / Pioneer Park lease (Ord. 5167-26) | [topics/norton-park-lease.md](topics/norton-park-lease.md) | 2026-04-13 1st reading; 2026-04-27 2nd reading approved |
+| Publix Sapodilla sale (Ord. 5166-26) | [topics/publix-sapodilla-sale.md](topics/publix-sapodilla-sale.md) | 2026-03-02 1st reading; 2026-03-16 2nd reading approved |
 
 Add a row when you create a new topic page.

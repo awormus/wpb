@@ -6,6 +6,7 @@ Municipal inventory of city/CRA real property suitable for affordable housing (�
 
 | Date | Doc | What showed up | Link |
 |------|-----|----------------|------|
+| 2026-03-30 | Pass/fail | **Res. 75-26** — surplus City property at **611 56th Street**; authorize inclusion in CRA Broadway properties Invitation to Negotiate | [summary](../../meetings/2026-03-30/summary.md) · [agenda §8.9](../../meetings/2026-03-30/agenda.md#item-8-9) · [PDF](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/03_30_26_final-city-commission-agenda.pdf) |
 | 2026-04-13 | Pass/fail | **Res. 77-26** — convey five Broadway Corridor parcels (2803/2813/2815 Broadway; 601/611 27th St) to 2823 Broadway QOZB LLC for ~151 affordable rental units (100% ≤80% AMI; 30-year affordability); land at no cost | [summary](../../meetings/2026-04-13/summary.md) · [agenda §10.3](../../meetings/2026-04-13/agenda.md#item-10-3) · [PDF](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/04_13_26_final-city-commission-agenda.pdf) |
 | 2026-09-28 | Final agenda | **Res. 205-26** — adopt updated City/CRA affordable-housing property inventory (does not itself authorize disposition) | [summary](../../meetings/2026-09-28/summary.md) · [agenda §9.3](../../meetings/2026-09-28/agenda.md#item-9-3) · [PDF](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/09-sep-2026-final-cca/09_28_26_final-city-commission-agenda.pdf) |
 | 2026-09-28 | Final agenda | **Res. 214-26** — surplus ~1,430 sq ft strip at 209 N. Sapodilla Ave. for conveyance toward Related Ross 191-unit 100% affordable rental proposal | [summary](../../meetings/2026-09-28/summary.md) · [agenda §8.2](../../meetings/2026-09-28/agenda.md#item-8-2) · [PDF](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/09-sep-2026-final-cca/09_28_26_final-city-commission-agenda.pdf) |
@@ -14,6 +15,6 @@ Municipal inventory of city/CRA real property suitable for affordable housing (�
 
 ## Status notes
 
-- Apr 13 Res. 77-26, May 26 Res. 123-26 outcomes from pass/fail; Sep 28 inventory/surplus items agenda-scheduled in extract.
+- Mar 30 Res. 75-26, Apr 13 Res. 77-26, May 26 Res. 123-26 outcomes from pass/fail; Sep 28 inventory/surplus items agenda-scheduled in extract.
 
 Source: wpb.org Sep 28, 2026 final agenda and May 26, 2026 final agenda + pass/fail PDFs; extracts in-repo under `content/meetings/`.
