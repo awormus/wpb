@@ -14,7 +14,7 @@ Small markdown wiki for **cross-linking** City Commission agenda items, ordinanc
 | Topic | Page | Latest appearance |
 |-------|------|-------------------|
 | 2050 Mobility Plan & mobility fees | [topics/mobility-plan-2050.md](topics/mobility-plan-2050.md) | 2026-09-28 agenda (Ord. 5182-26, 2nd reading) |
-| Affordable housing inventory & surplus conveyances | [topics/affordable-housing-inventory.md](topics/affordable-housing-inventory.md) | 2026-09-28 agenda (Res. 205-26, 214-26) |
+| Affordable housing inventory & surplus conveyances | [topics/affordable-housing-inventory.md](topics/affordable-housing-inventory.md) | 2026-05-26 pass/fail (Res. 123-26); 2026-09-28 agenda (Res. 205-26, 214-26) |
 | Forest Hill High / Winters Street vacation | [topics/forest-hill-winters-street.md](topics/forest-hill-winters-street.md) | 2026-09-28 agenda (Res. 208-26) |
 | Axon / police tech contracts | [topics/axon-police-tech.md](topics/axon-police-tech.md) | 2026-09-28 agenda (Res. 228-26) |
 | FY2027 budget & millage | [topics/fy2027-budget-millage.md](topics/fy2027-budget-millage.md) | 2026-07-16 NTE + 2026-09-08 tentative + 2026-09-23 final special agendas |
@@ -26,5 +26,7 @@ Small markdown wiki for **cross-linking** City Commission agenda items, ordinanc
 | Public art Chapter 43 (Ord. 5172-26) | [topics/public-art-chapter-43.md](topics/public-art-chapter-43.md) | 2026-06-22 1st reading + Master Plan; 2026-07-06 2nd reading approved |
 | 5710 N. Haverhill annexation / Kolter | [topics/haverhill-5710-annexation.md](topics/haverhill-5710-annexation.md) | 2026-07-20 pass/fail (2nd reading + site plan approved) |
 | Pine Crest school land Term Sheet | [topics/pine-crest-school-land.md](topics/pine-crest-school-land.md) | 2026-07-20 pass/fail (Res. 161-26 approved) |
+
+| Greene School CPD (Ord. 5169-26 / Res. 103-26) | [topics/greene-school-cpd.md](topics/greene-school-cpd.md) | 2026-05-26 1st reading; 2026-06-08 approved |
 
 Add a row when you create a new topic page.
