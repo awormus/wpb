@@ -8,6 +8,8 @@ Add a new row (newest first) for each fetch:
 
 | Date (ET) | Agent / person | URL or portal | Purpose | Notes |
 |-----------|----------------|---------------|---------|-------|
+| 2026-09-30 18:17 ET | Riley (WPB Data) | `https://www.wpb.org/files/.../08_03_26_final-city-commission-agenda.pdf` | Re-ingest Aug 3 agenda with current civic-pdf cleanup (QC sample) | Read-only GET; HTTP 200; plain pdftotext; PDF deleted |
+| 2026-09-30 18:17 ET | Riley (WPB Data) | `https://www.wpb.org/files/.../09_14_26_final-city-commission-agenda.pdf` | Re-ingest Sep 14 agenda with current civic-pdf cleanup (QC sample) | Read-only GET; HTTP 200; plain pdftotext; PDF deleted |
 | 2026-09-30 18:15 ET | Riley (WPB Data) | `https://www.wpb.org/files/.../09_28_26_final-city-commission-agenda.pdf` | Re-extract Sep 28: one-line parent headings; sub-items own ### | Read-only GET; HTTP 200; plain pdftotext; PDF deleted |
 | 2026-09-30 17:59 ET | Riley (WPB Data) | `https://www.wpb.org/files/.../09_28_26_final-city-commission-agenda.pdf` | Re-extract Sep 28: preserve multi-paragraph Background Information | Read-only GET; HTTP 200; plain pdftotext; PDF deleted |
 | 2026-09-30 17:56 ET | Riley (WPB Data) | `https://www.wpb.org/files/.../09_28_26_final-city-commission-agenda.pdf` | Re-extract Sep 28: Commission District as exact #### header | Read-only GET; HTTP 200; plain pdftotext; PDF deleted |
