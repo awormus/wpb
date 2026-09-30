@@ -125,15 +125,14 @@ The University of North Florida Training and Services Institute, Inc., d/b/a Ins
 
 The award notification was received on July 7, 2026, providing $36,716.22 to the City through an agreement with the University of North Florida Training and Services Institute, Inc., d/b/a IPTM, for the purpose of providing reimbursement for overtime costs incurred for the public education and enforcement of bicycle and pedestrian safety.
 
-This Pedestrian and Bicycle Safety Enforcement Campaign is approved for overtime hourly costs plus benefits for operations to be completed with sworn police officers at locations identified by the grantor and are to be carried out between the date of document execution and May 7, 2027. The approved intersections/corridors to conduct operations are identified within the scope of this grant as: - - - - - - - - - - - - - -
-
-Broadway Avenue from 40th Street to 55th Street North Dixie Highway from Eucalyptus Street to 20th Street Palm Beach Lakes Boulevard from Golf Avenue NB to Windsor Avenue Australian Avenue from Palm Beach Lakes Boulevard to 15th Street Banyan Boulevard from S. Sapodilla Avenue to S. Rosemary Avenue Okeechobee Boulevard from Seminole Boulevard to I-95 45th Street from SR 809 to Congress Avenue Palm Beach Lakes Boulevard from Executive Center Drive to Hank Aaron Drive 45th Street from Australian Avenue to Broadway Avenue Greenwood Avenue from 49th Street to 54th Street Broadway Avenue from 31st Street to 36th Street North Tamarind Avenue from 17th Street to 23rd Street South Australian Avenue from Okeechobee Boulevard to Banyan Boulevard Dixie Highway from Arlington Road to Maddock Street
+This Pedestrian and Bicycle Safety Enforcement Campaign is approved for overtime hourly costs plus benefits for operations to be completed with sworn police officers at locations identified by the grantor and are to be carried out between the date of document execution and May 7, 2027. The approved intersections/corridors to conduct operations are identified within the scope of this grant as:
+- Broadway Avenue from 40th Street to 55th Street North Dixie Highway from Eucalyptus Street to 20th Street Palm Beach Lakes Boulevard from Golf Avenue NB to Windsor Avenue Australian Avenue from Palm Beach Lakes Boulevard to 15th Street Banyan Boulevard from S. Sapodilla Avenue to S. Rosemary Avenue Okeechobee Boulevard from Seminole Boulevard to I-95 45th Street from SR 809 to Congress Avenue Palm Beach Lakes Boulevard from Executive Center Drive to Hank Aaron Drive 45th Street from Australian Avenue to Broadway Avenue Greenwood Avenue from 49th Street to 54th Street Broadway Avenue from 31st Street to 36th Street North Tamarind Avenue from 17th Street to 23rd Street South Australian Avenue from Okeechobee Boulevard to Banyan Boulevard Dixie Highway from Arlington Road to Maddock Street
 
 Each year, if the City meets the terms set forth in the agreement, ITPM may award additional funds. Those funds are accepted through an agreement that must be executed by all parties before the additional overtime is performed.
 
 Resolution No. 219-26 accepts the grant and authorizes execution of the grant agreement, and Resolution No. 233-26(F) appropriates the funds.
 
-Enforcement areas of operation are within the boundaries of Commission Districts: 1, 2, 3, 4, and 5. - - - - -
+Enforcement areas of operation are within the boundaries of Commission Districts: 1, 2, 3, 4, and 5.
 
 #### Commission District
 
@@ -314,27 +313,15 @@ Resolution No. 215-26 sets forth the job classification (job titles) and salary 
 This is a routine item, which is presented to the Commission annually to reflect employee compensation as negotiated with the various bargaining units (FOP, IAFF, SEIU, and PMSA), to approve the salary ranges, and to illustrate any changes in job titles and/or new job titles, which were approved as part of the annual budget process.
 
 Key Provisions of this Resolution are:
--
+- 5% cost-of-living adjustment (COLA) pay increase for eligible nonrepresented (non-union) non-management employees during FY2027, effective the first pay period beginning on or after October 1, 2026. Employees who have not attained regular (nonprobationary) status as of October 1, 2026, are not eligible for the 5% COLA.
 
-5% cost-of-living adjustment (COLA) pay increase for eligible nonrepresented (non-union) non-management employees during FY2027, effective the first pay period beginning on or after October 1, 2026.
+- 5% COLA pay increase for PMSA represented employees as provided for under their respective 2026-2029 collective bargaining agreement.
 
-Employees who have not attained regular (nonprobationary) status as of October 1, 2026, are not eligible for the 5% COLA.
+- 3% cost-of-living adjustment (COLA) pay increase for eligible nonrepresented (non-union) management employees, including the City Administrator and elected officials, during FY2027 effective the first pay period beginning on or after October 1, 2026. Employees who have not attained regular (non-probationary) status as of October 1, 2026, are not eligible for the 3% COLA.
 
--
+- Implements new FOP and IAFF pay step plans as provided for in their respective 2024-2027 collective bargaining agreements.
 
-5% COLA pay increase for PMSA represented employees as provided for under their respective 2026-2029 collective bargaining agreement.
-
--
-
-3% cost-of-living adjustment (COLA) pay increase for eligible nonrepresented (non-union) management employees, including the City Administrator and elected officials, during FY2027 effective the first pay period beginning on or after October 1, 2026. Employees who have not attained regular (non-probationary) status as of October 1, 2026, are not eligible for the 3% COLA.
-
--
-
-Implements new FOP and IAFF pay step plans as provided for in their respective 2024-2027 collective bargaining agreements.
-
--
-
-FY27 COLA or other compensation for SEIU represented employees will be determined by the terms of their successor collective bargaining agreement which has not yet been completed and is under negotiation.
+- FY27 COLA or other compensation for SEIU represented employees will be determined by the terms of their successor collective bargaining agreement which has not yet been completed and is under negotiation.
 
 This Resolution lists all allowable position classifications in alphabetical order with their corresponding FY2027 pay grades. New job classifications are indicated in bold print, and any position pay grade updates are indicated with a carat. ("^").
 

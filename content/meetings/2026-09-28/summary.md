@@ -6,7 +6,7 @@ time: "17:00"
 location: "Commission Chambers, 401 Clematis Street, West Palm Beach, FL 33401"
 summary_basis: agenda
 agenda_text: ./agenda.md
-notes: "Agenda-based summary only. Official minutes / pass-fail sheet not used for this write-up; do not treat items below as adopted outcomes."
+notes: "Agenda-based summary only. Official minutes / pass-fail sheet not used for vote outcomes; do not treat items below as adopted outcomes."
 sources:
   - title: Final City Commission Agenda — September 28, 2026
     url: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/09-sep-2026-final-cca/09_28_26_final-city-commission-agenda.pdf
@@ -21,49 +21,47 @@ sources:
 
 # Regular City Commission Meeting — September 28, 2026
 
-**When:** Monday, September 28, 2026, 5:00 PM  
+**When:** September 28, 2026, 5:00 PM  
 **Where:** Commission Chambers, 401 Clematis Street  
-**Source:** Final agenda PDF on wpb.org (linked below). This page summarizes **what was scheduled**, not vote outcomes.
+**Source:** Official agenda PDF on wpb.org (linked below). This page summarizes **what was scheduled**, not vote outcomes.
 
 ## Opening
 
-Call to order, moment of silence, pledge, civility/decorum rules, and any agenda additions/deletions/reorganization.
+Call to order, moment of silence, pledge, civility/decorum, and any agenda additions/deletions/reorganization (see full text for exact wording).
 
-## Proclamation ([6.1](./agenda.md#item-6-1))
+## Proclamation ([6](./agenda.md#item-6))
 
-National Hispanic Heritage Month (September 15–October 15, 2026), with named Heritage Honorees selected by the Mayor and Commissioners.
+- **[6.1](./agenda.md#item-6-1):** Proclaiming September 15, through October 15, 2026, as National Hispanic Heritage Month. Mayor James and City Commissioners selected the following 2026 Heritage Honorees to acce…
 
-## Consent calendar ([7](./agenda.md#item-7)) — overview
+## Consent Calendar ([7](./agenda.md#item-7))
 
-Routine items listed for single-motion consideration included:
+- **[7.1](./agenda.md#item-7-1):** Minutes of the July 20, 2026, Regular City Commission Meeting.
+- **[7.2](./agenda.md#item-7-2):** Resolution No. 181-26 accepting a donation of a Forensic Robotic Mapping System from the Palm Beach County Sheriff’s Office for an approximate value of $17,000. The equipment wi…
+- **[7.3](./agenda.md#item-7-3):** Resolution No. 219-26 accepting a grant from the University of North Florida Training and Services Institute, Inc., d/b/a Institute of Police Technology and Management, in an am…
+- **[7.4](./agenda.md#item-7-4):** Resolution No. 220-26 accepting a donation of three (3) patrol bicycles from the Downtown Development Authority for an approximate value of $10,320. The equipment will be used b…
+- **[7.5](./agenda.md#item-7-5):** Resolution No. 228-26 requests approval of a contract amendment with Axon Enterprise, Inc., which will consolidate three (3) existing contracts into one (1) eight-year agreement…
+- **[7.6](./agenda.md#item-7-6):** Resolution No. 223-26 authorizing the assessment of City liens in the total amount of $14,050.32 for unpaid water service, sewer service, and stormwater charges for the month of…
+- **[7.7](./agenda.md#item-7-7):** Resolution No. 231-26 authorizing an amendment to the State of Florida State Housing Initiatives Partnership Program (SHIP) Local Housing Assistance Plan (LHAP) for program year…
+- **[7.8](./agenda.md#item-7-8):** Resolution No. 215-26 establishing the City's Salary Plan for Fiscal Year 2026-2027.
+- **[7.9](./agenda.md#item-7-9):** Resolution No. 236-26 relating to the ratification of successor Collective Bargaining Agreement between the City of West Palm Beach and the Florida State Lodge, Fraternal Order …
 
-- Approval of minutes from the July 20, 2026 regular meeting
-- Accepting a Palm Beach County Sheriff’s Office donation of a forensic robotic mapping system (~$17,000) for police use, with related appropriation
-- Accepting an IPTM / FDOT-related grant reimbursement (not to exceed $36,716.22) for bicycle and pedestrian safety education and enforcement overtime
-- Accepting three patrol bicycles from the Downtown Development Authority (~$10,320)
-- [Contract amendment with Axon Enterprise, Inc.](./agenda.md#item-7-5), consolidating existing contracts into one eight-year agreement not to exceed $16,064,926
-- Assessment of city liens ($14,050.32) for unpaid water/sewer/stormwater charges (June 2026)
-- SHIP Local Housing Assistance Plan amendment adding a Manufactured Housing Assistance Strategy (program years 2024/2025–2026/2027)
-- Establishing the City’s Salary Plan for Fiscal Year 2026–2027
-- Ratifying a successor FOP Captains collective bargaining agreement (Oct 1, 2026–Sep 30, 2027), including an estimated ~9% Captains step-plan increase described in the agenda background
+## Resolutions ([8](./agenda.md#item-8))
 
-## Separate resolutions ([8](./agenda.md#item-8))
+- **[8.1](./agenda.md#item-8-1):** Resolution No. 188-26 for the approval of above-ground design features of planned improvement to existing Public Utilities sanitary sewer pumping facilities at 145 Trinity Place…
+- **[8.2](./agenda.md#item-8-2):** Resolution No. 214-26 finding that a City-owned strip of land located at 209 N. Sapodilla is not needed for City purposes, declaring the property as surplus, and authorizing the…
 
-- **[8.1 / Res. 188-26](./agenda.md#item-8-1):** Approve above-ground design features for sanitary sewer lift station improvements at 145 Trinity Place (LS #40) and 2300 Village Boulevard (LS #88); agenda notes FDEP Resilient Florida grant support ($405,000) for part of LS #40 work
-- **[8.2 / Res. 214-26](./agenda.md#item-8-2):** Declare a ~1,430 sq ft city-owned strip at 209 N. Sapodilla Avenue surplus and authorize disposition by negotiation/conveyance to Related Ross for a proposed 191-unit 100% affordable rental project (purchase price $10 with clawback terms described in the agenda)
+## Public Hearing ([9](./agenda.md#item-9))
 
-## Public hearings ([9](./agenda.md#item-9))
+- **[9.1](./agenda.md#item-9-1):** Public Hearing and Second Reading of Ordinance No. 5182-26 adopting the 2050 City of West Palm Beach Mobility Plan; amending the City of West Palm Beach Code of Ordinances, at C…
+- **[9.2](./agenda.md#item-9-2):** Public Hearing and Second Reading of Ordinance No. 5184-26 amending the Code of Ordinances at Chapter 74 - Solid Waste, Article V Commercial Collection Franchise, to clarify pro…
+- **[9.3](./agenda.md#item-9-3):** Public Hearing of Resolution No. 205-26 adopting the City's and CRA's inventory of real property suitable for affordable housing under Section 166.0451, Florida Statutes.
+- **[9.4](./agenda.md#item-9-4):** Public Hearing of Resolution No. 208-26: A request, from Joyell Shaw, and Simone Marseille, from The School District of Palm Beach County (the "District"), on behalf of Forest H…
 
-- **[9.1 / Ord. 5182-26](./agenda.md#item-9-1) (2nd reading):** Adopt the **2050 City of West Palm Beach Mobility Plan** and amend mobility-fee code provisions citywide (integrating the Downtown Mobility Fee into a multimodal fee framework)
-- **[9.2 / Ord. 5184-26](./agenda.md#item-9-2) (2nd reading):** Amend commercial solid-waste franchise rules (including a proposed limit of ten franchises and clearer fee-calculation language)
-- **[9.3 / Res. 205-26](./agenda.md#item-9-3):** Adopt the City’s and CRA’s updated inventory of real property suitable for affordable housing under §166.0451, Florida Statutes (inventory adoption does not itself authorize disposition)
-- **[9.4 / Res. 208-26](./agenda.md#item-9-4):** Request to vacate/abandon a portion of Winters Street (~5,000 sq ft) to support an 87-space off-site parking lot for Forest Hill Community High School (School District of Palm Beach County)
+## Comments From The Public ([10](./agenda.md#item-10))
 
-## Closing
-
-Public comments, comments by the Mayor and Commissioners, adjournment.
+See [10. Comments From The Public](./agenda.md#item-10) in the full agenda text.
 
 ## Official documents (on wpb.org — not stored here)
 
-- [Final agenda PDF (Sep 28, 2026)](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/09-sep-2026-final-cca/09_28_26_final-city-commission-agenda.pdf)
-- [September 2026 agendas folder](https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/September-2026)
+- [Agenda PDF (September 28, 2026)](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/09-sep-2026-final-cca/09_28_26_final-city-commission-agenda.pdf)
+- [Month agendas folder](https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/September-2026)
