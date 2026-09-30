@@ -8,6 +8,7 @@ Add a new row (newest first) for each fetch:
 
 | Date (ET) | Agent / person | URL or portal | Purpose | Notes |
 |-----------|----------------|---------------|---------|-------|
+| 2026-09-30 17:54 ET | Riley (WPB Data) | `https://www.wpb.org/files/.../09_28_26_final-city-commission-agenda.pdf` | Re-extract Sep 28: Staff Recommended Motion as exact PDF header | Read-only GET; HTTP 200; plain pdftotext; PDF deleted |
 | 2026-09-30 17:52 ET | Riley (WPB Data) | `https://www.wpb.org/files/.../09_28_26_final-city-commission-agenda.pdf` | Re-extract Sep 28: preserve Ordinance/Resolution labels; one indented ALL-CAPS block | Read-only GET; HTTP 200; plain pdftotext; PDF deleted |
 | 2026-09-30 17:45 ET | Riley (WPB Data) | `https://www.wpb.org/files/.../09_28_26_final-city-commission-agenda.pdf` | Re-extract Sep 28 for per-item Originating Department / Resolution / Background sections | Read-only GET; HTTP 200; plain pdftotext; PDF deleted |
 | 2026-09-30 16:55 ET | Riley (WPB Data) | `https://www.wpb.org/files/.../09_28_26_final-city-commission-agenda.pdf` | Re-extract Sep 28 for paragraph soft-wrap reflow QC | Read-only GET; HTTP 200; plain pdftotext; PDF deleted |

@@ -456,9 +456,14 @@ def is_field_or_section_label(s: str) -> bool:
     return False
 
 
+def is_markdown_heading_line(s: str) -> bool:
+    """True for ATX headings (`# Title`), not PDF text like `#40 UPGRADE`."""
+    return bool(re.match(r"^#{1,6}\s", s.strip()))
+
+
 def is_reflow_hard_start(s: str) -> bool:
     """Lines that must not be glued onto the previous paragraph."""
-    if s.startswith("<a ") or s.startswith("#"):
+    if s.startswith("<a ") or is_markdown_heading_line(s):
         return True
     if match_item_field_label(s) is not None:
         return True
@@ -588,7 +593,7 @@ def is_predominantly_upper(s: str) -> bool:
 
 def is_legal_block_start(line: str) -> bool:
     s = line.strip()
-    if not s or s.startswith("#") or s.startswith("<a ") or s.startswith(">"):
+    if not s or is_markdown_heading_line(s) or s.startswith("<a ") or s.startswith(">"):
         return False
     if s.startswith("**RESOLUTION:**") or s.startswith("**ORDINANCE:**"):
         return False
@@ -599,7 +604,7 @@ def is_legal_block_continuation(line: str) -> bool:
     s = line.strip()
     if not s:
         return False
-    if s.startswith("#") or s.startswith("<a ") or s.startswith(">"):
+    if is_markdown_heading_line(s) or s.startswith("<a ") or s.startswith(">"):
         return False
     if s.startswith("**RESOLUTION:**") or s.startswith("**ORDINANCE:**"):
         return False
@@ -669,7 +674,8 @@ ITEM_FIELD_LABEL_RE = re.compile(
     r"Ordinance\s*/\s*Resolution|Resolution|Ordinance|"
     r"Background Information|Background|"
     r"Fiscal(?:\s+Note|\s+Impact)?|"
-    r"Recommended Action|Attachments?|Presenter|Sponsor)\s*:?\s*$",
+    r"Staff Recommended Motion|Recommended Action|"
+    r"Attachments?|Presenter|Sponsor)\s*:?\s*$",
     re.I,
 )
 
@@ -719,7 +725,7 @@ def promote_item_field_sections(text: str) -> str:
             if label.lower() in ("originating department", "department") and nxt:
                 if (
                     match_item_field_label(nxt) is None
-                    and not nxt.startswith("#")
+                    and not is_markdown_heading_line(nxt)
                     and not nxt.startswith("**")
                     and not nxt.startswith("<a ")
                     and not nxt.startswith("> ")
