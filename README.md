@@ -28,7 +28,8 @@ This repository is **only** for WPB civic content.
 | Path | Purpose |
 |------|---------|
 | `content/demographics.json` | Schema stub + empty `metrics` / `sources` |
-| `content/meetings/` | One markdown file per meeting (`YYYY-MM-DD-title.md` + frontmatter) |
+| `content/meetings/YYYY-MM-DD/` | Per-meeting folder: `agenda.md` text extract (+ `summary.md`, minutes when available) |
+| `content/wiki/` | Topic pages that cross-link the same item across meeting dates |
 | `content/calendar.ics` | Working draft copy of the ICS (keep in sync with `docs/calendar.ics`; **Pages serves `docs/calendar.ics`**) |
 
 ## Ops (`ops/`)

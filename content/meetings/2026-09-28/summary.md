@@ -5,6 +5,7 @@ kind: regular
 time: "17:00"
 location: "Commission Chambers, 401 Clematis Street, West Palm Beach, FL 33401"
 summary_basis: agenda
+agenda_text: ./agenda.md
 notes: "Agenda-based summary only. Official minutes / pass-fail sheet not used for this write-up; do not treat items below as adopted outcomes."
 sources:
   - title: Final City Commission Agenda — September 28, 2026

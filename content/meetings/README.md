@@ -1,38 +1,43 @@
-# Meeting summaries
+# Commission meetings — text archive + summaries
 
-One markdown file per City Commission (or related) meeting.
+**Rule:** Store a **plain-text extract** of each official commission PDF here. Link the PDF on wpb.org. **Never** commit binary PDFs.
 
-## Naming
+## Folder layout
 
 ```
-YYYY-MM-DD-short-title.md
+content/meetings/
+  README.md                 ← this file
+  YYYY-MM-DD/               ← one folder per meeting date
+    agenda.md               ← full text extract (+ YAML frontmatter)
+    summary.md              ← short attributable summary (optional until minutes exist)
+    minutes.md              ← text extract of minutes when published (optional)
+    pass-fail.md            ← text extract of pass/fail sheet when published (optional)
 ```
 
-Examples:
+Legacy single-file names (`YYYY-MM-DD-short-title.md`) are retired; migrate into dated folders.
 
-- `2026-01-15-regular-commission.md`
-- `2026-02-03-special-workshop.md`
-
-## Frontmatter
-
-Each file starts with YAML frontmatter:
+## Frontmatter (agenda.md / minutes.md)
 
 ```yaml
 ---
-date: 2026-01-15
-title: Regular City Commission Meeting
-sources:
-  - title: Official agenda
-    url: https://example.city/agenda/...
-    retrieved: 2026-01-16
-  - title: Meeting minutes
-    url: https://example.city/minutes/...
-    retrieved: 2026-01-20
+date: 2026-09-28
+doc_type: agenda   # agenda | minutes | pass-fail | other
+title: Final City Commission Agenda
+official_pdf: https://www.wpb.org/files/.../whatever.pdf
+retrieved: YYYY-MM-DD
+extractor: pdftotext -layout
 ---
 ```
 
-## Body
+## Workflow
 
-Write a short, attributable summary. Quote sparingly; prefer paraphrase with clear citations. Do not invent votes or outcomes. Log every external fetch in `ops/external-access-log.md`.
+1. Find the PDF on [Meetings & Agendas](https://www.wpb.org/Our-City/Meetings-Agendas) or [Commission & CRA Agendas](https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas).
+2. Download to `/tmp` only → `pdftotext -layout` → write `agenda.md` (or minutes) → **delete** the PDF from `/tmp`.
+3. Write or refresh `summary.md` (agenda-based until minutes/pass-fail exist; never invent votes).
+4. Log every external fetch in `ops/external-access-log.md`.
+5. Add or update topic pages under `content/wiki/topics/` so the same ordinance/project can link across meeting dates.
+6. Mirror a short HTML summary under `docs/commission/YYYY-MM-DD/` for the public site.
 
-Published HTML for the commission index lives under `docs/commission/` and should link here when summaries exist.
+## Wiki
+
+Cross-meeting insight lives in `content/wiki/` (index + topic pages). Meeting folders hold the verbatim extracts; wiki pages link **to** those extracts and to the official PDFs.
