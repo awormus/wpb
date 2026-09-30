@@ -16,9 +16,9 @@ Outcomes from the official **pass/fail** sheet.
 - **Appointment:** approved (Mayor reappointment item).
 - **Consent:** all approved (incl. HazMat grant; mediated settlements Res. 196-26 / 197-26; Development Space easements; ADA Transition Plan **Res. 192-26**; bus-bench advertising Res. 116-26; PBC license Res. 221-26; etc.).
 - **Res. 199-26:** approved — grant application submittal.
-- **Public hearing — all approved:** Ord. **5171-26** and **5180-26** on **second reading** (ROW / sign code).
+- **Public hearing — all approved:** [Ord. **5171-26**](./agenda.md#item-10-1) and [Ord. **5180-26**](./agenda.md#item-10-2) on **second reading** (ROW / sign code).
 - **Quasi-judicial — all approved:**
-  - **Ord. 5179-26 (2nd reading)** — CityPlace CPD / Convention Center District & Hotel II (continued from Aug 17).
+  - **[Ord. 5179-26](./agenda.md#item-11-1) (2nd reading)** — CityPlace CPD / Convention Center District & Hotel II (continued from Aug 17).
   - **Ord. 5181-26 (1st reading)** — Barnett Centre Downtown Planned Development transfers.
   - **Res. 183-26** — Mary … request (see pass-fail text for full caption).
 

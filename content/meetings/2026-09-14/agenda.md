@@ -6,17 +6,16 @@ meeting: Regular City Commission Meeting
 kind: regular
 official_pdf: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/09-sep-2026-final-cca/09_14_26_final-city-commission-agenda.pdf
 retrieved: 2026-09-30
-extractor: pdftotext -layout
+extractor: pdftotext -layout + civic-pdf-cleanup
 notes: >
-  Plain-text extract of the official PDF for search and wiki linking.
-  Binary PDF is not stored in this repo — always link the wpb.org URL above.
+  Plain-text extract of the official PDF. Binary PDF not stored in this repo.
 ---
 
 # Final City Commission Agenda — 2026-09-14
 
 **Official PDF (wpb.org):** [09_14_26_final-city-commission-agenda.pdf](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/09-sep-2026-final-cca/09_14_26_final-city-commission-agenda.pdf)
 
-Text extract begins below. Do not treat this file as an official record; the PDF is authoritative.
+Text extract below is for search and deep-linking. The official PDF is authoritative.
 
 ---
 
@@ -43,41 +42,50 @@ In accordance with the provisions of the Americans with Disabilities Act (ADA), 
 accommodation to participate in this proceeding shall, within three days prior to any proceeding, contact the City
 Clerk's Office, 401 Clematis Street, West Palm Beach, FL 33401, (561) 822-1210.
 
- 1.    CALL TO ORDER
+<a id="item-1"></a>
+## 1. CALL TO ORDER
 
- 2.    MOMENT OF SILENCE
 
- 3.    PLEDGE OF ALLEGIANCE
+<a id="item-2"></a>
+## 2. MOMENT OF SILENCE
 
- 4.    CIVILITY AND DECORUM
+
+<a id="item-3"></a>
+## 3. PLEDGE OF ALLEGIANCE
+
+
+<a id="item-4"></a>
+## 4. CIVILITY AND DECORUM
+
        The City of West Palm Beach is committed to civility and decorum by its officials, employees
        and members of the public who attend this meeting. The City Code, Secs. 2-31(8), 2-31(18)
        and 2-31(22), provides in pertinent part:
-           Officials shall be recognized by the Chair and shall not interrupt a speaker.
-           Public comment shall be addressed to the City Commission as a whole and not to any
+          - Officials shall be recognized by the Chair and shall not interrupt a speaker.
+          - Public comment shall be addressed to the City Commission as a whole and not to any
              individual on the dais or in the audience.
-           Displays of anger, rudeness, ridicule, impatience, lack of respect and personal attacks
+          - Displays of anger, rudeness, ridicule, impatience, lack of respect and personal attacks
              are strictly prohibited.
-           Unauthorized remarks from the audience, stamping of feet, whistles, yells and similar
+          - Unauthorized remarks from the audience, stamping of feet, whistles, yells and similar
              demonstrations shall not be permitted.
-           Offenders may be removed from the meeting.
-           Any person desiring to address the Commission shall file a written request with the city
+          - Offenders may be removed from the meeting.
+          - Any person desiring to address the Commission shall file a written request with the city
              clerk prior to consideration of the matter by the Commission or prior to the public
              comment portion of a meeting. The person wishing to speak shall complete a comment
              card for each agenda item the person wishes to address, which shall include the
              person's full name, address, and the numbered agenda item. The person will not be
              recognized if the comment card is not completed.
 
-                                                                                                        Page 1 of 30
 
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
+<a id="item-5"></a>
+## 5. ADDITIONS / DELETIONS / REORGANIZATION OF AGENDA
 
-5.   ADDITIONS / DELETIONS / REORGANIZATION OF AGENDA
 
-6.   PROCLAMATION
-     6.1.   Proclaiming September 14–18, 2026, as Florida Redevelopment Week.
+<a id="item-6"></a>
+## 6. PROCLAMATION
+
+<a id="item-6-1"></a>
+### 6.1. Proclaiming September 14–18, 2026, as Florida Redevelopment Week.
+
             Proclamation to be accepted by CRA Executive Director Christopher Roog
             and CRA staff members Dr. Alisha Winn, Ansley Farrell, Ayra Gonzalez,
             Brad Nella, Carlos Rodriguez, Genia Baker, Kelsey King, Kerry Osler, Marc
@@ -87,18 +95,26 @@ September 14, 2026
             Mayor's Office
 
 
-7.   PRESENTATIONS
-     7.1.   Introductory Presentation of School Board Member Virginia Savietto,
+<a id="item-7"></a>
+## 7. PRESENTATIONS
+
+<a id="item-7-1"></a>
+### 7.1. Introductory Presentation of School Board Member Virginia Savietto,
+
             District 2.
             Originating Department:
             Mayor's Office
 
-     7.2.   State of Education verbal update by Edwin Ferguson, Palm Beach County
+<a id="item-7-2"></a>
+### 7.2. State of Education verbal update by Edwin Ferguson, Palm Beach County
+
             School Board Member, District 7.
             Originating Department:
             Mayor's Office
 
-     7.3.   Check presentation to the City of West Palm Beach by the Florida Inland
+<a id="item-7-3"></a>
+### 7.3. Check presentation to the City of West Palm Beach by the Florida Inland
+
             Navigation District (FIND). Check presented by FIND Commissioner Austin
             Burkett for the recently completed Brian Chappell Park Pier Replacement
             project.
@@ -106,16 +122,12 @@ September 14, 2026
             Parks and Recreation
 
 
+<a id="item-8"></a>
+## 8. RECEIVED / FILED
 
+<a id="item-8-1"></a>
+### 8.1. Submittal of the following two (2) reports from the Internal Auditor's Office:
 
-                                                                                        Page 2 of 30
-
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
-
-8.   RECEIVED / FILED
-     8.1.   Submittal of the following two (2) reports from the Internal Auditor's Office:
 
             1. Accounts Receivable Post Audit Report (PAR26-03); and
             2. Commercial Refuse Post Audit Report (PAR26-04).
@@ -134,10 +146,15 @@ September 14, 2026
             No fiscal impact.
 
 
-9.   CONSENT CALENDAR
+<a id="item-9"></a>
+## 9. CONSENT CALENDAR
+
      All items listed under the consent calendar are considered routine and will be enacted by one
      motion. There will be no separate discussion of these items.
-     9.1.   Submittal of the Fiscal Year 2027 Annual Audit Plan from the Internal
+
+<a id="item-9-1"></a>
+### 9.1. Submittal of the Fiscal Year 2027 Annual Audit Plan from the Internal
+
             Auditor's Office.
             Originating Department:
             Internal Audit
@@ -156,13 +173,9 @@ September 14, 2026
             No fiscal impact.
 
 
-                                                                                             Page 3 of 30
+<a id="item-9-2"></a>
+### 9.2. Resolution No. 165-26 finding that a police dog known as K9 Spro is no
 
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
-
-     9.2.   Resolution No. 165-26 finding that a police dog known as K9 Spro is no
             longer needed for City of West Palm Beach police purposes and approving
             and authorizing the Mayor to Sign an Interlocal Agreement between the
             City of West Palm Beach and the Hendry County Sheriff's Office for the
@@ -200,15 +213,9 @@ September 14, 2026
             the Henry County Sheriff's Office for the donation of K9 Spro.
 
 
+<a id="item-9-3"></a>
+### 9.3. Resolution No. 185-26 approving an Interlocal Agreement between the City
 
-
-                                                                                         Page 4 of 30
-
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
-
-     9.3.   Resolution No. 185-26 approving an Interlocal Agreement between the City
             of West Palm Beach and Palm Beach County for participation in the 2026-
             2029 Drowning Prevention Coalition's Learn to Swim Voucher Program to
             be offered at the Warren Hawkins Aquatic Center in Gaines Park.
@@ -251,15 +258,9 @@ September 14, 2026
             No fiscal impact.
 
 
+<a id="item-9-4"></a>
+### 9.4. Resolution No. 194-26(F) accepting and appropriating funds in the amount
 
-
-                                                                                        Page 5 of 30
-
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
-
-     9.4.   Resolution No. 194-26(F) accepting and appropriating funds in the amount
             of $4,250 from Prime Time of Palm Beach County, funded by the Children
             Services Council, in recognition of the after-school programs at Gaines
             Park, Pleasant City, and South Olive Park, completing the Quality
@@ -303,14 +304,6 @@ September 14, 2026
             special youth and/or family events, and other program expenditures.
 
 
-
-
-                                                                                             Page 6 of 30
-
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
-
             Gaines Park Community Center, South Olive Community Center, and
             Pleasant City Community Center have each been recognized for going
             above and beyond in their QIS work. Pleasant City K-5th grade was
@@ -330,7 +323,9 @@ September 14, 2026
             professional development, field trips, special youth and/or family events,
             and other program expenditures.
 
-     9.5.   Resolution No. 195-26 updating the Comprehensive Fee Schedule for the
+<a id="item-9-5"></a>
+### 9.5. Resolution No. 195-26 updating the Comprehensive Fee Schedule for the
+
             City of West Palm Beach for Fiscal Year 2026/2027.
             Originating Department:
             Finance
@@ -347,14 +342,6 @@ September 14, 2026
             comprehensive fee schedule is to provide efficiency, transparency,
             consistency, and revenue assurance/enhancement.
 
-
-
-
-                                                                                         Page 7 of 30
-
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
 
            Annually, the City undertakes a process of working with Department
            Directors and Division Managers to review current fees and any suggested
@@ -400,15 +387,9 @@ September 14, 2026
            The estimated revenue impact is reflected in the proposed FY2027 Budget.
 
 
+<a id="item-9-6"></a>
+### 9.6. Resolution No. 198-26 approving submittal of an application to the Florida
 
-
-                                                                                          Page 8 of 30
-
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
-
-     9.6.   Resolution No. 198-26 approving submittal of an application to the Florida
             Department of State, Division of Library and Information Services for the
             State Aid to Libraries Grant to assist the Mandel Public Library of West
             Palm Beach in maintaining and developing vital services during FY 2026-
@@ -453,13 +434,6 @@ September 14, 2026
                   annual budget.
 
 
-
-                                                                                          Page 9 of 30
-
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
-
             Funding from the State will supplement the Mandel Public Library's
             operating costs for goods and services as defined by the Uniform
             Accounting System Manual for Local Governments, 2023 edition, prepared
@@ -471,7 +445,9 @@ September 14, 2026
             Fiscal Note:
             No fiscal impact at this time.
 
-     9.7.   Resolution No. 200-26 accepting an Urban and Community Forestry –
+<a id="item-9-7"></a>
+### 9.7. Resolution No. 200-26 accepting an Urban and Community Forestry –
+
             Inflation Reduction Act grant from the Florida Department of Agriculture
             and Consumer Services in the amount of $17,785 to be used to fund urban
             forest maintenance focused on the structural pruning of young, public trees
@@ -495,14 +471,6 @@ September 14, 2026
             FOCUSED ON THE STRUCTURAL PRUNING OF YOUNG, PUBLIC
             TREES LOCATED WITHIN CITY LIMITS.
 
-
-
-
-                                                                                          Page 10 of 30
-
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
 
            RESOLUTION NO. 224-26(F): A RESOLUTION OF THE CITY
            COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA,
@@ -534,44 +502,39 @@ September 14, 2026
 
            Key measures and outcomes include:
 
-                  Pruning of 373 young trees to reduce risk, enhance longevity, and
+               - Pruning of 373 young trees to reduce risk, enhance longevity, and
                    improve tree canopy maintenance. This will include a wide variety
                    of native trees at Clear Lake, Lincoln Park, Dreher Park, and Bill
                    Moss Park:
 
-                      57 Live Oak
-                      20 East Palatka Holly
-                      29 Wild Tamarind
-                      38 Mahogany
-                      44 Gumbo Limbo
-                      28 Green Buttonwood
-                      9 Pigeon Plum
-                      38 Paradise Tree
-                      6 Bald Cypress
-                      1 Red Maple
-                      12 Royal Palm
-                                                                                             Page 11 of 30
+                   - 57 Live Oak
+                   - 20 East Palatka Holly
+                   - 29 Wild Tamarind
+                   - 38 Mahogany
+                   - 44 Gumbo Limbo
+                   - 28 Green Buttonwood
+                   - 9 Pigeon Plum
+                   - 38 Paradise Tree
+                   - 6 Bald Cypress
+                   - 1 Red Maple
+                   - 12 Royal Palm
 
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
+                    - 3 Satinleaf
+                    - 41 Slash Pine
+                    - 31 Wild Mastic
+                    - 11 Bahama Strong Bark
+                    - 1 Crabwood
+                    - 4 Willow-Bustic
 
-                       3 Satinleaf
-                       41 Slash Pine
-                       31 Wild Mastic
-                       11 Bahama Strong Bark
-                       1 Crabwood
-                       4 Willow-Bustic
-
-                  Preserved canopy cover verified with the TreePlotter software tool,
+               - Preserved canopy cover verified with the TreePlotter software tool,
                    or an acceptable alternative, including baseline and post-project
                    assessments of canopy cover, tree condition, and risk level.
 
-                  At least 95% of maintained trees will show stable or improved
+               - At least 95% of maintained trees will show stable or improved
                    condition ratings within six (6) months post-maintenance, as verified
                    by certified arborists.
 
-                  Positive outcomes include:
+               - Positive outcomes include:
                    o Preserved and improved tree canopy cover for public parks and
                      neighborhoods.
 
@@ -590,15 +553,9 @@ September 14, 2026
            Agriculture and Consumer Services.
 
 
+<a id="item-9-8"></a>
+### 9.8. Resolution No. 209-26 relating to the ratification of a successor collective
 
-
-                                                                                           Page 12 of 30
-
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
-
-     9.8.   Resolution No. 209-26 relating to the ratification of a successor collective
             bargaining agreement between the City of West Palm Beach and the
             Professional Managers and Supervisors Association Certified Unit No.
             1073 (PMSA), for the period of October 1, 2026, through September 30,
@@ -635,18 +592,10 @@ September 14, 2026
                    with pay increases across the three (3) fiscal years the agreement
                    covers as follows:
 
-                      5% COLA in FY2027
-                      3% COLA in FY2028; and
-                      3% COLA in FY2029
+                   - 5% COLA in FY2027
+                   - 3% COLA in FY2028; and
+                   - 3% COLA in FY2029
 
-
-
-
-                                                                                           Page 13 of 30
-
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
 
                 The FY27 COLA will take effect on the first full pay period on or after
                 October 1, 2026. Employees who have not passed their new hire
@@ -656,7 +605,9 @@ September 14, 2026
             Costs associated with providing the FY2027 5% COLA are accounted for
             in the FY2027 tentative general fund balanced budget.
 
-     9.9.   Resolution No. 218-26(F) authorizing the amendment of current Fiscal
+<a id="item-9-9"></a>
+### 9.9. Resolution No. 218-26(F) authorizing the amendment of current Fiscal
+
             Year 2025-2026 American Rescue Plan Act Capital Grant Fund and
             Capital Acquisition Fund to record and transfer transactions within
             approved eligible grant projects.
@@ -688,14 +639,6 @@ September 14, 2026
             funds to other eligible uses. This flexibility helps recipients respond to
             unforeseen circumstances and efficiently reallocate resources.
 
-
-
-
-                                                                                          Page 14 of 30
-
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
 
            As of December 31, 2024, the City obligated $9,170,175.32 to purchase
            vehicles, the deadline imposed by Treasury to obligate and encumber
@@ -742,16 +685,12 @@ September 14, 2026
            No direct fiscal impact; aligns the budget with accounting procedures.
 
 
+<a id="item-10"></a>
+## 10. RESOLUTIONS
 
+<a id="item-10-1"></a>
+### 10.1. Resolution No. 203-26 approves the proposed public sculpture
 
-                                                                                          Page 15 of 30
-
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
-
-10.   RESOLUTIONS
-      10.1. Resolution No. 203-26 approves the proposed public sculpture
             "Crossroads" by Kai for The District, commissioned by Immocorp Ventures,
             LLC, to satisfy their public art requirement. Resolution No. 50-24 approved
             the art concept “Uplift” to be sited at Broadway and 24th Street for The
@@ -788,15 +727,6 @@ September 14, 2026
              integrated into one of the buildings. Architectural Technical challenges
              required the artist and Developer to revisit the original proposed concept.
              A new site on the development warranted a new site-specific artwork.
-
-
-
-
-                                                                                             Page 16 of 30
-
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
 
 
             ABOUT THE ARTIST
@@ -837,15 +767,6 @@ September 14, 2026
             becoming an unexpected interactive welcome to The District.
 
 
-
-
-                                                                                             Page 17 of 30
-
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
-
-
             TECHNICAL SPECS
 
             Height: 120" Width: 178" Depth: 178" Hand Left / Right: Height: 32.8"
@@ -860,7 +781,9 @@ September 14, 2026
             Fiscal Note:
             No fiscal impact.
 
-     10.2. Resolution No. 204-26 approving the proposed sculpture "The Bellini Tree"
+<a id="item-10-2"></a>
+### 10.2. Resolution No. 204-26 approving the proposed sculpture "The Bellini Tree"
+
            by The Haas Brothers for Mr. C's Residences, commissioned by Lakeview
            Hospitality Investments, LLC, to satisfy their public art requirement. The
            performance bond is $1,200,000.
@@ -881,16 +804,6 @@ September 14, 2026
             This motion is based on the findings that the proposed artworks meet the
             criteria set forth in Section 43-12 of the City Code, as reviewed by the Art
             in Public Places Advisory Committee.
-
-
-
-
-                                                                                           Page 18 of 30
-
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
-
 
 
             Background Information:
@@ -932,16 +845,6 @@ September 14, 2026
             Cooper Hewitt, Smithsonian Design Museum, New York, NY; and the
             Metropolitan Museum of Art, New York, NY. The Haas Brothers live and
             work in Los Angeles, CA.
-
-
-
-
-                                                                                           Page 19 of 30
-
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
-
 
 
             ABOUT THE ARTWORK
@@ -989,18 +892,11 @@ September 14, 2026
             a world where trees can become fantastical, luminous, and alive with their
             own mythology.
 
-                                                                                                 Page 20 of 30
-
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
-
-
 
              TECHINICAL SPECS
 
-                   20’ H of Tree
-                   Base: 7’ x 6’ 4” x 6’ 2” est. weight of 8,000 to 9,000 lbs.
+                - 20’ H of Tree
+                - Base: 7’ x 6’ 4” x 6’ 2” est. weight of 8,000 to 9,000 lbs.
 
              Resolution No. 204-26 approves the proposed public sculpture "The Bellini
              Tree" by The Haas Brothers for Mr. C's Residencies commissioned by
@@ -1013,8 +909,12 @@ September 14, 2026
              No fiscal impact.
 
 
-11.   PUBLIC HEARING
-      11.1. Public Hearing and First Reading of Ordinance No. 5182-26 adopting the
+<a id="item-11"></a>
+## 11. PUBLIC HEARING
+
+<a id="item-11-1"></a>
+### 11.1. Public Hearing and First Reading of Ordinance No. 5182-26 adopting the
+
             2050 City of West Palm Beach Mobility Plan; amending the City of West
             Palm Beach Code of Ordinances, at Chapter 86, Traffic and Parking,
             Article VII, Mobility Fee, Sections 86-500 (Mobility Fees), 86-501
@@ -1040,12 +940,6 @@ September 14, 2026
              (APPEALS), AND 86-516 (VESTED RIGHTS); PROVIDING FOR
              CODIFICATION, CONFLICTS, SEVERABILITY AND FOR AN
              EFFECTIVE DATE; AND FOR OTHER PURPOSES.
-
-                                                                                           Page 21 of 30
-
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
 
 
             Staff Recommended Motion:
@@ -1087,15 +981,6 @@ September 14, 2026
             Statutes.
 
 
-
-
-                                                                                            Page 22 of 30
-
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
-
-
             The proposed Mobility Fee system establishes four (4) Mobility Fee
             Assessment Areas and corresponding Benefit Districts: Downtown, North,
             South, and West. Mobility fees assessed on new development will be
@@ -1127,16 +1012,9 @@ September 14, 2026
             improvements specifically identified in the mobility plan.
 
 
+<a id="item-11-2"></a>
+### 11.2. Public Hearing and First Reading of Ordinance No. 5184-26 amending the
 
-
-                                                                                         Page 23 of 30
-
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
-
-
-     11.2. Public Hearing and First Reading of Ordinance No. 5184-26 amending the
            Code of Ordinances at Chapter 74 - Solid Waste, Article V - Commercial
            Collection Franchise, to clarify provisions regarding the granting of
            franchises for the collection of solid waste within the City and calculation
@@ -1175,14 +1053,6 @@ September 14, 2026
             ordinance to calculate fees due to the City.
 
 
-
-
-                                                                                          Page 24 of 30
-
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
-
             Ordinance No. 5184-26will define a limit to the number of franchises issued
             by the City to ten (10) at any one time and will clarify language in multiple
             sections of Article V to ensure consistency in fee calculations across all
@@ -1192,10 +1062,15 @@ September 14, 2026
             No fiscal impact.
 
 
-12.   PUBLIC HEARING - QUASI-JUDICIAL
+<a id="item-12"></a>
+## 12. PUBLIC HEARING - QUASI-JUDICIAL
+
       Disclosure of ex-parte communications, if any*
       Swearing-in of witnesses.
-      12.1. Public Hearing and Second Reading of Ordinance No. 5181-26 regarding
+
+<a id="item-12-1"></a>
+### 12.1. Public Hearing and Second Reading of Ordinance No. 5181-26 regarding
+
             the "Barnett Centre" Downtown Planned Development to transfer the site
             development plans, the development regulations, and all future major
             amendments to Resolution No. 187-26; and
@@ -1211,14 +1086,6 @@ September 14, 2026
             Originating Department:
             Development Services
 
-
-
-
-                                                                                            Page 25 of 30
-
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
 
             Ordinance/Resolution:
             ORDINANCE NO. 5181-26: AN ORDINANCE OF THE CITY
@@ -1257,14 +1124,6 @@ September 14, 2026
             of the City of West Palm Beach Zoning and Land Development Regulations
             has been met.
 
-
-
-
-                                                                                             Page 26 of 30
-
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
 
             Background Information:
 
@@ -1307,16 +1166,12 @@ September 14, 2026
             Fox.
 
 
+<a id="item-13"></a>
+## 13. APPEALS
 
+<a id="item-13-1"></a>
+### 13.1. A request by John Roach of Gunster Law on behalf of Bryan Eure for an
 
-                                                                                           Page 27 of 30
-
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
-
-13.   APPEALS
-      13.1. A request by John Roach of Gunster Law on behalf of Bryan Eure for an
             appeal of the Historic Preservation Board's imposed conditions in Case #
             25-89, for the approval of a certificate of appropriateness for exterior
             alterations and the construction of a new second-story addition at 212 Dyer
@@ -1357,14 +1212,6 @@ September 14, 2026
              heard at the Historic Preservation Board meeting.
 
 
-
-
-                                                                                               Page 28 of 30
-
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
-
             At the Historic Preservation Board meeting, Planning staff presented the
             application and recommended approval with conditions. The Historic
             Preservation Board expressed concerns about the central bay window.
@@ -1402,7 +1249,9 @@ September 14, 2026
             Commission District 5: Commissioner Stephen Sylvester.
 
 
-14.   COMMENTS FROM THE PUBLIC
+<a id="item-14"></a>
+## 14. COMMENTS FROM THE PUBLIC
+
 
       Public comments are limited to three (3) minutes. Anyone wishing to address the Commission
       should complete a "Comments by the Public" card and present it to the City Clerk prior to the
@@ -1412,15 +1261,13 @@ September 14, 2026
       record and may be addressed at a later date.
 
 
-                                                                                         Page 29 of 30
+<a id="item-15"></a>
+## 15. COMMENTS BY THE MAYOR AND CITY COMMISSIONERS
 
-City of West Palm Beach
-City Commission Agenda
-September 14, 2026
 
- 15.   COMMENTS BY THE MAYOR AND CITY COMMISSIONERS
+<a id="item-16"></a>
+## 16. ADJOURNMENT
 
- 16. ADJOURNMENT
 *Pursuant to Resolution No. 179-95, adopted according to the provisions of Section 286.0115, Florida
 Statutes, members of the Commission shall disclose on the record: 1) ex-parte communications - verbal
 or written; 2.) written communications shall be placed in the record; and 3) site visits, investigations,
@@ -1430,8 +1277,3 @@ NOTICE: If any person decides to appeal any decision made by the City Commission
 that person will need a record of the proceedings, and that, for such purposes, may need to ensure that
 a verbatim records of the proceedings be made, which record includes the testimony and evidence
 upon which the appeal is based. The City of West Palm Beach does not prepare or provide such record.
-
-
-
-
-                                                                                             Page 30 of 30

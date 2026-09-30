@@ -6,17 +6,16 @@ meeting: Special City Commission — Final Budget & Millage
 kind: special
 official_pdf: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/09-sep-2026-final-cca/09_23_26-special-commission-agenda_budget-millage-final.pdf
 retrieved: 2026-09-30
-extractor: pdftotext -layout
+extractor: pdftotext -layout + civic-pdf-cleanup
 notes: >
-  Plain-text extract of the official PDF for search and wiki linking.
-  Binary PDF is not stored in this repo — always link the wpb.org URL above.
+  Plain-text extract of the official PDF. Binary PDF not stored in this repo.
 ---
 
 # Special City Commission — Final Budget & Millage — 2026-09-23
 
 **Official PDF (wpb.org):** [09_23_26-special-commission-agenda_budget-millage-final.pdf](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/09-sep-2026-final-cca/09_23_26-special-commission-agenda_budget-millage-final.pdf)
 
-Text extract begins below. Do not treat this file as an official record; the PDF is authoritative.
+Text extract below is for search and deep-linking. The official PDF is authoritative.
 
 ---
 
@@ -43,21 +42,25 @@ In accordance with the provisions of the Americans with Disabilities Act (ADA), 
 accommodation to participate in this proceeding shall, within three days prior to any proceeding, contact the City
 Clerk's Office, 401 Clematis Street, West Palm Beach, FL 33401, (561) 822-1210.
 
- 1.    CALL TO ORDER
+<a id="item-1"></a>
+## 1. CALL TO ORDER
 
- 2.    CIVILITY AND DECORUM
+
+<a id="item-2"></a>
+## 2. CIVILITY AND DECORUM
+
        The City of West Palm Beach is committed to civility and decorum by its officials, employees
        and members of the public who attend this meeting. The City Code, Secs. 2-31(8), 2-31(18)
        and 2-31(22), provides in pertinent part:
-           Officials shall be recognized by the Chair and shall not interrupt a speaker.
-           Public comment shall be addressed to the City Commission as a whole and not to any
+          - Officials shall be recognized by the Chair and shall not interrupt a speaker.
+          - Public comment shall be addressed to the City Commission as a whole and not to any
              individual on the dais or in the audience.
-           Displays of anger, rudeness, ridicule, impatience, lack of respect and personal attacks
+          - Displays of anger, rudeness, ridicule, impatience, lack of respect and personal attacks
              are strictly prohibited.
-           Unauthorized remarks from the audience, stamping of feet, whistles, yells and similar
+          - Unauthorized remarks from the audience, stamping of feet, whistles, yells and similar
              demonstrations shall not be permitted.
-           Offenders may be removed from the meeting.
-           Any person desiring to address the Commission shall file a written request with the city
+          - Offenders may be removed from the meeting.
+          - Any person desiring to address the Commission shall file a written request with the city
              clerk prior to consideration of the matter by the Commission or prior to the public
              comment portion of a meeting. The person wishing to speak shall complete a comment
              card for each agenda item the person wishes to address, which shall include the
@@ -65,17 +68,12 @@ Clerk's Office, 401 Clematis Street, West Palm Beach, FL 33401, (561) 822-1210.
              recognized if the comment card is not completed.
 
 
+<a id="item-3"></a>
+## 3. PUBLIC HEARING
 
+<a id="item-3-1"></a>
+### 3.1. Public Hearing of Resolution No. 229-26(F) adopting the final FY
 
-                                                                                                         Page 1 of 4
-
-City of West Palm Beach
-Special City Commission Agenda
-Public Hearing To Final Tentative Budget & Millage Rate
-September 23, 2026
-
-3.    PUBLIC HEARING
-      3.1.   Public Hearing of Resolution No. 229-26(F) adopting the final FY
              2026/2027 operating and debt service millage rates; and
 
              Resolution No. 230-26(F) adopting the final FY 2026/2027 operating
@@ -105,15 +103,6 @@ September 23, 2026
              CLAUSE; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER
              PURPOSES.
 
-
-
-
-                                                                                  Page 2 of 4
-
-City of West Palm Beach
-Special City Commission Agenda
-Public Hearing To Final Tentative Budget & Millage Rate
-September 23, 2026
 
             Staff Recommended Motion:
             Resolution No. 229-26(F) setting the final millage rate must be
@@ -156,15 +145,6 @@ September 23, 2026
             of 7.6915.
 
 
-
-
-                                                                                            Page 3 of 4
-
-City of West Palm Beach
-Special City Commission Agenda
-Public Hearing To Final Tentative Budget & Millage Rate
-September 23, 2026
-
              Resolution No. 230-26(F) adopts the final estimates of revenue and
              expenses for the fiscal year commencing on October 1, 2026, and ending
              on September 30, 2027, as its annual budget, appropriating the use of
@@ -182,7 +162,9 @@ September 23, 2026
              Expenditures.
 
 
- 4.   COMMENTS FROM THE PUBLIC
+<a id="item-4"></a>
+## 4. COMMENTS FROM THE PUBLIC
+
 
       Public comments are limited to 3 (three) minutes. Anyone wishing to address the Commission
       should complete a "Comments by the Public" card and present it to the City Clerk prior to the
@@ -191,7 +173,9 @@ September 23, 2026
       the matter nor respond to the comment this evening. Comments made will become part of the
       record and may be addressed at a later date.
 
- 5.    ADJOURNMENT
+<a id="item-5"></a>
+## 5. ADJOURNMENT
+
 *Pursuant to Resolution No. 179-95, adopted according to the provisions of Section 286.0115, Florida
 Statutes, members of the Commission shall disclose on the record: 1) ex-parte communications -
 verbal or written; 2.) written communications shall be placed in the record; and 3) site visits,
@@ -202,8 +186,3 @@ that person will need a record of the proceedings, and that, for such purposes, 
 that a verbatim records of the proceedings be made, which record includes the testimony and
 evidence upon which the appeal is based. The City of West Palm Beach does not prepare or provide
 such record.
-
-
-
-
-                                                                                           Page 4 of 4

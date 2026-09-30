@@ -13,10 +13,10 @@ Outcomes below are from the official **pass/fail** sheet (not minutes). Agenda t
 
 ## Outcomes (pass/fail)
 
-- **Consent:** all items approved (incl. Res. 167-26(F) AIPP appropriation $725,000; Res. 170-26 utility liens).
-- **Res. 186-26:** approved — First Amendment to Convention Center–West Palm Beach Agreement (City / CRA / CityPlace Hotel LLC / Palm Beach County / CityPlace South Tower II, LLC).
-- **Ord. 5148-25 (2nd reading):** approved — non-exclusive **30-year natural-gas franchise** to Florida Public Utilities (FPU); franchise fee **6%** of gross revenue from natural-gas sales in the City (per agenda/pass-fail text).
-- **Quasi-judicial:** Ord. 5179-26 (CityPlace CPD / Convention Center District & Hotel II) **approved on first reading**; companion Res. 156-26 / 157-26 discussed.
+- **Consent:** all items approved (incl. [Res. 167-26(F)](./agenda.md#item-7-1) AIPP appropriation $725,000; [Res. 170-26](./agenda.md#item-7-2) utility liens).
+- **[Res. 186-26](./agenda.md#item-8-1):** approved — First Amendment to Convention Center–West Palm Beach Agreement (City / CRA / CityPlace Hotel LLC / Palm Beach County / CityPlace South Tower II, LLC).
+- **[Ord. 5148-25](./agenda.md#item-9-1) (2nd reading):** approved — non-exclusive **30-year natural-gas franchise** to Florida Public Utilities (FPU); franchise fee **6%** of gross revenue from natural-gas sales in the City (per agenda/pass-fail text).
+- **Quasi-judicial:** [Ord. 5179-26](./agenda.md#item-10-1) (CityPlace CPD / Convention Center District & Hotel II) **approved on first reading**; companion Res. 156-26 / 157-26 discussed.
 
 ## Sources
 

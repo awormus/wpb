@@ -18,9 +18,9 @@ Outcomes from the official **pass/fail** sheet.
 - **Public hearing — all approved:**
   - **Res. 169-26:** Fire Service Special Assessment rates for FY beginning Oct 1, 2026 — **no rate increase** (per pass-fail recommended action).
   - **Res. 171-26:** Chronic Nuisance Assessment roll FY2026/2027.
-  - **Ord. 5171-26 (1st reading):** Public right-of-way (Chapter 78 Art. XV) amendments.
-  - **Ord. 5180-26 (1st reading):** citywide **sign regulations** text amendment (Chapter 94).
-- **Quasi-judicial:** Ord. 5179-26 / Res. 156-26 / 157-26 (**CityPlace**) **continued to August 31, 2026**.
+  - **[Ord. 5171-26](./agenda.md#item-9-3) (1st reading):** Public right-of-way (Chapter 78 Art. XV) amendments.
+  - **[Ord. 5180-26](./agenda.md#item-9-4) (1st reading):** citywide **sign regulations** text amendment (Chapter 94).
+- **Quasi-judicial:** [Ord. 5179-26](./agenda.md#item-10-1) / Res. 156-26 / 157-26 (**CityPlace**) **continued to August 31, 2026**.
 
 ## Sources
 

@@ -2,9 +2,10 @@
 date: 2026-08-03
 doc_type: pass-fail
 title: Pass/Fail — City Commission Agenda
+meeting: Regular City Commission Meeting
 official_pdf: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-pass-fail-agendas-pfa/2026-08-aug-pfa/pf-08_03_26-city-commission-agenda.pdf
 retrieved: 2026-09-30
-extractor: pdftotext -layout
+extractor: pdftotext -layout + civic-pdf-cleanup
 notes: >
   Plain-text extract of the official PDF. Binary PDF not stored in this repo.
 ---
@@ -12,6 +13,8 @@ notes: >
 # Pass/Fail — City Commission Agenda — 2026-08-03
 
 **Official PDF (wpb.org):** [pf-08_03_26-city-commission-agenda.pdf](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-pass-fail-agendas-pfa/2026-08-aug-pfa/pf-08_03_26-city-commission-agenda.pdf)
+
+Text extract below is for search and deep-linking. The official PDF is authoritative.
 
 ---
 
@@ -38,50 +41,64 @@ In accordance with the provisions of the Americans with Disabilities Act (ADA), 
 accommodation to participate in this proceeding shall, within three days prior to any proceeding, contact the City
 Clerk's Office, 401 Clematis Street, West Palm Beach, FL 33401, (561) 822-1210.
 
- 1.    CALL TO ORDER- 5:00 PM
+<a id="item-1"></a>
+## 1. CALL TO ORDER- 5:00 PM
 
- 2.    MOMENT OF SILENCE
 
- 3.    PLEDGE OF ALLEGIANCE
+<a id="item-2"></a>
+## 2. MOMENT OF SILENCE
 
- 4.    CIVILITY AND DECORUM
+
+<a id="item-3"></a>
+## 3. PLEDGE OF ALLEGIANCE
+
+
+<a id="item-4"></a>
+## 4. CIVILITY AND DECORUM
+
        The City of West Palm Beach is committed to civility and decorum by its officials, employees
        and members of the public who attend this meeting. The City Code, Secs. 2-31(8), 2-31(18)
        and 2-31(22), provides in pertinent part:
-           Officials shall be recognized by the Chair and shall not interrupt a speaker.
-           Public comment shall be addressed to the City Commission as a whole and not to any
+          - Officials shall be recognized by the Chair and shall not interrupt a speaker.
+          - Public comment shall be addressed to the City Commission as a whole and not to any
              individual on the dais or in the audience.
-           Displays of anger, rudeness, ridicule, impatience, lack of respect and personal attacks
+          - Displays of anger, rudeness, ridicule, impatience, lack of respect and personal attacks
              are strictly prohibited.
-           Unauthorized remarks from the audience, stamping of feet, whistles, yells and similar
+          - Unauthorized remarks from the audience, stamping of feet, whistles, yells and similar
              demonstrations shall not be permitted.
-           Offenders may be removed from the meeting.
-           Any person desiring to address the Commission shall file a written request with the city
+          - Offenders may be removed from the meeting.
+          - Any person desiring to address the Commission shall file a written request with the city
              clerk prior to consideration of the matter by the Commission or prior to the public
              comment portion of a meeting. The person wishing to speak shall complete a comment
              card for each agenda item the person wishes to address, which shall include the
              person's full name, address, and the numbered agenda item. The person will not be
              recognized if the comment card is not completed.
 
-                                                                                                        Page 1 of 12
 
-City of West Palm Beach
-City Commission Agenda
-August 3, 2026
+<a id="item-5"></a>
+## 5. ADDITIONS / DELETIONS / REORGANIZATION OF AGENDA
 
-5.   ADDITIONS / DELETIONS / REORGANIZATION OF AGENDA
 
-6.   PRESENTATION- PRESENTED
-     6.1.   Florida Constitution proposed amendments presentation by State
+<a id="item-6"></a>
+## 6. PRESENTATION- PRESENTED
+
+<a id="item-6-1"></a>
+### 6.1. Florida Constitution proposed amendments presentation by State
+
             Representative Emily Gregory.
             Originating Department:
             Mayor's Office
 
 
-7.   CONSENT CALENDAR- ALL ITEMS WERE APPROVED
+<a id="item-7"></a>
+## 7. CONSENT CALENDAR- ALL ITEMS WERE APPROVED
+
      All items listed under the consent calendar are considered routine and will be enacted by one
      motion. There will be no separate discussion of these items.
-     7.1.   Resolution No. 167-26(F) appropriating $725,000 from the Art in Public
+
+<a id="item-7-1"></a>
+### 7.1. Resolution No. 167-26(F) appropriating $725,000 from the Art in Public
+
             Places Capital Reserves balance to commission artist Davina Semo to
             create a site-specific permanent public artwork for Currie Park.
             Originating Department:
@@ -112,18 +129,15 @@ August 3, 2026
             Fund Balance to implement the public art project.
 
             Commission District 1: Commissioner Cathleen Ward.
-                                                                                               Page 2 of 12
-
-City of West Palm Beach
-City Commission Agenda
-August 3, 2026
 
             Fiscal Note:
             Approval will utilize Reserves to provide appropriations for public art
             commission by professional artist Davina Semo to design and install a
             permanent public artwork for Currie Park.
 
-     7.2.   Resolution No. 170-26 authorizing the assessment of City liens in the total
+<a id="item-7-2"></a>
+### 7.2. Resolution No. 170-26 authorizing the assessment of City liens in the total
+
             amount of $12,818.11 for unpaid water service, sewer service, and
             stormwater charges for the month of April 2026.
             Originating Department:
@@ -155,16 +169,12 @@ August 3, 2026
             No fiscal impact.
 
 
+<a id="item-8"></a>
+## 8. RESOLUTIONS- APPROVED
 
+<a id="item-8-1"></a>
+### 8.1. Resolution No. 186-26 approving First Amendment to Convention Center -
 
-                                                                                          Page 3 of 12
-
-City of West Palm Beach
-City Commission Agenda
-August 3, 2026
-
-8.   RESOLUTIONS- APPROVED
-     8.1.   Resolution No. 186-26 approving First Amendment to Convention Center -
             West Palm Beach Agreement between the City of West Palm Beach, West
             Palm Beach Community Redevelopment Agency, CityPlace Hotel LLC,
             Palm Beach County, and CityPlace South Tower II, LLC.
@@ -205,14 +215,6 @@ August 3, 2026
             change the Hotel PILOT payment formula, payment schedule, or hotel
             valuation methodology.
 
-
-
-
-                                                                                             Page 4 of 12
-
-City of West Palm Beach
-City Commission Agenda
-August 3, 2026
 
            Now, the proposed amendment makes two substantive changes, both
            involving the Garage Land.
@@ -259,14 +261,6 @@ August 3, 2026
                   directly affected by these Garage Land provisions.
 
 
-
-
-                                                                                       Page 5 of 12
-
-City of West Palm Beach
-City Commission Agenda
-August 3, 2026
-
             The CRA companion item is Resolution No. 26-23.
 
             Commission District 3: Commissioner Christy Fox.
@@ -275,8 +269,12 @@ August 3, 2026
             Estimated loss of $38,631 in the Garage Land PILOT.
 
 
-9.   PUBLIC HEARING- APPROVED
-     9.1.   Public Hearing and Second Reading of Ordinance No. 5148-25 granting to
+<a id="item-9"></a>
+## 9. PUBLIC HEARING- APPROVED
+
+<a id="item-9-1"></a>
+### 9.1. Public Hearing and Second Reading of Ordinance No. 5148-25 granting to
+
             Florida Public Utilities Company a non-exclusive franchise for a period of
             thirty (30) years to sell, distribute, transport, and transmit natural,
             manufactured, or mixed gas in the City of West Palm Beach.
@@ -311,45 +309,38 @@ August 3, 2026
             agreement.
 
 
-
-                                                                                            Page 6 of 12
-
-City of West Palm Beach
-City Commission Agenda
-August 3, 2026
-
            Ordinance No. 5148-25 grants FPU a new 30-year franchise for distribution
            of natural gas within the City. This ordinance-agreement also corrects
            issues identified in City Internal Audit 20-03 by:
 
-                  Removing the provision allowing FPU to reduce franchise payments
+               - Removing the provision allowing FPU to reduce franchise payments
                    by the amount it pays in ad-valorem taxes. This change will result in
                    a greater amount of franchise fees paid by FPU to the City;
 
-                  Strengthening audit language related to obtaining and auditing FPU
+               - Strengthening audit language related to obtaining and auditing FPU
                    data submitted to the City and used to calculate franchise fee
                    payments; and
 
-                  Adding a penalty if FPU is found to be improperly paying the City.
+               - Adding a penalty if FPU is found to be improperly paying the City.
 
            Since First Reading, the following changes have been made:
 
-                  Section 1 definition of "Gross Revenue" was amended to clarify that
+               - Section 1 definition of "Gross Revenue" was amended to clarify that
                    taxes and uncollected fees are not considered "Gross Revenue".
 
-                  Section 8B - adds language to ensure the City has the right to obtain
+               - Section 8B - adds language to ensure the City has the right to obtain
                    up to 5 years of records for auditing purposes.
 
-                  Section 8D - permits City to collect a 15% penalty should FPU
+               - Section 8D - permits City to collect a 15% penalty should FPU
                    underpay a franchise fees.
 
-                  Section 14A - requires FPU to retain records for no less than five
+               - Section 14A - requires FPU to retain records for no less than five
                    years.
 
-                  Section 14B - requires FPU to identify the statutory authority for any
+               - Section 14B - requires FPU to identify the statutory authority for any
                    records not provided when identified as confidential or exempt .
 
-                  Section 19 - adds that adoption of Ordinance 5148-25 does not
+               - Section 19 - adds that adoption of Ordinance 5148-25 does not
                    waive any rights or obligations of the parties including payment of
                    any franchise fees due under the 1989 ordinance-agreement.
 
@@ -361,18 +352,15 @@ August 3, 2026
            Estimated revenue of $150,000 for FY2026.
 
 
+<a id="item-10"></a>
+## 10. PUBLIC HEARING - QUASI-JUDICIAL- APPROVED
 
-
-                                                                                            Page 7 of 12
-
-City of West Palm Beach
-City Commission Agenda
-August 3, 2026
-
-10.   PUBLIC HEARING - QUASI-JUDICIAL- APPROVED
       Disclosure of ex-parte communications, if any*
       Swearing-in of witnesses.
-      10.1. Public Hearing and First Reading of Ordinance No. 5179-26 regarding the
+
+<a id="item-10-1"></a>
+### 10.1. Public Hearing and First Reading of Ordinance No. 5179-26 regarding the
+
             CityPlace Commercial Planned Development to adopt development
             regulations for the Convention Center District and Hotel II Subarea, and to
             transfer those development regulations and all future major amendments
@@ -395,14 +383,6 @@ August 3, 2026
              Originating Department:
              Development Services
 
-
-
-
-                                                                                           Page 8 of 12
-
-City of West Palm Beach
-City Commission Agenda
-August 3, 2026
 
             Ordinance/Resolution:
             ORDINANCE NO. 5179-26: AN ORDINANCE OF THE CITY
@@ -447,14 +427,6 @@ August 3, 2026
             OTHER PURPOSES.
 
 
-
-
-                                                                         Page 9 of 12
-
-City of West Palm Beach
-City Commission Agenda
-August 3, 2026
-
             Staff Recommended Motion:
             Approve Ordinance No. 5179-26 regarding the CityPlace Commercial
             Planned Development to adopt development regulations for the
@@ -493,14 +465,6 @@ August 3, 2026
             must be amended individually to reflect any modifications.
 
 
-
-
-                                                                                           Page 10 of 12
-
-City of West Palm Beach
-City Commission Agenda
-August 3, 2026
-
             The subject major planned development amendment before the City
             presents an opportunity to formally establish the Convention Center District
             within the CityPlace CPD and formulates a comprehensive framework for
@@ -536,26 +500,18 @@ August 3, 2026
             Zoning and Land Development Regulations. The City Commission is
             authorized to grant waivers as part of the Level III Site Plan approval.
 
-                  Waiver #1: Hotel II Subarea Building Envelope
+               - Waiver #1: Hotel II Subarea Building Envelope
                    Requirement: Rosemary Avenue Active Use Liner for Levels 2
                    through 6 (72’) is 60% of Buildable Lot Frontage.
                    Applicant’s proposal/request: On Level 2, providing 44%
 
-                  Waiver #2: Hotel II Subarea Building Envelope
+               - Waiver #2: Hotel II Subarea Building Envelope
                    Requirement: L Street Active Use on Ground Level is 20% of
                    Buildable Lot Frontage.
                    Applicant’s proposal/request: Ground Level, providing 9.5%
 
 
-
-
-                                                                                               Page 11 of 12
-
-City of West Palm Beach
-City Commission Agenda
-August 3, 2026
-
-                    Waiver #3: Zoning and Land Development Regulations of Sec. 94-
+                 - Waiver #3: Zoning and Land Development Regulations of Sec. 94-
                      312. – Access to Streets
                      Requirement: Corner clearance distance for collector/non-
                      thoroughfare is a minimum of 50’ of clearance
@@ -569,7 +525,9 @@ August 3, 2026
              City Commission after a Public Hearing on June 16, 2026.
 
 
- 11.   COMMENTS FROM THE PUBLIC
+<a id="item-11"></a>
+## 11. COMMENTS FROM THE PUBLIC
+
 
        Public comments are limited to three (3) minutes. Anyone wishing to address the Commission
        should complete a "Comments by the Public" card and present it to the City Clerk prior to the
@@ -579,9 +537,13 @@ August 3, 2026
        record and may be addressed at a later date.
 
 
- 12.   COMMENTS BY THE MAYOR AND CITY COMMISSIONERS
+<a id="item-12"></a>
+## 12. COMMENTS BY THE MAYOR AND CITY COMMISSIONERS
 
- 13. ADJOURNMENT- 7:12 PM
+
+<a id="item-13"></a>
+## 13. ADJOURNMENT- 7:12 PM
+
 *Pursuant to Resolution No. 179-95, adopted according to the provisions of Section 286.0115, Florida
 Statutes, members of the Commission shall disclose on the record: 1) ex-parte communications - verbal
 or written; 2.) written communications shall be placed in the record; and 3) site visits, investigations,
@@ -591,8 +553,3 @@ NOTICE: If any person decides to appeal any decision made by the City Commission
 that person will need a record of the proceedings, and that, for such purposes, may need to ensure that
 a verbatim records of the proceedings be made, which record includes the testimony and evidence
 upon which the appeal is based. The City of West Palm Beach does not prepare or provide such record.
-
-
-
-
-                                                                                             Page 12 of 12

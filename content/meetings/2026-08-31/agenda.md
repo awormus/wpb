@@ -2,9 +2,10 @@
 date: 2026-08-31
 doc_type: agenda
 title: Final City Commission Agenda
+meeting: Regular City Commission Meeting
 official_pdf: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/08-aug-2026-final-cca/08_31_26_final-city-commission-agenda.pdf
 retrieved: 2026-09-30
-extractor: pdftotext -layout
+extractor: pdftotext -layout + civic-pdf-cleanup
 notes: >
   Plain-text extract of the official PDF. Binary PDF not stored in this repo.
 ---
@@ -12,6 +13,8 @@ notes: >
 # Final City Commission Agenda — 2026-08-31
 
 **Official PDF (wpb.org):** [08_31_26_final-city-commission-agenda.pdf](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/08-aug-2026-final-cca/08_31_26_final-city-commission-agenda.pdf)
+
+Text extract below is for search and deep-linking. The official PDF is authoritative.
 
 ---
 
@@ -38,41 +41,50 @@ In accordance with the provisions of the Americans with Disabilities Act (ADA), 
 accommodation to participate in this proceeding shall, within three days prior to any proceeding, contact the City
 Clerk's Office, 401 Clematis Street, West Palm Beach, FL 33401, (561) 822-1210.
 
- 1.    CALL TO ORDER
+<a id="item-1"></a>
+## 1. CALL TO ORDER
 
- 2.    MOMENT OF SILENCE
 
- 3.    PLEDGE OF ALLEGIANCE
+<a id="item-2"></a>
+## 2. MOMENT OF SILENCE
 
- 4.    CIVILITY AND DECORUM
+
+<a id="item-3"></a>
+## 3. PLEDGE OF ALLEGIANCE
+
+
+<a id="item-4"></a>
+## 4. CIVILITY AND DECORUM
+
        The City of West Palm Beach is committed to civility and decorum by its officials, employees
        and members of the public who attend this meeting. The City Code, Secs. 2-31(8), 2-31(18)
        and 2-31(22), provides in pertinent part:
-           Officials shall be recognized by the Chair and shall not interrupt a speaker.
-           Public comment shall be addressed to the City Commission as a whole and not to any
+          - Officials shall be recognized by the Chair and shall not interrupt a speaker.
+          - Public comment shall be addressed to the City Commission as a whole and not to any
              individual on the dais or in the audience.
-           Displays of anger, rudeness, ridicule, impatience, lack of respect and personal attacks
+          - Displays of anger, rudeness, ridicule, impatience, lack of respect and personal attacks
              are strictly prohibited.
-           Unauthorized remarks from the audience, stamping of feet, whistles, yells and similar
+          - Unauthorized remarks from the audience, stamping of feet, whistles, yells and similar
              demonstrations shall not be permitted.
-           Offenders may be removed from the meeting.
-           Any person desiring to address the Commission shall file a written request with the city
+          - Offenders may be removed from the meeting.
+          - Any person desiring to address the Commission shall file a written request with the city
              clerk prior to consideration of the matter by the Commission or prior to the public
              comment portion of a meeting. The person wishing to speak shall complete a comment
              card for each agenda item the person wishes to address, which shall include the
              person's full name, address, and the numbered agenda item. The person will not be
              recognized if the comment card is not completed.
 
-                                                                                                        Page 1 of 32
 
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
+<a id="item-5"></a>
+## 5. ADDITIONS / DELETIONS / REORGANIZATION OF AGENDA
 
-5.   ADDITIONS / DELETIONS / REORGANIZATION OF AGENDA
 
-6.   PRESENTATION
-     6.1.   Check presentation to the City of West Palm Beach by the Chamber of
+<a id="item-6"></a>
+## 6. PRESENTATION
+
+<a id="item-6-1"></a>
+### 6.1. Check presentation to the City of West Palm Beach by the Chamber of
+
             Commerce of the Palm Beaches for the Mayor's Jumpstart Academy.
             Check presented by Michael Zeff, President & CEO; and James Johnson,
             Chairman of the Board of Directors.
@@ -80,8 +92,12 @@ August 31, 2026
             Mayor's Office
 
 
-7.   APPOINTMENT
-     7.1.   City Commission approval is requested for the Mayor's reappointment of
+<a id="item-7"></a>
+## 7. APPOINTMENT
+
+<a id="item-7-1"></a>
+### 7.1. City Commission approval is requested for the Mayor's reappointment of
+
             Rod A. Braun to the Sustainability Advisory Committee for a term of two (2)
             years, to expire on August 2, 2028. Mr. Braun has served over the
             maximum allowed number of terms (3), and it is required that the City
@@ -96,27 +112,28 @@ August 31, 2026
             capabilities of the committee.
 
 
-8.   CONSENT CALENDAR
+<a id="item-8"></a>
+## 8. CONSENT CALENDAR
+
      All items listed under the consent calendar are considered routine and will be enacted by one
      motion. There will be no separate discussion of these items.
-     8.1.   Minutes of the July 6, 2026, Regular City Commission Meeting.
+
+<a id="item-8-1"></a>
+### 8.1. Minutes of the July 6, 2026, Regular City Commission Meeting.
+
             Originating Department:
             Mayor's Office
 
-     8.2.   Minutes of the July 16, 2026, Special City Commission Meeting.
+<a id="item-8-2"></a>
+### 8.2. Minutes of the July 16, 2026, Special City Commission Meeting.
+
             Originating Department:
             Mayor's Office
 
 
+<a id="item-8-3"></a>
+### 8.3. Resolution No. 164-26 accepting the 2026 Hazardous Materials Grant
 
-
-                                                                                          Page 2 of 32
-
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
-
-     8.3.   Resolution No. 164-26 accepting the 2026 Hazardous Materials Grant
             award in the amount of $163,275, with a required 50% local match of
             $163,275, for the purchase of hazardous materials response equipment,
             for a total project cost of $326,550; and
@@ -158,14 +175,6 @@ August 31, 2026
             suppression trailer, and a mass decontamination system.
 
 
-
-
-                                                                                         Page 3 of 32
-
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
-
            The acquisition of this equipment will significantly enhance the Fire
            Department's ability to respond to hazardous materials incidents, chemical
            releases, weapons of mass destruction (WMD) threats, and mass
@@ -205,15 +214,9 @@ August 31, 2026
            purchase of hazardous material related equipment.
 
 
+<a id="item-8-4"></a>
+### 8.4. Resolution No. 182-26 approving the submittal of an application for a
 
-
-                                                                                           Page 4 of 32
-
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
-
-     8.4.   Resolution No. 182-26 approving the submittal of an application for a
             Florida Firefighter Decontamination grant in the amount of $47,320 for the
             purchase of 350 firefighter hoods.
             Originating Department:
@@ -258,13 +261,9 @@ August 31, 2026
             resolution will be brought back to the Commission for approval.
 
 
-                                                                                           Page 5 of 32
+<a id="item-8-5"></a>
+### 8.5. Resolution No. 196-26 approves a Mediated Settlement Agreement
 
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
-
-     8.5.   Resolution No. 196-26 approves a Mediated Settlement Agreement
             totaling $90,000 in the matter of Jackqueen Carlisle vs. City of West Palm
             Beach.
             Originating Department:
@@ -307,15 +306,9 @@ August 31, 2026
             Settlements are paid out of the Risk Annual Budget.
 
 
+<a id="item-8-6"></a>
+### 8.6. Resolution No. 197-26 approves a Mediated Settlement Agreement
 
-
-                                                                                           Page 6 of 32
-
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
-
-     8.6.   Resolution No. 197-26 approves a Mediated Settlement Agreement
             totaling $90,000 in the matter of Tony Williams and Claretha Williams vs.
             City of West Palm Beach.
             Originating Department:
@@ -358,15 +351,9 @@ August 31, 2026
             Settlements are paid out of the Risk Annual Budget.
 
 
+<a id="item-8-7"></a>
+### 8.7. Resolution No. 212-26 granting Development Space easements for a
 
-
-                                                                                          Page 7 of 32
-
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
-
-     8.7.   Resolution No. 212-26 granting Development Space easements for a
             project to be developed at 201 and 203 Arkona Court.
             Originating Department:
             City Attorney's Office
@@ -409,14 +396,6 @@ August 31, 2026
             provides that any lot of record may be built upon.
 
 
-
-
-                                                                                              Page 8 of 32
-
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
-
             The property owners requested the use of the subject sidewalk area for the
             calculation of its development capacity, density (dwelling units per acre),
             and for applying other applicable land development regulations and lot
@@ -436,7 +415,9 @@ August 31, 2026
             Fiscal Note:
             No fiscal impact.
 
-     8.8.   Resolution No. 202-26(F) authorizing additional reimbursement from the
+<a id="item-8-8"></a>
+### 8.8. Resolution No. 202-26(F) authorizing additional reimbursement from the
+
             Palm Beach County 911 Program Services for replacement dispatch
             consoles in the West Palm Beach Police Department Dispatch Center.
             Originating Department:
@@ -461,14 +442,6 @@ August 31, 2026
             Beach Police Department (WPBPD) Dispatch Center.
 
 
-
-
-                                                                                          Page 9 of 32
-
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
-
             An updated quote for the consoles was provided, and the Palm Beach
             County 9-1-1 Program Services agreed to reimburse the total additional
             funding needed in the amount of $26,884.57 for the costs of the
@@ -486,7 +459,9 @@ August 31, 2026
             County's 911 Surcharge Fund to provide reimbursement to the Police
             Department for the replacement of dispatch console workstations.
 
-     8.9.   Resolution No. 201-26(F) authorizing the appropriation of funds in the
+<a id="item-8-9"></a>
+### 8.9. Resolution No. 201-26(F) authorizing the appropriation of funds in the
+
             amount of $591,256 for the purpose of amending the Stormwater Utility
             Renewal, Replacement and Improvement Fund to recognize a
             supplemental grant from the Florida Department of Environmental
@@ -514,11 +489,6 @@ August 31, 2026
             and plan for vulnerabilities, as well as implement adaptation and mitigation
             projects.     Florida Statutes Section 380.0937 establishes grant
             requirements.
-                                                                                           Page 10 of 32
-
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
 
            A grant in the amount of $800,000 (with 50% match required for a total
            project cost of $1.6M) was awarded by FDEP through its Resilient Florida
@@ -566,13 +536,9 @@ August 31, 2026
            funds 45A and 48A.
 
 
-                                                                                              Page 11 of 32
+<a id="item-8-10"></a>
+### 8.10. Resolution No. 207-26 approving a Landscape Maintenance Agreement
 
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
-
-     8.10. Resolution No. 207-26 approving a Landscape Maintenance Agreement
            with the Roosevelt Estates Neighborhood Association, Inc. for the
            maintenance of landscaping and improvements to be installed within the
            roundabouts in the Roosevelt Estates Neighborhood.
@@ -615,14 +581,6 @@ August 31, 2026
             accordance with the terms of the Agreement.
 
 
-
-
-                                                                                         Page 12 of 32
-
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
-
             Approval of Resolution No. 207-26 will authorize the Mayor to execute the
             Maintenance Agreement between the City and the Roosevelt Estates
             Neighborhood for the maintenance of the specified improvements installed
@@ -634,7 +592,9 @@ August 31, 2026
             The costs associated with the installation will be paid from the One Cent
             Sales Surtax Capital Fund 325.
 
-     8.11. Resolution No. 116-26 authorizing the installation of advertising bus
+<a id="item-8-11"></a>
+### 8.11. Resolution No. 116-26 authorizing the installation of advertising bus
+
            benches in the rights-of-way and approving the bus bench agreement
            between Creative Outdoor Advertising of America, Inc. and the City of
            West Palm Beach.
@@ -668,13 +628,6 @@ August 31, 2026
             clarifying maintenance, insurance, and audit requirements.
 
 
-
-                                                                                         Page 13 of 32
-
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
-
             The continued provision of bus benches aligns with the Parking & Mobility
             Administration’s strategic vision of creating " A West Palm Beach where
             getting around is simple and seamless". As the City prepares for the
@@ -704,7 +657,9 @@ August 31, 2026
             advertising proceeds will be included in the FY2027 Parking & Mobility
             Fund budget.
 
-     8.12. Resolution No. 192-26 adopting the City of West Palm Beach ADA
+<a id="item-8-12"></a>
+### 8.12. Resolution No. 192-26 adopting the City of West Palm Beach ADA
+
            Transition Plan to ensure compliance with the Americans with Disabilities
            Act (ADA); establishing a framework for identifying, prioritizing, and
            implementing accessibility improvements within the public right-of-way.
@@ -720,12 +675,6 @@ August 31, 2026
             IMPROVEMENTS WITHIN THE PUBLIC RIGHT-OF-WAY; PROVIDING
             FOR AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
 
-
-                                                                                           Page 14 of 32
-
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
 
             Background Information:
             The Americans with Disabilities Act (ADA) of 1990 requires public entities
@@ -765,15 +714,9 @@ August 31, 2026
             No fiscal impact.
 
 
+<a id="item-8-13"></a>
+### 8.13. Resolution No, 221-26 approving a License Agreement with Palm Beach
 
-
-                                                                                             Page 15 of 32
-
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
-
-     8.13. Resolution No, 221-26 approving a License Agreement with Palm Beach
            County for the use of the judicial parking lot for the 11th Annual BBQ,
            Brews & Blues Festival to be held on September 5, 2026.
             Originating Department:
@@ -814,16 +757,12 @@ August 31, 2026
             No fiscal impact.
 
 
+<a id="item-9"></a>
+## 9. RESOLUTIONS
 
+<a id="item-9-1"></a>
+### 9.1. Resolution No. 199-26 authorizing the submittal of an application to the
 
-                                                                                         Page 16 of 32
-
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
-
-9.   RESOLUTIONS
-     9.1.   Resolution No. 199-26 authorizing the submittal of an application to the
             U.S. Department of Transportation under the Advanced Transportation
             Technologies and Innovation (ATTAIN) Program for the City of West Palm
             Beach.
@@ -862,14 +801,6 @@ August 31, 2026
             transit service without increasing operating expenditures.
 
 
-
-
-                                                                                               Page 17 of 32
-
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
-
             The proposed project includes roadway mapping and validation,
             autonomous vehicle integration, command center technology, community
             engagement, first responder training, and phased deployment of
@@ -895,8 +826,12 @@ August 31, 2026
             the West Palm Move transit program.
 
 
-10.   PUBLIC HEARING
-      10.1. Public Hearing and Second Reading of Ordinance No. 5171-26 amending
+<a id="item-10"></a>
+## 10. PUBLIC HEARING
+
+<a id="item-10-1"></a>
+### 10.1. Public Hearing and Second Reading of Ordinance No. 5171-26 amending
+
             Chapter 78 (Streets, Sidewalks and Public Places) of the Code of
             Ordinances of the City of West Palm Beach by amending Article XV -
             Public Right-of-Way, by adding Section 78-440 - Sandwich Board or
@@ -915,11 +850,6 @@ August 31, 2026
             PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
             Staff Recommended Motion:
             Approve Ordinance No. 5171-26.
-                                                                                       Page 18 of 32
-
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
 
             Background Information:
             Currently, the City prohibits all types of sandwich board signs on sidewalks
@@ -938,7 +868,9 @@ August 31, 2026
 
             Commission District: City-wide.
 
-     10.2. Public Hearing and Second Reading of Ordinance No. 5180-26: A City-
+<a id="item-10-2"></a>
+### 10.2. Public Hearing and Second Reading of Ordinance No. 5180-26: A City-
+
            initiated request for a text amendment to Chapter 94 - Zoning and Land
            Development Regulations to update and replace the existing sign
            regulations with new sign regulations.
@@ -966,12 +898,6 @@ August 31, 2026
             AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
 
 
-                                                                                           Page 19 of 32
-
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
-
             Staff Recommended Motion:
             Approve Ordinance No. 5180-26.
 
@@ -991,59 +917,51 @@ August 31, 2026
             The City-initiated amendments proposed under this ordinance will update
             the sign regulations as follows:
 
-                  Centralizes sign regulations for all zoning districts;
+               - Centralizes sign regulations for all zoning districts;
 
-                  Regulations specific to zoning districts are organized by general
+               - Regulations specific to zoning districts are organized by general
                    districts, the Urban Core districts, the residential enclaves within the
                    Downtown Master Plan Area, and special neighborhood districts
                    outside of the Downtown Master Plan Area;
 
-                  Sections are devoted to general regulations, to regulations that
+               - Sections are devoted to general regulations, to regulations that
                    apply to specific sign types, and to administrative provisions
                    (permits, master sign plans, relief, and nonconformities);
 
-                  Consistent use of terms and drafting styles;
+               - Consistent use of terms and drafting styles;
 
-                  Some “general provisions” are found within Article XIII (sign
+               - Some “general provisions” are found within Article XIII (sign
                    regulations) and Sec. 94-110 (Downtown Master Plan Area sign
                    regulations) without clear applicability. It also clarifies which general
                    provisions apply to the special neighborhood sign regulations;
 
-                  Adds needed definitions;
+               - Adds needed definitions;
 
-                  Content-neutral in compliance with case law; and
+               - Content-neutral in compliance with case law; and
 
-                  Provides illustrative graphics.
+               - Provides illustrative graphics.
 
-
-
-
-                                                                                               Page 20 of 32
-
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
 
             DOWNTOWN & RESIDENTIAL ENCLAVES
 
             The following changes to these sections are proposed:
 
-                  The existing system of signage bans on buildings and prohibition of
+               - The existing system of signage bans on buildings and prohibition of
                    freestanding signs remains in the urban core;
 
-                  The sign allowances in the residential enclaves are largely
+               - The sign allowances in the residential enclaves are largely
                    unchanged;
 
-                  Businesses fronting a courtyard would be allowed to have wall
+               - Businesses fronting a courtyard would be allowed to have wall
                    signs;
 
-                  Expanded allowance of pedestrian directories;
+               - Expanded allowance of pedestrian directories;
 
-                  Restricts opaque window signs via maximum percentage and limit
+               - Restricts opaque window signs via maximum percentage and limit
                    location of vinyl wraps between 4 and 8 feet above grade; stricter
                    limits on size of promotional signs in windows; and
 
-                  Special Clematis Street provisions for digital video displays in
+               - Special Clematis Street provisions for digital video displays in
                    windows.
 
             STANDARD DISTRICTS (OUTSIDE OF DOWNTOWN)
@@ -1051,44 +969,36 @@ August 31, 2026
             The following is a summary of the proposed changes to all standard
             districts:
 
-                  Addresses the aesthetics of sign placement, proportionality, and
+               - Addresses the aesthetics of sign placement, proportionality, and
                    design; and
 
-                  Requires coordination of a sign in multi-tenant buildings via a master
+               - Requires coordination of a sign in multi-tenant buildings via a master
                    sign program.
 
             FREESTANDING SIGNS
 
-                  Low, medium, and high ground sign standards, front street and side
+               - Low, medium, and high ground sign standards, front street and side
                    street standards are replaced with standards scaled to street
                    context; and
 
-                   More flexibility as to the number of shopping center signs; can
+               - More flexibility as to the number of shopping center signs; can
                    spread allowance.
 
 
-
-
-                                                                                            Page 21 of 32
-
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
-
             WALL SIGNS
 
-                  Per schedule 5-12% of façade area allowing up to 1100 square feet
+               - Per schedule 5-12% of façade area allowing up to 1100 square feet
                    façade replaced with a standard based upon linear façade linear
                    measurement, with a maximum total area of 400 square feet per
                    tenant façade in commercial districts;
 
-                  Prohibit box signs; cabinet signs allowed only for logos and must be
+               - Prohibit box signs; cabinet signs allowed only for logos and must be
                    contoured to the sign copy;
 
-                  Allow on-site wayfinding signs for large shopping centers and
+               - Allow on-site wayfinding signs for large shopping centers and
                    business parks; and
 
-                  Allow temporary promotional window signs only.
+               - Allow temporary promotional window signs only.
 
             The specific language for the text amendment is provided in Exhibit A of
             Ordinance No. 5180-26, and the background is provided in the Planning
@@ -1105,18 +1015,15 @@ August 31, 2026
             Commission District: City-wide.
 
 
+<a id="item-11"></a>
+## 11. PUBLIC HEARING - QUASI-JUDICIAL
 
-
-                                                                                          Page 22 of 32
-
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
-
-11.   PUBLIC HEARING - QUASI-JUDICIAL
       Disclosure of ex-parte communications, if any*
       Swearing-in of witnesses.
-      11.1. Public Hearing and Second Reading of Ordinance No. 5179-26 regarding
+
+<a id="item-11-1"></a>
+### 11.1. Public Hearing and Second Reading of Ordinance No. 5179-26 regarding
+
             the CityPlace Commercial Planned Development to adopt development
             regulations for the Convention Center District and Hotel II Subarea, and to
             transfer those development regulations and all future major amendments
@@ -1139,14 +1046,6 @@ August 31, 2026
              Originating Department:
              Development Services
 
-
-
-
-                                                                                           Page 23 of 32
-
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
 
             Ordinance/Resolution:
             ORDINANCE NO. 5179-26: AN ORDINANCE OF THE CITY
@@ -1187,14 +1086,6 @@ August 31, 2026
             SEVERABILITY CLAUSE; PROVIDING AN EFFECTIVE DATE; AND FOR
             OTHER PURPOSES.
 
-
-
-
-                                                                        Page 24 of 32
-
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
 
             Staff Recommended Motion:
             Approve Ordinance No. 5179-26 regarding the CityPlace Commercial
@@ -1240,14 +1131,6 @@ August 31, 2026
             must be amended individually to reflect any modifications.
 
 
-
-
-                                                                                           Page 25 of 32
-
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
-
             The subject major planned development amendment before the City
             presents an opportunity to formally establish the Convention Center District
             within the CityPlace CPD and formulate a comprehensive framework for
@@ -1284,24 +1167,18 @@ August 31, 2026
             Zoning and Land Development Regulations. The City Commission is
             authorized to grant waivers as part of the Level III Site Plan approval.
 
-                  Waiver #1: Hotel II Subarea Building Envelope
+               - Waiver #1: Hotel II Subarea Building Envelope
                    Requirement: Rosemary Avenue Active Use Liner for Levels 2
                    through 6 (72’) is 60% of Buildable Lot Frontage.
                    Applicant’s proposal/request: On Level 2, providing 44%.
 
-                  Waiver #2: Hotel II Subarea Building Envelope
+               - Waiver #2: Hotel II Subarea Building Envelope
                    Requirement: L Street Active Use on Ground Level is 20% of
                    Buildable Lot Frontage.
                    Applicant’s proposal/request: Ground Level, providing 9.5%.
 
 
-                                                                                           Page 26 of 32
-
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
-
-                  Waiver #3: Zoning and Land Development Regulations of Sec. 94-
+               - Waiver #3: Zoning and Land Development Regulations of Sec. 94-
                    312. – Access to Streets
                    Requirement: Corner clearance distance for collector/non-
                    thoroughfare is a minimum of 50’ of clearance
@@ -1314,7 +1191,9 @@ August 31, 2026
             The Planning Board recommended approval (4-0) of these requests to the
             City Commission after a Public Hearing on June 16, 2026.
 
-     11.2. Public Hearing and First Reading of Ordinance No. 5181-26 regarding the
+<a id="item-11-2"></a>
+### 11.2. Public Hearing and First Reading of Ordinance No. 5181-26 regarding the
+
            "Barnett Centre" Downtown Planned Development to transfer the site
            development plans, the development regulations, and all future major
            amendments to Resolution No. 187-26; and
@@ -1331,14 +1210,6 @@ August 31, 2026
             Originating Department:
             Development Services
 
-
-
-
-                                                                                            Page 27 of 32
-
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
 
             Ordinance/Resolution:
             ORDINANCE NO. 5181-26: AN ORDINANCE OF THE CITY
@@ -1381,14 +1252,6 @@ August 31, 2026
             development.
 
 
-
-
-                                                                                             Page 28 of 32
-
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
-
             Background Information:
 
 
@@ -1430,15 +1293,9 @@ August 31, 2026
             Fox.
 
 
+<a id="item-11-3"></a>
+### 11.3. Public Hearing of Resolution No. 183-26 regarding a request by Mary
 
-
-                                                                                           Page 29 of 32
-
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
-
-     11.3. Public Hearing of Resolution No. 183-26 regarding a request by Mary
            Wissinger of RJ Heisenbottle Architects, on behalf of the Community
            Redevelopment Agency (CRA), for the approval of a Class A Special Use
            Permit to increase the number of bedrooms on a bed and breakfast
@@ -1479,14 +1336,6 @@ August 31, 2026
             and shall comply with requirements in Section 94-273(5.2).
 
 
-
-
-                                                                                             Page 30 of 32
-
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
-
             On December 8, 2025, applicant Mary Wissinger of RJ Heisenbottle
             Architects, on behalf of the Community Redevelopment Agency (CRA),
             submitted a Class A Special Use permit with two (2) waiver applications
@@ -1526,15 +1375,9 @@ August 31, 2026
             No fiscal impact.
 
 
+<a id="item-12"></a>
+## 12. COMMENTS FROM THE PUBLIC
 
-
-                                                                                            Page 31 of 32
-
-City of West Palm Beach
-City Commission Agenda
-August 31, 2026
-
- 12.   COMMENTS FROM THE PUBLIC
 
        Public comments are limited to three (3) minutes. Anyone wishing to address the Commission
        should complete a "Comments by the Public" card and present it to the City Clerk prior to the
@@ -1544,9 +1387,13 @@ August 31, 2026
        record and may be addressed at a later date.
 
 
- 13.   COMMENTS BY THE MAYOR AND CITY COMMISSIONERS
+<a id="item-13"></a>
+## 13. COMMENTS BY THE MAYOR AND CITY COMMISSIONERS
 
- 14. ADJOURNMENT
+
+<a id="item-14"></a>
+## 14. ADJOURNMENT
+
 *Pursuant to Resolution No. 179-95, adopted according to the provisions of Section 286.0115, Florida
 Statutes, members of the Commission shall disclose on the record: 1) ex-parte communications - verbal
 or written; 2.) written communications shall be placed in the record; and 3) site visits, investigations,
@@ -1556,8 +1403,3 @@ NOTICE: If any person decides to appeal any decision made by the City Commission
 that person will need a record of the proceedings, and that, for such purposes, may need to ensure that
 a verbatim records of the proceedings be made, which record includes the testimony and evidence
 upon which the appeal is based. The City of West Palm Beach does not prepare or provide such record.
-
-
-
-
-                                                                                             Page 32 of 32
