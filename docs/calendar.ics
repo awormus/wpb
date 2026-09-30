@@ -1,0 +1,8 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//West Palm Beach Civic Brief//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:West Palm Beach City
+X-WR-CALDESC:Civic calendar for West Palm Beach — maintained by Aaron's WPB team
+END:VCALENDAR

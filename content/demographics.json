@@ -1,0 +1,29 @@
+{
+  "city": "West Palm Beach",
+  "state": "FL",
+  "geography": {
+    "name": "West Palm Beach city, Florida",
+    "geoid": "",
+    "notes": "Fill GEOID and ACS geography codes when first metrics are published."
+  },
+  "metrics": [],
+  "sources": [],
+  "last_updated": null,
+  "schema_notes": {
+    "metrics_item": {
+      "id": "string slug",
+      "label": "human-readable name",
+      "value": "number or string",
+      "unit": "optional unit",
+      "year": "survey or census year",
+      "source_ids": ["ids referencing sources[]"]
+    },
+    "sources_item": {
+      "id": "string slug",
+      "title": "dataset or table name",
+      "publisher": "e.g. U.S. Census Bureau",
+      "url": "canonical URL",
+      "retrieved": "YYYY-MM-DD"
+    }
+  }
+}

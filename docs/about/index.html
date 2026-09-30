@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>About — West Palm Beach Civic Brief</title>
+  <meta name="description" content="About the West Palm Beach Civic Brief site and methodology.">
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-header-inner">
+      <p class="site-title"><a href="../">West Palm Beach Civic Brief</a></p>
+      <p class="tagline">Public city data, commission summaries, and calendars — read-only, cited sources.</p>
+      <nav class="site-nav" aria-label="Primary">
+        <ul>
+          <li><a href="../">Home</a></li>
+          <li><a href="../demographics/">Demographics</a></li>
+          <li><a href="../commission/">Commission</a></li>
+          <li><a href="../calendar/">Calendar</a></li>
+          <li><a href="./" aria-current="page">About</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <h1>About &amp; methodology</h1>
+    <p>West Palm Beach Civic Brief is a small, static public site for city data: demographics, City Commission meeting summaries, and a calendar. It is maintained by Aaron’s WPB team and hosted on GitHub Pages.</p>
+
+    <h2>What we publish</h2>
+    <ul>
+      <li>Demographics derived from Census/ACS and similar public datasets</li>
+      <li>Commission meeting summaries grounded in official agendas and minutes</li>
+      <li>Calendar events and an ICS feed for personal use</li>
+    </ul>
+
+    <h2>Rules we follow</h2>
+    <ul>
+      <li><strong>Public sources only.</strong> We use materials the City or other agencies already publish.</li>
+      <li><strong>Read-only.</strong> We never write to, post on, or authenticate against city systems. External reads are logged in the repo under <code>ops/external-access-log.md</code>.</li>
+      <li><strong>Cite everything.</strong> Pages and meeting notes name source documents and (when known) retrieval dates.</li>
+      <li><strong>No original research claims.</strong> Summaries should be attributable and checkable against the cited sources.</li>
+    </ul>
+
+    <h2>Independence</h2>
+    <p>This site is not an official City of West Palm Beach publication and does not speak for the City, elected officials, or city staff.</p>
+
+    <h2>How content is updated</h2>
+    <p>Editors and agents work in the <code>awormus/wpb</code> repository: structured data under <code>content/</code>, static pages under <code>docs/</code>. Changes are committed and pushed; GitHub Pages serves <code>/docs</code> from the <code>main</code> branch. See the repository README for the site map and isolation rules.</p>
+
+    <section class="sources" aria-labelledby="sources-heading">
+      <h2 id="sources-heading">Source categories</h2>
+      <p>Typical sources include: City of West Palm Beach official website and agenda portals; U.S. Census Bureau / data.census.gov; Florida state open data where relevant. Exact citations appear on each content page.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer-inner">
+      <p>Maintained by Aaron’s WPB team. Sources are cited on each page.</p>
+      <p>Last updated: 2026-09-30 (placeholder).</p>
+    </div>
+  </footer>
+</body>
+</html>
