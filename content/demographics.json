@@ -3,27 +3,189 @@
   "state": "FL",
   "geography": {
     "name": "West Palm Beach city, Florida",
-    "geoid": "",
-    "notes": "Fill GEOID and ACS geography codes when first metrics are published."
+    "geoid": "1276600",
+    "full_geoid": "16000US1276600",
+    "summary_level": "160",
+    "notes": "Census incorporated place. ACS 2024 1-year estimates via Census Reporter API (release acs2024_1yr)."
   },
-  "metrics": [],
-  "sources": [],
-  "last_updated": null,
-  "schema_notes": {
-    "metrics_item": {
-      "id": "string slug",
-      "label": "human-readable name",
-      "value": "number or string",
-      "unit": "optional unit",
-      "year": "survey or census year",
-      "source_ids": ["ids referencing sources[]"]
+  "metrics": [
+    {
+      "id": "population",
+      "label": "Total population",
+      "value": 127733,
+      "unit": "people",
+      "year": 2024,
+      "table": "B01003",
+      "source_ids": [
+        "acs2024-1yr-cr"
+      ]
     },
-    "sources_item": {
-      "id": "string slug",
-      "title": "dataset or table name",
-      "publisher": "e.g. U.S. Census Bureau",
-      "url": "canonical URL",
-      "retrieved": "YYYY-MM-DD"
+    {
+      "id": "median-age",
+      "label": "Median age",
+      "value": 41.6,
+      "unit": "years",
+      "year": 2024,
+      "table": "B01002",
+      "source_ids": [
+        "acs2024-1yr-cr"
+      ]
+    },
+    {
+      "id": "median-household-income",
+      "label": "Median household income",
+      "value": 74478,
+      "unit": "2024 USD",
+      "year": 2024,
+      "table": "B19013",
+      "source_ids": [
+        "acs2024-1yr-cr"
+      ]
+    },
+    {
+      "id": "housing-units",
+      "label": "Housing units",
+      "value": 64847,
+      "unit": "units",
+      "year": 2024,
+      "table": "B25001",
+      "source_ids": [
+        "acs2024-1yr-cr"
+      ]
+    },
+    {
+      "id": "occupied-housing-units",
+      "label": "Occupied housing units",
+      "value": 55868,
+      "unit": "units",
+      "year": 2024,
+      "table": "B25003",
+      "source_ids": [
+        "acs2024-1yr-cr"
+      ]
+    },
+    {
+      "id": "owner-occupied-share",
+      "label": "Owner-occupied share (of occupied units)",
+      "value": 50.6,
+      "unit": "percent",
+      "year": 2024,
+      "table": "B25003",
+      "source_ids": [
+        "acs2024-1yr-cr"
+      ],
+      "notes": "28,288 owner-occupied / 55,868 occupied"
+    },
+    {
+      "id": "median-home-value",
+      "label": "Median home value (owner-occupied)",
+      "value": 480700,
+      "unit": "2024 USD",
+      "year": 2024,
+      "table": "B25077",
+      "source_ids": [
+        "acs2024-1yr-cr"
+      ]
+    },
+    {
+      "id": "poverty-rate",
+      "label": "Poverty rate",
+      "value": 13.1,
+      "unit": "percent",
+      "year": 2024,
+      "table": "B17001",
+      "source_ids": [
+        "acs2024-1yr-cr"
+      ],
+      "notes": "16,204 below poverty / 124,111 for whom poverty status is determined"
+    },
+    {
+      "id": "unemployment-rate",
+      "label": "Unemployment rate (civilian labor force)",
+      "value": 5.3,
+      "unit": "percent",
+      "year": 2024,
+      "table": "B23025",
+      "source_ids": [
+        "acs2024-1yr-cr"
+      ],
+      "notes": "3,722 unemployed / 70,074 in civilian labor force"
+    },
+    {
+      "id": "bachelors-or-higher",
+      "label": "Bachelor\u2019s degree or higher (age 25+)",
+      "value": 38.8,
+      "unit": "percent",
+      "year": 2024,
+      "table": "B15003",
+      "source_ids": [
+        "acs2024-1yr-cr"
+      ],
+      "notes": "36,636 / 94,521 population 25 years and over"
+    },
+    {
+      "id": "nh-white-share",
+      "label": "White alone, not Hispanic or Latino",
+      "value": 33.5,
+      "unit": "percent",
+      "year": 2024,
+      "table": "B03002",
+      "source_ids": [
+        "acs2024-1yr-cr"
+      ]
+    },
+    {
+      "id": "nh-black-share",
+      "label": "Black or African American alone, not Hispanic or Latino",
+      "value": 30.8,
+      "unit": "percent",
+      "year": 2024,
+      "table": "B03002",
+      "source_ids": [
+        "acs2024-1yr-cr"
+      ]
+    },
+    {
+      "id": "hispanic-share",
+      "label": "Hispanic or Latino (any race)",
+      "value": 29.7,
+      "unit": "percent",
+      "year": 2024,
+      "table": "B03002",
+      "source_ids": [
+        "acs2024-1yr-cr"
+      ]
+    },
+    {
+      "id": "nh-asian-share",
+      "label": "Asian alone, not Hispanic or Latino",
+      "value": 2.5,
+      "unit": "percent",
+      "year": 2024,
+      "table": "B03002",
+      "source_ids": [
+        "acs2024-1yr-cr"
+      ]
     }
-  }
+  ],
+  "sources": [
+    {
+      "id": "acs2024-1yr-cr",
+      "title": "American Community Survey 2024 1-year estimates (via Census Reporter API)",
+      "publisher": "U.S. Census Bureau (accessed via Census Reporter)",
+      "url": "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B01003,B19013,B25001,B01002,B03002,B25003,B17001,B15003,B25077,B23025&geo_ids=16000US1276600",
+      "retrieved": "2026-09-30",
+      "release": "ACS 2024 1-year",
+      "geography": "West Palm Beach city, Florida (Census place GEOID 1276600)"
+    },
+    {
+      "id": "data-census-profile",
+      "title": "West Palm Beach city, Florida \u2014 data.census.gov profile",
+      "publisher": "U.S. Census Bureau",
+      "url": "https://data.census.gov/profile/West_Palm_Beach_city,_Florida?g=160XX00US1276600",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "last_updated": "2026-09-30",
+  "disclaimer": "ACS estimates include sampling error (margins of error). This page is not an official City of West Palm Beach publication."
 }

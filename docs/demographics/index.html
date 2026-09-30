@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Demographics — West Palm Beach Civic Brief</title>
-  <meta name="description" content="Census and ACS demographics for West Palm Beach (data coming soon).">
+  <meta name="description" content="ACS 2024 demographics for West Palm Beach city, Florida — population, income, housing, and related metrics from the U.S. Census Bureau.">
   <link rel="stylesheet" href="../styles.css">
 </head>
 <body>
@@ -26,25 +26,90 @@
 
   <main>
     <h1>Demographics</h1>
-    <p>City-level statistics drawn from the U.S. Census Bureau (Decennial Census and American Community Survey) and other public sources.</p>
+    <p>City-level statistics for <strong>West Palm Beach city, Florida</strong> (Census place GEOID <code>1276600</code>) from the U.S. Census Bureau American Community Survey <strong>2024 1-year</strong> estimates.</p>
+    <p class="note">ACS figures are estimates and include sampling error. Values below were retrieved 2026-09-30 via the Census Reporter API and are also available on data.census.gov. Structured copy: <code>content/demographics.json</code>.</p>
 
-    <div class="empty-state" role="status">
-      <strong>Data coming soon</strong>
-      Metrics will appear here once published from the content stub. Nothing is displayed until it is sourced and reviewed.
-    </div>
+    <h2>Snapshot</h2>
+    <ul class="card-list">
+      <li class="card">
+        <h2>Total population</h2>
+        <p><strong>127,733</strong> people (ACS 2024 1-year, table B01003)</p>
+      </li>
+      <li class="card">
+        <h2>Median age</h2>
+        <p><strong>41.6</strong> years (B01002)</p>
+      </li>
+      <li class="card">
+        <h2>Median household income</h2>
+        <p><strong>$74,478</strong> (2024 dollars, B19013)</p>
+      </li>
+      <li class="card">
+        <h2>Poverty rate</h2>
+        <p><strong>13.1%</strong> (16,204 of 124,111; B17001)</p>
+      </li>
+    </ul>
 
-    <p class="note">Underlying data lives in <code>content/demographics.json</code> in the repository. Agents and editors update that file, then refresh this page.</p>
+    <h2>Housing</h2>
+    <ul class="card-list">
+      <li class="card">
+        <h2>Housing units</h2>
+        <p><strong>64,847</strong> units (B25001)</p>
+      </li>
+      <li class="card">
+        <h2>Occupied units</h2>
+        <p><strong>55,868</strong> occupied; <strong>50.6%</strong> owner-occupied (B25003)</p>
+      </li>
+      <li class="card">
+        <h2>Median home value</h2>
+        <p><strong>$480,700</strong> (owner-occupied; B25077)</p>
+      </li>
+    </ul>
+
+    <h2>Education &amp; work</h2>
+    <ul class="card-list">
+      <li class="card">
+        <h2>Bachelor’s or higher</h2>
+        <p><strong>38.8%</strong> of residents age 25+ (B15003)</p>
+      </li>
+      <li class="card">
+        <h2>Unemployment rate</h2>
+        <p><strong>5.3%</strong> of the civilian labor force (B23025)</p>
+      </li>
+    </ul>
+
+    <h2>Race and ethnicity</h2>
+    <ul class="card-list">
+      <li class="card">
+        <h2>White alone, not Hispanic or Latino</h2>
+        <p><strong>33.5%</strong> (B03002)</p>
+      </li>
+      <li class="card">
+        <h2>Black or African American alone, not Hispanic or Latino</h2>
+        <p><strong>30.8%</strong> (B03002)</p>
+      </li>
+      <li class="card">
+        <h2>Hispanic or Latino (any race)</h2>
+        <p><strong>29.7%</strong> (B03002)</p>
+      </li>
+      <li class="card">
+        <h2>Asian alone, not Hispanic or Latino</h2>
+        <p><strong>2.5%</strong> (B03002)</p>
+      </li>
+    </ul>
 
     <section class="sources" aria-labelledby="sources-heading">
       <h2 id="sources-heading">Sources</h2>
-      <p>Planned primary sources: U.S. Census Bureau (data.census.gov), American Community Survey (ACS) tables for West Palm Beach city, Florida. Exact table IDs and retrieval dates will be listed here with each metric.</p>
+      <ul>
+        <li>U.S. Census Bureau, American Community Survey 2024 1-year estimates, tables B01002, B01003, B03002, B15003, B17001, B19013, B23025, B25001, B25003, B25077 — retrieved 2026-09-30 via <a href="https://api.censusreporter.org/1.0/data/show/latest?table_ids=B01003,B19013,B25001,B01002,B03002,B25003,B17001,B15003,B25077,B23025&amp;geo_ids=16000US1276600">Census Reporter API</a> for geography <code>16000US1276600</code>.</li>
+        <li>Profile page: <a href="https://data.census.gov/profile/West_Palm_Beach_city,_Florida?g=160XX00US1276600">West Palm Beach city, Florida on data.census.gov</a> (retrieved 2026-09-30).</li>
+      </ul>
     </section>
   </main>
 
   <footer class="site-footer">
     <div class="site-footer-inner">
       <p>Maintained by Aaron’s WPB team. Sources are cited on each page.</p>
-      <p>Last updated: 2026-09-30 (placeholder).</p>
+      <p>Last updated: 2026-09-30 (ACS 2024 1-year demographics published).</p>
     </div>
   </footer>
 </body>
