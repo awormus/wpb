@@ -8,6 +8,9 @@ Add a new row (newest first) for each fetch:
 
 | Date (ET) | Agent / person | URL or portal | Purpose | Notes |
 |-----------|----------------|---------------|---------|-------|
+| 2026-09-30 15:56 ET | Riley (WPB Data) | `https://www.wpb.org/files/.../09_23_26-special-commission-agenda_budget-millage-final.pdf` | Backfill Sep 23 special agenda text | Read-only GET to /tmp; HTTP 200; 135284 bytes; pdftotext → content/meetings/2026-09-23/agenda.md; PDF deleted |
+| 2026-09-30 15:56 ET | Riley (WPB Data) | `https://www.wpb.org/files/.../09_14_26_final-city-commission-agenda.pdf` | Backfill Sep 14 regular agenda text | Read-only GET to /tmp; HTTP 200; 308195 bytes; pdftotext → content/meetings/2026-09-14/agenda.md; PDF deleted |
+| 2026-09-30 15:56 ET | Riley (WPB Data) | `https://www.wpb.org/files/.../09_08_26-special-commission-agenda_budget-millage-tenttive.pdf` | Backfill Sep 8 special agenda text | Read-only GET to /tmp; HTTP 200; 153154 bytes; pdftotext → content/meetings/2026-09-08/agenda.md; PDF deleted |
 | 2026-09-30 15:54 ET | Riley (WPB Data) | `https://www.wpb.org/files/.../09_28_26_final-city-commission-agenda.pdf` | Re-fetch for in-repo text extract | Read-only GET to /tmp; HTTP 200; 284039 bytes; pdftotext → `content/meetings/2026-09-28/agenda.md`; PDF deleted; not committed |
 | 2026-09-30 15:42 ET | Riley (WPB Data) | `https://www.wpb.org/Our-City/Meetings-Agendas` | List meetings / WML links | Read-only GET; HTTP 200; identified WML PDFs and upcoming Commission dates |
 | 2026-09-30 15:42 ET | Riley (WPB Data) | `https://www.wpb.org/files/.../wml_2026-0928-1002_final.pdf` | Weekly Meeting List Sep 28–Oct 2 | Read-only GET to /tmp; HTTP 200; text extracted with pdftotext; PDF not stored in repo; deleted after use |

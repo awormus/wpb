@@ -17,6 +17,7 @@ Small markdown wiki for **cross-linking** City Commission agenda items, ordinanc
 | Affordable housing inventory & surplus conveyances | [topics/affordable-housing-inventory.md](topics/affordable-housing-inventory.md) | 2026-09-28 agenda (Res. 205-26, 214-26) |
 | Forest Hill High / Winters Street vacation | [topics/forest-hill-winters-street.md](topics/forest-hill-winters-street.md) | 2026-09-28 agenda (Res. 208-26) |
 | Axon / police tech contracts | [topics/axon-police-tech.md](topics/axon-police-tech.md) | 2026-09-28 agenda (Res. 228-26) |
+| FY2027 budget & millage | [topics/fy2027-budget-millage.md](topics/fy2027-budget-millage.md) | 2026-09-08 tentative + 2026-09-23 final special agendas |
 | Commercial solid-waste franchises | [topics/commercial-solid-waste-franchises.md](topics/commercial-solid-waste-franchises.md) | 2026-09-28 agenda (Ord. 5184-26, 2nd reading) |
 
 Add a row when you create a new topic page.
