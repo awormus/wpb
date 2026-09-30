@@ -5,4 +5,34 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:West Palm Beach City
 X-WR-CALDESC:Civic calendar for West Palm Beach — maintained by Aaron's WPB team
+BEGIN:VEVENT
+UID:wpb-cc-worksession-2026-10-05@awormus.github.io
+DTSTAMP:20260930T193000Z
+DTSTART;TZID=America/New_York:20261005T100000
+DTEND;TZID=America/New_York:20261005T120000
+SUMMARY:Mayor/Commission Work Session
+LOCATION:City Hall - Flagler Gallery\, 401 Clematis Street\, West Palm Beach\, FL 33401
+DESCRIPTION:Source: City Meetings & Agendas page (retrieved 2026-09-30). Agenda PDFs: https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/MayorCommission-Work-Session-Agendas/2026-MayorCommission-Workshop-Agendas
+URL:https://www.wpb.org/Events-Folder/2026/MayorCommission-Work-Session-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-cc-agenda-review-2026-10-08@awormus.github.io
+DTSTAMP:20260930T193000Z
+DTSTART;TZID=America/New_York:20261008T110000
+DTEND;TZID=America/New_York:20261008T120000
+SUMMARY:City Commission Agenda Review
+LOCATION:West Palm Beach\, FL
+DESCRIPTION:Source: City Meetings & Agendas (retrieved 2026-09-30). Meeting list hub: https://www.wpb.org/Our-City/Meetings-Agendas
+URL:https://www.wpb.org/Events-Folder/2026/City-Commission-Agenda-Review-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-cc-meeting-2026-10-13@awormus.github.io
+DTSTAMP:20260930T193000Z
+DTSTART;TZID=America/New_York:20261013T170000
+DTEND;TZID=America/New_York:20261013T210000
+SUMMARY:City Commission Meeting
+LOCATION:Commission Chambers\, 401 Clematis Street\, West Palm Beach\, FL 33401
+DESCRIPTION:Regular City Commission meeting. Agenda PDF not yet listed under October 2026 as of 2026-09-30 — check https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/October-2026 when published. Hub: https://www.wpb.org/Our-City/Meetings-Agendas
+URL:https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/October-2026
+END:VEVENT
 END:VCALENDAR
