@@ -427,6 +427,75 @@ def promote_items(text: str) -> str:
     return "\n".join(out)
 
 
+
+LEGAL_START_RE = re.compile(r"^(RESOLUTION|ORDINANCE)\s+NO\.", re.I)
+TITLE_CASE_LABEL_RE = re.compile(r"^[A-Z][a-zA-Z0-9 /&()'.,-]{0,60}:$")
+
+
+def is_predominantly_upper(s: str) -> bool:
+    letters = [c for c in s if c.isalpha()]
+    if len(letters) < 6:
+        return False
+    return (sum(1 for c in letters if c.isupper()) / len(letters)) >= 0.85
+
+
+def is_legal_block_start(line: str) -> bool:
+    s = line.strip()
+    if not s or s.startswith("#") or s.startswith("<a ") or s.startswith(">"):
+        return False
+    if s.startswith("**RESOLUTION:**") or s.startswith("**ORDINANCE:**"):
+        return False
+    return bool(LEGAL_START_RE.match(s)) and is_predominantly_upper(s)
+
+
+def is_legal_block_continuation(line: str) -> bool:
+    s = line.strip()
+    if not s:
+        return False
+    if s.startswith("#") or s.startswith("<a ") or s.startswith(">"):
+        return False
+    if s.startswith("**RESOLUTION:**") or s.startswith("**ORDINANCE:**"):
+        return False
+    low = s.lower().rstrip(":")
+    if low in {x.rstrip(":") for x in FIELD_LABELS}:
+        return False
+    if TITLE_CASE_LABEL_RE.match(s) and not is_predominantly_upper(s):
+        return False
+    # Next legal doc starts a new block
+    if LEGAL_START_RE.match(s):
+        return False
+    return is_predominantly_upper(s)
+
+
+def isolate_allcaps_legal_blocks(text: str) -> str:
+    """ALL-CAPS resolution/ordinance runs become standalone marked blocks."""
+    lines = text.splitlines()
+    out: list[str] = []
+    i = 0
+    n = len(lines)
+    while i < n:
+        ln = lines[i]
+        if is_legal_block_start(ln):
+            kind = "RESOLUTION" if ln.strip().upper().startswith("RESOLUTION") else "ORDINANCE"
+            block = [ln.strip()]
+            i += 1
+            while i < n and is_legal_block_continuation(lines[i]):
+                block.append(lines[i].strip())
+                i += 1
+            # blank before
+            if out and out[-1].strip():
+                out.append("")
+            out.append(f"**{kind}:**")
+            out.append("")
+            for b in block:
+                out.append(f"> {b}")
+            out.append("")
+            continue
+        out.append(ln)
+        i += 1
+    return "\n".join(out)
+
+
 def clean_extract(raw: str) -> str:
     text = drop_formfeeds(raw)
     text = flatten_columns(text)
@@ -437,6 +506,7 @@ def clean_extract(raw: str) -> str:
     text = "\n".join(normalize_bullets_line(ln) for ln in text.splitlines())
     text = collapse_whitespace(text)
     text = promote_items(text)
+    text = isolate_allcaps_legal_blocks(text)
     text = collapse_whitespace(text)
     return text
 
