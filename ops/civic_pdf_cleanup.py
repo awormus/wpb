@@ -446,6 +446,8 @@ def reflow_joined(parts: list[str]) -> str:
 
 
 def is_field_or_section_label(s: str) -> bool:
+    if match_item_field_label(s) is not None:
+        return True
     low = s.lower().rstrip(":")
     if low in {x.rstrip(":") for x in FIELD_LABELS}:
         return True
@@ -457,6 +459,8 @@ def is_field_or_section_label(s: str) -> bool:
 def is_reflow_hard_start(s: str) -> bool:
     """Lines that must not be glued onto the previous paragraph."""
     if s.startswith("<a ") or s.startswith("#"):
+        return True
+    if match_item_field_label(s) is not None:
         return True
     if s.startswith("**RESOLUTION:**") or s.startswith("**ORDINANCE:**"):
         return True
@@ -655,6 +659,77 @@ def isolate_allcaps_legal_blocks(text: str) -> str:
     return "\n".join(out)
 
 
+
+ITEM_FIELD_LABELS = [
+    (re.compile(r"^Originating Department\s*:?\s*$", re.I), "Originating Department"),
+    (re.compile(r"^Department\s*:?\s*$", re.I), "Originating Department"),
+    (re.compile(r"^Ordinance\s*/\s*Resolution\s*:?\s*$", re.I), "__ORD_RES__"),
+    (re.compile(r"^Background Information\s*:?\s*$", re.I), "Background"),
+    (re.compile(r"^Background\s*:?\s*$", re.I), "Background"),
+    (re.compile(r"^Fiscal(?:\s+Note|\s+Impact)?\s*:?\s*$", re.I), "Fiscal Impact"),
+    (re.compile(r"^Recommended Action\s*:?\s*$", re.I), "Recommended Action"),
+    (re.compile(r"^Attachments?\s*:?\s*$", re.I), "Attachments"),
+    (re.compile(r"^Presenter\s*:?\s*$", re.I), "Presenter"),
+    (re.compile(r"^Sponsor\s*:?\s*$", re.I), "Sponsor"),
+]
+
+
+def match_item_field_label(s: str) -> str | None:
+    s = s.strip()
+    for rx, name in ITEM_FIELD_LABELS:
+        if rx.match(s):
+            return name
+    return None
+
+
+def promote_item_field_sections(text: str) -> str:
+    """Turn Originating Department / Resolution / Background labels into #### subsections."""
+    lines = text.splitlines()
+    out: list[str] = []
+    i = 0
+    n = len(lines)
+
+    def peek_nonempty(start: int) -> tuple[int, str]:
+        j = start
+        while j < n and not lines[j].strip():
+            j += 1
+        if j >= n:
+            return j, ""
+        return j, lines[j].strip()
+
+    while i < n:
+        raw = lines[i]
+        s = raw.strip()
+        label = match_item_field_label(s) if s else None
+        if label == "__ORD_RES__":
+            j, nxt = peek_nonempty(i + 1)
+            kind = "Ordinance" if nxt.startswith("**ORDINANCE:") else "Resolution"
+            if out and out[-1].strip():
+                out.append("")
+            out.append(f"#### {kind}")
+            out.append("")
+            i += 1
+            continue
+        if label:
+            if out and out[-1].strip():
+                out.append("")
+            out.append(f"#### {label}")
+            out.append("")
+            j, nxt = peek_nonempty(i + 1)
+            # Originating Department value is usually the next short line
+            if label == "Originating Department" and nxt and match_item_field_label(nxt) is None:
+                if not nxt.startswith("#") and not nxt.startswith("**") and not nxt.startswith("<a "):
+                    out.append(nxt)
+                    out.append("")
+                    i = j + 1
+                    continue
+            i += 1
+            continue
+        out.append(raw)
+        i += 1
+    return "\n".join(out)
+
+
 def clean_extract(raw: str) -> str:
     text = drop_formfeeds(raw)
     text = flatten_columns(text)
@@ -667,6 +742,7 @@ def clean_extract(raw: str) -> str:
     text = promote_items(text)
     text = isolate_allcaps_legal_blocks(text)
     text = reflow_soft_wraps(text)
+    text = promote_item_field_sections(text)
     text = collapse_whitespace(text)
     return text
 
