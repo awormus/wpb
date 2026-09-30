@@ -28,7 +28,7 @@ title: Final City Commission Agenda
 meeting: Regular City Commission Meeting
 official_pdf: https://www.wpb.org/files/.../whatever.pdf
 retrieved: YYYY-MM-DD
-extractor: pdftotext -layout + civic-pdf-cleanup
+extractor: pdftotext (prefer no -layout; flatten in cleanup) + civic-pdf-cleanup
 ---
 ```
 
@@ -48,7 +48,7 @@ extractor: pdftotext -layout + civic-pdf-cleanup
 ## Workflow
 
 1. Find the PDF on [Meetings & Agendas](https://www.wpb.org/Our-City/Meetings-Agendas) or [Commission & CRA Agendas](https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas).
-2. Download to `/tmp` only → `pdftotext -layout` → run `ops/civic_pdf_cleanup.py` → write `agenda.md` (or minutes / pass-fail) → **delete** the PDF from `/tmp`.
+2. Download to `/tmp` only → `pdftotext (prefer no -layout; flatten in cleanup)` → run `ops/civic_pdf_cleanup.py` → write `agenda.md` (or minutes / pass-fail) → **delete** the PDF from `/tmp`.
 3. Write or refresh `summary.md` (agenda-based until minutes/pass-fail exist; never invent votes). Prefer deep-links like `[9.1 Mobility Plan](./agenda.md#item-9-1)`.
 4. Log every external fetch in `ops/external-access-log.md`.
 5. Add or update topic pages under `content/wiki/topics/` so the same ordinance/project can link across meeting dates (include `#item-…` when the mapping is clear).

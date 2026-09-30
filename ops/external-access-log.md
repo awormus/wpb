@@ -8,6 +8,7 @@ Add a new row (newest first) for each fetch:
 
 | Date (ET) | Agent / person | URL or portal | Purpose | Notes |
 |-----------|----------------|---------------|---------|-------|
+| 2026-09-30 16:42 ET | Riley (WPB Data) | `https://www.wpb.org/files/.../09_28_26_final-city-commission-agenda.pdf` | Re-extract Sep 28 sample with plain pdftotext (no -layout) for flatten QC | Read-only GET; HTTP 200; 284039 bytes; /tmp then deleted |
 | 2026-09-30 16:37 ET | Riley (WPB Data) | `https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/March-2026` | List March 2026 Commission PDFs (FINAL + PF; skip drafts/Brightline) | Read-only GET; HTTP 200; 112921 bytes; tmp deleted yes |
 | 2026-09-30 16:37 ET | Riley (WPB Data) | `https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/03_02_26_final-city-commission-agenda.pdf` | Backfill agenda text for 2026-03-02 | Read-only GET to /tmp; HTTP 200; 359439 bytes; pdftotext + civic_pdf_cleanup; PDF deleted |
 | 2026-09-30 16:37 ET | Riley (WPB Data) | `https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-pass-fail-agendas-pfa/2026-03-mar-pfa/pf-03_02_26-city-commission-agenda.pdf` | Backfill pass-fail text for 2026-03-02 | Read-only GET to /tmp; HTTP 200; 300377 bytes; pdftotext + civic_pdf_cleanup; PDF deleted |

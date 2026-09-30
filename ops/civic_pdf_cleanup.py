@@ -10,7 +10,7 @@ Usage:
       --doc-type agenda --title "..." --meeting "..." --official-pdf URL \\
       --retrieved 2026-09-30 --out path/to/agenda.md
 
-Never stores binary PDFs. Structural cleanup only — no invented facts.
+Never stores binary PDFs. Prefers plain pdftotext (no -layout). Flattens to a single left-aligned column. Structural cleanup only — no invented facts.
 """
 
 from __future__ import annotations
@@ -21,7 +21,7 @@ import sys
 from pathlib import Path
 from typing import Optional
 
-EXTRACTOR = "pdftotext -layout + civic-pdf-cleanup"
+EXTRACTOR = "pdftotext + civic-pdf-cleanup"
 
 BULLET_RE = re.compile(r"[•●▪◦‣]")
 PAGE_ONLY_RE = re.compile(r"^\s*Page\s+\d+(?:\s+of\s+\d+)?\s*$", re.I)
@@ -122,6 +122,68 @@ def extract_raw_body(body: str) -> str:
 
 def drop_formfeeds(text: str) -> str:
     return text.replace("\f", "\n")
+
+
+COLUMN_GAP_RE = re.compile(r" {8,}")
+ORPHAN_SUB_RE = re.compile(r"^\s*(\d{1,2})\.(\d{1,2})\.\s*$")
+ORPHAN_LETTER_RE = re.compile(r"^\s*(\d{1,2})\.([A-Za-z])\.\s*$")
+ORPHAN_TOP_RE = re.compile(r"^\s*(\d{1,2})\.\s*$")
+
+
+def flatten_columns(text: str) -> str:
+    """Single left-aligned stream: no centered blocks, no side-by-side columns."""
+    out: list[str] = []
+    for ln in text.splitlines():
+        # Split space-padded dual columns (e.g. Mayor … City Administrator)
+        if COLUMN_GAP_RE.search(ln):
+            parts = [p.strip() for p in COLUMN_GAP_RE.split(ln) if p.strip()]
+            if len(parts) >= 2:
+                out.extend(parts)
+                continue
+        # Strip centering indent; collapse leftover multi-spaces inside the line
+        s = ln.strip()
+        if s:
+            s = re.sub(r" {2,}", " ", s)
+        out.append(s)
+    return "\n".join(out)
+
+
+def join_orphan_item_numbers(text: str) -> str:
+    """Plain pdftotext often emits `7.` then a blank line then the title — join them."""
+    lines = text.splitlines()
+    out: list[str] = []
+    i = 0
+    n = len(lines)
+    while i < n:
+        ln = lines[i]
+        m = ORPHAN_SUB_RE.match(ln) or ORPHAN_LETTER_RE.match(ln) or ORPHAN_TOP_RE.match(ln)
+        if m:
+            j = i + 1
+            while j < n and not lines[j].strip():
+                j += 1
+            if j < n:
+                title = lines[j].strip()
+                # Don't swallow another orphan number as a title
+                if not (
+                    ORPHAN_SUB_RE.match(title)
+                    or ORPHAN_LETTER_RE.match(title)
+                    or ORPHAN_TOP_RE.match(title)
+                ):
+                    if ORPHAN_SUB_RE.match(ln):
+                        mm = ORPHAN_SUB_RE.match(ln)
+                        out.append(f"{int(mm.group(1))}.{int(mm.group(2))}. {title}")
+                    elif ORPHAN_LETTER_RE.match(ln):
+                        mm = ORPHAN_LETTER_RE.match(ln)
+                        out.append(f"{int(mm.group(1))}.{mm.group(2).upper()}. {title}")
+                    else:
+                        mm = ORPHAN_TOP_RE.match(ln)
+                        out.append(f"{int(mm.group(1))}. {title}")
+                    i = j + 1
+                    continue
+        out.append(ln)
+        i += 1
+    return "\n".join(out)
+
 
 
 def normalize_bullets_line(line: str) -> str:
@@ -236,7 +298,7 @@ def strip_page_chrome_and_headers(text: str) -> str:
 
 
 def collapse_whitespace(text: str) -> str:
-    lines = [ln.rstrip() for ln in text.splitlines()]
+    lines = [ln.strip() for ln in text.splitlines()]
     out: list[str] = []
     blank_run = 0
     for ln in lines:
@@ -299,17 +361,10 @@ def looks_like_top_item(num: str, title: str, indent: str) -> bool:
     low = t.lower()
     if any(low.startswith(k) for k in known):
         return True
-    # Otherwise require short-ish title and not looking like a sentence fragment
-    # from a body list ("The Garage Land...")
+    # Reject Title-Case / sentence body lists ("1. Integration is an…").
+    # Real top-level agenda sections are ALL CAPS or known phrases above.
     if t[0].islower():
         return False
-    # Body list items often start with "The ", "A ", "An " after the number
-    # and have lower upper-ratio — already handled. Allow if indent is small
-    # and title looks like a heading (no ending period, or ends with period but short)
-    if len(indent) <= 2 and len(t) < 80:
-        # Avoid "1. The Garage..." style: those have deep indent usually.
-        # If shallow indent and Title Case / mixed, still accept for special agendas.
-        return True
     return False
 
 
@@ -374,6 +429,8 @@ def promote_items(text: str) -> str:
 
 def clean_extract(raw: str) -> str:
     text = drop_formfeeds(raw)
+    text = flatten_columns(text)
+    text = join_orphan_item_numbers(text)
     text = strip_page_chrome_and_headers(text)
     # Normalize bullets on non-item lines happens inside promote; also do a pass
     # before promote for lines that won't match items
