@@ -467,6 +467,8 @@ def is_reflow_hard_start(s: str) -> bool:
         return True
     if match_item_field_label(s) is not None:
         return True
+    if match_commission_district_inline(s) is not None:
+        return True
     if s.startswith("**RESOLUTION:**") or s.startswith("**ORDINANCE:**"):
         return True
     if is_legal_block_start(s):
@@ -610,6 +612,8 @@ def is_legal_block_continuation(line: str) -> bool:
         return False
     if match_item_field_label(s) is not None:
         return False
+    if match_commission_district_inline(s) is not None:
+        return False
     low = s.lower().rstrip(":")
     if low in {x.rstrip(":") for x in FIELD_LABELS}:
         return False
@@ -675,7 +679,14 @@ ITEM_FIELD_LABEL_RE = re.compile(
     r"Background Information|Background|"
     r"Fiscal(?:\s+Note|\s+Impact)?|"
     r"Staff Recommended Motion|Recommended Action|"
+    r"Commission\s+District|"
     r"Attachments?|Presenter|Sponsor)\s*:?\s*$",
+    re.I,
+)
+
+# "Commission District 3: Commissioner Name" (label + value on one PDF line)
+COMMISSION_DISTRICT_INLINE_RE = re.compile(
+    r"^(Commission\s+District)\s+(\d+)\s*:\s*(.*)$",
     re.I,
 )
 
@@ -690,6 +701,16 @@ def match_item_field_label(s: str) -> str | None:
     label = s.rstrip(":").strip()
     label = re.sub(r"\s*/\s*", "/", label)
     return label
+
+
+def match_commission_district_inline(s: str) -> tuple[str, str] | None:
+    """Split 'Commission District N: …' into (exact label, value)."""
+    m = COMMISSION_DISTRICT_INLINE_RE.match(s.strip())
+    if not m:
+        return None
+    label, num, rest = m.group(1), m.group(2), m.group(3).strip()
+    value = f"{num}: {rest}" if rest else num
+    return label, value
 
 
 def promote_item_field_sections(text: str) -> str:
@@ -712,6 +733,17 @@ def promote_item_field_sections(text: str) -> str:
         s = raw.strip()
         # Drop legacy **RESOLUTION:** / **ORDINANCE:** lead-ins if present
         if s in ("**RESOLUTION:**", "**ORDINANCE:**"):
+            i += 1
+            continue
+        inline = match_commission_district_inline(s) if s else None
+        if inline:
+            label, value = inline
+            if out and out[-1].strip():
+                out.append("")
+            out.append(f"#### {label}")
+            out.append("")
+            out.append(value)
+            out.append("")
             i += 1
             continue
         label = match_item_field_label(s) if s else None
