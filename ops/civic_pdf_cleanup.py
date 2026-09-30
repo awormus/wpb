@@ -603,6 +603,8 @@ def is_legal_block_continuation(line: str) -> bool:
         return False
     if s.startswith("**RESOLUTION:**") or s.startswith("**ORDINANCE:**"):
         return False
+    if match_item_field_label(s) is not None:
+        return False
     low = s.lower().rstrip(":")
     if low in {x.rstrip(":") for x in FIELD_LABELS}:
         return False
@@ -611,6 +613,9 @@ def is_legal_block_continuation(line: str) -> bool:
     # Next legal doc starts a new block
     if LEGAL_START_RE.match(s):
         return False
+    # Year/date-only wraps mid ALL-CAPS ("2024/2025") have no letters
+    if re.fullmatch(r"[\d/.,\-–—()\s]+", s):
+        return True
     letters = [c for c in s if c.isalpha()]
     # PDF often wraps ALL-CAPS titles onto tiny lines ("AND", "POLICE", "(IPTM)").
     if letters and all(c.isupper() for c in letters):
@@ -627,7 +632,6 @@ def isolate_allcaps_legal_blocks(text: str) -> str:
     while i < n:
         ln = lines[i]
         if is_legal_block_start(ln):
-            kind = "RESOLUTION" if ln.strip().upper().startswith("RESOLUTION") else "ORDINANCE"
             block = [ln.strip()]
             i += 1
             while i < n:
@@ -646,11 +650,10 @@ def isolate_allcaps_legal_blocks(text: str) -> str:
                     i += 1
                     continue
                 break
-            # blank before
+            # blank before; no **RESOLUTION:**/**ORDINANCE:** lead-in — PDF field
+            # label (e.g. Ordinance/Resolution) is the subsection heading.
             if out and out[-1].strip():
                 out.append("")
-            out.append(f"**{kind}:**")
-            out.append("")
             out.append(f"> {reflow_joined(block)}")
             out.append("")
             continue
@@ -660,30 +663,31 @@ def isolate_allcaps_legal_blocks(text: str) -> str:
 
 
 
-ITEM_FIELD_LABELS = [
-    (re.compile(r"^Originating Department\s*:?\s*$", re.I), "Originating Department"),
-    (re.compile(r"^Department\s*:?\s*$", re.I), "Originating Department"),
-    (re.compile(r"^Ordinance\s*/\s*Resolution\s*:?\s*$", re.I), "__ORD_RES__"),
-    (re.compile(r"^Background Information\s*:?\s*$", re.I), "Background"),
-    (re.compile(r"^Background\s*:?\s*$", re.I), "Background"),
-    (re.compile(r"^Fiscal(?:\s+Note|\s+Impact)?\s*:?\s*$", re.I), "Fiscal Impact"),
-    (re.compile(r"^Recommended Action\s*:?\s*$", re.I), "Recommended Action"),
-    (re.compile(r"^Attachments?\s*:?\s*$", re.I), "Attachments"),
-    (re.compile(r"^Presenter\s*:?\s*$", re.I), "Presenter"),
-    (re.compile(r"^Sponsor\s*:?\s*$", re.I), "Sponsor"),
-]
+# Known per-item PDF field labels — preserve the source wording as #### headings.
+ITEM_FIELD_LABEL_RE = re.compile(
+    r"^(Originating Department|Department|"
+    r"Ordinance\s*/\s*Resolution|Resolution|Ordinance|"
+    r"Background Information|Background|"
+    r"Fiscal(?:\s+Note|\s+Impact)?|"
+    r"Recommended Action|Attachments?|Presenter|Sponsor)\s*:?\s*$",
+    re.I,
+)
 
 
 def match_item_field_label(s: str) -> str | None:
+    """Return PDF field label for #### heading (colon stripped; wording preserved)."""
     s = s.strip()
-    for rx, name in ITEM_FIELD_LABELS:
-        if rx.match(s):
-            return name
-    return None
+    m = ITEM_FIELD_LABEL_RE.match(s)
+    if not m:
+        return None
+    # Keep source casing/spelling; drop trailing colon; normalize slash spaces.
+    label = s.rstrip(":").strip()
+    label = re.sub(r"\s*/\s*", "/", label)
+    return label
 
 
 def promote_item_field_sections(text: str) -> str:
-    """Turn Originating Department / Resolution / Background labels into #### subsections."""
+    """Promote PDF field labels to #### subsections; never invent Resolution/Ordinance."""
     lines = text.splitlines()
     out: list[str] = []
     i = 0
@@ -700,25 +704,26 @@ def promote_item_field_sections(text: str) -> str:
     while i < n:
         raw = lines[i]
         s = raw.strip()
-        label = match_item_field_label(s) if s else None
-        if label == "__ORD_RES__":
-            j, nxt = peek_nonempty(i + 1)
-            kind = "Ordinance" if nxt.startswith("**ORDINANCE:") else "Resolution"
-            if out and out[-1].strip():
-                out.append("")
-            out.append(f"#### {kind}")
-            out.append("")
+        # Drop legacy **RESOLUTION:** / **ORDINANCE:** lead-ins if present
+        if s in ("**RESOLUTION:**", "**ORDINANCE:**"):
             i += 1
             continue
+        label = match_item_field_label(s) if s else None
         if label:
             if out and out[-1].strip():
                 out.append("")
             out.append(f"#### {label}")
             out.append("")
             j, nxt = peek_nonempty(i + 1)
-            # Originating Department value is usually the next short line
-            if label == "Originating Department" and nxt and match_item_field_label(nxt) is None:
-                if not nxt.startswith("#") and not nxt.startswith("**") and not nxt.startswith("<a "):
+            # Department value is usually the next short non-label line
+            if label.lower() in ("originating department", "department") and nxt:
+                if (
+                    match_item_field_label(nxt) is None
+                    and not nxt.startswith("#")
+                    and not nxt.startswith("**")
+                    and not nxt.startswith("<a ")
+                    and not nxt.startswith("> ")
+                ):
                     out.append(nxt)
                     out.append("")
                     i = j + 1
