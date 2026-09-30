@@ -11,6 +11,7 @@ Ordinance granting Florida Public Utilities Company a **non-exclusive 30-year** 
 
 | Date | Stage | Notes | Text |
 |------|-------|-------|------|
+| 2026-06-08 | 2nd reading — **postponed** (pass/fail) | Item 8.1 postponed to a future Commission meeting | [summary](../../meetings/2026-06-08/summary.md) · [agenda §8.1](../../meetings/2026-06-08/agenda.md#item-8-1) · [pass-fail](../../meetings/2026-06-08/pass-fail.md#item-8-1) |
 | 2026-08-03 | 2nd reading — **approved** (pass/fail) | Replaces expired 1989 ordinance-agreement framework | [agenda §9.1](../../meetings/2026-08-03/agenda.md#item-9-1) · [pass-fail §9.1](../../meetings/2026-08-03/pass-fail.md#item-9-1) |
 
 Official PDF: [pf-08_03_26](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-pass-fail-agendas-pfa/2026-08-aug-pfa/pf-08_03_26-city-commission-agenda.pdf)
