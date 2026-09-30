@@ -23,7 +23,7 @@ from typing import Optional
 
 EXTRACTOR = "pdftotext + civic-pdf-cleanup"
 
-BULLET_RE = re.compile(r"[•●▪◦‣]")
+BULLET_RE = re.compile(r"[•●▪◦‣\uf0b7]")
 PAGE_ONLY_RE = re.compile(r"^\s*Page\s+\d+(?:\s+of\s+\d+)?\s*$", re.I)
 # Trailing "Page N of M" on an otherwise empty-ish line (common in pdftotext -layout)
 PAGE_TRAIL_RE = re.compile(r"^[ \t]*Page\s+\d+(?:\s+of\s+\d+)?[ \t]*$")
@@ -188,12 +188,8 @@ def join_orphan_item_numbers(text: str) -> str:
 
 def normalize_bullets_line(line: str) -> str:
     # Replace bullet glyph (+ optional following spaces) with "- "
-    def repl(m: re.Match) -> str:
-        # Preserve indent before the bullet
-        return "- "
-
-    # Only at start-of-content after indent
-    return re.sub(r"(^[ \t]*)[•●▪◦‣][ \t]*", r"\1- ", line)
+    # Include Word/PDF private-use bullets (\uf0b7).
+    return re.sub(r"(^[ \t]*)[•●▪◦‣\uf0b7][ \t]*", r"\1- ", line)
 
 
 def is_running_header_line(line: str) -> bool:
@@ -883,6 +879,74 @@ def promote_item_field_sections(text: str) -> str:
     return "\n".join(out)
 
 
+
+ORPHAN_BULLET_ONLY_RE = re.compile(r"^-\s*$")
+
+
+def is_orphan_bullet_line(s: str) -> bool:
+    return bool(ORPHAN_BULLET_ONLY_RE.match(s.strip()))
+
+
+def can_be_bullet_body(s: str) -> bool:
+    """True if this line can follow an orphan '-' as list-item text."""
+    s = s.strip()
+    if not s or is_orphan_bullet_line(s):
+        return False
+    if s.startswith("- "):
+        return False
+    if s.startswith("#") or s.startswith("<a ") or s.startswith(">"):
+        return False
+    if match_item_field_label(s) is not None:
+        return False
+    if match_commission_district_inline(s) is not None:
+        return False
+    if ORPHAN_SUB_RE.match(s) or ORPHAN_LETTER_RE.match(s) or ORPHAN_TOP_RE.match(s):
+        return False
+    if SUB_ITEM_RE.match(s) or LETTER_ITEM_RE.match(s):
+        return False
+    m = TOP_ITEM_RE.match(s)
+    if m and looks_like_top_item(m.group(2), m.group(4), m.group(1)):
+        return False
+    return True
+
+
+def merge_orphan_bullets(text: str) -> str:
+    """Merge a lone '-' line with the following content line into '- item text'.
+
+    Handles PDF extracts where the bullet glyph sits on its own line before
+    (or effectively after prior text, before the next item's text). Never leave
+    a markdown line that is only '-'.
+    """
+    lines = text.splitlines()
+    out: list[str] = []
+    i = 0
+    n = len(lines)
+
+    def next_nonempty(start: int) -> tuple[int, str]:
+        j = start
+        while j < n and not lines[j].strip():
+            j += 1
+        if j >= n:
+            return j, ""
+        return j, lines[j].strip()
+
+    while i < n:
+        raw = lines[i]
+        s = raw.strip()
+        if is_orphan_bullet_line(s):
+            j, nxt = next_nonempty(i + 1)
+            if can_be_bullet_body(nxt):
+                out.append(f"- {nxt}")
+                i = j + 1
+                continue
+            # Drop stranded marker with no usable body
+            i += 1
+            continue
+        out.append(raw)
+        i += 1
+    return "\n".join(out)
+
+
 def clean_extract(raw: str) -> str:
     text = drop_formfeeds(raw)
     text = flatten_columns(text)
@@ -891,12 +955,14 @@ def clean_extract(raw: str) -> str:
     # Normalize bullets on non-item lines happens inside promote; also do a pass
     # before promote for lines that won't match items
     text = "\n".join(normalize_bullets_line(ln) for ln in text.splitlines())
+    text = merge_orphan_bullets(text)
     text = collapse_whitespace(text)
     text = promote_items(text)
     text = split_glued_parent_headings(text)
     text = isolate_allcaps_legal_blocks(text)
     text = reflow_soft_wraps(text)
     text = promote_item_field_sections(text)
+    text = merge_orphan_bullets(text)  # catch any leftovers after reflow
     text = collapse_whitespace(text)
     return text
 

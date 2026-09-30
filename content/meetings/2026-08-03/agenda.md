@@ -197,42 +197,25 @@ The City of West Palm Beach, Florida (the “City”) owns and/or exercises cont
 
 The 1989 ordinance-agreement expired on September 30, 2019, and the City and FPU continued to operate under the terms of the 1989 ordinanceagreement.
 
-Ordinance No. 5148-25 grants FPU a new 30-year franchise for distribution of natural gas within the City. This ordinance-agreement also corrects issues identified in City Internal Audit 20-03 by: -
+Ordinance No. 5148-25 grants FPU a new 30-year franchise for distribution of natural gas within the City. This ordinance-agreement also corrects issues identified in City Internal Audit 20-03 by:
+- Removing the provision allowing FPU to reduce franchise payments by the amount it pays in ad-valorem taxes. This change will result in a greater amount of franchise fees paid by FPU to the City;
 
-Removing the provision allowing FPU to reduce franchise payments by the amount it pays in ad-valorem taxes. This change will result in a greater amount of franchise fees paid by FPU to the City;
+- Strengthening audit language related to obtaining and auditing FPU data submitted to the City and used to calculate franchise fee payments; and
 
--
-
-Strengthening audit language related to obtaining and auditing FPU data submitted to the City and used to calculate franchise fee payments; and
-
--
-
-Adding a penalty if FPU is found to be improperly paying the City.
+- Adding a penalty if FPU is found to be improperly paying the City.
 
 Since First Reading, the following changes have been made:
--
+- Section 1 definition of "Gross Revenue" was amended to clarify that taxes and uncollected fees are not considered "Gross Revenue".
 
-Section 1 definition of "Gross Revenue" was amended to clarify that taxes and uncollected fees are not considered "Gross Revenue".
+- Section 8B - adds language to ensure the City has the right to obtain up to 5 years of records for auditing purposes.
 
--
+- Section 8D - permits City to collect a 15% penalty should FPU underpay a franchise fees.
 
-Section 8B - adds language to ensure the City has the right to obtain up to 5 years of records for auditing purposes.
+- Section 14A - requires FPU to retain records for no less than five years.
 
--
+- Section 14B - requires FPU to identify the statutory authority for any records not provided when identified as confidential or exempt .
 
-Section 8D - permits City to collect a 15% penalty should FPU underpay a franchise fees.
-
--
-
-Section 14A - requires FPU to retain records for no less than five years.
-
--
-
-Section 14B - requires FPU to identify the statutory authority for any records not provided when identified as confidential or exempt .
-
--
-
-Section 19 - adds that adoption of Ordinance 5148-25 does not waive any rights or obligations of the parties including payment of any franchise fees due under the 1989 ordinance-agreement.
+- Section 19 - adds that adoption of Ordinance 5148-25 does not waive any rights or obligations of the parties including payment of any franchise fees due under the 1989 ordinance-agreement.
 
 The City finds that it is in the public interest and advances the health, safety, and welfare of its citizens to enter into this Franchise Agreement with Florida Public Utilities.
 
@@ -279,21 +262,12 @@ The 900 South Rosemary Avenue site, while zoned CityPlace CPD, is located within
 
 The CityPlace DRI requires that new buildings constructed within the DRI be approved as a Level III Site Plan Review by the Planning Board and City Commission. Staff has reviewed the application, and the proposed building conforms to the requirements of the DRI.
 
-The proposed development will consist of a single 18-story (204’) tall and 400-room full-service hotel. The proposed development requires waivers from the Hotel II Subarea Building Envelope requirements and the City Zoning and Land Development Regulations. The City Commission is authorized to grant waivers as part of the Level III Site Plan approval. -
+The proposed development will consist of a single 18-story (204’) tall and 400-room full-service hotel. The proposed development requires waivers from the Hotel II Subarea Building Envelope requirements and the City Zoning and Land Development Regulations. The City Commission is authorized to grant waivers as part of the Level III Site Plan approval.
+- Waiver #1: Hotel II Subarea Building Envelope Requirement: Rosemary Avenue Active Use Liner for Levels 2 through 6 (72’) is 60% of Buildable Lot Frontage. Applicant’s proposal/request: On Level 2, providing 44%
 
-Waiver #1: Hotel II Subarea Building Envelope Requirement: Rosemary Avenue Active Use Liner for Levels 2 through 6 (72’) is 60% of Buildable Lot Frontage.
+- Waiver #2: Hotel II Subarea Building Envelope Requirement: L Street Active Use on Ground Level is 20% of Buildable Lot Frontage. Applicant’s proposal/request: Ground Level, providing 9.5%
 
-Applicant’s proposal/request: On Level 2, providing 44%
-
--
-
-Waiver #2: Hotel II Subarea Building Envelope Requirement: L Street Active Use on Ground Level is 20% of Buildable Lot Frontage.
-
-Applicant’s proposal/request: Ground Level, providing 9.5%
-
--
-
-Waiver #3: Zoning and Land Development Regulations of Sec. 94312. – Access to Streets Requirement: Corner clearance distance for collector/nonthoroughfare is a minimum of 50’ of clearance Applicant’s proposal/request: providing 43’-4” of clearance
+- Waiver #3: Zoning and Land Development Regulations of Sec. 94312. – Access to Streets Requirement: Corner clearance distance for collector/nonthoroughfare is a minimum of 50’ of clearance Applicant’s proposal/request: providing 43’-4” of clearance
 
 The subject property, consisting of ± 1.80 acres, is generally located at 900 South Rosemary Avenue within Commission District 3: Commissioner Christy Fox.
 

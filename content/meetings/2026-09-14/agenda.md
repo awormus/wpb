@@ -310,28 +310,16 @@ However, canopy cover in West Palm Beach varies across the City. For example, wh
 
 To stop this downward trend and help the City meet canopy goals, the City will use this funding to prune 373 trees across four (4) different public parks in the community. Pruning helps the young tree build a strong structure and can reduce future damage.
 Key measures and outcomes include:
--
-
-Pruning of 373 young trees to reduce risk, enhance longevity, and improve tree canopy maintenance. This will include a wide variety of native trees at Clear Lake, Lincoln Park, Dreher Park, and Bill
+- Pruning of 373 young trees to reduce risk, enhance longevity, and improve tree canopy maintenance. This will include a wide variety of native trees at Clear Lake, Lincoln Park, Dreher Park, and Bill
 Moss Park:
-- - - - - - - - - - -
+- 57 Live Oak 20 East Palatka Holly 29 Wild Tamarind 38 Mahogany 44 Gumbo Limbo 28 Green Buttonwood 9 Pigeon Plum 38 Paradise Tree 6 Bald Cypress 1 Red Maple 12 Royal Palm
+- 3 Satinleaf 41 Slash Pine 31 Wild Mastic 11 Bahama Strong Bark 1 Crabwood 4 Willow-Bustic
 
-57 Live Oak 20 East Palatka Holly 29 Wild Tamarind 38 Mahogany 44 Gumbo Limbo 28 Green Buttonwood 9 Pigeon Plum 38 Paradise Tree 6 Bald Cypress 1 Red Maple 12 Royal Palm - - - - - -
+- Preserved canopy cover verified with the TreePlotter software tool, or an acceptable alternative, including baseline and post-project assessments of canopy cover, tree condition, and risk level.
 
-3 Satinleaf 41 Slash Pine 31 Wild Mastic 11 Bahama Strong Bark 1 Crabwood 4 Willow-Bustic
+- At least 95% of maintained trees will show stable or improved condition ratings within six (6) months post-maintenance, as verified by certified arborists.
 
--
-
-Preserved canopy cover verified with the TreePlotter software tool, or an acceptable alternative, including baseline and post-project assessments of canopy cover, tree condition, and risk level.
-
--
-
-At least 95% of maintained trees will show stable or improved condition ratings within six (6) months post-maintenance, as verified by certified arborists.
-
--
-
-Positive outcomes include:
-o Preserved and improved tree canopy cover for public parks and neighborhoods.
+- Positive outcomes include: o Preserved and improved tree canopy cover for public parks and neighborhoods.
 
 Resolution No. 200-26 accepts the grant and authorizes execution of the grant agreement.
 
@@ -371,9 +359,8 @@ For the Commission's consideration is Resolution No. 209-26, which ratifies a su
 
 This tentative agreement was ratified on August 10, 2026, by the members of the Professional Managers and Supervisors Association Unit 1073.
 
-The exact language with all terms of the agreement is attached for a more comprehensive review. Highlights of some of the more substantive changes over the current agreement are summarized below: 1) Article 5, Association Business: Language was added to match recent changes to and in compliance with Florida Statutes Section 447 related to union organization and activities. 2) Article 27, Compensation: Provides PMSA-represented employees with pay increases across the three (3) fiscal years the agreement covers as follows: - - -
-
-5% COLA in FY2027 3% COLA in FY2028; and 3% COLA in FY2029
+The exact language with all terms of the agreement is attached for a more comprehensive review. Highlights of some of the more substantive changes over the current agreement are summarized below: 1) Article 5, Association Business: Language was added to match recent changes to and in compliance with Florida Statutes Section 447 related to union organization and activities. 2) Article 27, Compensation: Provides PMSA-represented employees with pay increases across the three (3) fiscal years the agreement covers as follows:
+- 5% COLA in FY2027 3% COLA in FY2028; and 3% COLA in FY2029
 
 The FY27 COLA will take effect on the first full pay period on or after October 1, 2026. Employees who have not passed their new hire probation by October 1, 2026, are not eligible for the COLA increase.
 
@@ -524,9 +511,7 @@ The result is playful without being superficial. The Bellini Tree embodies the H
 
 #### TECHINICAL SPECS
 
-- -
-
-20’ H of Tree Base: 7’ x 6’ 4” x 6’ 2” est. weight of 8,000 to 9,000 lbs.
+- 20’ H of Tree Base: 7’ x 6’ 4” x 6’ 2” est. weight of 8,000 to 9,000 lbs.
 
 Resolution No. 204-26 approves the proposed public sculpture "The Bellini Tree" by The Haas Brothers for Mr. C's Residencies commissioned by Lakeview Hospitality Investments, LLC to satisfy their public art requirement.
 
