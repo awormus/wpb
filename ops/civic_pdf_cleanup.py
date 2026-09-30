@@ -428,6 +428,149 @@ def promote_items(text: str) -> str:
 
 
 
+
+def reflow_joined(parts: list[str]) -> str:
+    """Join soft-wrapped lines; fix simple end-of-line hyphenation."""
+    if not parts:
+        return ""
+    buf = parts[0].strip()
+    for raw in parts[1:]:
+        s = raw.strip()
+        if not s:
+            continue
+        if buf.endswith("-") and not buf.endswith("--") and s[0].islower():
+            buf = buf[:-1] + s
+        else:
+            buf = buf + " " + s
+    return buf
+
+
+def is_field_or_section_label(s: str) -> bool:
+    low = s.lower().rstrip(":")
+    if low in {x.rstrip(":") for x in FIELD_LABELS}:
+        return True
+    if TITLE_CASE_LABEL_RE.match(s) and not is_predominantly_upper(s):
+        return True
+    return False
+
+
+def is_reflow_hard_start(s: str) -> bool:
+    """Lines that must not be glued onto the previous paragraph."""
+    if s.startswith("<a ") or s.startswith("#"):
+        return True
+    if s.startswith("**RESOLUTION:**") or s.startswith("**ORDINANCE:**"):
+        return True
+    if is_legal_block_start(s):
+        return True
+    if is_field_or_section_label(s):
+        return True
+    if SUB_ITEM_RE.match(s) or LETTER_ITEM_RE.match(s):
+        return True
+    m = TOP_ITEM_RE.match(s)
+    if m and looks_like_top_item(m.group(2), m.group(4), m.group(1)):
+        return True
+    if ORPHAN_SUB_RE.match(s) or ORPHAN_LETTER_RE.match(s) or ORPHAN_TOP_RE.match(s):
+        return True
+    return False
+
+
+def reflow_soft_wraps(text: str) -> str:
+    """Join PDF soft wraps into paragraphs; hard-break only on real boundaries."""
+    lines = text.splitlines()
+    out: list[str] = []
+    buf: str | None = None
+
+    def flush() -> None:
+        nonlocal buf
+        if buf is not None:
+            out.append(buf)
+            buf = None
+
+    def join_onto(buf_s: str, nxt: str) -> str:
+        if buf_s.endswith("-") and not buf_s.endswith("--") and nxt and nxt[0].islower():
+            return buf_s[:-1] + nxt
+        return buf_s + " " + nxt
+
+    for idx, ln in enumerate(lines):
+        s = ln.strip()
+        if not s:
+            # Soft-wrapped heading titles often have a blank before the
+            # lowercase continuation ("### 7.4. … bicycles" / "" / "from the…").
+            j = idx + 1
+            while j < len(lines) and not lines[j].strip():
+                j += 1
+            nxt = lines[j].strip() if j < len(lines) else ""
+            if (
+                out
+                and buf is None
+                and out[-1].startswith("#")
+                and not out[-1].rstrip("#").endswith(".")
+                and nxt
+                and not is_reflow_hard_start(nxt)
+                and not nxt.startswith("- ")
+                and not is_predominantly_upper(nxt)
+            ):
+                continue
+            flush()
+            out.append("")
+            continue
+
+        if s.startswith("> "):
+            content = s[2:].strip()
+            if buf is not None and buf.startswith("> "):
+                buf = "> " + join_onto(buf[2:], content)
+            else:
+                flush()
+                buf = "> " + content
+            continue
+
+        if s.startswith("- "):
+            # New bullet; allow following soft-wrap lines to join
+            flush()
+            buf = s
+            continue
+
+        if is_reflow_hard_start(s):
+            flush()
+            out.append(s)
+            continue
+
+        # Soft-wrap continuation of a markdown heading title (item line wrapped in PDF)
+        if (
+            buf is None
+            and out
+            and out[-1].startswith("#")
+            and not out[-1].endswith(".")
+            and s
+            and not s.startswith("- ")
+            and not is_predominantly_upper(s)
+            and not is_reflow_hard_start(s)
+        ):
+            # If this wrap line finishes the title and starts body ("Month. Mayor…"),
+            # keep only the title fragment on the heading.
+            m = re.match(r"^(.*\.)\s+([A-Z].*)$", s)
+            if m:
+                out[-1] = join_onto(out[-1], m.group(1))
+                buf = m.group(2)
+            else:
+                out[-1] = join_onto(out[-1], s)
+            continue
+
+        if buf is None:
+            buf = s
+        elif buf.startswith("- "):
+            buf = join_onto(buf, s)
+        elif buf.startswith("> "):
+            # Non-quote line ends quote paragraph
+            flush()
+            buf = s
+        else:
+            buf = join_onto(buf, s)
+
+    flush()
+    return "\n".join(out)
+
+
 LEGAL_START_RE = re.compile(r"^(RESOLUTION|ORDINANCE)\s+NO\.", re.I)
 TITLE_CASE_LABEL_RE = re.compile(r"^[A-Z][a-zA-Z0-9 /&()'.,-]{0,60}:$")
 
@@ -464,6 +607,10 @@ def is_legal_block_continuation(line: str) -> bool:
     # Next legal doc starts a new block
     if LEGAL_START_RE.match(s):
         return False
+    letters = [c for c in s if c.isalpha()]
+    # PDF often wraps ALL-CAPS titles onto tiny lines ("AND", "POLICE", "(IPTM)").
+    if letters and all(c.isupper() for c in letters):
+        return True
     return is_predominantly_upper(s)
 
 
@@ -479,16 +626,28 @@ def isolate_allcaps_legal_blocks(text: str) -> str:
             kind = "RESOLUTION" if ln.strip().upper().startswith("RESOLUTION") else "ORDINANCE"
             block = [ln.strip()]
             i += 1
-            while i < n and is_legal_block_continuation(lines[i]):
-                block.append(lines[i].strip())
-                i += 1
+            while i < n:
+                if not lines[i].strip():
+                    # Page breaks often insert blanks mid-resolution; keep going if
+                    # the next non-empty line is still ALL-CAPS legal text.
+                    j = i + 1
+                    while j < n and not lines[j].strip():
+                        j += 1
+                    if j < n and is_legal_block_continuation(lines[j]):
+                        i = j
+                        continue
+                    break
+                if is_legal_block_continuation(lines[i]):
+                    block.append(lines[i].strip())
+                    i += 1
+                    continue
+                break
             # blank before
             if out and out[-1].strip():
                 out.append("")
             out.append(f"**{kind}:**")
             out.append("")
-            for b in block:
-                out.append(f"> {b}")
+            out.append(f"> {reflow_joined(block)}")
             out.append("")
             continue
         out.append(ln)
@@ -507,6 +666,7 @@ def clean_extract(raw: str) -> str:
     text = collapse_whitespace(text)
     text = promote_items(text)
     text = isolate_allcaps_legal_blocks(text)
+    text = reflow_soft_wraps(text)
     text = collapse_whitespace(text)
     return text
 
