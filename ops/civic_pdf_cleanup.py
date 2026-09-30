@@ -469,6 +469,8 @@ def is_reflow_hard_start(s: str) -> bool:
         return True
     if match_commission_district_inline(s) is not None:
         return True
+    if is_internal_section_header(s):
+        return True
     if s.startswith("**RESOLUTION:**") or s.startswith("**ORDINANCE:**"):
         return True
     if is_legal_block_start(s):
@@ -483,6 +485,54 @@ def is_reflow_hard_start(s: str) -> bool:
     if ORPHAN_SUB_RE.match(s) or ORPHAN_LETTER_RE.match(s) or ORPHAN_TOP_RE.match(s):
         return True
     return False
+
+
+
+SENTENCE_END_RE = re.compile(r"[.!?…][\"')\]”’]*$")
+ABBREV_EOL_RE = re.compile(
+    r"\b(?:No|Nos|Inc|Ltd|Corp|Co|Jr|Sr|vs|etc|Fig|Vol|pp|Dept|"
+    r"Mr|Mrs|Ms|Dr|St|Ave|Blvd|Rd|U\.S|D\.C|Fla)\.$",
+    re.I,
+)
+
+
+def looks_like_paragraph_start(prev: str, nxt: str) -> bool:
+    """PDF often starts a new Background paragraph on the next line after a sentence ends."""
+    prev = prev.rstrip()
+    nxt = nxt.strip()
+    if not prev or not nxt:
+        return False
+    if not SENTENCE_END_RE.search(prev):
+        return False
+    if ABBREV_EOL_RE.search(prev):
+        return False
+    i = 0
+    while i < len(nxt) and nxt[i] in "\"'“‘([{":
+        i += 1
+    if i >= len(nxt) or not nxt[i].isupper():
+        return False
+    return True
+
+
+def is_internal_section_header(s: str) -> bool:
+    """ALL-CAPS mini-headers inside prose (e.g. SUBJECT PROPERTY / REQUEST)."""
+    s = s.strip()
+    if not s or len(s) > 90:
+        return False
+    if match_item_field_label(s) is not None or match_commission_district_inline(s) is not None:
+        return False
+    if LEGAL_START_RE.match(s):
+        return False
+    if s.startswith(">") or s.startswith("- ") or s.startswith("<a "):
+        return False
+    if is_markdown_heading_line(s):
+        return False
+    letters = [c for c in s if c.isalpha()]
+    if len(letters) < 5:
+        return False
+    if not all(c.isupper() for c in letters):
+        return False
+    return True
 
 
 def reflow_soft_wraps(text: str) -> str:
@@ -574,6 +624,11 @@ def reflow_soft_wraps(text: str) -> str:
         elif buf.startswith("> "):
             # Non-quote line ends quote paragraph
             flush()
+            buf = s
+        elif looks_like_paragraph_start(buf, s):
+            # Prefer PDF paragraph breaks over aggressive joining (Background etc.)
+            flush()
+            out.append("")
             buf = s
         else:
             buf = join_onto(buf, s)
@@ -733,6 +788,13 @@ def promote_item_field_sections(text: str) -> str:
         s = raw.strip()
         # Drop legacy **RESOLUTION:** / **ORDINANCE:** lead-ins if present
         if s in ("**RESOLUTION:**", "**ORDINANCE:**"):
+            i += 1
+            continue
+        if s and is_internal_section_header(s):
+            if out and out[-1].strip():
+                out.append("")
+            out.append(f"#### {s.strip()}")
+            out.append("")
             i += 1
             continue
         inline = match_commission_district_inline(s) if s else None
