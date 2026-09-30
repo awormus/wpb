@@ -377,6 +377,58 @@ def anchor_id(major: str, minor: Optional[str] = None, letter: Optional[str] = N
     return "-".join(parts)
 
 
+
+
+def split_glued_parent_headings(text: str) -> str:
+    """If a ## parent heading still has mixed-case body glued on, peel it off."""
+    lines = text.splitlines()
+    out: list[str] = []
+    for ln in lines:
+        if ln.startswith("## ") and not ln.startswith("###"):
+            # "## 10. COMMENTS FROM THE PUBLIC Public comments..."
+            rest = ln[3:]  # after ##
+            # Expect "N. title..."
+            m = re.match(r"^(\d{1,2}\.)\s+(.*)$", rest)
+            if m:
+                num, title = m.group(1), m.group(2)
+                short, body = split_parent_title(title)
+                out.append(f"## {num} {short}")
+                if body:
+                    out.append("")
+                    out.append(body)
+                continue
+        out.append(ln)
+    return "\n".join(out)
+
+
+def split_parent_title(title: str) -> tuple[str, str | None]:
+    """Parent agenda titles are ALL-CAPS names; trailing mixed-case prose is body."""
+    title = title.strip()
+    if not title:
+        return title, None
+    words = title.split()
+    caps: list[str] = []
+    i = 0
+    while i < len(words):
+        w = words[i]
+        letters = [c for c in w if c.isalpha()]
+        if letters and all(c.isupper() for c in letters):
+            caps.append(w)
+            i += 1
+            continue
+        if not letters:
+            # keep punctuation tokens with the caps run ("/", "&")
+            if caps:
+                caps.append(w)
+                i += 1
+                continue
+            break
+        if caps and any(c.islower() for c in letters):
+            return " ".join(caps), " ".join(words[i:])
+        break
+    return title, None
+
+
 def promote_items(text: str) -> str:
     lines = text.splitlines()
     out: list[str] = []
@@ -414,12 +466,16 @@ def promote_items(text: str) -> str:
             indent, major, _sp, title = m.groups()
             if looks_like_top_item(major, title, indent):
                 aid = anchor_id(major)
-                label = f"{int(major)}. {title.strip()}"
+                short, body = split_parent_title(title.strip())
+                label = f"{int(major)}. {short}"
                 if out and out[-1].strip():
                     out.append("")
                 out.append(f'<a id="{aid}"></a>')
                 out.append(f"## {label}")
                 out.append("")
+                if body:
+                    out.append(body)
+                    out.append("")
                 continue
 
         out.append(normalize_bullets_line(ln))
@@ -564,8 +620,7 @@ def reflow_soft_wraps(text: str) -> str:
             if (
                 out
                 and buf is None
-                and out[-1].startswith("#")
-                and not out[-1].rstrip("#").endswith(".")
+                and out[-1].startswith("###")
                 and nxt
                 and not is_reflow_hard_start(nxt)
                 and not nxt.startswith("- ")
@@ -596,25 +651,18 @@ def reflow_soft_wraps(text: str) -> str:
             out.append(s)
             continue
 
-        # Soft-wrap continuation of a markdown heading title (item line wrapped in PDF)
+        # Soft-wrap continuation of ### sub-item titles only (never ## parent titles).
+        # Join the whole wrap line — do not split on "N. Sapodilla" style abbreviations.
         if (
             buf is None
             and out
-            and out[-1].startswith("#")
-            and not out[-1].endswith(".")
+            and out[-1].startswith("###")
             and s
             and not s.startswith("- ")
             and not is_predominantly_upper(s)
             and not is_reflow_hard_start(s)
         ):
-            # If this wrap line finishes the title and starts body ("Month. Mayor…"),
-            # keep only the title fragment on the heading.
-            m = re.match(r"^(.*\.)\s+([A-Z].*)$", s)
-            if m:
-                out[-1] = join_onto(out[-1], m.group(1))
-                buf = m.group(2)
-            else:
-                out[-1] = join_onto(out[-1], s)
+            out[-1] = join_onto(out[-1], s)
             continue
 
         if buf is None:
@@ -845,6 +893,7 @@ def clean_extract(raw: str) -> str:
     text = "\n".join(normalize_bullets_line(ln) for ln in text.splitlines())
     text = collapse_whitespace(text)
     text = promote_items(text)
+    text = split_glued_parent_headings(text)
     text = isolate_allcaps_legal_blocks(text)
     text = reflow_soft_wraps(text)
     text = promote_item_field_sections(text)

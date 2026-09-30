@@ -37,8 +37,9 @@ City of West Palm Beach City Commission Agenda Monday, September 28, 2026 5:00 P
 
 
 <a id="item-4"></a>
-## 4. CIVILITY AND DECORUM The City of West Palm Beach is committed to civility and decorum by its officials, employees and members of the public who attend this meeting.
-The City Code, Secs. 2-31(8), 2-31(18) and 2-31(22), provides in pertinent part:
+## 4. CIVILITY AND DECORUM
+
+The City of West Palm Beach is committed to civility and decorum by its officials, employees and members of the public who attend this meeting. The City Code, Secs. 2-31(8), 2-31(18) and 2-31(22), provides in pertinent part:
 - Officials shall be recognized by the Chair and shall not interrupt a speaker.
 - Public comment shall be addressed to the City Commission as a whole and not to any individual on the dais or in the audience.
 - Displays of anger, rudeness, ridicule, impatience, lack of respect and personal attacks are strictly prohibited.
@@ -54,8 +55,7 @@ The City Code, Secs. 2-31(8), 2-31(18) and 2-31(22), provides in pertinent part:
 ## 6. PROCLAMATION
 
 <a id="item-6-1"></a>
-### 6.1. Proclaiming September 15, through October 15, 2026, as National Hispanic Heritage Month.
-Mayor James and City Commissioners selected the following 2026 Heritage Honorees to accept the proclamation: Camila Salazar: Mayor James Brandon Cabrera: Commissioner Peduzzi Dr. Adriana Ortiz-Coffie, CRNA, DNAP: Commissioner Warren Jaime Lara: Commissioner Fox Edgar Ferreira: Commissioner Sylvester
+### 6.1. Proclaiming September 15, through October 15, 2026, as National Hispanic Heritage Month. Mayor James and City Commissioners selected the following 2026 Heritage Honorees to accept the proclamation: Camila Salazar: Mayor James Brandon Cabrera: Commissioner Peduzzi Dr. Adriana Ortiz-Coffie, CRNA, DNAP: Commissioner Warren Jaime Lara: Commissioner Fox Edgar Ferreira: Commissioner Sylvester
 
 #### Originating Department
 
@@ -63,8 +63,9 @@ Mayor's Office
 
 
 <a id="item-7"></a>
-## 7. CONSENT CALENDAR All items listed under the consent calendar are considered routine and will be enacted by one motion.
-There will be no separate discussion of these items.
+## 7. CONSENT CALENDAR
+
+All items listed under the consent calendar are considered routine and will be enacted by one motion. There will be no separate discussion of these items.
 
 <a id="item-7-1"></a>
 ### 7.1. Minutes of the July 20, 2026, Regular City Commission Meeting.
@@ -75,8 +76,7 @@ Mayor's Office
 
 
 <a id="item-7-2"></a>
-### 7.2. Resolution No. 181-26 accepting a donation of a Forensic Robotic Mapping System from the Palm Beach County Sheriff’s Office for an approximate value of $17,000.
-The equipment will be used by the West Palm Beach Police Department for law enforcement activities; and Resolution No. 226-26(F) appropriating the receipt of a Leice TS16 Robotic Mapping System with a total approximate value of $17,000.
+### 7.2. Resolution No. 181-26 accepting a donation of a Forensic Robotic Mapping System from the Palm Beach County Sheriff’s Office for an approximate value of $17,000. The equipment will be used by the West Palm Beach Police Department for law enforcement activities; and Resolution No. 226-26(F) appropriating the receipt of a Leice TS16 Robotic Mapping System with a total approximate value of $17,000.
 
 #### Originating Department
 
@@ -161,8 +161,7 @@ Enforcement areas of operation are within the boundaries of Commission Districts
 Approval of this item will provide reimbursement for overtime costs incurred for the public education and enforcement of bicycle and pedestrian safety in the amount of $36,716.
 
 <a id="item-7-4"></a>
-### 7.4. Resolution No. 220-26 accepting a donation of three (3) patrol bicycles from the Downtown Development Authority for an approximate value of $10,320.
-The equipment will be used by the West Palm Beach Police Department for downtown law enforcement activities; and Resolution No. 227-26(F) recognizing and accepting the donation of the equipment with a total approximate value of $10,320.
+### 7.4. Resolution No. 220-26 accepting a donation of three (3) patrol bicycles from the Downtown Development Authority for an approximate value of $10,320. The equipment will be used by the West Palm Beach Police Department for downtown law enforcement activities; and Resolution No. 227-26(F) recognizing and accepting the donation of the equipment with a total approximate value of $10,320.
 
 #### Originating Department
 
@@ -405,8 +404,7 @@ Lift Station #88 is located in Commission District 2: Commissioner Shalonda Warr
 The project is funded from the Water-Sewer Renewal & Replacement Fund. An accepted Department of Environmental Protection grant of $405,000 also contributes to the funding of this project.
 
 <a id="item-8-2"></a>
-### 8.2. Resolution No. 214-26 finding that a City-owned strip of land located at 209 N.
-Sapodilla is not needed for City purposes, declaring the property as surplus, and authorizing the method of disposition to be negotiation of a conveyance agreement with Related Ross.
+### 8.2. Resolution No. 214-26 finding that a City-owned strip of land located at 209 N. Sapodilla is not needed for City purposes, declaring the property as surplus, and authorizing the method of disposition to be negotiation of a conveyance agreement with Related Ross.
 
 #### Originating Department
 
@@ -644,13 +642,17 @@ Resolution No. 208-26 authorizes the abandonment of a portion of Winters Street,
 
 
 <a id="item-10"></a>
-## 10. COMMENTS FROM THE PUBLIC Public comments are limited to three (3) minutes.
-Anyone wishing to address the Commission should complete a "Comments by the Public" card and present it to the City Clerk prior to the Public Comments. When you are called to speak, please go to the podium and state your name and address for the record prior to addressing Commission. The Commission will not discuss the matter nor respond to the comment this evening. Comments made will become part of the record and may be addressed at a later date.
+## 10. COMMENTS FROM THE PUBLIC
+
+Public comments are limited to three (3) minutes. Anyone wishing to address the Commission should complete a "Comments by the Public" card and present it to the City Clerk prior to the Public Comments. When you are called to speak, please go to the podium and state your name and address for the record prior to addressing Commission. The Commission will not discuss the matter nor respond to the comment this evening. Comments made will become part of the record and may be addressed at a later date.
 
 <a id="item-11"></a>
 ## 11. COMMENTS BY THE MAYOR AND CITY COMMISSIONERS
 
 
 <a id="item-12"></a>
-## 12. ADJOURNMENT *Pursuant to Resolution No. 179-95, adopted according to the provisions of Section 286.0115, Florida Statutes, members of the Commission shall disclose on the record: 1) ex-parte communications - verbal or written; 2.) written communications shall be placed in the record; and 3) site visits, investigations, etc. shall be disclosed.
+## 12. ADJOURNMENT
+
+*Pursuant to Resolution No. 179-95, adopted according to the provisions of Section 286.0115, Florida Statutes, members of the Commission shall disclose on the record: 1) ex-parte communications - verbal or written; 2.) written communications shall be placed in the record; and 3) site visits, investigations, etc. shall be disclosed.
+
 NOTICE: If any person decides to appeal any decision made by the City Commission at this meeting, that person will need a record of the proceedings, and that, for such purposes, may need to ensure that a verbatim records of the proceedings be made, which record includes the testimony and evidence upon which the appeal is based. The City of West Palm Beach does not prepare or provide such record.
