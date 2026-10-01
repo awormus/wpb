@@ -1,0 +1,646 @@
+---
+date: 2025-02-03
+doc_type: agenda
+title: Final City Commission Agenda
+meeting: Regular City Commission Meeting
+official_pdf: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2025-agendas/2025-final-city-commission-agendas/02_03_25_final-city-commission-agenda.pdf
+retrieved: 2026-10-01
+extractor: pdftotext + civic-pdf-cleanup
+notes: >
+  Plain-text extract of the official PDF. Binary PDF not stored in this repo.
+---
+
+# Final City Commission Agenda — 2025-02-03
+
+**Official PDF (wpb.org):** [02_03_25_final-city-commission-agenda.pdf](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2025-agendas/2025-final-city-commission-agendas/02_03_25_final-city-commission-agenda.pdf)
+
+Text extract below is for search and deep-linking. The official PDF is authoritative.
+
+---
+
+401 Clematis Street West Palm Beach, Florida 33401 (561) 822-2222 (TTY) 800-955-8771 www.wpb.org Mayor Keith A. James Commission President Cathleen Ward (District 1) Commissioner Shalonda Warren (District 2) Commissioner Christy Fox (District 3) Commissioner Joseph A. Peduzzi (District 4) Commissioner Christina Lambert (District 5)
+
+City Administrator Faye W. Johnson City Attorney Kimberly Rothenburg City Clerk Shaquita Edwards
+
+City of West Palm Beach City Commission Agenda Monday, February 3, 2025 5:00 PM In accordance with the provisions of the Americans with Disabilities Act (ADA), persons in need of a special accommodation to participate in this proceeding shall, within three days prior to any proceeding, contact the City Clerk's Office, 401 Clematis Street, West Palm Beach, FL 33401, (561) 822-1210.
+
+<a id="item-1"></a>
+## 1. CALL TO ORDER
+
+
+<a id="item-2"></a>
+## 2. MOMENT OF SILENCE
+
+
+<a id="item-3"></a>
+## 3. PLEDGE OF ALLEGIANCE
+
+
+<a id="item-4"></a>
+## 4. CIVILITY AND DECORUM
+
+The City of West Palm Beach is committed to civility and decorum by its officials, employees and members of the public who attend this meeting. The City Code, Secs. 2-31(8), 2-31(18) and 2-31(22), provides in pertinent part:
+- Officials shall be recognized by the Chair and shall not interrupt a speaker.
+- Public comment shall be addressed to the City Commission as a whole and not to any individual on the dais or in the audience.
+- Displays of anger, rudeness, ridicule, impatience, lack of respect and personal attacks are strictly prohibited.
+- Unauthorized remarks from the audience, stamping of feet, whistles, yells and similar demonstrations shall not be permitted.
+- Offenders may be removed from the meeting.
+- Any person desiring to address the Commission shall file a written request with the city clerk prior to consideration of the matter by the Commission or prior to the public comment portion of a meeting. The person wishing to speak shall complete a comment card for each agenda item the person wishes to address, which shall include the person's full name, address, and the numbered agenda item. The person will not be recognized if the comment card is not completed.
+
+
+City Commission - Feb 03 2025
+
+<a id="item-5"></a>
+## 5. ADDITIONS / DELETIONS / REORGANIZATION OF AGENDA
+
+
+<a id="item-6"></a>
+## 6. PROCLAMATION
+
+<a id="item-6-1"></a>
+### 6.1. Proclaiming February 11-17, 2025 as: 211 Awareness Week. Proclamation to be accepted by Sharon L’Herrou, President/CEO for 211 Palm Beach and Treasure Coast.
+
+#### Originating Department
+
+Mayor's Office
+
+
+<a id="item-6-2"></a>
+### 6.2. Proclaiming February 2025 as Black History Month and Recognition of 2025 Heritage Honorees:
+Ava C. Parker:
+Mayor James
+Tonia Rich:
+Commissioner Ward
+Everett C. Fennel:
+Commissioner Warren
+Alexcia L. Cox:
+Commissioner Fox
+Dr. Emma Banks:
+Commissioner Peduzzi Pastor Jamian Lovett: Commissioner Lambert
+
+#### Originating Department
+
+Mayor's Office
+
+
+<a id="item-7"></a>
+## 7. PRESENTATION
+
+<a id="item-7-1"></a>
+### 7.1. Mayoral Tribute Presentation to Gunster, in recognition of its centennial celebration of being a business serving the City of West Palm Beach, Palm Beach County, and the State of Florida. The following Gunster representatives accepting the Tribute are: (1) Bill Perry - Chief Executive Officer; Managing Shareholder, Board of Directors; and (2) George LeMieux - Chairman of the Board of Directors; Shareholder.
+
+#### Originating Department
+
+Mayor's Office
+
+
+<a id="item-8"></a>
+## 8. APPOINTMENTS
+
+<a id="item-8-1"></a>
+### 8.1. Ratification of the Mayor's appointment of Antonio Araujo to the position of Chief of Police.
+
+#### Originating Department
+
+Mayor's Office
+
+#### Staff Recommended Motion
+
+Motion to ratify the Mayor's appointment of Antonio Araujo for the position of Chief of Police.
+
+
+City Commission - Feb 03 2025
+
+#### Background Information
+
+It is requested the City Commission ratify the appointment of Antonio Araujo as Chief of Police for the West Palm Beach Police Department.
+
+According to Section 2.09 of the City's Charter and related laws, the Chief of Police shall be appointed by the Mayor subject to the ratification of the City Commission acting by three (3) affirmative votes.
+
+#### Fiscal Note
+
+Current Year: Budgeted. No fiscal impact.
+
+<a id="item-9"></a>
+## 9. CONSENT CALENDAR
+
+All items listed under the consent calendar are considered routine and will be enacted by one motion. There will be no separate discussion of these items.
+
+<a id="item-9-1"></a>
+### 9.1. Resolution No. 20-25(F) accepting and appropriating funds in the amount of $56,675 from the West Palm Beach Library Foundation for the Mandel Public Library of West Palm Beach to continue to fund a full-time Licensed Social Worker and "Be Well at Mandel" programming initiatives.
+
+#### Originating Department
+
+Library
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 20-25(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2024-2025 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE GRANT PROGRAMS SPECIAL REVENUE FUND BUDGET TO PROVIDE APPROPRIATIONS FOR THE RECEIPT OF WEST PALM BEACH LIBRARY FOUNDATION FOR A FULL-TIME LICENSED SOCIAL WORKER AND PROGRAMMING RELATED TO SOCIAL WORK SERVICES AT THE MANDEL PUBLIC LIBRARY OF WEST PALM BEACH; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+To assist in funding enhanced services at the Mandel Public Library of West Palm Beach, in Resolution No. 6-10, the Commission authorized the Mayor to execute an agreement between the City of West Palm Beach and the West Palm Beach Library Foundation Inc. ("Foundation") allowing the Foundation to solicit donations for the Mandel Public Library of West Palm Beach.
+
+The Foundation has partnered with The Jim Moran Foundation to generously continue to fund the library's "Be Well at Mandel"
+
+
+City Commission - Feb 03 2025
+
+programming initiative, which includes funding a full-time licensed social worker to work exclusively at the Mandel Public Library. This will allow the library to continue providing mental health and well-being programming and services for youth and families. While librarians regularly refer patrons to the City of West Palm Beach’s Eva W. Mack Community Hub and other social service organizations, librarians have not traditionally been trained in trauma-informed service or given the tools to understand how Adverse Childhood Experiences (ACEs) affect youth and, when left unaddressed, the adults they become. Funding will allow library staff to receive much-needed training in these key areas. Library staff will continue to partner with Housing and Community Development and other neighboring organizations to provide holistic services for our patrons in need.
+
+The funding of $56,675 will provide the salary for the remainder of FY2024-2025 for the current Social Worker on staff.
+
+#### Fiscal Note
+
+Approval will recognize a contribution from the Library Foundation, providing appropriations for the "Be Well at Mandel" programming, and continuing funding for the License Social Worker.
+
+<a id="item-9-2"></a>
+### 9.2. Resolution No. 21-25 authorizing the use of the Mandel Public Library of West Palm Beach for an on-the-job training workforce experience program by Independence Works, Inc., in cooperation with the Florida Department of Education and the Division of Vocational Rehabilitation.
+
+#### Originating Department
+
+Library
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 21-25: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING USE OF THE MANDEL PUBLIC LIBRARY OF WEST PALM BEACH AS A WORKSITE FOR THE FLORIDA DIVISION OF VOCATIONAL REHABILITATION ON-THE-JOB TRAINING OPPORTUNITY FOR A TERM OF THREE (3) YEARS; APPROVING ON-THE-JOB TRAINING AGREEMENTS AMONG THE CITY, INDEPENDENCE WORKS, INC., AND TRAINEES; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+Independence Works, Inc. is a non-profit organization specializing in job seekers who experience barriers to employment. Independence Works (Employer/Provider), in cooperation with the Florida Department of Education and the Division of Vocational Rehabilitation, desires to place a person (Trainee) with a disability at the Mandel Public Library of West Palm Beach (Worksite) to gain job knowledge and experience by learning basic library assistant tasks such as shelving, organizing materials,
+
+
+City Commission - Feb 03 2025
+
+checking in library materials and setting up programs. The work schedule will consist of fifteen (15) hours per week for twelve (12) weeks, and the trainee will be supervised by library staff. The Trainee will be paid by the Employer and insured through the State of Florida.
+
+A vocational rehabilitation counselor will visit the library each week to review the progress of the Trainee, provide feedback and/or counseling from the Trainee and the Worksite.
+
+The City of West Palm Beach is committed to promoting diversity and inclusion by working together with community-based organizations to help people with disabilities feel welcome and provide them opportunities to participate in work activities and reach their full potential.
+
+#### Fiscal Note
+
+No fiscal impact.
+
+<a id="item-9-3"></a>
+### 9.3. Resolution No. 24-25 for the execution of a Utility Work by Highway Contractor Agreement (UWHCA) with the State of Florida Department of Transportation (FDOT) for City Utility Work in conjunction with State Road No. A1A Milling & Resurfacing (Ibis Way to Emerald Beach Way) in the Town of Palm Beach; and Resolution No. 30-25(F) authorizing the appropriation or transfer of City funds in Fiscal Year 2024-2025 to amend the water and sewer renewal and replacement fund budget to provide appropriations for utility relocation within FDOT State Road A1A improvements project on S. Ocean Boulevard from Ibis Way to Emerald Beach Way in the Town of Palm Beach.
+
+#### Originating Department
+
+Public Utilities
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 24-25: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING A UTILITY WORK BY HIGHWAY CONTRACTOR AGREEMENT BETWEEN THE CITY OF WEST PALM BEACH AND FLORIDA DEPARTMENT OF TRANSPORTATION RELATING TO FDOT’S RESURFACING OF STATE ROAD A1A FROM IBIS WAY TO EMERALD BEACH WAY IN THE TOWN OF PALM BEACH; PROVIDING FOR AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+> RESOLUTION NO. 30-25(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2024/2025 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM
+
+
+City Commission - Feb 03 2025
+
+#### BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE WATER
+
+#### AND SEWER RENEWAL AND REPLACEMENT FUND BUDGET TO
+
+#### PROVIDE APPROPRIATIONS FOR UTILITY RELOCATION WITHIN
+
+#### THE STATE OF FLORIDA DEPARTMENT OF TRANSPORTATION
+
+#### STATE ROAD A1A IMPROVEMENTS PROJECT ON S. OCEAN
+
+#### BOULEVARD FROM IBIS WAY TO EMERALD BEACH WAY IN THE
+
+#### TOWN OF PALM BEACH; PROVIDING AN EFFECTIVE DATE; AND
+
+#### FOR OTHER PURPOSES.
+
+#### Background Information
+
+In August 2025, the Florida Department of Transportation (FDOT) will be soliciting bids for the improvements of State Road No. A1A Milling & Resurfacing on S. Ocean Boulevard from Ibis Way to Emerald Beach Way in the Town of Palm Beach (“FDOT Project"). The FDOT Project involves milling and resurfacing, guardrail and incidental drainage improvements.
+
+Within the 2.5-mile length FDOT Project corridor, improvements of City's existing utilities will be required. The construction by FDOT is anticipated to begin in May 2026 for a duration of approximately nine (9) months.
+
+Within the FDOT Project corridor, the existing City’s 12-inch water mains at two (2) locations conflict with the proposed improvements and will need to be relocated. The City’s utility relocation will be accomplished in two (2) phases. Phase 1 consists of relocating the existing City utilities that directly conflict with the proposed improvements. This phase will be accomplished by the City’s Contractor and must be completed prior to November 2025, the end of the Town's construction window. Phase 2, which involves adjustment of fifty (50) valve boxes to proposed finished grade, will be performed as part of the FDOT Project (Utility Work).
+
+FDOT and the City have determined that it is in the best interest of the public and to the economic advantage of both parties to enter into a Utility Work by Highway Contractor Agreement (UWHCA) to accomplish the City's utility improvements ("Agreement"). Accordingly, the City’s related utility work will be competitively bid as part of the FDOT project and constructed by the FDOT Contractor. Under the terms of the Agreement, the City shall reimburse FDOT a total estimated amount of $47,600 for the cost of the Utility Work. This amount includes the cost of utility items plus ten percent (10%) construction contingency and two percent (2%) CEI (Construction Engineering Inspection).
+
+Resolution No. 24-25 approves the UWHCA with FDOT for the City’s incidental utility adjustments within State Road No. A1A Milling & Resurfacing project (Ibis Way to Emerald Beach Way).
+
+Resolution No. 30-25(F) appropriates $550,000 from Public Utilities Water and Sewer Renewal and Replacement Fund reserve for future projects for utility relocation/adjustment in Phase 1 and Phase 2, which includes
+
+
+City Commission - Feb 03 2025
+
+$47,600 for the Utility Work by Highway Contractor Agreement with FDOT ("Agreement").
+
+This project is located in the Town of Palm Beach.
+
+#### Fiscal Note
+
+Post approval, the Fund 454 Water and Sewer Renewal and Replacement Reserve for Future Projects balance will be approximately $4.8M.
+
+<a id="item-9-4"></a>
+### 9.4. Resolution No. 27-25(F) providing appropriations from State Law Enforcement Forfeiture Funds of $23,513 to purchase law enforcement crime scene equipment.
+
+#### Originating Department
+
+Police
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 27-25(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2024/2025 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE MISCELLANEOUS TRUST FUND BUDGET TO PROVIDE APPROPRIATIONS FROM THE STATE LAW ENFORCEMENT FORFEITURE RECEIPTS IN THE AMOUNT OF $23,513.00 FOR LAW ENFORCEMENT CRIME SCENE INVESTIGATION EQUIPMENT TO FURTHER COMPLEX CRIMINAL INVESTIGATIONS; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+The West Palm Beach Police Department (WPBPD) Crime Scene Investigation (CSI) Unit handles a large amount of biologically stained evidence on a continual basis. These types of cabinets dry this type of biological evidence in a safe environment and avoid any type of crosscontamination. It is critical for the successful prosecution of criminal cases that biological evidence is preserved in this manner.
+
+The WPBPD CSI Unit needs specialty equipment for the above-stated crime scene investigation functions. The Crime Scene Unit selected the Safe Keeper Forensic Evidence Drying Cabinet.
+
+Safe KEEPER® Series Forensic Evidence Drying Cabinets are designed to store, dry, or otherwise process forensic evidence in the controlled environment of a tamper-resistant compartment to maintain the chain of custody. The industry-leading Multiplex™ Filtration System, combined with professional design and construction, offer convenience and protects the safety of personnel during use, maintenance, and decontamination of
+
+
+City Commission - Feb 03 2025
+
+the cabinets. The cost of the equipment is $23,513.
+
+Pursuant to the Florida Contraband Forfeiture Act, any local law enforcement agency that acquires at least $15,000 within a fiscal year must expend or donate no less than 25 percent (25%) of such proceeds.
+
+These funds may be expended upon request by the Chief of Police to the City Commission and upon appropriation to the Police Department's miscellaneous trust fund. Such funds may be used only for school resource officers, crime prevention, safe neighborhood, drug abuse education, drug prevention programs, or such other law enforcement purposes as the governing body of the municipality deems appropriate.
+
+If the seizing agency is a county or municipal agency, the remaining proceeds shall be deposited in a special law enforcement trust fund established by the board of county commissioners or the governing body of the municipality. Such proceeds and interest earned therefrom shall be used for school resource officers, crime prevention, safe neighborhood, drug abuse education and prevention programs, or other law enforcement purposes, which include defraying the cost of protracted or complex investigations, providing additional equipment or expertise, purchasing automated external defibrillators for use in law enforcement vehicles, and providing matching funds to obtain federal grants. The proceeds and interest may not be used to meet normal operating expenses of the law enforcement agency.
+
+The Police Chief certifies the requested expenditures are in compliance with the Florida Contraband Forfeiture Act, specifically F.S.S. 932.7055(5)(a).
+
+#### Fiscal Note
+
+Approval will recognize State Forfeiture proceeds appropriations for the purchase of CSI Equipment.
+
+<a id="item-9-5"></a>
+### 9.5. and provide Resolution No. 37-25 approving a Consent Order with the Department of Environmental Protection Consent Order regarding the Waterfront Docks; and Resolution No. 42-25(F) appropriating funds from Visit Palm Beach to pay the $5,000 settlement.
+
+#### Originating Department
+
+Parks and Recreation
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 37-25: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING A DEPARTMENT OF ENVIRONMENTAL PROTECTION CONSENT ORDER REGARDING THE CITY WATERFRONT DOCKS;
+
+
+City Commission - Feb 03 2025
+
+#### PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+
+> RESOLUTION NO. 42-25(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2024/2025 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE WATERFRONT DISTRICT FUND BUDGET TO PROVIDE APPROPRIATIONS FROM VISIT PALM BEACH FOR THE SETTLEMENT OF THE FLORIDA
+
+#### DEPARTMENT
+
+OF
+
+#### ENVIRONMENTAL PROTECTION CONSENT ORDER; PROVIDING AN
+
+#### EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+On January 14, 2025, the City of West Palm Beach, as the permit holder and operator for the Waterfront Docks, received a settlement offer from the Department of Environmental Protection (“DEP”) regarding several violations, which were observed during an inspection by the Department of Environmental Protection on May 30, 2024.
+
+During the inspection, the violations included missing signage, dock railings, and unauthorized floating vessel platforms with more than one commercial vessel overnight.
+
+Visit Palm Beach, who has provided water based activities from the docks, has agreed to pay the City the $5,000 Consent Order settlement, and the City shall pay DEP the settlement of $5,000 for the matters addressed in the Consent Order. Additionally, the City will be required to inspect the restoration area semi-annually for two (2) years for the purpose of monitoring the success of the natural revegetation of seagrasses.
+
+Resolution No. 37-25 and Resolution No. 42-25(F) approves the proposed Consent Order and allocation of funds for the settlement.
+
+#### Commission District
+
+3: Commissioner Christy Fox.
+
+#### Fiscal Note
+
+Approval of this item recognizes and appropriates the funding from Visit Palm Beach to pay a $5,000 Consent Order settlement to the DEP.
+
+
+City Commission - Feb 03 2025
+
+<a id="item-10"></a>
+## 10. RESOLUTIONS
+
+<a id="item-10-1"></a>
+### 10.1. Resolution No. 13-25 adopting a "Complete Streets" policy to enhance safety for our residents and visitors.
+
+#### Originating Department
+
+Engineering
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 13-25: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, ADOPTING A COMPLETE STREETS POLICY; PROVIDING FOR AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Resolution No. 13-25.
+
+#### Background Information
+
+Complete Streets is a nationally recognized term referring to an approach to planning, designing, building, operating, and maintaining streets that enable safe access for all users, including pedestrians, bicyclists, motorists, transit riders, freight and services operators, as well as emergency responders. The intention of the “Complete Streets” approach is to provide safe, equitable, and convenient use of city streets that accommodate people of all ages and abilities.
+
+The Palm Beach Transportation Planning Agency adopted the Complete Streets policy, as well as several municipalities within Palm Beach County.
+
+The City of West Palm Beach incorporated Complete Streets principles, in accordance with the City's Transportation Element of the Comprehensive Plan, for the past decade, without the official adoption of a policy.
+
+The City continues to strive to develop a safe, reliable, efficient, integrated, connected, and livable multimodal transportation system that best enables access, mobility, economic development, aesthetics, health, and well-being for people of all ages and abilities and supports the enhancement and sustainability of the environment.
+
+Resolution No. 13-25 adopts the City of West Palm Beach Complete Streets Policy.
+
+#### Commission District
+
+1: Commissioner Cathleen Ward.
+
+#### Commission District
+
+2: Commissioner Shalonda Warren.
+
+#### Commission District
+
+3: Commissioner Christy Fox.
+
+#### Commission District
+
+4: Commissioner Joseph Peduzzi.
+
+#### Commission District
+
+5: Commissioner Christina Lambert.
+
+
+City Commission - Feb 03 2025
+
+#### Fiscal Note
+
+No fiscal impact.
+
+<a id="item-11"></a>
+## 11. PUBLIC HEARING
+
+<a id="item-11-1"></a>
+### 11.1. Public Hearing and Second Reading of Ordinance No. 5118-24 amending the Code of Ordinances at Chapter 2 to reflect the name change of the Office of Small and Minority Business Programs; and at Chapter 66 to amend the definition of small business; establish small business participation as a requirement when set; increasing the maximum small business participation to 18% for construction and master contracts; and reorganizing and clarifying several provisions.
+
+#### Originating Department
+
+Mayor's Office
+
+#### Ordinance/Resolution
+
+
+> ORDINANCE NO. 5118-24: AN ORDINANCE OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AMENDING THE CODE OF ORDINANCES AT CHAPTER 2 – ADMINISTRATION, DIVISION 1 – MAYOR’S OFFICE, TO REFLECT THE NAME CHANGE OF THE OFFICE OF SMALL AND MINORITY BUSINESS PROGRAMS; FURTHER AMENDING THE CODE OF ORDINANCES AT CHAPTER 66 – PROCUREMENT, ARTICLE IX – SMALL BUSINESS PROGRAM, TO REFLECT THE OFFICE NAME; AMENDING THE DEFINITION OF SMALL BUSINESS; ESTABLISHING SMALL BUSINESS PARTICIPATION AS REQUIRED WHEN A PARTICIPATION LEVEL IS ESTABLISHED; INCREASING THE MAXIMUM SMALL BUSINESS PARTICIPATION TO 18% FOR CONSTRUCTION AND MASTER CONTRACTS UNDER THE PROGRAM; AND REORGANIZING AND CLARIFYING SEVERAL PROVISIONS; PROVIDING A CONFLICTS CLAUSE, A CODIFICATION CLAUSE, AND A SEVERABILITY CLAUSE; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Ordinance No. 5118-24 on Second Reading.
+
+#### Background Information
+
+It is the policy of the City of West Palm Beach that all businesses be afforded an opportunity for full participation in the City’s procurement system. In enactment of the policy, the City of West Palm Beach established its Small Business Program Ordinance to spur economic development by encouraging small businesses to locate and remain in Palm Beach County, especially within the City, and to provide for participation of small businesses in City contracts.
+
+The City’s Office of Economic Opportunity was established by Mayor Keith A. James to ensure fair business practices in the City of West Palm
+
+
+City Commission - Feb 03 2025
+
+Beach. For clarification, the office has since been renamed as the Office of Small and Minority Business Programs (”OSMB”). The OSMB is responsible for coordinating and facilitating programs that foster workforce development, business development, and professional education and training. The OSMB welcomes small-, minority-, and women-owned businesses to be active participants in the City’s procurement process. The OSMB educates and informs all businesses on how to work with the City. OSMB staff also tracks the compliance of City departments and prime contractors on their inclusivity, diversity and accessibility of procurement solicitation.
+
+Since the intuition of their small business programs, the City and Palm Beach County have maintained the same definition of a small business, in order to be able to recognize each other’s certified small businesses and not require these businesses to be certified by both government agencies. Palm Beach County's recent market analysis has caused the County to adjust the annual adjusted gross margin of a business to be considered a “small business.” The City desires to maintain reciprocity with Palm Beach County and desires to amend the definition of small business to mirror the County’s definition.
+
+OSMB staff worked to engage and educate small businesses throughout the City and collected sufficient data to demonstrate that a higher level of small business participation can be maintained and recommends amendment of the Small Business Program Ordinance to establish an 18% participation by small businesses in all contracts under the program.
+
+Additionally, to clarify and strengthen the intent behind the Small Business Program, the OSMB recommends that small business participation in City contracts for construction and master contracts be required rather than considered merely a goal.
+
+Ordinance No. 5118-24 reflects the Office of Small and Minority Business Programs' name change; amends the definition of small business; establishes small business participation as a requirement for construction and master contracts and when otherwise set; increases the maximum small business participation to 18% for construction and master contracts; and reorganizes and clarifies several provisions.
+
+#### Fiscal Note
+
+No
+
+#### fiscal
+
+
+impact.
+
+
+City Commission - Feb 03 2025
+
+<a id="item-11-2"></a>
+### 11.2. Public Hearing and Second Reading of Ordinance No. 5123-25: A Cityinitiated request for a text amendment to Chapter 94, the Zoning and Land Development Regulations, Article XVII, Affordable and Workforce Housing, to increase the Broadway Mixed Use District (BMUD) incentives from three (3) to seven (7) floors, to provide clarification in cases where a property is requesting an upzoning that the 50% bonus units shall be taken from the original base zoning of the property, provide clarification of maximum Floor Area Ratio allowed and authorizing limited variance and waivers review for Live Local workforce housing developments by the City Commission.
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> ORDINANCE NO. 5123-25: AN ORDINANCE OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AMENDING THE CODE OF ORDINANCES OF THE CITY OF WEST PALM BEACH, FLORIDA, AT CHAPTER 94, ZONING AND LAND DEVELOPMENT REGULATIONS; ARTICLE XVII – AFFORDABLE AND WORKFORCE HOUSING; SECTION 94-551 (LIVE LOCAL WORKFORCE HOUSING DEVELOPMENT) TO PROVIDE FOR COMMISSION REVIEW OF VARIANCE OR WAIVER REQUESTS; SECTION 94-552 (AFFORDABLE AND WORKFORCE HOUSING OVERLAY (AWHO) DEVELOPMENT) TABLE XVII-1 TO INCREASE BMUD INCENTIVES FROM THREE (3) ADDITIONAL FLOORS TO SEVEN (7) ADDITIONAL FLOORS AND AUTHORIZING LIMITED VARIANCE AND WAIVER REVIEW FOR LIVE LOCAL WORKFORCE HOUSING DEVELOPMENTS, TO PROVIDE CLARIFICATION FOR THE BONUS UNITS IN CASES OF UPZONINGS AND PROVIDE CLARIFICATION OF THE MAXIMUM FLOOR AREA RATIO ALLOWED; DECLARING THESE AMENDMENTS TO BE CONSISTENT WITH THE COMPREHENSIVE PLAN OF THE CITY; PROVIDING A CONFLICTS CLAUSE, A CODIFICATION CLAUSE, AND A SEVERABILITY CLAUSE; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Ordinance No. 5123-25 amending Chapter 94, Zoning and Development Regulations, Article XVII - Affordable and Workforce Housing. This motion is based upon the factual testimony presented, the staff report, the recommendation of the Planning Board, and the findings that the proposed amendment complies with all the amendment standards found in Section 94-32 of the City's Zoning and Land Development Regulations.
+
+#### Background Information
+
+(The information provided below is a general summary of the proposed text amendment. A full analysis is included in the Staff Report).
+
+In December 2022, the City enacted Resolution No. 306-22, which
+
+
+City Commission - Feb 03 2025
+
+approved interim standards for Commission review of residential projects, which increased the supply of affordable and workforce housing by granting increases in density and expediting the review process as permitted under Section 166.0451, Florida Statute. In July 2023, the interim program established under Resolution No. 306-22 was preempted by further changes to 166.04151, F.S. known as the State’s Live Local Act. On July 22, 2024, the City Commission approved Ordinance No. 5103-24 that adopted program provisions in the code to re-implement their workforce housing production program. Additionally, the City is also continuing to address the housing policy requirements of Section 166.04151 Florida Statute as permitted under the current version of the Live Local Act.
+
+The Live Local Act provides for administrative approval of projects meeting the statutory requirements and all City ZLDRs but does not prohibit the City from creating a process allowing for waivers and variances for projects that otherwise meet the statutory requirements.
+
+This amendment also adds a definition for transit stops and, in conjunction with the update of the Broadway Mixed Use District (BMUD) regulations, amends the additional floors allowed for affordable/workforce projects from three (3) floors to seven (7) floors and provides clarification for when a property is upzoned. The percentage of bonus units is taken from the original base zoning district.
+
+The Planning Board recommended approval with conditions (6-1) of this request to the City Commission after a Public Hearing on December 17, 2024, based on the testimony presented at the hearing, along with the application submitted, and the Staff Report, that the request does comply with the standards for the Text Amendment.
+
+<a id="item-12"></a>
+## 12. PUBLIC HEARING - QUASI-JUDICIAL
+
+Disclosure of ex-parte communications, if any* Swearing-in of witnesses.
+
+<a id="item-12-1"></a>
+### 12.1. Public Hearing of Resolution No. 284-24: A request by Docks & More Construction Co. on behalf of Joe Marx for a Class A Special Use Permit (with a waiver) for a dock and boat lift to have a length greater than 100 feet located at the subject property 8002 Flagler Court.
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 284-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING A CLASS A SPECIAL USE PERMIT TO CONSTRUCT A DOCK ON THE PROPERTY LOCATED AT 8002 FLAGLER COURT; DECLARING THE DEVELOPMENT TO BE CONSISTENT WITH THE
+
+
+City Commission - Feb 03 2025
+
+#### COMPREHENSIVE PLAN OF THE CITY; GRANTING WAIVERS TO
+
+#### THE ZONING AND LAND DEVELOPMENT REGULATIONS;
+
+#### PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Resolution No. 284-24.
+
+Based on the findings that the petition meets the required standards in Section 94-36(e)(3) through (5), Sections 94-313(a)(3), and Section 94273(a)(2) of the City of West Palm Beach Zoning and Land Development Regulations (ZLDRs).
+
+#### Background Information
+
+#### (THE INFORMATION PROVIDED BELOW IS A GENERAL SUMMARY.
+
+#### A FULL ANALYSIS IS INCLUDED IN THE STAFF REPORT.)
+
+The subject property is located at 8002 Flagler Court and is 0.26 acres in size. The rear of the property (south side of the property) has access to non-contiguous riparian rights to the Intracoastal Waterway.
+
+Per Section 94-313(a)(3) (i.) of the ZLDRs, the length of the proposed dock shall be measured from the seawall to the furthest point of the dock, finger pier, or terminal platform (excluding dolphins, pilings, and other mooring-related facilities). The maximum dock length cannot exceed 100 feet in length. As noted above, the applicant is seeking the approval of a Class A Special Use Permit to allow the dock to extend beyond the maximum allowable length of 100 feet.
+
+The applicant stated in their justification statement that additional length is needed in order to reach safe water depths to properly moor vessels at low tide and rough tidal conditions. If the dock were designed in compliance with the ZLDRs, it would prevent the applicant from having an adequate dock to enjoy and be unable to provide proper mooring-related needs. The waiver request is summarized below:
+
+#### WAIVER REQUESTED: SECTION 94-313(A)(3)(I.) – DOCK LENGTH
+
+Length Allowed 100 Feet
+
+Proposed Length 131 Feet
+
+Waiver Requested 31 Feet
+
+Per the ZLDRs, accessory docks are permitted by right on properties possessing riparian rights, provided the construction of the dock (and all mooring-related structures associated with the dock) conform to the standards in Section 94-313(a)(3) for dimensional and locational requirements. In the event the applicant cannot meet all the standards set forth in the ZLDRs, the applicant may request waivers from the standards with a Class A Special Use Permit to be reviewed and considered by the City Commission.
+
+
+City Commission - Feb 03 2025
+
+The Planning Board recommended approval (7-0) of this request to the City Commission after a Public Hearing on November 19, 2024, based on the testimony presented at the hearing, along with the application submitted and the Staff Report, that the request does comply with the standards for the Class A Special Use Permit.
+
+#### NOTICES
+
+Pursuant to the requirements of Section 94-39(i)(5) and 94-39(j)(2) of the City’s Zoning and Land Development Regulations, the site was posted, individual notices were mailed to property owners within 500 feet of the subject property, and the resolution was advertised in the Palm Beach Post.
+
+#### Commission District
+
+5: Commissioner Christina Lambert.
+
+
+<a id="item-12-2"></a>
+### 12.2. Public Hearing of Resolution No. 1-25 regarding a request by Joe Verdone of Carlton Fields, on behalf of Flagler Residential, LLC, for the approval of a Major Planned Development Amendment to the 1309 South Flagler Drive Residential Planned Development (RPD) to modify waivers, development regulations, and to update various plan sheets based on the build out of the site, and approving various easements and maintenance agreements.
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 1-25: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AMENDING
+
+> RESOLUTION NO. 13-19 TO APPROVE A MAJOR PLANNED DEVELOPMENT AMENDMENT TO THE 1309 SOUTH FLAGLER DRIVE RESIDENTIAL PLANNED DEVELOPMENT TO MODIFY WAIVERS, DEVELOPMENT REGULATIONS, AND TO UPDATE VARIOUS PLAN SHEETS BASED ON THE BUILD OUT OF THE SITE; DECLARING THIS RESOLUTION CONSISTENT WITH THE COMPREHENSIVE PLAN OF THE CITY; APPROVING EASEMENTS AND MAINTENANCE AGREEMENTS; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Resolution No. 1-25 approving a Major Planned Development Amendment for the 1309 South Flagler Drive Residential Planned Development.
+
+This motion is based upon the factual testimony presented, the application submitted, the staff report, and the recommendation of the Planning Board, along with the finding that the standards of Section 94-32 of the Zoning and Land Development Regulations have been met.
+
+
+City Commission - Feb 03 2025
+
+#### Background Information
+
+The 1309 South Flagler Drive RPD was created by the adoption of Ordinance No. 4824-19 on March 11, 2019, with the development regulations for the RPD contained in Resolution No. 13-19, which was also adopted on March 11, 2019. The 1309 South Flagler Drive RPD includes the Forte, a 24-story luxury residential building consisting of 42 condominium units. The RPD was granted nine (9) waivers, which included a reduction in setbacks to include those based on the building height and an increase in fence/wall heights. The City Commission approved the waivers and the RPD based partially on the project, including a new pedestrian walkway from Currie Crescent to South Flagler Drive, known as Acacia Road Art Walk.
+
+The Acacia Road Art Walk is a parcel owned by the Developer and provides viewing access to public art located within the RPD. The Acacia Road Art Walk is not within the boundary of the RPD.
+
+As the Forte building nears completion, the Developer informed staff of two (2) changes that were made during construction of the building that exceed the waivers that were granted. Additionally, the applicant identified a potential safety issue based on the design of their retaining walls that requires an amendment to the granted waivers. The changes to the waivers require a Major Planned Development Amendment approval by the City Commission.
+
+Since Resolution No. 13-19 is being amended, the applicant is requesting to clean up the development regulations pertaining to the change in ownership of the Acacia Road Art Walk. Staff summarized the changes below, with a full analysis included in the Planning Board Staff Report (Attachment I), with Resolution No. 1-25 showing the changes with deleted text struck and added text underlined.
+
+As part of the approval for the 300-foot-tall Forte residential tower, the City Commission granted side setback waivers based on the design of the building. The east side of the RPD wraps around the building located at 1301 South Flagler Drive, which caused the need for side setback waivers for portions of the east side of the Forte tower. Since the Forte is not uniform from the ground floor to the top, the Setback Waiver Table included with Resolution No. 13-19 includes setbacks specific to differing floors of the tower. The proposed change is to the East (side) setback for Amenity Floors 2 and 3, which was approved at a minimum of 72 feet and is now proposed to be a minimum of 67 feet. Floors 2 and 3 are recessed from the main building wall, with the amenity deck at Floor 2 extending to ten (10) feet from the property line. Moving the building wall at Floors 2 and 3 five (5) feet closer to the east property line will not create an additional impact to the adjacent property owner since the deck and the floors above are already much closer.
+
+
+City Commission - Feb 03 2025
+
+The design of Forte incorporated the 6-foot grade change between South Flagler Drive and Currie Crescent and the FEMA flood elevation requirements by using partial subgrade parking to elevate the ground floor of the building on the eastern portion of the site. This required the use of retaining walls along the west and south sides of the adjoining property at 1301 South Flagler Drive. The current waiver allows the retaining walls to be up to fourteen (14) feet above the adjoining 1301 South Flagler Drive property’s grade within the required setbacks. The applicant is concerned that someone might fall from the wall and wants the ability to install a safety railing, where needed, to ensure that there is at least 42 inches above the grade by the top of the wall. The safety railing will be a decorative picket-style fence.
+
+The elevator overrun on the building roof was built six (6) inches taller than anticipated when the building was initially approved. The Zoning and Land Development Regulations provide that rooftop mechanical equipment may exceed the district height allowance by 10 percent (10%).
+
+The 1309 South Flagler Drive RPD established the maximum building height at 300 feet, so the maximum height encroachment is permitted to be 30 feet.
+
+The applicant is requesting a waiver to permit an encroachment of 10.167 percent of the maximum height, which is not discernable given the overall height of the building.
+
+Resolution No. 13-19 contains development regulations related to the Acacia Road Art Walk parcel. When the RPD was originally approved, it was believed that Acacia Road was a City right-of-way that was restricted to pedestrian use. The applicant proposed to improve Acacia Road as an art walk with pavers, landscape, and lighting for its full length from Currie Crescent to South Flagler Drive as part of the innovative planning and site development techniques required to establish a planned development.
+
+The development regulations approved by Resolution No. 13-19 were written for Acacia Road as a City right-of-way. After the approval of Resolution No. 13-19, it was determined that Acacia Road is actually a fee simple parcel, which has subsequently been acquired by Flagler Residential, LLC.
+
+The Developer will still be improving Acacia Road; however, instead of an agreement that the Developer maintain the improvements within a City right-of-way, agreements now need to provide for public access to the private parcel as well as granting the City an easement for its utilities within the parcel. Based on this change in the ownership of Acacia Road, certain development regulations have been updated in proposed Resolution No. 1-25.
+
+Resolution No. 1-25 now requires the Developer to install a crosswalk at South Flagler Drive instead of providing the funds to the City for installation. Additionally, the resolution includes specific language for a
+
+
+City Commission - Feb 03 2025
+
+maintenance agreement for the landscape being installed as part of the development within the South Flagler Drive and Currie Crescent rights-ofway.
+
+#### STANDARDS
+
+The Planning Division has determined that the Major Planned Development Amendment to the 1309 South Flagler Residential Planned Development meets all eight (8) of the amendment standards found in Section 94-32 of the City of West Palm Beach Zoning and Land Development Regulations.
+
+Compliance with the above-referenced standards is detailed in the Planning Board Staff Report (Attachment I).
+
+#### PLANNING BOARD
+
+At their Public Hearing on November 19, 2024, the Planning Board recommended approval (7-0) of the Major Planned Development Amendment to the City Commission after determining it complies with the amendment standards found in Section 94-32 of the City of West Palm Beach Zoning and Land Development Regulations.
+
+#### NOTICE
+
+Individual notices were mailed to all property owners within 500 feet of the area covered by the Major Amendment. Signs for the Major Amendment were posted on the property on November 6, 2024.
+
+Resolution No. 1-25 grants the additional waivers described above and approves the Major Planned Development Amendment. The Resolution also approved the following documents:
+- Public Access Easement for Artwalk Maintenance Agreement for Artwalk Utility Easement Public Access for Plaza Right-of-Way Maintenance Agreement for landscaping installed in Flagler Drive and Currie Crescent rights of way
+
+#### Commission District
+
+5: Commissioner Christina Lambert.
+
+#### Fiscal Note
+
+No
+
+#### fiscal
+
+
+impact.
+
+
+City Commission - Feb 03 2025
+
+<a id="item-13"></a>
+## 13. COMMENTS FROM THE PUBLIC
+
+Public comments are limited to three (3) minutes. Anyone wishing to address the Commission should complete a "Comments by the Public" card and present it to the City Clerk prior to the Public Comments. When you are called to speak, please go to the podium and state your name and address for the record prior to addressing Commission. The Commission will not discuss the matter nor respond to the comment this evening. Comments made will become part of the record and may be addressed at a later date.
+
+<a id="item-14"></a>
+## 14. COMMENTS BY THE MAYOR AND CITY COMMISSIONERS
+
+
+<a id="item-15"></a>
+## 15. ADJOURNMENT
+
+*Pursuant to Resolution No. 179-95, adopted according to the provisions of Section 286.0115, Florida Statutes, members of the Commission shall disclose on the record: 1) ex-parte communications verbal or written; 2.) written communications shall be placed in the record; and 3) site visits, investigations, etc. shall be disclosed.
+
+NOTICE: If any person decides to appeal any decision made by the City Commission at this meeting, that person will need a record of the proceedings, and that, for such purposes, may need to ensure that a verbatim records of the proceedings be made, which record includes the testimony and evidence upon which the appeal is based. The City of West Palm Beach does not prepare or provide such record.

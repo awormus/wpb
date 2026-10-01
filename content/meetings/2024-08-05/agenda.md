@@ -1,0 +1,478 @@
+---
+date: 2024-08-05
+doc_type: agenda
+title: Final City Commission Agenda
+meeting: Regular City Commission Meeting
+official_pdf: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2024-agendas/2024-final-city-commission-agendas/final-city-commission-agenda-_08_05_24-p.pdf
+retrieved: 2026-10-01
+extractor: pdftotext + civic-pdf-cleanup
+notes: >
+  Plain-text extract of the official PDF. Binary PDF not stored in this repo.
+---
+
+# Final City Commission Agenda — 2024-08-05
+
+**Official PDF (wpb.org):** [final-city-commission-agenda-_08_05_24-p.pdf](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2024-agendas/2024-final-city-commission-agendas/final-city-commission-agenda-_08_05_24-p.pdf)
+
+Text extract below is for search and deep-linking. The official PDF is authoritative.
+
+---
+
+401 Clematis Street West Palm Beach, Florida 33401 (561) 822-2222 (TTY) 800-955-8771 www.wpb.org Mayor Keith A. James Commission President Cathleen Ward (District 1) Commissioner Shalonda Warren (District 2) Commissioner Christy Fox (District 3) Commissioner Joseph A. Peduzzi (District 4) Commissioner Christina Lambert (District 5)
+
+City Administrator Faye W. Johnson City Attorney Kimberly Rothenburg City Clerk Shaquita Edwards
+
+City of West Palm Beach City Commission Agenda Monday, August 5, 2024 5:00 PM In accordance with the provisions of the Americans with Disabilities Act (ADA), persons in need of a special accommodation to participate in this proceeding shall, within three days prior to any proceeding, contact the City Clerk's Office, 401 Clematis Street, West Palm Beach, FL 33401, (561) 822-1210.
+
+<a id="item-1"></a>
+## 1. CALL TO ORDER
+
+
+<a id="item-2"></a>
+## 2. MOMENT OF SILENCE
+
+
+<a id="item-3"></a>
+## 3. PLEDGE OF ALLEGIANCE
+
+
+<a id="item-4"></a>
+## 4. CIVILITY AND DECORUM
+
+The City of West Palm Beach is committed to civility and decorum by its officials, employees and members of the public who attend this meeting. The City Code, Secs. 2-31(8), 2-31(18) and 2-31(22), provides in pertinent part:
+- Officials shall be recognized by the Chair and shall not interrupt a speaker.
+- Public comment shall be addressed to the City Commission as a whole and not to any individual on the dais or in the audience.
+- Displays of anger, rudeness, ridicule, impatience, lack of respect and personal attacks are strictly prohibited.
+- Unauthorized remarks from the audience, stamping of feet, whistles, yells and similar demonstrations shall not be permitted.
+- Offenders may be removed from the meeting.
+- Any person desiring to address the Commission shall file a written request with the city clerk prior to consideration of the matter by the Commission or prior to the public comment portion of a meeting. The person wishing to speak shall complete a comment card for each agenda item the person wishes to address, which shall include the person's full name, address, and the numbered agenda item. The person will not be recognized if the comment card is not completed.
+
+
+City Commission - Aug 05 2024
+
+<a id="item-5"></a>
+## 5. ADDITIONS / DELETIONS / REORGANIZATION OF AGENDA
+
+
+<a id="item-6"></a>
+## 6. PROCLAMATION
+
+<a id="item-6-1"></a>
+### 6.1. Proclaiming August 2024 as: Black Business Month. Proclamation to be accepted by Mr. Frank Hayden, Director of the Office of Small & Minority Business Programs, City of West Palm Beach.
+
+#### Originating Department
+
+Mayor's Office
+
+
+<a id="item-7"></a>
+## 7. PRESENTATION
+
+<a id="item-7-1"></a>
+### 7.1. Presentation of the City of West Palm Beach Vulnerability Assessment required by the State of Florida Department of Environmental Protection Resilient Florida Grant.
+
+#### Originating Department
+
+Public Utilities
+
+#### Background Information
+
+In compliance with Section 380.093, Florida Statute (F.S.), the City of West Palm Beach has undertaken a Critical Facilities and Assets Vulnerability Assessment. This assessment, funded by a grant from the Florida Department of Environmental Protection through the Resilient Florida program, aims to evaluate the resilience of our City’s critical facilities and assets, both public and private, against current and future flood risks.
+
+The assessment, initiated in 2021, has identified and analyzed critical facilities essential for community functionality under varying flood conditions including sea level rise, storm surge, rain induced flooding, and the compounding of each.
+
+This presentation will give a high-level overview of the modeling and findings of the assessment.
+
+<a id="item-8"></a>
+## 8. APPOINTMENTS
+
+<a id="item-8-1"></a>
+### 8.1. City Commission approval is requested for the Mayor's reappointment of Marcia M. Bedasse to the Education Advisory Committee for a term of two (2) years to expire on August 2, 2026. Ms. Bedasse has served over the maximum allowed number of terms (3), and it is required that the City Commission confirms her reappointment.
+
+#### Originating Department
+
+Mayor's Office
+
+#### Staff Recommended Motion
+
+
+City Commission - Aug 05 2024
+
+Ms. Bedasse's reappointment is supported; her leadership and institutional knowledge are particularly relevant as the Committee size is being expanded.
+
+<a id="item-8-2"></a>
+### 8.2. City Commission approval is requested for the Mayor's reappointment of Rod A. Braun to the Sustainability Advisory Committee for a term of two (2) years to expire on August 2, 2026. Mr. Braun has served over the maximum allowed number of terms (3), and it is required that the City Commission confirms his reappointment.
+
+#### Originating Department
+
+Mayor's Office
+
+#### Staff Recommended Motion
+
+Mr. Braun's reappointment is supported. His expertise and dedication to the Committee reflects the importance of his service.
+
+<a id="item-8-3"></a>
+### 8.3. City Commission approval is requested for the Mayor's appointment of Bernardo Neto to the Downtown Development Authority for a term of three (3) years to expire on July 1, 2027. Mr. Neto will fill the seat of Ms. Varisa Lall Dass. It is required that the City Commission confirms Mr. Neto’s appointment.
+
+#### Originating Department
+
+Mayor's Office
+
+#### Staff Recommended Motion
+
+None.
+
+<a id="item-9"></a>
+## 9. CONSENT CALENDAR
+
+All items listed under the consent calendar are considered routine and will be enacted by one motion. There will be no separate discussion of these items.
+
+<a id="item-9-1"></a>
+### 9.1. Minutes of the Regular City Commission Meeting of July 8, 2024.
+
+#### Originating Department
+
+Mayor's Office
+
+
+<a id="item-9-2"></a>
+### 9.2. Minutes of the Special City Commission Meeting of July 18, 2024 (Set Not to Exceed Rate).
+
+#### Originating Department
+
+Mayor's Office
+
+
+<a id="item-9-3"></a>
+### 9.3. Minutes of the Special City Commission Meeting of July 18, 2024 (Fire Service and Chronic Nuisance Proposed Assessments).
+
+#### Originating Department
+
+Mayor's Office
+
+
+City Commission - Aug 05 2024
+
+<a id="item-9-4"></a>
+### 9.4. Minutes of the Regular City Commission Meeting of July 22, 2024.
+
+#### Originating Department
+
+Mayor's Office
+
+
+<a id="item-9-5"></a>
+### 9.5. Resolution No. 167-24 approving the City's continued participation in Palm Beach County's Workforce Development Consortium whose members include Palm Beach County, the City of Palm Beach Gardens, the City of Delray Beach, and the City of South Bay.
+
+#### Originating Department
+
+Mayor's Office
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 167-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING THE INTERLOCAL AGREEMENT AMONG THE CITY OF WEST PALM BEACH, PALM BEACH COUNTY, THE CITY OF DELRAY BEACH, THE CITY OF PALM BEACH GARDENS, AND THE CITY OF SOUTH BAY REGARDING THE PALM BEACH WORKFORCE DEVELOPMENT CONSORTIUM; PROVIDING FOR AN EFFECTIVE DATE; AND OTHER PURPOSES.
+
+#### Background Information
+
+Public Law 113-128 enacted by the Congress of the United States effective July 1, 2015, which Act is known as the Workforce Innovation and Opportunity Act (“WIOA”), established a program to provide universal access to workforce development services for the businesses and citizens of Palm Beach County.
+
+The State of Florida’s Workforce Development Board CareerSource Florida, Inc. created by the Legislature in 2000, has been designated by the Governor to take the lead in designing and directing Florida’s workforce development strategy and to designate Local Workforce Development Areas. Palm Beach County, Florida has been designated by the Governor of the State of Florida as Local Workforce Development Area 21 (“LWDA 21”), and the Palm Beach County Board of County Commissioners is designated as the Local Chief Elected Official, the fiscal agent, grant recipient and administrative entity to administer Workforce Programs and such other funding sources as may be available to support workforce development activities for LWDA 21.
+
+By Resolution No. 175-21, the City Commission of the City of West Palm Beach previously affirmed joining with Palm Beach County, the City of Delray Beach, the City of Palm Beach Gardens, and the City of South Bay to form the Palm Beach County Workforce Development Consortium for the purpose of establishing an Independent Special District and to implement Federal and State workforce development programs and related activities in Palm Beach County under the provisions of the
+
+
+City Commission - Aug 05 2024
+
+Workforce Innovation and Opportunity Act, the Temporary Assistance to Needy Families Act, the Wagner-Peyser Act, and the Florida Workforce Innovation Act of 2000 (“Workforce Programs”).
+
+The Consortium members seek to re-affirm their participation in the Consortium and to execute an updated Interlocal Agreement to operate the Consortium in a coordinated and cooperative manner.
+
+Resolution No. 167-24 reaffirms the City's participation in the Consortium and authorizes execution of the Interlocal Agreement.
+
+<a id="item-9-6"></a>
+### 9.6. Resolution No. 142-24(F) accepting and appropriating funds in the amount of $5,500 from Prime Time of Palm Beach County funded by the Children Services Council in recognition of the after-school programs at Gaines Park and South Olive Park completing the Quality Improvement System (QIS) core quality practices.
+
+#### Originating Department
+
+Parks and Recreation
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 142-24(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2023/2024 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE GENERAL FUND TO PROVIDE FOR THE RECEIPT AND APPROPRIATION OF THE GRANT AWARD FROM PRIME TIME OF PALM BEACH COUNTY TO PROVIDE AFTER SCHOOL PROGRAM SUPPLIES, PROFESSIONAL DEVELOPMENT, FIELD TRIPS, SPECIAL YOUTH/FAMILY EVENTS, OTHER PROGRAM EXPENDITURES; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+The Quality Improvement System (QIS) incentive program is a Prime Time of Palm Beach County strategy designed to further increase after school program quality for their participants' activities/programs. The QIS is a performance-based recognition program that awards financial incentives to out-of-school time programs that go above and beyond in their QIS work. The award amount is based upon a tiered process through which a program demonstrates the implementation of advanced youth development and program management practices. These practices are in concert and direct relationship with a program's voluntary participation and work in Prime Time's QIS incentive program. Funding is provided by the Children's Services Council of Palm Beach County and is based upon the availability of funds and performance.
+
+This past year, four (4) of the City's after-school programs were eligible to
+
+
+City Commission - Aug 05 2024
+
+receive a QIS Core Practices Development Grant through Prime Time's QIS incentive program. They have each completed the QIS core quality practices that aim to increase and maintain positive youth development, which leads young people to develop skills necessary to be successful socially, emotionally, and academically. Prime Time requires that the grant be spent on professional development, program supplies, field trips, special youth and/or family events, and other program expenditures.
+
+Gaines Park Community Center, South Olive Community Center, Pleasant City Community Center, and Vedado Park Community Center have each been recognized for going above and beyond in their QIS work. Pleasant City K - 5th grade was awarded $1,500; Gaines Park 6th
+- 8th grade was awarded $1,500; Vedado Park 6th - 8th grade was awarded $1,250; and South Olive K - 5th grade was awarded $1,250.
+
+#### Commission District
+
+1: Commissioner Cathleen Ward.
+
+#### Commission District
+
+5: Commissioner Christina Lambert.
+
+#### Fiscal Note
+
+Approval will provide $5,500 in additional funds to be used towards professional development, field trips, special youth and/or family events, and other program expenditures.
+
+<a id="item-9-7"></a>
+### 9.7. Resolution No. 154-24(F) amending the Fiscal Year 2023/2024 Miscellaneous Trust Fund Budget to authorize appropriations of $25,000 from the State Law Enforcement Forfeiture Receipts for use as investigative funds to further complex criminal investigations.
+
+#### Originating Department
+
+Police
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 154-24(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2023/2024 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE MISCELLANEOUS TRUST FUND BUDGET TO PROVIDE APPROPRIATIONS FROM THE STATE LAW ENFORCEMENT FORFEITURE RECEIPTS IN THE AMOUNT OF $25,000 FOR USE AS INVESTIGATIVE FUNDS TO FURTHER COMPLEX CRIMINAL INVESTIGATIONS; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+Pursuant to the Florida Contraband Forfeiture Act, any local law enforcement agency that acquires at least $15,000 within a fiscal year
+
+
+City Commission - Aug 05 2024
+
+must expend or donate no less than 25 percent (25%) of such proceeds.
+
+These funds may be expended upon request by the Chief of Police to the City Commission, and upon appropriation to the Police Departments’ miscellaneous trust fund. Such funds may be used only for school resource officers, crime prevention, safe neighborhood, drug abuse education, or drug prevention programs, or such other law enforcement purposes as the governing body of the municipality deems appropriate.
+
+Asset forfeiture is a powerful tool that provides valuable resources to state and local law enforcement that may not have otherwise been available. Staff also looks at the permissible uses of similarly obtained federal funds in order to provide guidance for the Chief and Commission on such decisions. Equitably shared funds must be used in accordance with the statutes and guidelines that govern the federal equitable sharing program as set forth in the current edition of the Department of Justice's Guide to Equitable Sharing (Justice Guide).
+
+The State Forfeiture funds requested complies with the permissible use reporting category identified as law enforcement operations and investigations, which include payments to informants, purchase of evidence, “buy” money, reward money, payment for crime tip organizations, or payment for a specific reward for information in a specific case.
+
+The State Law Enforcement Trust Fund expenditure of $25,000; which the Chief of Police certifies is in compliance with Section 932.7055(5)(a), Florida Statutes, will be used for investigative funds to further complex criminal investigations.
+
+#### Fiscal Note
+
+Approval will recognize Police Forfeiture funding appropriations for complex criminal investigations.
+
+<a id="item-9-8"></a>
+### 9.8. and provide Resolution No. 157-24 accepting a donation from The Fund for West Palm Beach Police in the amount of $15,000 for police academy tuition costs for newly hired police recruits; and Resolution No. 158-24(F) recognizing and appropriating a donation of $15,000 from The Fund for West Palm Beach Police in Fiscal Year 20232024 for police academy tuition costs for newly hired police recruits.
+
+#### Originating Department
+
+Police
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 157-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, ACCEPTING A DONATION IN THE AMOUNT OF $15,000 FROM THE
+
+
+City Commission - Aug 05 2024
+
+#### FUND FOR WEST PALM BEACH POLICE, FOR POLICE ACADEMY
+
+#### TUITION COSTS FOR NEWLY HIRED POLICE RECRUITS;
+
+#### PROVIDING FOR AN EFFECTIVE DATE; AND FOR OTHER
+
+#### PURPOSES.
+
+
+> RESOLUTION NO. 158-24(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2023/2024 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE GENERAL FUND BUDGET TO PROVIDE APPROPRIATIONS FOR THE RECEIPT OF A DONATION FROM THE FUND FOR WEST PALM BEACH POLICE FOR POLICE ACADEMY TUITION COSTS FOR NEWLY HIRED POLICE RECRUITS; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+The West Palm Beach Police Department (WPBPD) continues to actively recruit and hire qualified candidates for police officer positions. The WPBPD has hired several non-certified individuals to attend the Palm Beach State College - Law Enforcement Academy.
+
+The WPBPD has secured a donation of fifteen thousand dollars ($15,000) from The Fund for West Palm Beach Police to reimburse the police academy tuition costs for three (3) newly hired police recruits.
+
+Resolution No. 157-24 accepts the donation and authorizes use for the indicated purposes.
+
+Resolution No. 158-24(F) will recognize the receipt of funds and provide appropriations for reimbursing police academy tuition costs for newly hired police recruits.
+
+#### Fiscal Note
+
+Approval will recognize donation proceeds and provide appropriations for training reimbursement for newly hired officers.
+
+<a id="item-9-9"></a>
+### 9.9. Resolution No. 160-24 authorizing fundraising activities and allowing for acceptance of in-kind services for the Keep West Palm Beach Beautiful City initiative.
+
+#### Originating Department
+
+Public Works & Support Services
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 160-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING FUNDRAISING ACTIVITIES BY KEEP WEST PALM
+
+
+City Commission - Aug 05 2024
+
+#### BEACH BEAUTIFUL AND AUTHORIZING THE MAYOR TO EXECUTE
+
+#### ANY AND ALL DOCUMENTS NECESSARY TO EFFECTUATE SUCH
+
+#### FUNDRAISING ACTIVITIES; PROVIDING AN EFFECTIVE DATE; AND
+
+#### FOR OTHER PURPOSES.
+
+#### Background Information
+
+On June 28, 2021, the City Commission adopted Resolution No. 124-21 allowing the City to become an affiliate of Keep America Beautiful Inc. and partner with non-profit organizations with shared litter reduction and beautification goals.
+
+The City became an affiliate of Keep America Beautiful Inc. on February 22, 2022, and established the Keep West Palm Beach Beautiful (KWPBB) initiative. The mission of KWPBB is to inspire and educate the public to take action to improve and beautify the City. KWPBB collaborates with residents, volunteers, and community partners to achieve these goals.
+
+Since inception, the program has participated in 64 events, collected over 26,713 pounds of litter, and cleaned and improved over 293 acres of parks with the help of 1,606 volunteers, resulting in over 4,128 volunteer hours. In recognition of these achievements, the program received the President’s Circle Recognition Award from Keep America Beautiful Inc. in 2023.
+
+KWPBB desires to solicit funds and/or in-kind services from community partners in order to achieve its mission. Approval of Resolution No. 16024 authorizes the program to engage in fundraising activities and allows for acceptance of in-kind services in support of this initiative.
+
+#### Fiscal Note
+
+No fiscal impact.
+
+<a id="item-10"></a>
+## 10. RESOLUTIONS
+
+<a id="item-10-1"></a>
+### 10.1. Resolution No. 161-24 approving a non-exclusive services and license agreement, by and between, the City of West Palm Beach and IKE Smart City, LLC for the placement of wayfinding kiosks in the City's right-of-way.
+
+#### Originating Department
+
+Mayor's Office
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 161-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING A SERVICE AND LICENSE AGREEMENT BETWEEN IKE SMART CITY, LLC AND THE CITY OF WEST PALM BEACH ALLOWING THE PLACEMENT OF WAYFINDING KIOSKS IN THE CITY'S RIGHT OF WAY; AUTHORIZING THE MAYOR TO EXECUTE
+
+
+City Commission - Aug 05 2024
+
+#### THE AGREEMENT AND ALL NECESSARY ANCILLARY DOCUMENTS;
+
+#### PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Resolution No. 161-24 and the associated Services and License Agreement.
+
+#### Background Information
+
+The City desires to install digital wayfinding signs, initially within the downtown area, which would provide helpful locator information to residents and visitors.
+
+City staff engaged with IKE Smart City, LLC (“IKE”), which is a leading provider of digital wayfinding technology, on the potential for providing wayfinding services to the downtown.
+
+IKE is engaged in the development, installation, operation, and maintenance of interactive wayfinding platforms, including “IKE Kiosks."
+
+The City and IKE desire to coordinate efforts to implement the deployment of IKE Kiosks within the City of West Palm Beach and on the rights-of-way adjacent thereto, all in accordance with the terms set forth in the agreement.
+
+The IKE Kiosks will provide a number of benefits to the public, including: multimodal mapping to destinations; businesses and other points of interest; real-time arrival and departure information for public transit; bike share and car share services accessed from an interactive map; and emergency communication, including a pre-emptive protocol for real-time posting of emergency and/or public safety communication, such as storm warnings, amber alerts, evacuations (including routes), and road closures.
+
+The agreement with IKE provides for revenue sharing of the advertising proceeds from the IKE Kiosks with the City and allows for the inclusion of public service announcements. The agreement provides an initial five (5) year term, with two (2) “automatic” renewal terms, dependent upon the performance of the terms and conditions set forth in the agreement.
+
+#### Fiscal Note
+
+The minimum revenue to the City is $391,139.50 per year, if there are at least twenty (20) kiosks. If there are less than twenty (20) kiosks, the number will be adjusted downward proportionally.
+
+<a id="item-10-2"></a>
+### 10.2. Resolution No. 153-24 approving a Building Improvement Grant for Pathfinders Eureka LLC, through the Office of Economic Development in the amount of $100,000 to make improvements at 537 14th Street, West Palm Beach, Florida.
+
+#### Originating Department
+
+City Commission - Aug 05 2024
+
+
+Mayor's Office
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 153-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING A BUILDING IMPROVEMENT GRANT FOR PATHFINDERS EUREKA, LLC, FOR IMPROVEMENTS AT 537 14TH STREET; AUTHORIZING THE EXECUTION OF A GRANT AGREEMENT; PROVIDING FOR AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Resolution No. 153-24.
+
+#### Background Information
+
+The City Commission has determined that providing economic incentives through Building Improvement Grants for renovation or improvement of commercial spaces encourages property owners and businesses to make significant, permanent modifications to existing buildings.
+
+These enhancements increase the amount of quality commercial space, with a resultant increase in overall property value and in some cases, bring the property to current building codes. Such building improvements allow existing businesses to expand or remain in the City; and encourage new businesses to relocate to the City, creating new jobs.
+
+Through this incentive program, Pathfinders Eureka, LLC has proposed to construct a brand-new mixed-use warehouse facility on a currently vacant lot in their ownership. This hurricane rated facility will allow the business to expand operations, increase equipment inventory, and employ additional staff. The estimated capital investment of this project is nearly $1.1 Million and will add approximately 10,000 square feet of commercial space.
+
+The improvements to 537 14th Street support the strategic plan of the Office of Economic Development and accomplishes major goals including: (1.5) Attracting talent to West Palm Beach; (2.1) Supporting existing businesses; and (2.4.7.5) Business expansion and retention.
+
+Resolution No. 153-24 approves the Building Improvement Grant for Pathfinders Eureka, LLC for improvements at 537 14th Street.
+
+#### Commission District
+
+1: Commissioner Cathleen Ward.
+
+#### Fiscal Note
+
+Funds
+
+are
+
+budgeted.
+
+
+City Commission - Aug 05 2024
+
+<a id="item-11"></a>
+## 11. PUBLIC HEARING
+
+<a id="item-11-1"></a>
+### 11.1. Public Hearing and First Reading of Ordinance No. 5105-24 amending the code of ordinances at Chapter 94, Article XIII "Sign Regulations" to designate wayfinding signage or kiosks as an "unregulated sign".
+
+#### Originating Department
+
+Mayor's Office
+
+#### Ordinance/Resolution
+
+
+> ORDINANCE NO. 5105-24: AN ORDINANCE OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AMENDING THE CODE OF ORDINANCES OF THE CITY OF WEST PALM BEACH, FLORIDA, AT CHAPTER 94, ARTICLE XIII “SIGN REGULATIONS” SECTION 94-402.a. TO CREATE SECTION 94402.a.23; PROVIDING FOR CODIFICATION; PROVIDING FOR SEVERABILITY; PROVIDING FOR CONFLICTS; AND PROVIDING FOR AN EFFECTIVE DATE.
+
+#### Staff Recommended Motion
+
+Approve Ordinance No. 5105-24 on First Reading and Schedule Second Reading for August 19, 2024.
+
+#### Background Information
+
+The Code of Ordinances at Chapter 94, Article XIII places limitations on signage within the City including prohibitions on digital signage.
+
+Exclusions on such limitations are noted under Sections 94-402.a "unregulated signs".
+
+The City desires to include digital kiosks that provide information on City events, public transportation, sites of interest, and other public interest information as an exclusion to the signage requirements. These kiosks will provide residents and visitors with valuable real-time information, while also generating revenue for the City.
+
+#### Fiscal Note
+
+No fiscal impact.
+
+<a id="item-12"></a>
+## 12. COMMENTS FROM THE PUBLIC
+
+Public comments are limited to three (3) minutes. Anyone wishing to address the Commission should complete a "Comments by the Public" card and present it to the City Clerk prior to the Public Comments. When you are called to speak, please go to the podium and state your name and address for the record prior to addressing Commission. The Commission will not discuss the matter nor respond to the comment this evening. Comments made will become part of the record and may be addressed at a later date.
+
+<a id="item-13"></a>
+## 13. COMMENTS BY THE MAYOR AND CITY COMMISSIONERS
+
+
+City Commission - Aug 05 2024
+
+<a id="item-14"></a>
+## 14. ADJOURNMENT
+
+*Pursuant to Resolution No. 179-95, adopted according to the provisions of Section 286.0115, Florida Statutes, members of the Commission shall disclose on the record: 1) ex-parte communications verbal or written; 2.) written communications shall be placed in the record; and 3) site visits, investigations, etc. shall be disclosed.
+
+NOTICE: If any person decides to appeal any decision made by the City Commission at this meeting, that person will need a record of the proceedings, and that, for such purposes, may need to ensure that a verbatim records of the proceedings be made, which record includes the testimony and evidence upon which the appeal is based. The City of West Palm Beach does not prepare or provide such record.

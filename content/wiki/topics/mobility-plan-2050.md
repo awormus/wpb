@@ -11,6 +11,8 @@ updated: 2026-10-01
 
 ## What this is
 
+In **May 2025** the Commission adopted **Ord. 5130-25**, creating a **Downtown Mobility Fee** under Chapter 86 (agenda cites the April 2025 Downtown Mobility Fee Technical Report and Fla. Stat. §163.3180). Later **Ord. 5182-26** (Sep 2026) advances a citywide **2050 Mobility Plan** and fee framework that integrates the Downtown fee.
+
 Ordinance No. **5182-26** would adopt the **2050 City of West Palm Beach Mobility Plan** and amend Chapter 86, Article VII (Mobility Fee) of the City Code. Agenda background ties the effort to **2024 House Bill 479**, which defined mobility plans and mobility fees and reaffirmed that local governments may adopt an alternative transportation concurrency / fee framework. The ordinance also integrates the earlier Downtown Mobility Fee into a citywide multimodal fee schedule.
 
 ## Why it matters for residents
@@ -21,12 +23,14 @@ If adopted, mobility fees and the plan would shape how new development contribut
 
 | Date | Doc | What showed up | Outcome | Links |
 |------|-----|----------------|---------|-------|
+| 2025-05-12 | Pass/fail | **Ord. 5130-25** Downtown Mobility Fee (Chapter 86) **1st reading** — precursor to later citywide 2050 plan/fee work | approved (1st reading; public hearing items 10.1–10.3) | [summary](../../meetings/2025-05-12/summary.md) · [agenda §10.2](../../meetings/2025-05-12/agenda.md#item-10-2) · [pass-fail](../../meetings/2025-05-12/pass-fail.md#item-10-2) |
+| 2025-05-27 | Pass/fail | **Ord. 5130-25** Downtown Mobility Fee **2nd reading** | approved | [summary](../../meetings/2025-05-27/summary.md) · [agenda §8.1](../../meetings/2025-05-27/agenda.md#item-8-1) · [pass-fail](../../meetings/2025-05-27/pass-fail.md#item-8-1) |
 | 2026-09-14 | Pass/fail | Ord. 5182-26 **1st reading** (public hearing); staff motion scheduled 2nd reading for Sep 28 | approved (1st reading) | [summary](../../meetings/2026-09-14/summary.md) · [agenda §11.1](../../meetings/2026-09-14/agenda.md#item-11-1) · [PDF](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/09-sep-2026-final-cca/09_14_26_final-city-commission-agenda.pdf) |
 | 2026-09-28 | Final agenda | Ord. 5182-26 **2nd reading** / public hearing (scheduled on agenda) | — | [summary](../../meetings/2026-09-28/summary.md) · [agenda §9.1](../../meetings/2026-09-28/agenda.md#item-9-1) · [PDF](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/09-sep-2026-final-cca/09_28_26_final-city-commission-agenda.pdf) |
 
 ## Status notes
 
-Sep 14 **1st reading approved** (pass/fail: public hearing section all approved). Sep 28 **2nd reading** remains agenda-only here until a pass/fail sheet is filed.
+Downtown fee **Ord. 5130-25** approved May 2025 (pass/fail). Sep 14 **Ord. 5182-26 1st reading approved** (pass/fail: public hearing section all approved). Sep 28 **2nd reading** remains agenda-only here until a pass/fail sheet is filed.
 
 ## Related topics
 

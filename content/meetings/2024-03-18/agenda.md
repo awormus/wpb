@@ -1,0 +1,759 @@
+---
+date: 2024-03-18
+doc_type: agenda
+title: Final City Commission Agenda
+meeting: Regular City Commission Meeting
+official_pdf: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2024-agendas/2024-final-city-commission-agendas/final-city-commission-agenda-_03_18_24-p.pdf
+retrieved: 2026-10-01
+extractor: pdftotext + civic-pdf-cleanup
+notes: >
+  Plain-text extract of the official PDF. Binary PDF not stored in this repo.
+---
+
+# Final City Commission Agenda — 2024-03-18
+
+**Official PDF (wpb.org):** [final-city-commission-agenda-_03_18_24-p.pdf](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2024-agendas/2024-final-city-commission-agendas/final-city-commission-agenda-_03_18_24-p.pdf)
+
+Text extract below is for search and deep-linking. The official PDF is authoritative.
+
+---
+
+401 Clematis Street West Palm Beach, Florida 33401 (561) 822-2222 (TTY) 800-955-8771 www.wpb.org Mayor Keith A. James Commission President Shalonda Warren (District 2) Commissioner Cathleen Ward (District 1) Commissioner Christy Fox (District 3) Commissioner Joseph A. Peduzzi (District 4) Commissioner Christina Lambert (District 5)
+
+City Administrator Faye W. Johnson City Attorney Kimberly Rothenburg City Clerk Shaquita Edwards
+
+City of West Palm Beach City Commission Agenda Monday, March 18, 2024 5:00 PM In accordance with the provisions of the Americans with Disabilities Act (ADA), persons in need of a special accommodation to participate in this proceeding shall, within three days prior to any proceeding, contact the City Clerk's Office, 401 Clematis Street, West Palm Beach, FL 33401, (561) 822-1210.
+
+<a id="item-1"></a>
+## 1. CALL TO ORDER
+
+
+<a id="item-2"></a>
+## 2. MOMENT OF SILENCE
+
+
+<a id="item-3"></a>
+## 3. PLEDGE OF ALLEGIANCE
+
+
+<a id="item-4"></a>
+## 4. CIVILITY AND DECORUM
+
+The City of West Palm Beach is committed to civility and decorum by its officials, employees and members of the public who attend this meeting. The City Code, Secs. 2-31(8), 2-31(18) and 2-31(22), provides in pertinent part:
+- Officials shall be recognized by the Chair and shall not interrupt a speaker.
+- Public comment shall be addressed to the City Commission as a whole and not to any individual on the dais or in the audience.
+- Displays of anger, rudeness, ridicule, impatience, lack of respect and personal attacks are strictly prohibited.
+- Unauthorized remarks from the audience, stamping of feet, whistles, yells and similar demonstrations shall not be permitted.
+- Offenders may be removed from the meeting.
+- Any person desiring to address the Commission shall file a written request with the city clerk prior to consideration of the matter by the Commission or prior to the public comment portion of a meeting. The person wishing to speak shall complete a comment card for each agenda item the person wishes to address, which shall include the person's full name, address, and the numbered agenda item. The person will not be recognized if the comment card is not completed.
+
+
+City Commission - Mar 18 2024
+
+<a id="item-5"></a>
+## 5. ADDITIONS / DELETIONS / REORGANIZATION OF AGENDA
+
+
+<a id="item-6"></a>
+## 6. PROCLAMATION
+
+<a id="item-6-1"></a>
+### 6.1. Proclaiming April 5, 2024 as: The Lord's Place SleepOut to End Homelessness Awareness Day. Proclamation to be accepted by Diana Stanley, The Lord's Place CEO.
+
+#### Originating Department
+
+Mayor's Office
+
+
+<a id="item-7"></a>
+## 7. PRESENTATION
+
+<a id="item-7-1"></a>
+### 7.1. Legislative update by Senator Representative Jervonte Edmonds. Bobby Powell, Jr. and State
+
+#### Originating Department
+
+Mayor's Office
+
+
+<a id="item-8"></a>
+## 8. CONSENT CALENDAR
+
+All items listed under the consent calendar are considered routine and will be enacted by one motion. There will be no separate discussion of these items.
+
+<a id="item-8-1"></a>
+### 8.1. Minutes of the Regular City Commission Meeting of January 22, 2024.
+
+#### Originating Department
+
+Mayor's Office
+
+
+<a id="item-8-2"></a>
+### 8.2. Minutes of the Regular City Commission Meeting of February 5, 2024.
+
+#### Originating Department
+
+Mayor's Office
+
+
+<a id="item-8-3"></a>
+### 8.3. Minutes of the Regular City Commission Meeting of February 20, 2024.
+
+#### Originating Department
+
+Mayor's Office
+
+
+<a id="item-8-4"></a>
+### 8.4. Resolution No. 51-24(F) appropriating $150,000 from the Art in Public Places (AIPP) Reserves for Future Projects to implement JR's Inside Out Project, a community-based City-wide public art initiative.
+
+#### Originating Department
+
+Mayor's Office
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 51-24(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY
+
+
+City Commission - Mar 18 2024
+
+#### FUNDS IN FISCAL YEAR 2023/2024 IN ACCORDANCE WITH
+
+#### SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM
+
+#### BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE ARTLIFE
+
+#### WPB CAPITAL PROJECT FUND BUDGET TO PROVIDE
+
+#### APPROPRIATIONS TO CREATE A COMMUNITY-BASED PUBLIC ART
+
+#### INITIATIVE WITH ARTIST JR’S INSIDE OUT PROJECT TEAM;
+
+#### PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+On February 7, 2024, at their regularly scheduled meeting, the Artlife Committee voted unanimously to recommend to the City Commission the allocation of $150,000 from the Art Reserves to implement internationally recognized artist JR's Inside Out Project (IOP).
+
+The IOP created by artist JR, after winning the TED prize in 2011, is a global platform where communities come together and craft a statement that they communicate through a public art installation. Large-scale black and white portraits of community members form the public art installation, which can be on a building, a street, or any surface that is appropriate for that community.
+
+Artists, photographers, and creative producers Christine Wexler and Luigerman Gomez will lead a two (2) to three (3) week immersive community engagement with five (5) to seven (7) neighborhoods in West Palm Beach. This is a community-based project through the platform of public art and the lens of photography that builds on the idea and goal of “creating a community of opportunity for all” where individuals and the neighborhood in which they live are celebrated as distinct enclaves that make up the whole of the City of West Palm Beach. Through a variety of hands-on workshops, one-on-one conversations, and through the lens of photography, the project aims to capture 500+ individuals that make up the City of West Palm Beach.
+
+IOP will cumulate in a City-wide one-day performance-based (installation) where the portraits will be installed in prominent large buildings. Artlife has identified key partners for this initiative.
+
+The final design will be presented to the City Commission for Face of the City approval at a future date.
+
+Resolution No. 51-24(F) appropriates $150,000 from the AIPP Reserves to implement the Inside Out Project.
+
+#### Fiscal Note
+
+Approval of this item appropriates funding in the amount of $150,000 to implement the JR IOP.
+
+
+City Commission - Mar 18 2024
+
+<a id="item-8-5"></a>
+### 8.5. Resolution No. 56-24 authorizing the assessment of City liens in the total amount of $125,752 for unpaid water service, sewer service, and storm water charges for the month of December 2023.
+
+#### Originating Department
+
+City Attorney's Office
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 56-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING AND AUTHORIZING AN ASSESSMENT OF CITY LIENS FOR UNPAID WATER SERVICE, SEWER SERVICE, AND STORMWATER SERVICE CHARGES FOR THE MONTH OF DECEMBER 2023; PROVIDING THAT SAID LIENS SHALL BE PRIOR IN DIGNITY TO ALL OTHER LIENS AGAINST THE ASSESSED PROPERTIES, SAVE AND EXCEPT A LIEN FOR TAXES; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+In accordance with the Code of Ordinances of the City of West Palm Beach, Florida, 2003, Sections 90-4 and 90-5, the City imposes liens on private real property for delinquent payments due for utility services.
+
+The liens to be assessed by Resolution No. 56-24 are for unpaid water service, sewer service, and stormwater service charges for the month of December 2023.
+
+The list of properties to be assessed and the associated charges totaling $125,752 are provided in Resolution No. 56-24 as EXHIBIT A - Utility Lien List - December 2023.
+
+#### Fiscal Note
+
+No fiscal impact.
+
+<a id="item-8-6"></a>
+### 8.6. Resolution No. 57-24 approves a Conditional Settlement Agreement totaling $50,000 in the matter of Maria Hernandez v. City of West Palm Beach.
+
+#### Originating Department
+
+City Attorney's Office
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 57-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING A CONDITIONAL SETTLEMENT AGREEMENT FOR $50,000 IN THE MATTER OF MARIA HERNANDEZ V. CITY OF WEST PALM BEACH, FILED IN THE FIFTEENTH JUDICIAL CIRCUIT, IN AND FOR PALM BEACH COUNTY, FLORIDA, CASE NO. 50-2022-CA011282XXXXMB AD; PROVIDING AN EFFECTIVE DATE; AND FOR
+
+
+City Commission - Mar 18 2024
+
+#### OTHER PURPOSES.
+
+#### Background Information
+
+Maria Hernandez brought a claim for damages by way of a complaint in the Fifteenth Judicial Circuit in the matter of MARIA HERNANDEZ v.
+
+CITY OF WEST PALM BEACH, filed in the Fifteenth Judicial Circuit, in and for Palm Beach County, Florida, Case No. 50-2022-CA011282XXXXMB AD for an accident that occurred on or about March 19, 2019. The City has reached a settlement agreement with Maria Hernandez and her attorney to resolve the matter for a total of $50,000.
+
+The Plaintiff has signed a general release that releases the City from all claims arising from this incident, which ends all of the claims for damages, including all attorneys’ fees and costs, against the City of West Palm Beach. [1] The filed complaint states the date of the motor vehicle crash was March 19, 2019. This settlement covers both dates of March 19, 2019, and March 14, 2019.
+
+Section 2-268(g)(4) of the Code of Ordinances of the City of West Palm Beach, Florida, provides that the authority for settlement of all claims over $30,000 shall require the approval of the City Commission by formal resolution. Resolution No. 57-24 approves the Conditional Settlement Agreement.
+
+<a id="item-8-7"></a>
+### 8.7. Resolution No. 62-24 waiving a potential conflict of interest relating to Kreusler-Walsh, Vargas & Serafin, P.A.'s representation of the City of West Palm Beach in connection with an appellate matter.
+
+#### Originating Department
+
+City Attorney's Office
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 62-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, WAIVING A POTENTIAL CONFLICT OF INTEREST RELATING TO KREUSLER-WALSH, VARGAS & SERAFIN, P.A.’S REPRESENTATION OF THE CITY OF WEST PALM BEACH IN CONNECTION WITH AN APPELLATE MATTER; PROVIDING FOR AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+The City of West Palm Beach is represented by Kreusler-Walsh, Vargas & Serafin, P.A. (the “firm”) as Outside Counsel in an appellate matter before the Fourth District Court of Appeals in Case No. 4D2023-3098.
+
+The firm desires to represent Brittany Tatum (“Tatum”), a City of West Palm Beach employee, in the same appellate matter before the Fourth District Court of Appeals in Case No. 4D2023-3098.
+
+
+City Commission - Mar 18 2024
+
+The firm requests that the City waive any potential conflict in its joint representation of both the City and Tatum in the appellate matter described herein and has stated that it is able to provide diligent and competent representation to both parties.
+
+The firm agrees that it will not take a position in the appellate matter described herein that is adverse to either City or Tatum, and if an unanticipated conflict develops, it will withdraw from representation unless both City and Tatum agree in writing that it can continue the representation.
+
+The firm has also sought written consent from Tatum who has agreed to waive this potential conflict under the conditions outlined herein.
+
+Chapter 2 (Administration), Section 2-222 (Qualifications, Term), of the Code of Ordinances of the City of West Palm Beach (the “Code”) allows the City Commission to waive a potential conflict of interest in unrelated matters or transactions which will not adversely affect the counsel’s representation of the City.
+
+The City of West Palm Beach desires to waive the potential conflict of interest between the City of West Palm Beach and the firm.
+
+#### Fiscal Note
+
+No fiscal impact.
+
+<a id="item-8-8"></a>
+### 8.8. Resolution No. 65-24 approves a Conditional Settlement Agreement totaling $100,000 in the matter of Herbert Robb and Zoila Robb, as Proposed Personal Representatives of the Estate of Allan Robb, for the Benefit of Herbert Robb and Zoila Robb, surviving parents; and the Estate of Allan Robb v. City of West Palm Beach, a political subdivision of Florida, Josue Taveras, individually, Kyle M. Elliott, individually, Hannah L. Skotzke, individually.
+
+#### Originating Department
+
+City Attorney's Office
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 65-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING A CONDITIONAL SETTLEMENT AGREEMENT TOTALING $100,000 IN THE MATTER OF HERBERT ROBB AND ZOILA ROBB, AS PROPOSED PERSONAL REPRESENTATIVES OF THE ESTATE OF ALLAN ROBB; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+
+City Commission - Mar 18 2024
+
+Herbert Robb and Zoila Robb, as Proposed Personal Representatives of the Estate of Allan Robb, for the Benefit of Herbert Robb and Zoila Robb, surviving parents brought a claim for damages based on a complaint filed in the United States District Court for the Southern District of Florida, West Palm Beach Division, Case No. 9:23-CV-81392-AMC for an incident wherein Allan Robb passed away on or about October 17, 2021.
+
+The City has reached a settlement agreement with Herbert Robb and Zoila Robb and their attorney to resolve the matter for a total of $100,000.
+
+The Plaintiffs have signed a general release that releases the City from all claims arising from this incident, which ends all of the claims for damages, including all attorneys' fees and costs, against the City of West Palm Beach.
+
+<a id="item-8-9"></a>
+### 8.9. Resolution No. 58-24(F) accepting and appropriating funds in the amount of $21,000 from the Early Learning Coalition of Palm Beach County funded by the ARPA Provider Stabilization Sub-Grant to support the city's out-of-school program and operations at Gaines Park Community Center and South Olive Park Community Center.
+
+#### Originating Department
+
+Parks and Recreation
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 58-24(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2023/2024 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE GRANT PROGRAMS SPECIAL REVENUE FUND BUDGET TO PROVIDE FOR THE RECEIPT AND APPROPRIATION OF THE EARLY LEARNING COALITION OF PALM BEACH COUNTY ARPA PROVIDER STABILIZATION SUBGRANT AWARD TO SUPPORT ONGOING OUTOF-SCHOOL PROGRAM OPERATIONS; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+The Department of Parks and Recreation was contacted in January 2024, by the Early Learning Coalition of Palm Beach County regarding the State of Florida Office of Early Learning ARPA (American Rescue Plan Act) Child Care Provider Stabilization Subgrant.
+
+The Early Learning Coalition provided the City with two (2) Early Learning/Child Care Provider Stabilization Subgrant Grant Eligibility Forms to complete sign and return for funding. The city's out-of-school programs are eligible based on operating a licensed child care facility on or before March 11, 2021.
+
+
+City Commission - Mar 18 2024
+
+The Child Care Stabilization Subgrant funding is based on enrollment at licensed child care centers. The funding represents an opportunity to gain additional financial support for child care programming and help meet the needs of the communities and families we serve. Funds will be specified for staff recruitment and retention, staff development, deferred maintenance, program equipment and supplies. The funding for each center is as follows:
+- Gaines Park Community Center: $10,500 South Olive Park Community Center: $10,500
+
+Resolution No. 58-24(F) authorizes the appropriation of the Early Learning ARPA Child Care Provider Stabilization Sub-Grant to support the city's out-of-school program and operations.
+
+#### Commission District
+
+1: Commissioner Cathleen Ward.
+
+#### Commission District
+
+5: Commissioner Christina Lambert.
+
+#### Fiscal Note
+
+Approval will provide funding totaling $21,000 for community center licensed child care program support.
+
+<a id="item-8-10"></a>
+### 8.10. Resolution No. 64-24 approving a Joint Participation and Project Funding Agreement between the City of West Palm Beach and Immocorp Ventures, LLC for the relocation and improvements to the Sanitary Sewer force main on Broadway Avenue between 24th Street and 25th Street, required for the Northwood Square project for a not-to-exceed amount of $750,000.
+
+#### Originating Department
+
+Public Utilities
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 64-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING A JOINT PARTICIPATION AND PROJECT FUNDING AGREEMENT FOR THE RELOCATION AND IMPROVEMENTS TO THE SANITARY SEWER FORCE MAIN ON BROADWAY AVENUE
+
+BETWEEN 24th STREET and 25th STREET WITH IMMOCORP
+
+#### VENTURES, LLC IN AMOUNT NOT-TO-EXCEED $750,000;
+
+#### PROVIDING FOR AN EFFECTIVE DATE; AND FOR OTHER
+
+#### PURPOSES.
+
+#### Background Information
+
+The existing City-owned 14-inch sanitary sewer force main along Broadway, generally between the intersection at 23rd Street and Division Avenue and the 26th Street and Flagler Drive intersection (Force Main), is
+
+
+City Commission - Mar 18 2024
+
+proposed for improvements.
+
+Under a Property Development and Lease Agreement with the West Palm Beach Community Redevelopment Agency, Immocorp Ventures, LLC (the Developer) is constructing a property known as the Anchor Site within the development called Northwood Square. A section of City owned Force Main, located within the Development will be relocated to Broadway Avenue by the Developer as part of the project.
+
+The City and Developer agree that coordination and improvements of the Force Main utility work is more practical, expeditious, and economical to accomplish as part of the overall project development.
+
+The Developer has agreed to incorporate the City's desire to improve and enlarge the Force Main in conjunction with the developer's responsibility to relocate the existing force main from the project site to a more suitable location in Broadway.
+
+To accomplish this combined relocation requirement and upsizing as desired by the City, the developer and City have agreed to a cost sharing, with the City paying for the difference in cost between the existing 14-inch size and the new 20-inch size. The City and Developer agree that the improvement and related project cost is estimated not-to-exceed seven hundred and fifty thousand dollars ($750,000). The City force main work involves the design, permitting, project certification, material and installation costs related to the upsizing of approximately 1,300 linear feet of force main including restoration of the roadway. The work is anticipated to begin in April 2024 and is projected to last approximately six (6) months.
+
+Resolution No. 64-24 approves an agreement with the Developer to perform the City's force main upsizing in conjunction with the Developer's Project.
+
+#### Commission District
+
+1: Commissioner Cathleen Ward.
+
+#### Fiscal Note
+
+The Joint Participation and Project Funding Agreement cost of $750,000 will be funded as part of the Water Sewer Construction, Fund, Wastewater Collection / Sanitary Sewer Lift Station 23 Force Main Improvements Project, which has available funds of $1,417,000.
+
+<a id="item-8-11"></a>
+### 8.11. Resolution No. 69-24 accepting a grant from the Florida Department of Transportation (FDOT) in the amount of $15,000 for litter prevention education through the Keep West Palm Beach Beautiful (KWPBB) program; and Resolution No. 73-24(F) recognizing and appropriating the grant funds in the Grant Programs Special Revenue Fund. City Commission - Mar 18 2024
+
+#### Originating Department
+
+Public Works & Support Services
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 69-24:A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, ACCEPTING A LITTER CONTROL AND PREVENTION GRANT FROM THE FLORIDA DEPARTMENT OF TRANSPORTATION IN THE AMOUNT OF $15,000 TO CONDUCT KEEP WEST PALM BEACH BEAUTIFUL ACTIVITIES; AUTHORIZING EXECUTION OF THE GRANT AGREEMENT; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+> RESOLUTION NO. 73-24(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2023/2024 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE GRANT PROGRAMS SPECIAL REVENUE FUND BUDGET TO RECOGNIZE A GRANT FROM THE FLORIDA DEPARTMENT OF TRANSPORTATION FOR LITTER PREVENTION AND CONTROL PROGRAMS AND TO PROVIDE APPROPRIATIONS FOR THE KEEP WEST PALM BEACH BEAUTIFUL PROGRAM; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+The Florida Legislature has appropriated $800,000 in Fiscal Year 2023/2024 to the Department of Transportation in order to provide funding for litter prevention and control programs through certified Keep America Beautiful (“KAB”) Affiliates at the local level.
+
+Keep West Palm Beach Beautiful, established by the City in February 2022, is a certified affiliate of Keep America Beautiful.
+
+The Florida Department of Transportation (FDOT) awarded grant funding to Keep West Palm Beach Beautiful/City of West Palm Beach, in an amount of up to $15,000 to be used to reimburse costs for litter prevention and control programs.
+
+The City will provide an equal match in the amount of $15,000 for litter prevention and control programs. The City's grant match will consist of a combination of volunteer hours and $5,345, already budgeted in the FY24 Public Works budget for the Keep West Palm Beach Beautiful Program.
+
+Resolution No. 69-24 accepts the grant agreement between FDOT and Keep West Palm Beach Beautiful.
+
+Resolution No. 73-24(F) recognizes and appropriates the grant funding.
+
+
+City Commission - Mar 18 2024
+
+#### Fiscal Note
+
+Approval of this item will accept and recognize the grant award and provide appropriations in the amount of $15,000 towards the Keep West Palm Beach Beautiful Program.
+
+<a id="item-8-12"></a>
+### 8.12. Resolution No. 71-24 ratifying the submittal of an application to the Department of Homeland Security, Federal Emergency Management Agency for a grant under the Assistance to Firefighters Grant Program 2023 requesting funding in the amount of $788,721.50 to be used to provide a Fire Officer program for firefighters and for the purchase of defibrillators for patients in cardiac arrest.
+
+#### Originating Department
+
+Fire
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 71-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, RATIFYING THE SUBMITTAL OF AN APPLICATION TO THE DEPARTMENT OF HOMELAND SECURITY, FEDERAL EMERGENCY MANAGEMENT AGENCY FOR A GRANT UNDER THE ASSISTANCE TO FIREFIGHTERS GRANT PROGRAM 2023 OF WHICH $788,721.50 IS TO BE USED TO PROVIDE A FIRE OFFICER PROGRAM FOR FIREFIGHTERS, TERRORISM TRAINING FOR FIREFIGHTERS, AND FOR THE PURCHASE OF DEFIBRILLATORS FOR PATIENTS IN CARDIAC ARREST; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+The City of West of Palm Beach Fire Department is seeking ratification of its submittal of an application to the Department of Homeland Security for a grant under the Assistance to Firefighters Grant Program (AFG). These grants are given to support and enhance the fire safety of the public and responding firefighters.
+
+The West Palm Beach Fire Department intends to utilize the funds from this grant to provide a Fire Officer and Fire Inspector for firefighters. It will further provide Weapons of Mass Destruction/Terrorism training for our firefighters. The grant also requests ten (10) EKG Defibrillators for patients in cardiac arrest.
+
+There is a match required for this grant that will come from the Fire Assessment Fee Fund for fire related activities and fund balance for the EMS portion.
+
+The grant funding total project cost requested is $788,721.50 with a 10% match of $78,872.
+
+Resolution No. 71-24 ratifies the submittal of the grant application to the Department of Homeland Security. If awarded, the grant agreement and
+
+
+City Commission - Mar 18 2024
+
+a financial resolution will be brought back to the Commission for approval.
+
+#### Fiscal Note
+
+We do not expect an award until FY25; forthcoming funding resolution with award acceptance.
+
+<a id="item-8-13"></a>
+### 8.13. Resolution No. 80-24 approving a Right-of-Way Improvement and Maintenance Agreement with POTP LLC for maintenance of a portion of Broward Avenue and Piccadilly Street adjacent to 2121 Broward Avenue.
+
+#### Originating Department
+
+Community Redevelopment Agency
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 80-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, CONSENTING TO THE INSTALLATION OF IMPROVEMENTS WITH THE PUBLIC RIGHTS-OF-WAY ADJACENT TO 2121 BROWARD AVENUE; APPROVING A RIGHT-OF-WAY IMPROVEMENT & MAINTENANCE AGREEMENT BETWEEN POTP, LLC AND THE CITY OF WEST PALM BEACH FOR MAINTENANCE OF THE IMPROVEMENTS; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+The City Commission of the City of West Palm Beach, Florida, is the governing body of the City and has plenary authority of the roads, alleys, and rights-of-way within the City street system. The City generally maintains the City rights-of-way platted or dedicated for public use.
+
+POPT, LLC (“Owner”) is developing a multi-family residential project located generally at 2121 Broward Avenue, West Palm Beach, Florida (the “Project”). The Project features elements, including specialized landscaping, trees, irrigation system, and bike racks (“Improvements”) to be installed within the public right-of-way adjacent to the Project, along Broward Avenue and Piccadilly Street in accordance with the applicable plans approved by the City.
+
+The Owner agrees to assume all maintenance obligations for the Improvements for the Project installed in the right-of way.
+
+Resolution No. 80-24 approves the Right-of-Way Improvement & Maintenance Agreement with POPT, LLC setting forth the responsibilities of each party with respect to the encroachments and maintenance of the improvements.
+
+#### Commission District
+
+1: Commissioner Cathleen Ward.
+
+
+City Commission - Mar 18 2024
+
+#### Fiscal Note
+
+No fiscal impact.
+
+<a id="item-9"></a>
+## 9. RESOLUTIONS
+
+<a id="item-9-1"></a>
+### 9.1. Resolution No. 50-24 approves the proposed art concept by Kai for The District by Developer Immocorp Ventures, LLC to satisfy the public art requirement. One percent (1%) of the total construction costs is $925,250.
+
+#### Originating Department
+
+Mayor's Office
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 50-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, MAKING FINDINGS AND APPROVING INSTALLATION OF A PUBLIC ART INSTALLATION BY ARTIST KAI, FOR THE DISTRICT IN NORTHWOOD COMMISSIONED BY IMMOCORP VENTURES, LLC. IN COMPLIANCE WITH THE PUBLIC ART ORDINANCE; PROVIDING AN EFFECTIVE DATE; AND OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Resolution No. 50-24.
+
+This motion is based on the findings that the proposed artworks meet the criteria set forth in Section 78-125 of the City Code as reviewed by the ArtLife WPB Committee.
+
+#### Background Information
+
+On February 7, 2024, at their regularly scheduled meeting, ArtLife voted unanimously to recommend "Uplift" by artist Kai to the City Commission.
+
+Immocorp Ventures, LLC are the Developers who commissioned Los Angeles-based artist Kai to create a large-scale sculpture that would be integrated into one of the buildings. This mixed-use development will consist of 60,000 square feet of commercial/retail space and offer a grocery store, restaurants, retail options, and entertainment. The project will be located at 2501 Pinewood Avenue in the Northwood neighborhood.
+
+#### ABOUT THE ARTIST
+
+Los Angeles-based street artist, Kai, has created a signature character "Imaginary Friend" (IF) to build a story and send a message. This minimalist cartoon character was designed to have no discernable race, gender, or status, aiming to symbolize social inclusivity. The artist utilizes IF in all his works monumental sculptures, integrated into architecture, murals, and video.
+
+
+City Commission - Mar 18 2024
+
+Kai received his BFA from the California Institute of Arts and studied abroad at L'Ecole des Beaux Arts.
+
+#### ABOUT THE WORK
+
+"Uplift" exhibits IF holding the bridge between buildings in The District.
+
+The sculpture engineered for the site will be 24' 1.2" x 19' 9.6" x 30" 4" and will be placed at Broadway and 24th Street. The back of the sculpture will be modified to integrate around the existing column ensuring that the structural integrity of the building remains intact.
+
+The work is budgeted at $479,632 leaving a balance of $445,618. The ArtLife committee reviewed the project multiple times and encouraged the Developer to contribute the remaining balance to the Art Fund.
+
+Based on the findings that the proposed artwork meets the criteria outlined in Section 78-125 of the City Code as reviewed by the ArtLife WPB Committee, Resolution No. 50-24 approves the work by Kai for The District in Northwood to satisfy the Developer's public art requirement.
+
+#### Commission District
+
+1: Commissioner Ward.
+
+#### Fiscal Note
+
+No fiscal impact.
+
+<a id="item-9-2"></a>
+### 9.2. Resolution No. 75-24 approving an Amendment to the lease with the Cox Science Center and Aquarium.
+
+#### Originating Department
+
+Mayor's Office
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 75-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING AN AMENDMENT TO THE COX SCIENCE CENTER AND AQUARIUM LEASE AGREEMENT TO AMEND VARIOUS TERMS TO ASSIST IN FUNDRAISING AND FINANCING FOR THE SCIENCE CENTER; PROVIDING FOR AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Resolution No. 75-24
+
+#### Background Information
+
+The Cox Science Center and Aquarium (referred to as the “Science Center”) is a cultural facility within the City that offers a unique learning environment specific to natural science and natural history for residents and visitors to West Palm Beach through educational exhibits, programs,
+
+
+City Commission - Mar 18 2024
+
+and events and Science, Technology, Engineering and Math (STEM) impact initiatives.
+
+By Ordinance No. 5059-23, the City of West Pam Beach approved that certain Cox Science Center and Aquarium Lease Agreement with an effective date of October 19, 2023 (the “Lease”), demising certain real property owned by the City and located within Dreher Park, West Palm Beach, Florida, for the continued use as a science center and aquarium.
+
+The Lease provides for expansion of the lease area to allow for a new 3story, foot building addition, construction of an operations building, an expansive new pedestrian area and patron courtyard which will include an attractive water feature (ceremonial fountain), along with a new North Parking Lot.
+
+The Science Center desires to amend various terms of the Lease to assist in fundraising and financing for the Science Center.
+
+Resolution No. 75-24 approves the First Amendment to the Cox Science Center and Aquarium Lease Agreement.
+
+#### Commission District
+
+5: Commissioner Christina Lambert.
+
+#### Fiscal Note
+
+No fiscal impact.
+
+<a id="item-9-3"></a>
+### 9.3. Resolution No. 44-24 ratifying the acceptance of a Florida Department of Commerce Community Development Block Grant CARES (CDBG-CV) in the amount of $567,974 for the Community Paramedic Program; and Resolution No. 55-24(F) providing for the receipt and appropriation of $567,974 in CDBG-CV proceeds in the Grant Programs Special Revenue fund; and Resolution No. 72-24(F) amending the full time equivalent (F.T.E) personnel detail of the Grant Programs Specials Revenue Fund for the Fire Department to add an Operations Lieutenant.
+
+#### Originating Department
+
+Housing and Community Development
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 44-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, ACCEPTING A CDBG-CV GRANT FROM THE FLORIDA DEPARTMENT OF COMMERCE IN THE AMOUNT OF $567,974 FOR THE FIRE DEPARTMENT'S COMMUNITY PARAMEDIC PROGRAM; AUTHORIZING EXECUTION OF ALL DOCUMENTS NECESSARY TO RECEIVE AND UTILIZE THE GRANT FUNDS; PROVIDING AN
+
+
+City Commission - Mar 18 2024
+
+#### EFFECTIVE
+
+
+DATE;
+
+AND
+
+FOR
+
+#### OTHER
+
+
+#### PURPOSES.
+
+
+> RESOLUTION NO. 55-24(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2023/2024 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE GRANT PROGRAMS SPECIAL REVENUE FUND BUDGET FOR THE RECEIPT OF THE CORONAVIRUS AID, RELIEF AND ECONOMIC SECURITY ACT (CARES ACT) ROUND TWO PROCEEDS TO PROVIDE APPROPRIATIONS FOR ACTIVITIES RELATED TO COVID-19 RESPONSE; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+> RESOLUTION NO. 72-24(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, TO AMEND THE FULL TIME EQUIVALENT (F.T.E.) PERSONNEL DETAIL OF THE GRANT PROGRAMS SPECIAL REVENUE FUND FOR THE WEST PALM BEACH FIRE DEPARTMENT; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Resolution No. 44-24, Resolution No. 55-24(F), and Resolution No. 72-24(F).
+
+#### Background Information
+
+Florida Department of Commerce (Commerce) has granted The City of West Palm Beach $567,974 in funding through the Community Development Block Grant - CV (CDBG-CV) Small Cities and Entitlement Programs. CDBG-CV funds are federally awarded by the United States Department of Housing and Urban Development (HUD) and designed to help local governments prepare for, prevent, or respond to the health and economic impacts of the COVID-19 pandemic.
+
+On January 17, 2023, City staff presented the Community Paramedic Program (the "Program") to the City Commission as part of a Mayor/Commission Work Session, and the City Commission determined that it was in the best interest of the City to use the grant funding for this Program.
+
+Resolution No. 59-23, adopted at the March 20, 2023 City Commission meeting, authorized the Department of Housing and Community Development (HCD) to submit the grant application to Commerce to partially fund the Program.
+
+The Community Paramedic Program began in January 2022, providing services to underserved populations throughout the City by targeting individuals with chronic diseases to reduce transports to the emergency
+
+
+City Commission - Mar 18 2024
+
+room and reduce the financial burden to patients by providing an alternative means of care. The Fire Department utilized a Staffing for Adequate Fire and Emergency Response (SAFER) grant to supplement a portion of the operational costs for the Program. The Commerce grant will expand the Program by adding a new full time equivalent (FTE) Lieutenant to allow for two community paramedic teams. The Program will target residents susceptible to COVID-19 due to chronic illnesses.
+
+Through home visits, telehealth appointments, home safety checks, and telephone check-ins, the Community Paramedic Program will enable individuals to manage their condition(s) at home. This will result in decreasing hospitalizations from COVID-19 and improved health outcomes among the individuals suffering from chronic diseases.
+
+While the Commerce Agreement was received by the City in January 2024, the agreement period commenced on October 1, 2023 and ends on June 30, 2025. Grant funds will be used for the salary and benefits of an Operations Lieutenant for the remainder of FY2024 and a portion of FY2025, unless the grant term is extended, in which case, the Commerce grant may support the position for all of FY2025. If necessary, HCD will identify additional grant funding to cover the salaries and benefits for the position for the remainder of FY2025. The Commerce grant funds will also be used for the purchase of vehicles, medical supplies, vaccine distribution and health education, telehealth services, and operational costs.
+
+Approval of Resolution No. 44-22 authorizes the Mayor to execute the grant agreement and any ancillary documents to accept the grant from Florida Department of Commerce and utilize the funds.
+
+Resolution No. 55-24(F) authorizes the appropriation of CDBG-CV proceeds in the Grant Programs Special Revenue Fund for the Community Paramedic Program.
+
+Resolution No. 72-24(F) amends the full-time equivalent (F.T.E.) of the Grant Programs Special Revenue Fund for the Fire Department to add an Operations Lieutenant.
+
+#### Fiscal Note
+
+Approval will recognize grant proceeds providing appropriations ($567,974) for the Community Paramedic Program. The grant period is from October 1, 2023 and ends on June 30, 2025. If future grant funding is not identified for the Lieutenant position for the entire FY25 and beyond, the FTE will need to be covered by the General Fund.
+
+<a id="item-9-4"></a>
+### 9.4. Public Hearing of Resolution No. 77-24 amending Section 8, Exhibit C, of Resolution No. 253-23 allowing for substitution of plans for construction of a dock at 3014 North Flagler Drive. City Commission - Mar 18 2024
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 77-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AMENDING RESOLUTION NO. 253-23, SECTION 8, TO SUBSTITUTE EXHIBIT C CONTAINING THE PLANS TO CONSTRUCT A DOCK AT 3014 NORTH FLAGLER DRIVE; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Resolution No. 77-24.
+
+#### Background Information
+
+Resolution No. 253-23 was approved by the City Commission on November 13, 2023 for an existing 100-foot dock to be extended an additional 65 feet in length for a total of 165 feet at the property at 3014 North Flagler Drive. The applicant received approval from the U.S. Army Corps to allow for the 65-foot extension.
+
+Resolution No. 253-23 was appealed by the adjacent neighbor to the north which resulted in a litigation being filed. Both parties subsequently agreed to reduce the approved dock length by 15 feet to a total of 150 feet in length. Pursuant to the U.S. Army Corps, the verification letter approving the dock at 3014 North Flagler Drive at 165-feet will permit the reduction of 15 feet without any further review.
+
+The proposed dock at 3014 North Flagler Drive will now be a total of 150 feet in length and the neighbor to the north will not pursue further litigation.
+
+Approval of Resolution No. 77-24 will amend Resolution No. 253-23, Section 7 and substitute plans for dock construction that reduce its length.
+
+#### Commission District
+
+1: Commissioner Cathleen Ward.
+
+
+<a id="item-10"></a>
+## 10. PUBLIC HEARING
+
+<a id="item-10-1"></a>
+### 10.1. Public Hearing and Second Reading of Ordinance No. 5082-24 dissolving the Golf Commission Dependent Special District.
+
+#### Originating Department
+
+Mayor's Office
+
+#### Ordinance/Resolution
+
+
+> ORDINANCE NO. 5082-24: AN ORDINANCE OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, DISSOLVING THE GOLF COMMISSION DEPENDANT SPECIAL
+
+
+City Commission - Mar 18 2024
+
+#### DISTRICT;
+
+#### DISSOLVING
+
+#### THE GOLF
+
+#### COURSE
+
+#### ADVISORY
+
+#### COMMITTEE; DELETING ARTICLE IV (GOLF) OF CHAPTER 58
+
+#### (PARKS AND RECREATION FACILITIES) OF THE CODE OF
+
+#### ORDINANCES OF THE CITY OF WEST PALM BEACH; PROVIDING
+
+#### FOR CODIFICATION; PROVIDING FOR SEVERABILITY AND
+
+#### CONFLICT; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER
+
+#### PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Ordinance No. 5082-24 on Second Reading.
+
+#### Background Information
+
+By Ordinance No. 2609-93 the City Commission established the West Palm Beach Golf Commission, a dependent special district for the operation and maintenance of the West Palm Beach Municipal Golf Course (“Golf Course”). By Ordinance No. E01-03, the City Commission assumed the role of interim Golf Commission.
+
+As approved by Ordinance No. 4943-21, the City of West Palm Beach and the West Palm Golf Community Trust, Inc. entered into that certain Ground Lease, Development and Operating Agreement dated May 24, 2021, pursuant to which the West Palm Golf Community Trust would lease, redevelop, and operate the Golf Course, subject to oversight by the City Commission.
+
+Accordingly, the City of West Palm Beach wishes to dissolve the Golf Commission special district, as the Golf Commission no longer serves a public purpose as such duties and responsibilities are now the contractual duty and responsibility of the West Palm Golf Community Trust.
+
+Moreover, there is no need to spend public funds to pay the special district fees to the state.
+
+The responsibilities of the golf course advisory committee are now assumed by the City representatives on the Trust foundation's board along with the oversight provided by the City Commission.
+
+Ordinance No. 5082-24 will amend the Code to delete the Article IV of Chapter 58; will dissolve the Golf Commission Special District; and will dissolve the golf advisory committee.
+
+#### Commission District
+
+5: Commissioner Christina Lambert.
+
+#### Fiscal Note
+
+Fiscal savings from annual special district fees.
+
+<a id="item-10-2"></a>
+### 10.2. Public Hearing and Second Reading of Ordinance No. 5093-24 to increase the number of regular committee members appointed to the Education Advisory Committee from nine (9) to fifteen (15). City Commission - Mar 18 2024
+
+#### Originating Department
+
+Mayor's Office
+
+#### Ordinance/Resolution
+
+
+> ORDINANCE NO. 5093-24: AN ORDINANCE OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AMENDING THE CODE OF ORDINANCES OF THE CITY OF WEST PALM BEACH, FLORIDA AT CHAPTER 2 (ADMINISTRATION), ARTICLE III (BOARDS, COMMITTEES, AND COMMISSIONS), DIVISION 2 (EDUCATION ADVISORY COMMITTEE, SECTION 2-77 (COMPOSITION; APPOINTMENT; TERMS) INCREASING THE NUMBER OF COMMITTEE MEMBERS; PROVIDING FOR CODIFICATION; PROVIDING FOR SEVERABILITY; PROVIDING FOR CONFLICTS; AND PROVIDING FOR AN EFFECTIVE DATE.
+
+#### Staff Recommended Motion
+
+Approve Ordinance No. 5093-24 on second reading.
+
+#### Background Information
+
+Section 2-77 of Division 2, Article III, Chapter 2, of the Code of Ordinance of the City of West Palm Beach, Florida creates the Education Advisory Committee and provides that the committee shall be composed of nine (9) regular members and one (1) alternate member.
+
+During its regular meetings, the Education Advisory Committee explored how the committee could be expanded and voted to recommend an increase of its regular members from nine (9) to fifteen (15).
+
+In support of its recommendation, the Education Advisory Committee posits that increasing the membership will allow for appointments from communities not currently represented on the committee and will help reflect the diversity of the City and to bring a diversity of perspectives to the Committee.
+
+Adoption of Ordinance No. 5093-24 will increase the number of regular committee members to fifteen (15).
+
+#### Fiscal Note
+
+No fiscal impact.
+
+<a id="item-11"></a>
+## 11. COMMENTS FROM THE PUBLIC
+
+Public comments are limited to three (3) minutes. Anyone wishing to address the Commission should complete a "Comments by the Public" card and present it to the City Clerk prior to the Public Comments. When you are called to speak, please go to the podium and state your name and address for the record prior to addressing Commission. The Commission will not discuss the matter nor respond to the comment this evening. Comments made will become part of the record and may be addressed at a later date.
+
+
+City Commission - Mar 18 2024
+
+<a id="item-12"></a>
+## 12. COMMENTS BY THE MAYOR AND CITY COMMISSIONERS
+
+
+<a id="item-13"></a>
+## 13. ADJOURNMENT
+
+*Pursuant to Resolution No. 179-95, adopted according to the provisions of Section 286.0115, Florida Statutes, members of the Commission shall disclose on the record: 1) ex-parte communications verbal or written; 2.) written communications shall be placed in the record; and 3) site visits, investigations, etc. shall be disclosed.
+
+NOTICE: If any person decides to appeal any decision made by the City Commission at this meeting, that person will need a record of the proceedings, and that, for such purposes, may need to ensure that a verbatim records of the proceedings be made, which record includes the testimony and evidence upon which the appeal is based. The City of West Palm Beach does not prepare or provide such record.

@@ -1,0 +1,967 @@
+---
+date: 2024-11-12
+doc_type: agenda
+title: Final City Commission Agenda
+meeting: Regular City Commission Meeting
+official_pdf: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2024-agendas/2024-final-city-commission-agendas/11_12_24_final-city-commission-agenda.pdf
+retrieved: 2026-10-01
+extractor: pdftotext + civic-pdf-cleanup
+notes: >
+  Plain-text extract of the official PDF. Binary PDF not stored in this repo.
+---
+
+# Final City Commission Agenda — 2024-11-12
+
+**Official PDF (wpb.org):** [11_12_24_final-city-commission-agenda.pdf](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2024-agendas/2024-final-city-commission-agendas/11_12_24_final-city-commission-agenda.pdf)
+
+Text extract below is for search and deep-linking. The official PDF is authoritative.
+
+---
+
+401 Clematis Street West Palm Beach, Florida 33401 (561) 822-2222 (TTY) 800-955-8771 www.wpb.org Mayor Keith A. James Commission President Cathleen Ward (District 1) Commissioner Shalonda Warren (District 2) Commissioner Christy Fox (District 3) Commissioner Joseph A. Peduzzi (District 4) Commissioner Christina Lambert (District 5)
+
+City Administrator Faye W. Johnson City Attorney Kimberly Rothenburg City Clerk Shaquita Edwards
+
+City of West Palm Beach City Commission Agenda Tuesday, November 12, 2024 5:00 PM In accordance with the provisions of the Americans with Disabilities Act (ADA), persons in need of a special accommodation to participate in this proceeding shall, within three days prior to any proceeding, contact the City Clerk's Office, 401 Clematis Street, West Palm Beach, FL 33401, (561) 822-1210.
+
+<a id="item-1"></a>
+## 1. CALL TO ORDER
+
+
+<a id="item-2"></a>
+## 2. MOMENT OF SILENCE
+
+
+<a id="item-3"></a>
+## 3. PLEDGE OF ALLEGIANCE
+
+
+<a id="item-4"></a>
+## 4. CIVILITY AND DECORUM
+
+The City of West Palm Beach is committed to civility and decorum by its officials, employees and members of the public who attend this meeting. The City Code, Secs. 2-31(8), 2-31(18) and 2-31(22), provides in pertinent part:
+- Officials shall be recognized by the Chair and shall not interrupt a speaker.
+- Public comment shall be addressed to the City Commission as a whole and not to any individual on the dais or in the audience.
+- Displays of anger, rudeness, ridicule, impatience, lack of respect and personal attacks are strictly prohibited.
+- Unauthorized remarks from the audience, stamping of feet, whistles, yells and similar demonstrations shall not be permitted.
+- Offenders may be removed from the meeting.
+- Any person desiring to address the Commission shall file a written request with the city clerk prior to consideration of the matter by the Commission or prior to the public comment portion of a meeting. The person wishing to speak shall complete a comment card for each agenda item the person wishes to address, which shall include the person's full name, address, and the numbered agenda item. The person will not be recognized if the comment card is not completed.
+
+
+City Commission - Nov 12 2024
+
+<a id="item-5"></a>
+## 5. ADDITIONS/DELETIONS/REORGANIZATION OF AGENDA
+
+
+<a id="item-6"></a>
+## 6. PRESENTATION
+
+<a id="item-6-1"></a>
+### 6.1. Your Waterfront, Your Way Report: Status Update.
+
+#### Originating Department
+
+Mayor's Office
+
+
+<a id="item-7"></a>
+## 7. CONSENT CALENDAR
+
+All items listed under the consent calendar are considered routine and will be enacted by one motion. There will be no separate discussion of these items.
+
+<a id="item-7-1"></a>
+### 7.1. Resolution No. 227-24 accepting a grant from the Florida Department of State, Division of Cultural Affairs, in the amount of $307,998.78 from the cultural facilities grant program for the construction of cultural and community facilities at Currie Park; and Resolution No. 246-24(F) authorizing the appropriations or transfer of city funds in fiscal year 2024/2025 amending the grants capital funds budget to provide appropriations for receipt of the grant funds.
+
+#### Originating Department
+
+Parks and Recreation
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 227-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, ACCEPTING A GRANT FROM THE FLORIDA DEPARTMENT OF STATE, DIVISION OF CULTURAL AFFAIRS, IN THE AMOUNT OF $307,998.78 FROM THE CULTURAL FACILITIES GRANT PROGRAM FOR THE CONSTRUCTION OF CULTURAL AND COMMUNITY FACILITIES AT CURRIE PARK; PROVIDING AND EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+> RESOLUTION NO. 246-24(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2024/2025 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE GRANTS CAPITAL PROJECT FUND BUDGET TO PROVIDE APPROPRIATIONS FOR THE RECEIPT OF A GRANT FROM THE FLORIDA DEPARTMENT OF STATE, DIVISION OF CULTURAL AFFAIRS FOR CURRIE PARK REDEVELOPMENT; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+As a part of the Currie Park Master Plan improvements, several grants
+
+
+City Commission - Nov 12 2024
+
+were researched and reviewed for consideration to provide full funding for the plan. Via Resolution No. 60-22, in April 2022, the West Palm Beach City Commission approved the submittal of an application to the state of Florida, Divisions of Cultural Affairs for a Cultural Facilities Grant in the amount of $500,000 to be used for infrastructure improvements for outdoor programming and events in Currie Park.
+
+The State responded to the application in February 2024, stating that some funds were unclaimed, allowing the City to pursue an available grant of $307,998.78 out of the $500,000 originally asked.
+
+The grant requires a 2:1 match, with a complete grant project budget of $923,996.34. The match funds of $615,997.56 will be sourced from the Currie Park Parks Bond Fund allocation.
+
+The grant dollars will be used to support the waterfront performance area.
+
+To support the performance area, ADA access ways, along with integrated electric, lighting, and audio, will be installed. The LED lighting will increase access and safety and extend hours of use into the evening.
+
+The installation of an electrical system is critical to allow for all types of programming that require power. The system will power a large stage with lighting and sound for concerts and smaller needs, such as vendor booths at art festivals.
+
+The grant requires that the City record a restrictive covenant against the property to be benefited by the grant funds. The restrictive covenant requires the City to maintain ownership of the property for ten (10) years and to maintain the facility as a “cultural facility,” defined as a building which shall be used primarily for the programming, production, presentation, exhibition or any combination of the above functions of any of the cultural disciplines defined in s. 265.283(7), F.S., for the 10-year period. The cultural disciplines include, but are not limited to music, dance, theater, creative writing, literature, architecture, painting, sculpture, folk arts, photography, crafts, media arts, visual arts, programs of museums, and other such allied, major art forms, which is the intended use of the performance area.
+
+Resolution No. 227-24 accepts the grant funds, approves execution of the grant agreement and authorizes the recording of a restrictive covenant on the Currie Park property.
+
+Resolution No. 246-24(F) amends the grants capital project fund budget to provide appropriations of receipt of the grant from the Department of State, Division of Cultural Affairs.
+
+#### Commission District
+
+1: Commissioner Cathleen Ward.
+
+
+City Commission - Nov 12 2024
+
+#### Fiscal Note
+
+Approval of this item recognizes and appropriates the grant award of $307,999. This Grant requires a 2:1 match of $615,998, which will be sourced from the Currie Park Parks Bond Fund project budget. Total grant project budget is $923,997.
+
+<a id="item-7-2"></a>
+### 7.2. Resolution No. 230-24 approving an agreement for non-exclusive use and maintenance of Phipps Park Baseball Facilities with Phipps Park Baseball, Inc. for a term of three (3) years with two (2) one-year renewals.
+
+#### Originating Department
+
+Parks and Recreation
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 230-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING AN AGREEMENT FOR NON-EXCLUSIVE USE AND MAINTENANCE OF PHIPPS PARK BASEBALL FACILITIES WITH PHIPPS PARK BASEBALL, INC.; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+The City of West Palm Beach has baseball facilities located at Phipps Park. The facilities include (4) baseball fields, batting cages, baseball practice facilities, restrooms, concession facilities, and a parking lot.
+
+Phipps Park Baseball, Inc. uses the baseball facilities at Phipps Park for baseball-sanctioned programs and events.
+
+The agreement defines the roles and responsibilities, which state that Phipps Park Baseball, Inc., shall operate, maintain, and provide nonexclusive use of the baseball facilities. The agreement provides for a payment to Phipps Park Baseball, Inc. for maintenance and upkeep of the fields and facilities.
+
+Year One: 200,000 Year Two: 206,000 Year Three: 212,180 The City of West Palm Beach will retain $5,000 of the annual maintenance fee to pay for energy and utility bills at the baseball facilities.
+
+Phipps Park Baseball, Inc., shall maintain receipts for all maintenance expenditures and shall detail the maintenance costs in an annual report to the City.
+
+#### Commission District
+
+5: Commissioner Christina Lambert.
+
+#### Fiscal Note
+
+
+City Commission - Nov 12 2024
+
+Fully budgeted as listed above.
+
+<a id="item-7-3"></a>
+### 7.3. Resolution No. 233-24 approving a Special Event License Agreement with Palm Beach County Motorcyclists Toys for Tots, Inc. for the "Bill's Bikes Memorial Toy Run" event on Sunday, December 15, 2024, in Dreher Park and authorizing the issuance of a permit for the sale, possession, and consumption of alcoholic beverages at the event.
+
+#### Originating Department
+
+Parks and Recreation
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 233-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING A SPECIAL EVENT LICENSE AGREEMENT BETWEEN THE CITY AND PALM BEACH COUNTY MOTORCYCLISTS TOYS FOR TOTS INC. FOR THE PURPOSE OF CONDUCTING THE BILL’S BIKES MEMORIAL TOY RUN AT DREHER PARK ON DECEMBER 15, 2024, FROM 9:00 A.M. TO 6:00 P.M.; AUTHORIZING THE ISSUANCE OF A PERMIT TO THE PALM BEACH COUNTY MOTORCYCLISTS TOYS FOR TOTS INC. FOR THE SALE, CONSUMPTION AND POSSESSION OF ALCOHOLIC BEVERAGES AT THE BILL’S BIKES MEMORIAL TOY RUN SPECIAL EVENT; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+Palm Beach County Motorcyclist Toys for Tots, Inc. will pay the City of West Palm Beach a $1,947.40 special event permit fee, a $1,000 special event security deposit, and will provide the City of West Palm Beach general liability insurance and liquor liability insurance. Both insurance policies will list the City of West Palm Beach as the additional insured.
+
+Resolution No. 233-24 approves a Special Events License Agreement between the City and Palm Beach County Motorcyclist Toys for Tots, Inc. and authorizes the issuance of a permit for the sale, consumption, and possession of alcoholic beverages at the event.
+
+#### Commission District
+
+5: Commissioner Christina Lambert.
+
+#### Fiscal Note
+
+Permit revenues will be received as stated.
+
+<a id="item-7-4"></a>
+### 7.4. Resolution No. 238-24 approving a Special Event License Agreement with Modernique Events & Co, LLC. for the Outdoor Community Dinner event on Saturday, December 14, 2024 at Phipps Park and authorizing the issuance of a permit for the sale, possession, and consumption of alcoholic beverages at the event.
+
+#### Originating Department
+
+City Commission - Nov 12 2024
+
+
+Parks and Recreation
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 238-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING A SPECIAL EVENT LICENSE AGREEMENT BETWEEN THE CITY AND MODERNIQUE EVENTS & CO, LLC. FOR THE PURPOSE OF CONDUCTING OUTDOOR COMMUNITY DINNER AT PHIPPS PARK ON DECEMBER 14, 2024, FROM 5:00 PM TO 9:00 PM; AUTHORIZING THE ISSUANCE OF A PERMIT TO MODERNIQUE EVENTS & CO, LLC. FOR THE SALE, CONSUMPTION AND POSSESSION OF ALCOHOLIC BEVERAGES AT OUTDOOR COMMUNITY DINNER SPECIAL EVENT.
+
+#### Background Information
+
+Modernique Events & Co, LLC. has submitted an application to produce the Outdoor Community Dinner event on Saturday, December 14, 2024, from 5:00 PM to 9:00 PM at Phipps Park. During this event, Modernique Events & Co, LLC. will serve food, alcoholic and non-alcoholic beverages.
+
+Pursuant to Article Section 78-152 of the City Code of Ordinances, a special event permit is required to host a special event in a City park, and Section 58-85 of the Code of Ordinances requires approval of the City Commission, subject to conditions, for the sale, possession, and consumption of alcoholic beverages in a City park during a hosted special event.
+
+Modernique Events & Co, LLC. will pay the City of West Palm Beach a $3,428.65 special event permit fee, a $1,000.00 special event security deposit, and will provide the City of West Palm Beach general liability insurance and liquor liability insurance. Both insurance policies will list the City of West Palm Beach as the additional insured.
+
+Resolution No. 238-24 approves a Special Events License Agreement between the City and Modernique Events & Co, LLC.. and authorizes issuance of a permit for the sale, consumption, and possession of alcoholic beverages at the event.
+
+#### Commission District
+
+5: Commissioner Christina Lambert.
+
+#### Fiscal Note
+
+No expense.
+
+The
+
+City
+
+will
+
+receive
+
+the
+
+license
+
+fee.
+
+
+City Commission - Nov 12 2024
+
+<a id="item-7-5"></a>
+### 7.5. Resolution No. 249-24 approving a grant agreement between the Florida Inland Navigation District (FIND) and the City for the replacement of the Brian Chappell Park Pier; and Resolution No. 250-24(F) authorizing the appropriations or transfer of City funds in Fiscal Year 2024-2025 amending the grants capital funds budget to provide appropriations for receipt of the $212,500 in grant funds.
+
+#### Originating Department
+
+Parks and Recreation
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 249-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, ACCEPTING A GRANT FROM THE FLORIDA INLAND NAVIGATION DISTRICT IN THE AMOUNT OF $212,500 FOR THE REPLACEMENT OF THE BRIAN CHAPPELL PARK PIER; PROVIDING AND EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+> RESOLUTION NO. 250-24(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2024-2025 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE GRANTS CAPITAL PROJECT FUND BUDGET TO PROVIDE APPROPRIATIONS FOR THE RECEIPT OF A GRANT FROM THE FLORIDA INLAND NAVIDATION DISTRICT FOR THE BRIAN CHAPPELL PARK PIER REPLACEMENT, PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+On March 6, 2023 by Resolution No. 58-23, the City Commission approved the submittal of a grant application to the Florida Inland Navigation District (FIND) for a Waterway Assistance Program grant for the replacement of the Brian Chappell Park pier.
+
+FIND has awarded the grant to the City. The Waterway Assistance Program Grant requires a 50/50 match.
+
+The pier was originally built in the 1950s and has been repaired by replacing decking and rails several times. The pier pilings showed considerable degradation requiring a replacement of the pier in its entirety.
+
+The FIND grant award is $212,500 and the 50% City match of $212,500 will be funded from the Parks Series 2020 General Obligation Bond funds budgeted for Brian Chappell Park.
+
+
+City Commission - Nov 12 2024
+
+Resolution No. 249-24 accepts the grant and approves the grant agreement.
+
+#### Commission District
+
+1: Commissioner Cathleen Ward.
+
+#### Fiscal Note
+
+Approval of the grant award will provide the necessary funding to replace the pier at Brian Chappell Park.
+
+<a id="item-7-6"></a>
+### 7.6. Resolution No. 240-24 approving submittal of an application to the Florida Department of State, Division of Library and Information Services for the State Aid to Libraries Grant to assist the Mandel Public Library of West Palm Beach in maintaining and developing vital services during FY 20242025.
+
+#### Originating Department
+
+Library
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 240-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE MAYOR TO SUBMIT AN APPLICATION TO THE FLORIDA DEPARTMENT OF STATE FOR A STATE AID TO LIBRARIES GRANT FOR OPERATION AND MAINTENANCE OF THE MANDEL PUBLIC LIBRARY; AUTHORIZING EXECUTION OF A GRANT AGREEMENT AND OTHER DOCUMENTS; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+Florida's State Aid to Libraries Program is administered by the Florida Department of State, Division of Library and Information Services. In 2003, the Legislature revised the law to allow independent municipal libraries to participate in the State Aid to Libraries Program. This was done in recognition that the provision of State Aid to independent municipal libraries is a valuable contribution to the extension of the State's public library development plan. The State provides a match of up to 25 cents on each dollar of local funds expended centrally for the operation and maintenance of the library. The Mandel Public Library of West Palm Beach has received this State Aid funding since 2003.
+
+The Mandel Public Library meets the following requirements to receive the State Aid to Libraries Grant: 1. Provides free library services; 2. Maintains an established interlocal agreement to jointly support each participating library;
+
+
+City Commission - Nov 12 2024
+
+3. Retains a single administrative head employed full-time to manage or coordinate the operations of the library; 4. Expends funds centrally; 5. Maintains a reciprocal borrowing agreement; 6. Provides access to materials, information and services for all residents of the area served; 7. Library is open 40 hours or more each week; and 8. Library has established a long-range plan, annual plan of service and annual budget.
+
+Funding from the State will supplement the Mandel Public Library's operating costs for goods and services as defined by the Uniform Accounting System Manual for Local Governments, 2022 edition, prepared by the Florida Department of Financial Services, Bureau of Local Government.
+
+The State will determine the amount of grant to be awarded to the City.
+
+<a id="item-7-7"></a>
+### 7.7. Resolution No. 242-24 approves a Conditional Settlement Agreement totaling $70,000 in the matter of Marette Crawford vs. The City of West Palm Beach.
+
+#### Originating Department
+
+City Attorney's Office
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 242-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING A SETTLEMENT AGREEMENT FOR $70,000 IN THE MATTER OF MARETTE CRAWFORD VS. THE CITY OF WEST PALM BEACH, FILED IN THE FIFTEENTH JUDICIAL CIRCUIT, IN AND FOR PALM BEACH COUNTY, FLORIDA, CASE NO. 50-2023-CA-008242XXXX-MB AI; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+Marette Crawford filed a complaint in the Fifteenth Judicial Circuit of Florida for damages stemming from an accident that occurred on or about February 22, 2022 to wit: Marette Crawford vs. The City of West Palm Beach in the Circuit Court of the Fifteenth Judicial Circuit, in and for Palm Beach County, Florida, Case No. 50-2023-CA-008242-XXXX-MB AI.
+
+The City has reached a settlement agreement with Marette Crawford and her attorney to resolve the matter for a total of $70,000. The plaintiff
+
+
+City Commission - Nov 12 2024
+
+signed a general release that releases the City from all claims arising from this accident, which resolves all of the claims for damages, including attorneys' fees and costs, against the City of West Palm Beach.
+
+Section 2-268(g)(4) of the Code of Ordinances of the City of West Palm Beach, Florida, provides that the authority for settlement of all claims in excess of $30,000 shall require the approval of the City Commission by formal resolution.
+
+Resolution No. 242-24 approves the Mediated Settlement Agreement.
+
+<a id="item-7-8"></a>
+### 7.8. Resolution No. 244-24 authorizing the assessment of City liens in the total amount of $10,028.50 for unpaid water service, sewer service, and storm water charges for the month of July 2024.
+
+#### Originating Department
+
+City Attorney's Office
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 244-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING AND AUTHORIZING AN ASSESSMENT OF CITY LIENS FOR UNPAID WATER SERVICE, SEWER SERVICE AND STORMWATER SERVICE CHARGES FOR THE MONTH OF JULY 2024; PROVIDING THAT SAID LIENS SHALL BE PRIOR IN DIGNITY TO ALL OTHER LIENS AGAINST THE ASSESSED PROPERTIES, SAVE AND EXCEPT A LIEN FOR TAXES; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+In accordance with the Code of Ordinances of the City of West Palm Beach, Florida, 2003, Sections 90-4 and 90-5, the City imposes liens on private real property for delinquent payments due for utility services.
+
+The liens to be assessed by Resolution No. 244-24 are for unpaid water service, sewer service, and stormwater service charges for the month of July 2024.
+
+The list of properties to be assessed and the associated charges totaling $10,028.50 are provided in Resolution No. 244-24 as EXHIBIT A - Utility Lien List - July 2024.
+
+#### Fiscal Note
+
+No
+
+#### fiscal
+
+
+impact.
+
+
+City Commission - Nov 12 2024
+
+<a id="item-7-9"></a>
+### 7.9. Resolution No. 254-24 approving an amendment to the Project Participation Agreement among the City of West Palm Beach, the West Palm Beach Community Redevelopment Agency, and 300 Banyan LLC regarding funding and construction of City improvement in the 300 Block of Banyan Boulevard.
+
+#### Originating Department
+
+Engineering
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 254-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH APPROVING AN AMENDMENT TO THE PROJECT PARTICIPATION AGREEMENT AMONG THE CITY OF WEST PALM BEACH, THE WEST PALM BEACH COMMUNITY REDEVELOPMENT AGENCY AND 300 BANYAN LLC, REGARDING FUNDING AND CONSTRUCTION OF CITY IMPROVEMENT IN THE 300 BLOCK OF BANYAN BOULEVARD; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+Last year, the City and the CRA completed the construction of Phase I improvements to Banyan Boulevard providing much-needed landscaping upgrades, a bike lane, and new lighting. Phase II of the Banyan Boulevard streetscape improvement was originally scheduled by the City and the CRA for this year, but cost increases necessitated a reevaluation of the project, and Phase II will not start for the next six (6) months.
+
+The streetscape improvements delay will impact the completion of the streetscape and utility improvements originally scheduled adjacent to the new office building currently being completed at 300 Banyan Boulevard.
+
+To avoid a negative impact on the completion of the office building, staff is proposing an agreement with the project Developer (300 Banyan LLC) to allow the required utility improvements to be performed by the building contractor.
+
+If utility improvements are not completed now, the Developer will complete their code- required improvements, and the City will have to demolish those improvements when the streetscape project moves ahead in the near future.
+
+It is in the City's and the CRA's best interest to contract 300 Banyan LLC to make improvements for the City.
+
+The additional funding amount is $75,785 for additional, replacement, brick paver adjustment and milling and resurfacing.
+
+curb
+
+Companion Resolution No. 24-61 is being presented for approval by the
+
+#### WPB CRA.
+
+
+City Commission - Nov 12 2024
+
+Resolution No. 254-24 gives the City's approval for the Amendment.
+
+CRA District - Downtown / City Center District.
+The proposed project is located within Commission District 3:
+Commissioner Christy Fox.
+
+#### Fiscal Note
+
+Additional costs to be funded by the CRA.
+
+<a id="item-7-10"></a>
+### 7.10. Resolution No. 257-24 granting an aerial easement to Von Esselborn, Inc., over a portion of the sidewalk at 309 and 313 Clematis Street for balcony encroachments.
+
+#### Originating Department
+
+Engineering
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 257-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, GRANTING AN AERIAL EASEMENT OVER THE SIDEWALK ADJACENT TO 309 AND 313 CLEMATIS STREET; APPROVING AN AERIAL EASEMENT AGREEMENT BETWEEN VON ESSELBORN INC., AND THE CITY OF WEST PALM BEACH; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+Roxy's Pub located at 309 Clematis Street recently purchased the adjoining building at 313 Clematis Street and submitted for a building permit for some interior and rooftop improvements. As part of that permit, it was discovered that there were some existing balcony encroachments on the 4th floor of 309 and 2nd floor of 313 Clematis. Resolution No. 25724 will recognize and allow for the existing encroachments to remain.
+
+#### Commission District
+
+3: Commissioner Christy Fox.
+
+#### Fiscal Note
+
+No fiscal impact.
+
+<a id="item-7-11"></a>
+### 7.11. Resolution No. 265-24(F) amending the full time equivalent budget (FTE) for the West Palm Beach Police Department.
+
+#### Originating Department
+
+Human Resources
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 265-24(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, TO
+
+
+City Commission - Nov 12 2024
+
+#### AMEND THE FULL TIME EQUIVALENT (F.T.E.) PERSONNEL DETAIL
+
+#### OF THE GENERAL FUND FOR THE POLICE DEPARTMENT;
+
+#### PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+Resolution No. 265-24(F) amends the full-time equivalent budget (FTE) for the West Palm Beach Police Department by reallocating one (1) vacant Police Officer position to one (1) Police Major position. This change is requested to ensure adequate supervision over a variety of units under our Community Engagement Division which includes community policing.
+
+Any costs associated with this change will be covered by savings from vacancies within the Police Department.
+
+#### Fiscal Note
+
+Any costs associated with this change will be covered by savings from vacancies within the Police Department.
+
+<a id="item-8"></a>
+## 8. RESOLUTIONS
+
+<a id="item-8-1"></a>
+### 8.1. Resolution No. 245-24 granting a revocable license for use of City property to Julien’s Brasserie Ltd. d/b/a Avocado Grill for use of a portion of the pedestrian alley adjacent to 125 Datura Street for restaurant seating.
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 245-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH GRANTING A REVOCABLE LICENSE FOR USE OF CITY PROPERTY TO JULIEN’S BRASSERIE LTD. D/B/A AVOCADO GRILL FOR USE OF A PORTION OF THE PEDESTRIAN ALLEY ADJACENT TO 125 DATURA STREET FOR RESTAURANT SEATING; PROVIDING FOR AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Resolution No. 245-24.
+
+#### Background Information
+
+The City Commission of the City of West Palm Beach, Florida, is the governing body of the City and has plenary authority over roads, alleys, and rights-of-ways within the City street system.
+
+The 1920 plat of the subject area in the downtown of the City of West Palm Beach created a pedestrian alley from Datura Street to Clematis Street, running adjacent to 125 Datura Street.
+
+
+City Commission - Nov 12 2024
+
+Julien’s Brasserie Ltd. operates the Avocado Grill at 125 Datura Street and would like to use a portion of the pedestrian alley for outdoor restaurant seating.
+
+Planning staff has determined that such request would be similar to a sidewalk café permit and has no objection to such use, provided a fivefoot pedestrian walkway is maintained; that fees equivalent to the sidewalk café are paid; and there is compliance with all other restrictions and requirements for such use.
+
+Avocado Grill has agreed to comply with all requirements for a revocable license for use of a portion of the pedestrian walkway adjacent to 125 Datura Street for restaurant seating.
+
+Resolution No. 245-24 approves the revocable license agreement for the use of a portion of the pedestrian alley adjacent to 125 Datura Street for restaurant seating to Julien's Brasserie Ltd. d/b/a Avocado Grill.
+
+#### Commission District
+
+3: Commissioner Christy Fox.
+
+
+<a id="item-9"></a>
+## 9. PUBLIC HEARING
+
+<a id="item-9-1"></a>
+### 9.1. Public Hearing and First Reading of Ordinance No. 5116-24 adopting the amendments to Article II (Building Code) and Article VII (Floodplain Management) of Chapter 18 of the City of West Palm Beach Code.
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> ORDINANCE No. 5116-24: AN ORDINANCE OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, ADOPTING THE FEDERAL EMERGENCY MANAGEMENT AGENCY’S 2024 FLOOD INSURANCE STUDY AND FLOOD INSURANCE RATE MAP FOR PALM BEACH COUNTY, INCLUDING THE CITY OF WEST PALM BEACH; AMENDING THE WEST PALM BEACH CODE OF ORDINANCES TO ADOPT CHANGES TO CHAPTER 18, BUILDINGS AND BUILDING REGULATIONS, AT ARTICLE II -BUILDING CODE, SECTIONS 18-33, 18-34 AND 18-35 TO ADOPT TECHNICAL AMENDMENTS TO THE FLORIDA BUILDING CODE; AND AMENDMENTS TO ARTICLE VII – FLOODPLAIN MANAGEMENT AT SECTIONS 18-281, 18-282, 18-284, 18-289, 18-292, 18-293, 18-295 AND 18-296 TO COMPLY WITH THE FLOOD INSURANCE STUDY; PROVIDING FOR CODIFICATION; PROVIDING A SEVERABILITY CLAUSE AND A CONFLICTS CLAUSE; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+
+City Commission - Nov 12 2024
+
+#### Staff Recommended Motion
+
+Approve Ordinance No. 5116-24 on First Reading and schedule Second Reading for November 25, 2024.
+
+#### Background Information
+
+The National Flood Insurance Program (NFIP) is a voluntary Federal program, established on August 1, 1968, that enables property owners in participating communities to purchase insurance protection against losses from flooding. This insurance is designed to provide an alternative to disaster assistance to meet the escalating costs of repairing damage to buildings and their contents caused by floods. Participation in the NFIP is based upon an agreement between local communities and the Federal Government.
+
+If a community adopts and enforces floodplain management regulations to reduce future flood risks to new construction and substantially improved structures in Special Flood Hazard Area (SFHAs), the Federal Government will make flood insurance available to residents.
+
+The City of West Palm Beach has been a participant in this program for many years and is always striving to improve our Community Rating Score. On June 20, 2024 FEMA issued a Letter of Final Determination for the Flood Insurance Study (FIS) and Flood Insurance Rate Map (FIRM) for Palm Beach County and the City of West Palm Beach. These updates by FEMA provided updated areas within all portions of the County that are prone to flooding. The FIS and FIRM and their associated potential flood zones will become effective on December 20, 2024.
+
+In order to comply with FEMA and National Flood Insurance Program (NFIP) regulations, the City must adopt the FIS and FIRM no later than December 20, 2024.in order to meet or exceed the minimum NFIP requirements.
+
+As a result of the FIS and FIRM, the City of West Palm Beach now has several "V" Zones along the intracoastal meaning these areas are more susceptible to flooding and storm surge which has required amendments to procedures and criteria for development in flood hazard zones as well as technical amendments to the Florida Building Code.
+
+<a id="item-9-2"></a>
+### 9.2. Public Hearing and First Reading of Ordinance No. 5117-24: A Cityinitiated request for a text amendment to Section 94-611, “Definitions” of the Zoning and Land Development Regulations to remove or modify definitions relating to development in Flood Hazard Areas.
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> ORDINANCE No. 5117-24: AN
+
+
+#### ORDINANCE
+
+
+OF
+
+THE
+
+CITY
+
+
+City Commission - Nov 12 2024
+
+#### COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA,
+
+#### AMENDING THE CODE OF ORDINANCES OF THE CITY OF WEST
+
+#### PALM BEACH, FLORIDA, AT CHAPTER 94 - ZONING AND LAND
+
+#### DEVELOPMENT REGULATIONS, ARTICLE XIX, SECTION 94-611,
+
+#### DEFINITIONS, TO REMOVE DEFINITIONS OF TERMS NO LONGER
+
+#### APPLICABLE AND TO MODIFY TERMS REGARDING FLOODPLAIN
+
+#### MANAGEMENT TO COMPLY WITH THE FEDERAL EMERGENCY
+
+#### MANAGEMENT AGENCY’S REQUIREMENTS; DECLARING THIS
+
+#### AMENDMENT TO BE CONSISTENT WITH THE COMPREHENSIVE
+
+#### PLAN OF THE CITY; PROVIDING A CONFLICTS CLAUSE, A
+
+#### CODIFICATION CLAUSE, AND A SEVERABILITY CLAUSE;
+
+#### PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Ordinance No. 5117-24 amending Chapter 94. Zoning and Development Regulations, Article XIX - Definitions. This motion is based upon the factual testimony presented, the staff report, the recommendation of the Planning Board and the findings that the proposed amendment complies with all the amendment standards found in Section 94-32 of the City's Zoning and Land Development Regulations.
+
+#### Background Information
+
+The City of West Palm Beach has been a participant in the National Flood Insurance Program (NFIP) since March 1, 1979 and the City desires to continue to meet the requirements of Title 44 Code of Regulations, Sections 59 and 60. These sections are required for participation in the program which offers discounts to City residents for flood insurance.
+
+Chapter 553, Florida Statutes, was adopted by the Florida Legislature to provide a mechanism for the uniform adoption, updating, amendment, interpretation and enforcement of a state building code called the Florida Building Code. Local technical amendments to the Florida Building Code that provide for more stringent requirements to implement the national Flood Insurance Program and incentives can be made.
+
+On September 14, 2017, the City of West Palm Beach adopted Ordinance No. 4729-17, Chapter 94, Zoning and Land Development Regulations, Article XVII, Flood Prevention Control in its entirety, including Sections 94-541 thru 94-547 which were repealed with an effective date of October 5, 2017.
+
+On June 20, 2024, FEMA issued a Letter of Final Determination for the Flood Insurance Study (FIS) and Flood Insurance Rate Map (FIRM) for the coastal areas of Palm Beach County to include the City of West Palm Beach. These updates by FEMA provided updated FIRMs for all coastal portions of the County. The FIS and FIRM and their associated potential flood zones will become effective on December 20, 2024.
+
+In order to comply with FEMA and National Flood Insurance Program
+
+
+City Commission - Nov 12 2024
+
+(NFIP) regulations, the City must adopt the FIS and FIRM no later than December 20, 2024 in order to meet or exceed the minimum NFIP requirements. This adoption is being accomplished thru Ordinance No. 5116-24.
+
+However, while examining Chapter 94 “Zoning and Land Development Regulations,” for compliance, it was discovered that there were terms which have been discontinued, therefore, should be removed from Section 94-611 of the ZLDRs, since all necessary flood terms have been placed in Chapter 18 “Building and Building Regulations” by Ordinance No. 4729-17 which became effective as of October 5, 2017. This text amendment will effectively resolve these issues with Chapter 94.
+
+These amendments were presented to the Planning Board on October 16, 2024 and approved by a 5 - 0 vote.
+
+<a id="item-9-3"></a>
+### 9.3. Public Hearing and First Reading of Ordinance No. 5119-24 approving a third amendment to the "Consolidated and Amended Lease Between the City of West Palm Beach and West Palm Beach Marina, Inc.," (with The Waterview Towers Condominium Association) to extend the expiration date from May 10, 2073 to May 9, 2123; establishing rents for the extended period; and creating rent credits applicable to the lease; and Public Hearing and First Reading of Ordinance No. 5120-24 approving a fifth amendment of lease for the extended submerged marina premises.
+
+#### Originating Department
+
+City Attorney's Office
+
+#### Ordinance/Resolution
+
+
+> ORDINANCE NO. 5119-24: AN ORDINANCE OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING A THIRD AMENDMENT TO THE CONSOLIDATED AND AMENDED LEASE BETWEEN CITY OF WEST PALM BEACH AND WEST PALM BEACH MARINA, INC. (NOW THE WATERVIEW TOWERS CONDOMINIUM ASSOCIATION, INC.) TO EXTEND THE EXPIRATION DATE TO MAY 9, 2123, ESTABLISHING RENTS AND CREDITS; AUTHORIZING THE MAYOR TO EXECUTE THE AMENDMENT; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+> ORDINANCE NO. 5120-24: AN ORDINANCE OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING A FIFTH AMENDMENT OF LEASE FOR EXTENDED SUBMERGED MARINA PREMISES BETWEEN THE CITY AND LEISURE RESORTS, LLC, TO ALLOW FOR A TERM EXTENSION UNDER CERTAIN CONDITIONS; AUTHORIZING THE MAYOR TO EXECUTE THE AMENDMENT; PROVIDING AN EFFECTIVE DATE;
+
+
+City Commission - Nov 12 2024
+
+#### AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Ordinance No. 5119-24 on First Reading and schedule Second Reading for November 25, 2024; and Approve Ordinance No. 5120-24 on First Reading and schedule Second Reading for November 25, 2024.
+
+Each Ordinance must be approved by four (4) Commissioners at either First or Second Reading.
+
+#### Background Information
+
+The City is fee simple owner of property generally located at 400 N.
+
+Flagler Drive and leased to the West Palm Beach Marina, Inc. by virtue of execution of the "Consolidated and Amended Lease Between City of West Palm Beach, Florida and West Palm Beach Marine, Inc."
+
+(Consolidated Lease) which interest transferred to the Unit Owners upon submission to condominium and who are represented in this transaction by The Waterview Towers Condominium Association, Inc., by virtue of the Declaration of Condominium as amended.
+
+The upland portion of the property and the submerged land immediately adjacent to the uplands owned by the City was leased to West Palm Beach Marina Inc., on November 19, 1979, City executed and on December 10, 1979, Marina executed Amendment No. 1 to Consolidated and Amended Lease Between City of West Palm Beach, Florida, and West Palm Beach Marina, Inc., which was recorded in the public records of Palm Beach County on December 12, 1979, at Official Records Book 3192, Page 1944. The lease was amended a second time, which amendment was signed by the City on August 17, 1981, and by Leisure Resorts, Inc., assignee of West Palm Beach Marina, Ind., on August 20, 1981.
+
+The City leased its leasehold interest to the submerged land immediately adjacent to the uplands pursuant to a Lease for Extended Submerged Marina Premises made and executed on the first day of April 2009 and recorded in the Official Records of Palm Beach County, Florida, at Official Records Book 23173, Page 1778, which expires on March 31, 2109 (Extended Lease). This lease was amended in 2010, 2013, 2015, and 2016.
+
+There is currently pending litigation relating to the leased property more specifically identified as follows: (i) The Waterview Towers Condominium Association, Inc., et al. v. Leisure Resorts, LLC and City of West Palm Beach, in the Circuit Court in the Fifteenth Judicial Circuit in and for Palm Beach County, Case No. 502015CA010806 XXX MB AE; (ii) The Waterview Towers Condominium Association, Inc., et al. v. City of West
+
+
+City Commission - Nov 12 2024
+
+Palm Beach and Palm Harbor Hotel, LLC, in the Circuit Court of the Fifteenth Judicial Circuit in and for Palm Beach County, Case No. 502014CA005009 XXXMB AG, and (iii) The Waterview Towers Condominium Association, Inc., et al. v. City of West Palm Beach, in the Circuit Court in the Fifteenth Judicial Circuit in and for Palm Beach County, Case No. 502015CA011999XXX MB AD.
+
+To resolve the pending litigation and any issues that have or could be brought related to the pending litigation, the City, Leisure, and Waterview attended mediation, resulting in the execution of a Non-Binding Mediation Term Sheet wherein Waterview and City agreed to settle all claims and damages arising out of or that could have been raised in the pending litigation. The Term Sheet requires, among other things, that the City agree to a one-50-year extension of the term of the Consolidated Lease, which includes the uplands and a portion of the sovereign submerged land not included in the Extended Lease which will extend the term of the Consolidated Lease from May 10, 2073 to May 9, 2123.
+
+Adoption of Ordinance No. 5119-24 approves The Third Amendment to the Consolidated Lease, which in summary, makes the following changes: 1. Amends the legal description to remove sovereign submerged land deemed by the Florida Supreme Court to be owned by the State of Florida; 2. Removes the first right of refusal to extend the lease; 3. Extends the expiration date from May 10, 2073 to May 9, 2123; 4. Establishes Rent due commencing May 10, 2073, which will be equal to the rent due during the last full lease year of the original term and provides for an annual increase of 1.5% during the extended term; and 5. Grants a rent credit of $2,500,000 applied annually beginning October 1, 2025, in exchange for Waterview granting the City a walkway easement so that the 10-foot walkway along the water is open for use by the public from dawn to dusk.
+
+Adoption of Ordinance No. 5120-24 approves the Fifth Amendment to the Lease for Extended Submerged Marina Premises between the City of West Palm Beach and Leisure Resorts, LLC, which amends the Extended
+Lease as follows:
+1. Article I -- Section 5 acknowledges that the term of the Consolidated Lease is longer than the Extended Lease and the State Lease requires the City to use diligent efforts to amend the
+
+
+City Commission - Nov 12 2024
+
+State Lease to expire on May 9, 2023; 2. Article II -- Section 1 and Section 4 removes provisions related to merging the residential portion of the upland property into the Extended Lease upon expiration of the Consolidated Lease; and 3. Sections 6 and 7 removes the City's authority to terminate the lease on the 80th year.
+
+#### Commission District
+
+3: Commissioner Christy Fox.
+
+
+<a id="item-9-4"></a>
+### 9.4. Public Hearing and First Reading of Ordinance No. 5112-24 for a Future Land Use (FLU) Map Amendment to change the FLU designation of an approximately 9.897-acre tract located at 1101 South Flagler Drive from the existing Community Services (CS) FLU designation to Multi-Family (MF) FLU designation.
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> ORDINANCE NO. 5112-24: AN ORDINANCE OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AMENDING THE FUTURE LAND USE MAP OF THE COMPREHENSIVE PLAN OF THE CITY OF WEST PALM BEACH, FLORIDA, BY CHANGING THE FUTURE LAND USE DESIGNATION OF AN APPROXIMATELY 9.897 ACRE PARCEL, GENERALLY LOCATED AT 1101 SOUTH FLAGLER DRIVE, FROM COMMUNITY SERVICE TO A MULTIFAMILY FUTURE LAND USE DESIGNATION; DECLARING THE PROPOSED AMENDMENT TO THE FUTURE LAND USE MAP TO BE CONSISTENT WITH THE COMPREHENSIVE PLAN OF THE CITY OF WEST PALM BEACH; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Ordinance No. 5112-24, changing the Future Land Use designation of ±9.897 acres of land located at 1101 South Flagler Drive, from Community Service (CS) to Multifamily (MF) future land use designation.
+
+This motion is based upon the application submitted, the staff report, factual testimony, the recommendation of the Planning Board, and the findings that the amendment complies with the provisions of Chapter 163, Florida Statutes, and the Florida Administrative Code (FAC), and is in accordance with the City’s Comprehensive Plan. Additionally, the proposed amendment meets the Future Land Use (FLU) Amendment Justification Standards found in Future Land Use Element Policy 1.1.5 and 1.1.6 of the City's Comprehensive Plan, based on changed assumption(s) and the applicable provisions of section 94-33 of the land
+
+
+City Commission - Nov 12 2024
+
+development regulations.
+
+#### Background Information
+
+#### (THE INFORMATION PROVIDED BELOW IS A GENERAL SUMMARY.
+
+#### A FULL ANALYSIS IS INCLUDED IN THE STAFF REPORT.)
+
+Located on the west side of South Flagler Drive, approximately 400 feet south of Okeechobee Boulevard, the subject property, 1101 South Flagler Drive, consists of ±9.897 acres and is the current location of the First Baptist Church of West Palm Beach, comprised of a Church, a school campus with auxiliary daycare use, a parking garage with offices and open surface parking lots. With the exception of the existing First Baptist Church, all other structures located on the site are proposed to be demolished for the redevelopment of the property.
+
+The applicant proposes the redevelopment of the site with a mixed-use development comprised of a new church with school campus, multi-family residential units with two (2) parking garages, and restaurant uses. The First Baptist Church was founded in 1901 and has served the community to this date. The First Baptist Church of West Palm Beach Community Service Planned Development (CSPD) was originally approved in 1998, with the adoption of Ordinance No. 3156-98, followed by several site improvements and minor amendments along the years.
+
+The subject property currently has a CS FLU designation originally approved in 1998 with the adoption of Ordinance No. 3156-98. Since the adoption of the City’s Comprehensive Plan and the assignment of the CS FLU to the site, the development pattern of the surrounding area and the related demands for public services has dramatically evolved, especially in the Downtown and surrounding areas east of Interstate 95. As such, with the future redevelopment of the property, the applicant is proposing tochange the FLU designation for the ±9.897-acre tract from the existing Community Services (CS) FLU designation to Multi-Family (MF) FLU designation.
+
+The existing historical Family Church, as well as the redevelopment of the School/ Daycare component will continue to operate on site, as its use will occupy less than 30% of the site as permitted per Ord.5071-23 of the WPB Comprehensive Plan. More specifically, the non-residential Use Area in the RPD is proposed to occupy 19.7% of the total area.
+
+The proposed MF32 FLU designation on the current CS tract is compatible with other residential projects and other residential developments adjacent to the subject property, such as Coastal Towers apartments directly to the north, Forte’ on Flagler, Towers Residence and La Clara to the south, and Trianon and The Bristol residence directly to the east. These multifamily residential developments reinforce the compatibility of multifamily uses, architectural characters, and the existing
+
+
+City Commission - Nov 12 2024
+
+integration of shared common vertical developments within the surrounding area.
+
+structures
+
+on
+
+multiple
+
+As part of any proposed FLU amendment, each of the level of service (LOS) elements is reviewed to determine if the new FLU designation would cause any increase in impact, and if so, whether or not the capacity is available to accommodate the additional demand.
+
+The above-described amendments to the FLU map will allow the development to have a FLU designation that is consistent with the use that has existed on the property for approximately 30 years. Additionally, the change of the Community Service tract to Multifamily (MF) is consistent with much of the development that is found along the corridor of South Flagler Drive and within the surrounding neighborhood. It is Staff’s professional opinion that the proposed FLU designation is compatible and appropriate for the subject property and, subject to the voluntary restriction, will not create any impact that would be detrimental or incompatible with the surrounding area.
+
+Concurrent with the proposed FLU amendment described above, the applicant has submitted a rezoning application to change the property's zoning designation from Community Service (CS) to Multifamily HighDensity (MF32) with a further rezoning to Residential Planned Development (RPD). This accompanying application, which includes the incorporation of an additional permitted use and a site plan with waivers is addressed in Ordinance No. 5113-24.
+
+#### PLANNING BOARD
+
+After a Public Hearing on September 17, 2024, the Planning Board recommended approval (7-0) of the proposed Future Land Use Map Amendment to the City Commission.
+
+#### PUBLIC NOTICE
+
+Individual notices were mailed to all property owners within 500 feet of the property, and signs were posted on the subject property. Per Ordinance No. 5112-24, was advertised in the Palm Beach Post on November 2, 2024.
+
+#### COMMISSION DISTRICT
+
+#### Commission District
+
+5: Commissioner Christina Lambert.
+
+
+City Commission - Nov 12 2024
+
+<a id="item-10"></a>
+## 10. PUBLIC HEARING - QUASI-JUDICIAL
+
+Disclosure of ex-parte communications, if any* Swearing-in of witnesses.
+
+<a id="item-10-1"></a>
+### 10.1. Public Hearing of Resolution No. 224-24: A request by David Harrison, agent of Related Company, and Tyler Woolsey, agent of Urban Design Studio, on behalf of Family Church 1, LLC (the Owner), for the abandonment of a 0.261-acre (11,325 square foot) portion of the Chadbourne Court right-of-way, located east of and perpendicular to South Olive Avenue.
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> ORDINANCE NO. 224-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, VACATING AND ABANDONING A PORTION OF CHADBOURNE COURT RIGHT-OF-WAY, LOCATED IN A PLATTED TRACT, EAST OF AND PERPENDICULAR TO SOUTH OLIVE AVENUE, TOTALING APPROXIMATELY 11,355 SQUARE FEET OF AREA; AUTHORIZING EXECUTION OF A DISCLAIMER OF INTEREST IN THE AFORESAID RIGHT-OF-WAY; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Resolution No. 224-24.
+
+#### Background Information
+
+#### (THE INFORMATION PROVIDED BELOW IS A GENERAL SUMMARY.
+
+#### A FULL ANALYSIS IS INCLUDED IN THE STAFF REPORT.)
+
+This request is for the proposed abandonment of a 0.26-acre (11,355 square foot) portion of the Chadbourne Court public right-of-way, located in a plated tract, east of and perpendicular to South Olive Avenue and adjacent to the boundaries of the First Baptist Church Community Service Planned Development (CSPD).
+
+On April 9, 2024, the applicant submitted an application for a Planned Development Amendment to the First Baptist Church CSPD for the redevelopment of the church with a school campus and accessory daycare use, and for the construction of a new mixed-use development with a concurrent application for the abandonment of a portion of the Chadbourne Court right-of-way.
+
+The subject abandonment is necessary for the proposed redevelopment of the site consisting of a new Church, a school campus with auxiliary daycare use, and for a new mixed-use development consisting of two (2)
+
+
+City Commission - Nov 12 2024
+
+multifamily residential towers comprised of 190 dwelling units with restaurant uses at the ground level, and two (2) parking garages. The redevelopment of the church with school campus and the mixed-use development will be considered by Resolution No. 225-24, which is also scheduled to be discussed by the City Commission at the November 12, 2024 meeting.
+
+If the abandonment is approved, it will add 11,355 square feet (the portion of the abandonment) to the First Baptist Church CSPD, increasing the size of the CSPD from ±9.636 acres to ±9.897 acres.
+
+The abandonment would not result in any negative impact to the surrounding area. The parcel has little development potential to anyone other than the adjoining property owner(First Baptist Church), and the abandonment will not disrupt traffic circulation and accessibility, as the redeveloped property will provide full access to the surrounding street network. There are currently utilities within the subject right-of-way; however, the utilities will be relocated with the redevelopment of the site.
+
+The abandonment of the subject right-of-way is necessary for the petitioner to consolidate adjacent portions of land for the redevelopment of the First Baptist Church campus and for the proposed mixed-use development.
+
+#### COMPENSATION TO THE CITY
+
+The value for the subject right-of-way, as estimated by an appraisal conducted by Anderson Carr, Inc. and dated July 8, 2024, was appraised at $4,500,000; a second estimate requested by the applicant, and conducted by Callaway & Price, Inc., dated September 8, 2024, appraised the subject right-of-way at $3,075,000. The City Administration offered the applicant to pay for the average of the two (2) estimate that is consistent with the City's land management policy, and to which the applicant has agreed to pay. The compensation to the City is $3,787,500.
+
+#### STANDARDS
+
+Staff found that the requested abandonment complies with the abandonment criteria of Section 78-217 of the City’s Code of Ordinances.
+
+#### NOTICES
+
+Pursuant to the requirements of Section 78-215(b) of the Code of Ordinances, individual notices were mailed to all property owners within 400 feet of the subject abandonment, and signs were also posted in the area of the subject abandonment.
+
+
+City Commission - Nov 12 2024
+
+#### PLANNING BOARD
+
+After a Public Hearing on September 17, 2024, the Planning Board recommended approval (6-0).
+
+#### PUBLIC NOTICE
+
+Individual notices were mailed to all property owners within 400 feet of the property, and signs were posted on the subject property.
+
+Resolution No. 224-24 approves the abandonment of the subject alley conditioned upon receipt, within twelve (12) months of the compensation for the property abandoned.
+
+#### COMMISSION DISTRICT
+
+#### Commission District
+
+5: Commissioner Christina Lambert.
+
+
+<a id="item-10-2"></a>
+### 10.2. Public Hearing and First Reading of Ordinance No. 5113-24 regarding a termination of the First Baptist Church Community Service Planned Development (CSPD), located generally at 1101 South Flagler Drive, and amending the zoning map of the City of West Palm Beach to rezone the approximately 9.897 acre former family church site from Community Service Planned Development (CSPD) to Community Service (CS) zoning designation; and Public Hearing and First Reading of Ordinance No. 5114-24 regarding a rezoning of ±9.897 acres located generally at 1101 South Flagler Drive, from Community Service (CS) to Multifamily High-Density (MF-32) zoning designation, with a further rezoning to a Residential Planned Development (RPD); and Discussion of Resolution No 225-24 regarding the establishment of the development regulations and conditions for the Residential Planned Development (RPD) and the granting of waivers from the Zoning and Land Development Regulations. The above-referenced requests are being made by David Harrison, agent of Related Company, and Tyler Woolsey, agent of Urban Design Studio, on behalf of Family Church 1, LLC (the Owner), for the redevelopment of the First Baptist Church with a mixed-use development comprised of a new church with school campus, multifamily residential units with two (2) parking garages, and restaurant uses.
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+City Commission - Nov 12 2024
+
+> ORDINANCE NO. 5113-24: AN ORDINANCE OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, TERMINATING THE FIRST BAPTIST CHURCH COMMUNITY SERVICE PLANNED DEVELOPMENT GOVERNED BY RESOLUTION NO. 251-13, LOCATED GENERALLY AT 1101 SOUTH FLAGLER DRIVE; AND AMENDING THE ZONING MAP OF THE CITY OF WEST PALM BEACH TO REZONE THE APPROXIMATELY 9.897 ACRE FORMER FIRST BAPTIST CHURCH SITE FROM COMMUNITY SERVICE PLANNED DEVELOPMENT TO COMMUNITY SERVICE ZONING DESIGNATION; DECLARING THIS ZONING MAP AMENDMENT CONSISTENT WITH THE COMPREHENSIVE PLAN OF THE CITY; REVISING THE ZONING MAP OF THE CITY ACCORDINGLY; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+> ORDINANCE NO. 5114-24: AN ORDINANCE OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AMENDING THE ZONING MAP OF THE CITY OF WEST PALM BEACH BY REZONING APPROXIMATELY 9.897 ACRE PARCEL LOCATED GENERALLY AT 1101 SOUTH FLAGLER DRIVE, FROM COMMUNITY SERVICE ZONING DESIGNATION TO MULTIFAMILY HIGH-DENSITY ZONING DESIGNATION, WITH A FURTHER REZONE TO A RESIDENTIAL PLANNED DEVELOPMENT ZONING DESIGNATION, WITH AN ACREAGE WAIVER, TO CREATE THE REDEVELOPMENT OF THE FAMILY CHURCH RESIDENTIAL PLANNED DEVELOPMENT; PROVIDING FOR THE ESTABLISHMENT OF DEVELOPMENT REGULATIONS BY SEPARATE RESOLUTION; DECLARING THIS ZONING MAP AMENDMENT TO BE CONSISTENT WITH THE COMPREHENSIVE PLAN OF THE CITY; REVISING THE ZONING MAP OF THE CITY ACCORDINGLY; PROVIDING A CONFLICT CAUSE; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+> RESOLUTION NO. 225-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, ESTABLISHING THE DEVELOPMENT REGULATIONS FOR THE REDEVELOPMENT OF THE FAMILY CHURCH RESIDENTIAL PLANNED DEVELOPMENT, WHICH CONSISTS OF THE FAMILY CHURCH CAMPUS, MULTIFAMILY RESIDENTIAL TOWERS AND COMMERCIAL USE, LOCATED GENERALLY AT 1101 SOUTH FLAGLER DRIVE; GRANTING WAIVERS TO THE ZONING AND LAND DEVELOPMENT REGULATIONS; DECLARING THIS AMENDMENT CONSISTENT WITH THE COMPREHENSIVE PLAN OF THE CITY; PROVIDING A CONFLICT CLAUSE; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Ordinance No. 5113-24, terminating the First Baptist Church Community Service Planned Development (CSPD) governed by Resolution No. 251-13, and amending the zoning map of the City of West Palm Beach to rezone the former First Baptist Church development from
+
+
+City Commission - Nov 12 2024
+
+Community Service Planned Development (CSPD) zoning designation, to Community Service (CS) zoning designation. This motion is based upon the application submitted, the staff report, factual testimony, the recommendation of the Planning Board, and the findings that the amendment complies with the Comprehensive Plan of the City of West Palm Beach, and the provisions of Chapter 94 of the City's Zoning and Land Development Regulations (ZLDR).
+
+Approve Ordinance No. 5114-24, to change the zoning designation of ±9.897 acres located at 1101 South Flagler Drive from Community Service (CS) to Multifamily High-Density (MF-32) zoning designation, with a further rezoning to Residential Planned Development (RPD) zoning designation with an acreage waiver, to create the Family Church of West Palm Beach Residential Planned Development (RPD). This motion is based upon the application submitted, the staff report, factual testimony, the recommendation of the Planning Board, and the findings that the request complies with the Comprehensive Plan and the standards in Sections 94-32, 94-35(c), 94-204 and 94-207 of the City's Zoning and Land Development Regulations.
+
+Discuss Resolution No. 225-24.
+
+Schedule Second Readings on November 25, 2024.
+
+#### Background Information
+
+#### (THE INFORMATION PROVIDED BELOW IS A GENERAL SUMMARY.
+
+#### A FULL ANALYSIS IS INCLUDED IN THE STAFF REPORT.)
+
+#### Background
+
+Located on the west side of South Flagler Drive, approximately 400 feet south of Okeechobee Boulevard, the subject property, 1101 South Flagler Drive, consists of ±9.897 acres and is the current location of the First Baptist Church of West Palm Beach, comprised of a Church, a school campus with auxiliary daycare use, a parking garage with offices and open surface parking lots. The First Baptist Church was founded in 1901 and has served the community since this date.
+
+The First Baptist Church of West Palm Beach Community Service Planned Development (CSPD) was originally approved in 1998, with the adoption of Ordinance No. 3156-98, followed by several site improvements and minor amendments. Currently, the applicant proposes to redevelop the site with a new church with school campus and auxiliary daycare use, and a new mixed-use development consisting of two (2) multifamily residential towers comprised of 190 dwelling units, and restaurant uses at the ground level.
+
+In order to effectuate their plans and to incorporate a mixed-use development, classified as Residential, Multifamily, as a newly permitted
+
+
+City Commission - Nov 12 2024
+
+use and to allow the request of certain waivers from the City’s Zoning and Land Development Regulations (ZLDRs), a termination of the current PD, followed by the rezoning of the property, from Community Service Planed Development (CSPD) to Community Service (CS) zoning designation, and from Community Service (CS) to Multifamily High-Density (MF-32) Residential zoning designation, with a further rezoning to Residential Planned Development (RPD) is required for consistency with the Comprehensive Plan, and with criteria and standards provided in Section 94-32 of the City’s Zoning and Land Development Regulations.
+
+As such, the applicant has submitted the following requests under the following Ordinances:
+- Ordinance No. 5113-24 allows for the termination of the First Baptist Church Community Service Planned Development (CSPD), followed by the rezoning of the site, from Community Service Planned Development (CSPD) zoning designation, to Community Service (CS) zoning designation. This amendment is required to allow the property to rezone to a residential planned development.
+
+- Ordinance No. 5114-24 allows for the rezoning of the subject property from Community Service (CS) to Multifamily High-Density (MF32) zoning designation, with a further rezoning to Residential Planned Development (RPD). All of the development regulations will be approved in Resolution No. 225-24.
+
+#### PROPOSED PLANNED DEVELOPMENT (RESOLUTION NO. 225-24)
+
+As with the change in the FLU designation, the rezoning of the family church redevelopment to MF32 with a further rezoning to RPD would allow it to continue operate as a religious facility campus with school and daycare uses while having a residential zoning designation that is consistent with the two residential towers proposed on the site.
+
+The applicant proposes to demolish all existing structures (including the enclosed parking garage), with the exception of the principal place of worship which will remain. The remainder of the site will include the construction of two (2) parking garages, two (2) new residential towers with restaurants, and new structures for the school, daycare and surface parking areas.
+
+As previously stated, the eastern boundary of the parcel is South Flagler Drive. Since this area is unable to be developed due to the roadway easement, the eastern setback for the site is measured from what is designated as the west right-of-way of South Flagler Drive. Normally, MF32 requires a 25-foot front setback; however, in order to comply with the greater setbacks required of recent developments along this section
+
+
+City Commission - Nov 12 2024
+
+of South Flagler Drive, the applicant has provided setbacks that vary between 70 and 94 feet from South Flagler Drive. Within this setback area, the applicant is proposing an eight (8)-foot wide public sidewalk flanked by trees and a publicly accessible open space along south Flagler Drive.
+
+The site is directly bounded on the south by Acacia Road, and by two separate privately owned parcels, known as Flagler Residential Condominium, and a Presbyterian Church. The side setback for MF32 is 15 feet, unless the building exceeds 40 feet in height, then the required side setback is determined by the height of the building with one foot of setback required for each two feet in building height. The development proposes the construction of two (2) high-end residential towers, the north tower, consisting of a 359'-5"- foot (368.00' NAVD) tall building, and the south tower, consisting of 329'-5"(338.00'NAVD). The applicant has requested side setback waivers based on the building height of the south tower. The north tower meets all side setbacks, according to the ZLDR.
+
+The parcel fronts South Olive Avenue along its west boundary. Since the frontage is opposite the South Flagler Drive frontage, the parcel has double frontage and requires a 25-foot setback from South Olive Avenue.
+
+It is important to note that, while the principal structure complies with the required setbacks applicable to the RPD zoning district, the outdoor play areas do not comply with the specific use regulations requiring day care play areas to be located outside of the front setback, therefore, waivers are required for the outdoor play area of the accessory daycare use, and for the outdoor activity area front setback of the School use along South Olive Avenue.
+
+Additionally, the applicant requests relaxation of the ZLDR requirements for the number of maximum access points per adjacent roadway, for the Total Access Points on the property, and Separation of Access Points along South Olive Avenue and South Flagler Drive.
+
+#### LIST OF WAIVERS
+
+A complete list of waivers requested by the applicant is described below and fully analyzed in the attached Planning Board Staff Report:
+- Waiver # 1: Section 94-207(c)(2) – Minimum Land Area
+
+- Waiver # 2: Section 94-77(a)(3) - Maximum Building Height & Reductions of Side Setback
+
+- Waiver # 3: Section 94-312(1)(a) – Maximum Access Points per Adjacent Roadway
+
+
+City Commission - Nov 12 2024
+
+- Waiver # 4: Section 94-312(1)(b) – Total Access Points
+
+- Waiver # 5: Section 94-312(2)(a) – Separation of Access Points
+
+- Waiver # 6: Section 94-273(d)(17)(b)(4) - Outdoor Play Area Front Setback (Daycare use)
+
+- Waiver # 7: Section 94-273(d)(68)(b)(3)(ii) - Outdoor Activity Area Front Setback (School use)
+
+The proposed modifications for the church campus on the north of the property and the construction of a multifamily residential development with restaurant uses on the remaining south portion of the property will certainly provide for an increase in activity in the area bringing an influx of new residents and general public to a property that has been used as a parking lot and remained mostly underutilized for a long time. The residential development will bring new residents and a continued investment in the area.
+
+It is staff’s professional opinion that particular circumstances justify the redevelopment of the site with a new church with school campus and a new mixed-use development. The proposed RPD complies with the City's Comprehensive Plan, and that the proposed development, with the waivers granted, will comply with the standards required by the Zoning and Land Development Regulations.
+
+#### PLANNING BOARD
+
+After a Public Hearing on September 17, 2024, the Planning Board recommended approval (7-0) of the request to the City Commission.
+
+#### PUBLIC NOTICE
+
+Individual notices were mailed to all property owners within 500 feet of the property, and signs were posted on the subject property.
+
+#### COMMISSION DISTRICT
+
+#### Commission District
+
+5: Commissioner Christina Lambert.
+
+
+<a id="item-10-3"></a>
+### 10.3. Resolution No. 229-24 approving the replat of approximately 2.38 acres (103,758 square feet) of real property generally located at 180 Lakeview Avenue and 809 South Flagler Drive, as is associated with the One Flagler office and First Church of Christ Scientist developments.
+
+#### Originating Department
+
+Development Services
+
+
+City Commission - Nov 12 2024
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 229-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING THE CONSOLIDATION AND REPLAT OF REAL PROPERTY TO CREATE THE PLAT ENTITLED “ONE FLAGLER” CONSISTING OF TWO (2) DEVELOPMENT TRACTS “A” AND “B” TOTALING APPROXIMATELY 2.38 ACRES (103,758 SQUARE FEET) GENERALLY LOCATED AT 180 LAKEVIEW AVENUE AND 809 SOUTH FLAGLER DRIVE; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+I move to continue consideration of Resolution No. 229-24 to the commission meeting scheduled to begin at 5:00 p.m. on December 9, 2024, at the City of West Palm Beach City Hall Commission Chambers, 401 Clematis Street, West Palm Beach, Florida 33401.
+
+<a id="item-11"></a>
+## 11. COMMENTS FROM THE PUBLIC
+
+Public comments are limited to three (3) minutes. Anyone wishing to address the Commission should complete a "Comments by the Public" card and present it to the City Clerk prior to the Public Comments. When you are called to speak, please go to the podium and state your name and address for the record prior to addressing Commission. The Commission will not discuss the matter nor respond to the comment this evening. Comments made will become part of the record and may be addressed at a later date.
+
+<a id="item-12"></a>
+## 12. COMMENTS BY THE MAYOR AND CITY COMMISSIONERS
+
+
+<a id="item-13"></a>
+## 13. ADJOURNMENT
+
+*Pursuant to Resolution No. 179-95, adopted according to the provisions of Section 286.0115, Florida Statutes, members of the Commission shall disclose on the record: 1) ex-parte communications verbal or written; 2.) written communications shall be placed in the record; and 3) site visits, investigations, etc. shall be disclosed.
+
+NOTICE: If any person decides to appeal any decision made by the City Commission at this meeting, that person will need a record of the proceedings, and that, for such purposes, may need to ensure that a verbatim records of the proceedings be made, which record includes the testimony and evidence upon which the appeal is based. The City of West Palm Beach does not prepare or provide such record.

@@ -1,0 +1,706 @@
+---
+date: 2024-09-16
+doc_type: pass-fail
+title: City Commission Pass/Fail Agenda
+meeting: Regular City Commission Meeting
+official_pdf: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2024-pass-fail-agendas/09-september-2024/pf-09_16_24-city-commission-agenda.pdf
+retrieved: 2026-10-01
+extractor: pdftotext + civic-pdf-cleanup
+notes: >
+  Plain-text extract of the official PDF. Binary PDF not stored in this repo.
+---
+
+# City Commission Pass/Fail Agenda — 2024-09-16
+
+**Official PDF (wpb.org):** [pf-09_16_24-city-commission-agenda.pdf](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2024-pass-fail-agendas/09-september-2024/pf-09_16_24-city-commission-agenda.pdf)
+
+Text extract below is for search and deep-linking. The official PDF is authoritative.
+
+---
+
+401 Clematis Street West Palm Beach, Florida 33401 (561) 822-2222 (TTY) 800-955-8771 www.wpb.org Mayor Keith A. James Commission President Cathleen Ward (District 1) Commissioner Shalonda Warren (District 2) Commissioner Christy Fox (District 3) Commissioner Joseph A. Peduzzi (District 4) Commissioner Christina Lambert (District 5)
+
+City Administrator Faye W. Johnson City Attorney Kimberly Rothenburg City Clerk Shaquita Edwards
+
+City of West Palm Beach City Commission Pass/Fail Agenda Monday, September 16, 2024 5:00 PM In accordance with the provisions of the Americans with Disabilities Act (ADA), persons in need of a special accommodation to participate in this proceeding shall, within three days prior to any proceeding, contact the City Clerk's Office, 401 Clematis Street, West Palm Beach, FL 33401, (561) 822-1210.
+
+<a id="item-1"></a>
+## 1. CALL TO ORDER
+
+
+<a id="item-2"></a>
+## 2. MOMENT OF SILENCE
+
+
+<a id="item-3"></a>
+## 3. PLEDGE OF ALLEGIANCE
+
+
+<a id="item-4"></a>
+## 4. CIVILITY AND DECORUM
+
+The City of West Palm Beach is committed to civility and decorum by its officials, employees and members of the public who attend this meeting. The City Code, Secs. 2-31(8), 2-31(18) and 2-31(22), provides in pertinent part:
+- Officials shall be recognized by the Chair and shall not interrupt a speaker.
+- Public comment shall be addressed to the City Commission as a whole and not to any individual on the dais or in the audience.
+- Displays of anger, rudeness, ridicule, impatience, lack of respect and personal attacks are strictly prohibited.
+- Unauthorized remarks from the audience, stamping of feet, whistles, yells and similar demonstrations shall not be permitted.
+- Offenders may be removed from the meeting.
+- Any person desiring to address the Commission shall file a written request with the city clerk prior to consideration of the matter by the Commission or prior to the public comment portion of a meeting. The person wishing to speak shall complete a comment card for each agenda item the person wishes to address, which shall include the person's full name, address, and the numbered agenda item. The person will not be recognized if the comment card is not completed.
+
+
+City Commission - Sep 16 2024
+
+<a id="item-5"></a>
+## 5. ADDITIONS / DELETIONS / REORGANIZATION OF AGENDA
+
+
+<a id="item-6"></a>
+## 6. APPOINTMENTS- APPROVED.
+
+<a id="item-6-1"></a>
+### 6.1. City Commission approval is requested for the Mayor's reappointment of Brian Cheguis to the Downtown Action Committee for a term of three (3) years to expire on September 1, 2027. Mr. Cheguis has served over the maximum allowed number of terms (3), and it is required that the City Commission confirms his reappointment.
+
+#### Originating Department
+
+Mayor's Office
+
+#### Staff Recommended Motion
+
+Mr. Cheguis' reappointment is recommended for his professional background, institutional knowledge, and years of service.
+
+<a id="item-7"></a>
+## 7. CONSENT CALENDAR- ALL ITEMS WERE APPROVED.
+
+All items listed under the consent calendar are considered routine and will be enacted by one motion. There will be no separate discussion of these items.
+
+<a id="item-7-1"></a>
+### 7.1. Resolution No. 188-24 updating the Comprehensive Fee Schedule for the City of West Palm Beach for Fiscal Year 2024/2025.
+
+#### Originating Department
+
+Finance
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 188-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, ESTABLISHING THE COMPREHENSIVE FEE SCHEDULE FOR FISCAL YEAR 2024-2025; AMENDING AND REPLACING ALL PRIOR FEE SCHEDULES; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+In 2013/2014, the first Comprehensive Fee Schedule was created formally with Resolution No. 290-13. The rationale behind creating a comprehensive fee schedule is to provide efficiency, transparency, consistency, and revenue assurance/enhancement.
+
+Annually, the City undertakes a process of working with Department Directors and Division Managers to review current fees and any suggested proposed fee changes for the upcoming fiscal year. The final version of this information as reviewed and updated by City Departments is in Exhibit A. Items highlighted in green are new items or fees and the items highlighted in pink are changed fees or descriptions.
+
+Below is a summary breakdown by fee category of the changes.
+
+
+City Commission - Sep 16 2024
+
+There are no proposed fee changes relating to Business Tax Receipts, Business Registration, Certificate of Use, Code and Chronic Nuisance, City Clerk, Engineering, Finance, Fire Inspections, Fire and EMS, Grassy Waters, Industrial Pre-Treatment and Sewer Use, Library, Police Services, and Procurement.
+
+A comparison of the fees in Exhibit A with the fees schedule for fiscal year 2023/2024 reveals fee changes or description changes for Business Permits, City Attorney, Housing and Community Development, Parks and Recreation, Parking, Sanitation, and Special Events.
+
+New fees included in Exhibit A include fees in Parking, Parks and Recreation, Planning and Zoning, and Special Events.
+
+The action of this comprehensive fee schedule consolidates and codifies the fees across City departments. Resolution No. 188-24 will approve the proposed Comprehensive Fee Schedule for fiscal year 2024/2025 as aligned with the 2024/2025 Budget.
+
+#### Fiscal Note
+
+The estimated revenue impact is reflected in the proposed FY2025 budget.
+
+<a id="item-7-2"></a>
+### 7.2. Resolution No. 189-24(F) providing appropriations from Federal Law Enforcement Forfeiture Funds of $50,000 to fund the investigative use of rental vehicles; and Resolution No. 190-24(F) providing appropriations of $56,000 from State Law Enforcement Forfeiture Receipts to fund the investigative use of rental vehicles.
+
+#### Originating Department
+
+Police
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 189-24(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2023/2024 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE MISCELLANEOUS TRUST FUND BUDGET TO PROVIDE APPROPRIATIONS FROM THE FEDERAL LAW ENFORCEMENT FORFEITURE RECEIPTS FOR THE RENTAL OF VEHICLES BY THE WEST PALM BEACH POLICE DEPARTMENT; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+> RESOLUTION NO. 190-24(F): A RESOLUTION OF THE CITY
+
+
+City Commission - Sep 16 2024
+
+#### COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA,
+
+#### AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY
+
+#### FUNDS IN FISCAL YEAR 2023/2024 IN ACCORDANCE WITH
+
+#### SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM
+
+#### BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE
+
+#### MISCELLANEOUS
+
+#### TRUST
+
+FUND
+
+#### BUDGET
+
+TO
+
+#### PROVIDE
+
+#### APPROPRIATIONS FROM THE STATE LAW ENFORCEMENT
+
+#### FORFEITURE RECEIPTS FOR THE RENTAL OF VEHICLES BY THE
+
+#### WEST PALM BEACH POLICE DEPARTMENT; PROVIDING AN
+
+#### EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+
+> RESOLUTION NO. 189-24(F)
+
+The Federal Law Enforcement Trust Fund expenditure of $50,000 will be used to achieve law enforcement objectives in accordance with the statutes and guidelines that govern the Federal Equitable Sharing Program as set forth in the current edition of the Department of Justice's Guide to Equitable Sharing for State and Local Law Enforcement.
+
+Rental Vehicles ($50,000): Rental vehicles are utilized by undercover and plain clothes police department personnel in the Narcotics and Criminal Investigation Units to pursue narcotics trafficking, other criminal investigations, to assist, where necessary, with the City's participation in certain special task forces, and for other law enforcement activities.
+
+Participation in the rental program permits the Police Department to exchange vehicles more frequently, enabling undercover officers to perform their duties without being identified by the criminal suspects they are investigating, and for additional law enforcement activities. This program is a cost effective means of providing equipment necessary for special operations. All investigations by this unit require the ability to operate effectively and discreetly using unmarked vehicles. Additional purposes include a variety of law enforcement activities.
+
+The City joined a multi-agency cooperative in South Florida to obtain the most competitive rates and terms. The requested funds would supply rental vehicles for investigative purposes and additional law enforcement activities for the remainder of the fiscal year.
+
+> RESOLUTION NO. 190-24(F)
+
+Pursuant to the Florida Contraband Forfeiture Act, any local law enforcement agency that acquires at least $15,000 within a fiscal year must expend or donate no less than 25 percent (25%) of such proceeds.
+
+These funds may be expended upon request by the Chief of Police to the City Commission, and upon appropriation to the Police Department's miscellaneous trust fund. Such funds may be used only for school resource officer, crime prevention, safe neighborhood, drug abuse
+
+
+City Commission - Sep 16 2024
+
+education, or drug prevention programs, or such other law enforcement purposes as the governing body of the municipality deems appropriate. If the seizing agency is a county or municipal agency, the remaining proceeds shall be deposited in a special law enforcement trust fund established by the board of county commissioners or the governing body of the municipality. Such proceeds, and interest earned therefrom, shall be used for school resource officer, crime prevention, safe neighborhood, drug abuse education and prevention programs, or for other law enforcement purposes; which include defraying the cost of protracted or complex investigations, providing additional equipment or expertise, purchasing automated external defibrillators for use in law enforcement vehicles, and providing matching funds to obtain federal grants. The proceeds and interest may not be used to meet normal operating expenses of the law enforcement agency.
+Law Enforcement Expenditures:
+Rental Vehicles ($56,000): Rental vehicles are utilized by undercover and plains clothes police department personnel in the Narcotics and Criminal Investigation Units to pursue narcotics trafficking and other criminal investigations and to assist, where necessary, with the City's participation in certain special task forces and for other law enforcement activities.
+
+Participation in the rental program permits the Police Department to exchange vehicles more frequently, enabling undercover officers to perform their duties without being identified by the criminal suspects they are investigating, and for other law enforcement activities.
+
+This program is a cost effective means of providing equipment necessary for special operations. All investigations by this unit require the ability to operate effectively and discreetly using unmarked vehicles. Additional purposes include a variety of law enforcement activities.
+
+The Police Chief certifies the requested expenditures are in compliance with the Florida Contraband Forfeiture Act, specifically F.S.S. 932.7055(5)(a).
+
+#### Fiscal Note
+
+Approval will recognize Police appropriations for rental vehicles.
+
+<a id="item-7-3"></a>
+### 7.3. Forfeiture funding and provide Resolution No. 192-24 approves a Conditional Settlement Agreement totaling $75,000 in the matter of Maria Minaya vs. City of West Palm Beach, a Florida municipality, Milano Condominium Association, Inc., and GRS Management Associates, Inc.
+
+#### Originating Department
+
+City Attorney's Office
+
+#### Ordinance/Resolution
+
+
+City Commission - Sep 16 2024
+
+> RESOLUTION NO. 192-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING A CONDITIONAL SETTLEMENT AGREEMENT TOTALING $75,000 IN THE MATTER OF MARIA MINAYA VS. CITY OF WEST PALM BEACH, A FLORIDA MUNICIPALITY, MILANO CONDOMINIUM ASSOCIATION, INC., AND GRS MANAGEMENT ASSOCIATES, INC. FILED IN THE FIFTEENTH JUDICIAL CIRCUIT, IN AND FOR PALM BEACH COUNTY, FLORIDA, CASE NO. 50-2023-CA003785-XXXX-MB AI; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+Maria Minaya filed a complaint for damages stemming from a slip/trip and fall accident, which occurred on January 13, 2022, to wit: Maria Minaya vs. City of West Palm Beach, a Florida municipality, Milano Condominium Association, Inc., and GRS Management Associates, Inc. filed in the Fifteenth Judicial Circuit, in and for Palm Beach County, Florida, Case No. 50-2023-CA-003785-XXXX-MB AI.
+
+The City has reached a settlement agreement with Maria Minaya and her attorney to resolve the matter for a total of $75,000. The plaintiff signed a general release that releases the City from all claims arising from this accident, which resolves all of the claims for damages, including attorneys' fees and costs, against the City of West Palm Beach.
+
+Section 2-268(g)(4) of the Code of Ordinances of the City of West Palm Beach, Florida, provides that the authority for settlement of all claims in excess of $30,000 shall require the approval of the City Commission by formal resolution.
+
+Resolution No. 192-24 approves the Settlement Agreement.
+
+<a id="item-7-4"></a>
+### 7.4. Resolution No. 193-24 approves a Conditional Settlement Agreement totaling $125,000 in the matter of Irita McClary vs. The City of West Palm Beach, a Political Subdivision of the State of Florida.
+
+#### Originating Department
+
+City Attorney's Office
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 193-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING A CONDITIONAL SETTLEMENT AGREEMENT TOTALING $125,000 IN THE MATTER OF IRITA MCCLARY VS. THE CITY OF WEST PALM BEACH, A POLITICAL SUBDIVISION OF THE STATE OF FLORIDA FILED IN THE FIFTEENTH JUDICIAL CIRCUIT, IN AND FOR PALM BEACH COUNTY, FLORIDA, CASE NO. 50-2023-CA005509-XXXX-MB AN; PROVIDING AN EFFECTIVE DATE; AND FOR
+
+
+City Commission - Sep 16 2024
+
+#### OTHER PURPOSES.
+
+#### Background Information
+
+Irita McClary filed a complaint for damages stemming from an alleged incident, which occurred on December 29, 2022, at or near the sidewalk located at 301 North Olive Avenue, West Palm Beach, Palm Beach County, Florida. The City has reached a settlement agreement with Irita McClary and her attorney to resolve the matter for a total of $125,000.
+
+The plaintiff signed a general release that releases the City from all claims arising from this accident, which resolves all of the claims for damages, including attorneys' fees and costs, against the City of West Palm Beach.
+
+Section 2-268(g)(4) of the Code of Ordinances of the City of West Palm Beach, Florida, provides that the authority for settlement of all claims in excess of $30,000 shall require the approval of the City Commission by formal resolution.
+
+Resolution No. 193-24 approves the Settlement Agreement.
+
+<a id="item-7-5"></a>
+### 7.5. Resolution No. 194-24 authorizing the submittal of an application to the U. S. Department of Transportation Federal Railroad Administration under the FY23-FY24 Railroad Crossing Elimination(RCE) program for the WPB C.L.E.A.R. (Crossing Lanes Elimination and Access Reconfiguration) Path Project for the amount of $5,000,000.
+
+#### Originating Department
+
+Engineering
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 194-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE SUBMITTAL OF AN APPLICATION TO THE U. S. DEPARTMENT OF TRANSPORTATION FEDERAL RAILROAD ADMINISTRATION UNDER THE FY23-FY24 RAILROAD CROSSING ELIMINATION (RCE) GRANT PROGRAM REQUESTING $5,000,000 FOR THE WPB C.L.E.A.R. (CROSSING LANES ELIMINATION AND ACCESS RECONFIGURATION) PROJECT; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+The City of West Palm Beach is committed to improving rail safety and infrastructure within our community. As part of this commitment, the City has identified the WPB C.L.E.A.R. (Crossing Lanes Elimination and Access Reconfiguration) Path Project as a key initiative to enhance safety and mobility at rail crossings.
+
+Resolution No 117-24 established the goal of zero fatalities in the West Palm Beach Rail environment and at rail crossings and adopted ‘Rail
+
+
+City Commission - Sep 16 2024
+
+S.A.F.E. (Safety And Functionality for Everyone)’ as the policy for rail safety for the City of West Palm Beach.
+
+The U. S. Department of Transportation Federal Railroad Administration has established the Railroad Crossing Elimination (RCE) Grant Program for fiscal years 2023-2024 to fund eligible rail infrastructure and safety projects. This program aligns with the City's goals to improve rail crossing safety and efficiency.
+
+The WPB C.L.E.A.R. Path Project includes the Old Okeechobee Intersection Improvements (Partial Crossing Elimination) at the intersection of Old Okeechobee Boulevard and Parker Avenue. This project will eliminate the southbound slip lane onto Old Okeechobee and realign the intersection with a new traffic signal, enhancing safety for all modes of transportation.
+
+The City seeks to apply for $5,000,000 in RCE grant funding to support this project. If awarded, the grant will fund: 1. Procurement of specialized consultant construction planning and design.
+
+expertise
+
+for
+
+pre-
+
+2. Construction expenses for railroad crossing safety improvements, traffic signalization, multimodal connectivity enhancements, ADA accessibility upgrades, and increased transit access.
+
+This project is identified in several City planning documents, including the Capital Improvement Projects list, Bicycle Master Plan, Okeechobee Corridor Study, and Rail Safety Plan. It is also included in the Palm Beach County Transportation Planning Agency's 2045 Long Range Transportation Plan and is a required closing as part of the planned Fern Street rail crossing opening.
+The scope of work includes:
+Old Okeechobee Intersection Improvements (Partial Crossing
+Elimination):
+The project is located at the SFRC track (26.704615651154015, -80.06184485257039) at Old Okeechobee Boulevard and Parker Avenue in the City of West Palm Beach, Florida.
+
+The project scope will involve the elimination of the Southbound slip lane onto Old Okeechobee and realigning the intersection with a new traffic signal.
+
+The project design began in March 2024 where the City has entered into a Project Funding Agreement with SFRTA for the design of railroad tracks and railroad signalization and the Stipulation of Parties between the City, the South Florida Regional Transportation Authority (SFRTA), and the
+
+
+City Commission - Sep 16 2024
+
+Florida Department of Transportation (FDOT) for the railroad crossing closures at Division Avenue and 25th Court and the partial closure of the railroad crossing at Old Okeechobee Road.
+
+Resolution No. 19-24 approving the Stipulation of Parties between the City, the South Florida Regional Transportation Authority (SFRTA) and the Florida Department of Transportation (FDOT) for the railroad crossing closures at Division Avenue and 25th Court and the partial closure of the railroad crossing at Old Okeechobee Road.
+
+Resolution No. 22-24 approving the Project Funding Agreement among the City, SFRTA, and FDOT for the cost reimbursement by the City to SFRTA for the design work associated with the crossing closures and the new crossing at Fern Street.
+
+Resolution No. 59-24 approving an Interlocal Funding Agreement between the West Palm Beach Community Redevelopment Agency and the City of West Palm Beach regarding funding in the amount of $300,000 to cover design costs for the Fern Street Railway Crossing.
+The project schedule is detailed, as follows:
+- Old Okeechobee Intersection Improvements (Partial Crossing Elimination) FY2025 - FY2026
+
+- The WPB C.L.E.A.R. (Crossing Lanes Elimination and Access Reconfiguration) Path project is estimated to cost $6.5M
+
+- FY 2025 City Match for RCE grant: $1,250,000
+
+- FY 2025 - Railroad Crossing Elimination (RCE) Grant Program 2023-2024 funding $5,000,000
+
+The City Commission's approval of this resolution will authorize the submittal of the RCE grant application and demonstrate the City's commitment to advancing rail safety and infrastructure improvements in West Palm Beach.
+
+#### Commission District
+
+3: Commissioner Christy Fox.
+
+#### Fiscal Note
+
+The RCE grant will fund $5,000,000.
+
+The City's match will be $1,250,000 from the Sales Surtax program.
+
+
+City Commission - Sep 16 2024
+
+<a id="item-8"></a>
+## 8. RESOLUTIONS- ALL ITEMS WERE APPROVED.
+
+<a id="item-8-1"></a>
+### 8.1. Resolution No. 197-24 relating to the ratification of successor Collective Bargaining Agreements between the City of West Palm Beach and the Florida State Lodge, Fraternal Order of Police, Inc., Certified Unit No. 401, certificate numbers 1985 and 1986 for the period of October 1, 2024 to September 30, 2027.
+
+#### Originating Department
+
+Human Resources
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 197-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA RELATING TO THE RATIFICATION OF SUCCESSOR COLLECTIVE BARGAINING AGREEMENTS BETWEEN THE CITY OF WEST PALM BEACH AND THE FLORIDA STATE LODGE FRATERNAL ORDER OF POLICE, INC., CERTIFIED UNIT NO. 401, CERTIFICATE NUMBERS: 1985 AND 1986, FOR THE PERIOD OF OCTOBER 1, 2024, THROUGH SEPTEMBER 30, 2027; PROVIDING FOR AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Resolution No. 197-24.
+
+#### Background Information
+
+Resolution No. 197-24 ratifies two (2) Collective Bargaining Agreements (CBAs) between the City of West Palm Beach and the Florida State Lodge, Fraternal Order of Police, Inc. (FOP).
+
+Negotiations on successor Collective Bargaining Agreements to the current 2021-2024 CBAs between the City and the FOP began on February 14, 2024, and concluded on August 14, 2024, resulting in the City and FOP tentatively agreeing on two (2) 2024-2027 Collective Bargaining Agreements. Each of the two (2) agreements under Resolution No. 197-24 covers a specific Florida Public Employees Relations Commission (PERC) certified unit as follows:
+- Unit 1985 represents Officers, Sergeants & Non-Sworn Civilians Unit 1986 represents Lieutenants
+
+If ratified, both agreements will be effective for the period of October 1, 2024 – September 30, 2027. FOP members ratified their respective Collective Bargaining Agreements on August 20, 2024 as follows:
+- Unit 1985 (Officers, Sergeants & Non-Sworn FOP Civilians): 161 in favor to 3 opposed (98%)
+
+
+City Commission - Sep 16 2024
+
+- Unit 1986 (Lieutenants): 9 in favor to 0 opposed (100%)
+
+Under these agreements the following salary increases will be provided: FY2025
+- 17% Market Adjustment: Officers, Sergeants & Lieutenants + 5% Step Increase = 22% 15% Market Adjustment: Non-Sworn Civilians + 5% Step Increase = 20%
+
+FY2026
+- 3% COLA for all Job Classifications + 5% Step Increase = 8% FY2027 3% COLA for all Job Classifications + 5% Step Increase = 8% The FY2025 market adjustment raises Police Officer Step 1 pay from: $63,000 to $73,710. As a result, the Step 1 pay market placement for the various FOP represented job classifications in the
+Palm Beach County market will be:
+Officers:
+Sergeants:
+Lieutenants:
+Crime Scene Investigators:
+Latent Print Examiners:
+Community Service Aides:
+
+2nd up from 15th 3rd up from 8th 4th up from 5th 2nd up from 8th 2nd (No Change) 2nd up from 6th
+
+Additional key benefits provided under these agreements:
+Enhanced Retirement Benefit
+- Pension Multiplier increased from: 3% to 3.2% effective October 1, 2026. New Pay Incentives
+
+- Criminal Investigators: $1,430 per year. Special Details (Bomb, SWAT, Dive & Honor Guard): $1,430 per year.
+
+Enhancement of Current Incentives
+- Elimination of Take-Home Vehicle Pay Period Fuel Surcharge: Between $15.00 - $75.00 per pay period.
+
+
+City Commission - Sep 16 2024
+
+The estimated FY2025 cost of these agreements is approximately $7.5M and is already incorporated into the proposed FY2025 Balanced Budget.
+
+The total FY2025-FY2027 CBA cost is approximately $11.6M.
+
+#### Fiscal Note
+
+The estimated FY2025 cost is already incorporated into the proposed FY2025 balanced budget. FY2026 and FY2027 will be budgeted.
+
+<a id="item-8-2"></a>
+### 8.2. Resolution No. 202-24(F) authorizing the allocation of $13,946 in parking meter revenues derived from the recaptured revenues from parking meters equipped with vehicle detection sensors to the Department of Housing and Community Development to fund various homeless initiatives.
+
+#### Originating Department
+
+Parking
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 202-24(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2023/2024 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE PARKING SYSTEMS OPERATING AND GENERAL FUND BUDGETS TO PROVIDE APPROPRIATIONS FOR A DONATION TO HOMELESS INITIATIVES FROM PARKING METER COLLECTIONS; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Resolution No. 202-24(F).
+
+#### Background Information
+
+The first donation in FY18 approved the donation of the cumulative amount of recaptured revenue from April 2016 through May 2018 (three [3] years). FY2019’s donation encompassed the fiscal year (October 1, 2018, thru September 30, 2019). In this agenda item, the language capping the donation to an annual amount of $15,000 was added.
+
+Currently, there are 598 meters with sensors installed throughout the City.
+
+As homelessness continues to be a challenge for the City, the Parking Administration proposes to continue donating portions of this recaptured revenue to the Department of Housing and Community Development to support the homeless initiatives in an amount not to exceed $15,000 annually.
+
+Approval of Resolution No. 202-24(F) will appropriate a total of $13,945.96 to the Department of Housing and Community Development
+
+
+City Commission - Sep 16 2024
+
+to be used to fund various homeless initiatives.
+
+#### Fiscal Note
+
+Approval of this resolution will appropriate a total of $13,946 to the Department of Housing and Community Development to be used to fund various homeless initiatives.
+
+<a id="item-9"></a>
+## 9. PUBLIC HEARING- ALL ITEMS WERE APPROVED.
+
+<a id="item-9-1"></a>
+### 9.1. Public Hearing and Second Reading of Ordinance No. 5109-24 amending the City of West Palm Beach Code of Ordinances Chapter 78 Article XV to revise the duration for which Right-of-Way Permits may be issued and to correct scrivener's errors.
+
+#### Originating Department
+
+Engineering
+
+#### Ordinance/Resolution
+
+
+> ORDINANCE NO. 5109-24: ORDINANCE OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AMENDING THE CITY OF WEST PALM BEACH CODE OF ORDINANCES, AT CHAPTER 78 – STREETS, SIDEWALKS, AND PUBLIC PLACES, ARTICLE XV – PUBLIC RIGHT OF WAY USE, SECTION 78-433 – PERMIT CONDITIONS, TO AMEND THE DURATION FOR WHICH RIGHT-OFWAY PERMITS MAY BE ISSUED; AND AT SECTION 78-436 TO CLARIFY THE PROVISIONS REGARDING REVOCATION OF PERMITS; AND TO CORRECT SCRIVENER’S ERRORS; PROVIDING FOR CODIFICATION, CONFLICTS, AND SEVERABILITY; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Ordinance No. 5109-24 on Second Reading.
+
+#### Background Information
+
+The City Commission of the City of West Palm Beach is the City's governing body and has plenary authority over the roads, alleys, and rights-of-way within the City street system.
+
+The City is experiencing growth and new development, which often requires temporary closure of a public right-of-way to allow for construction work for a new building or development.
+
+The City Code of Ordinances currently provides that a right-of-way permit allowing the temporary closure of a roadway is valid for a maximum of thirty (30) days. However, as larger buildings are being constructed, temporary roadway and sidewalk closures are necessary for longer time periods.
+
+Engineering Services staff desires to amend the Code of Ordinances to
+
+
+City Commission - Sep 16 2024
+
+provide that a right-of-way permit allowing the temporary closure of a roadway may be issued for a maximum period of one (1) year, with any longer period requiring the approval of the City Commission.
+
+It is in the best interest of the City of West Palm Beach to update and adopt regulations that support growth and development within the City; Ordinance No. 5109-24 amends Section 433 so that right-of-way permits may be issued for longer periods and to correct certain scrivener errors in the existing ordinances.
+
+#### Fiscal Note
+
+No fiscal impact.
+
+<a id="item-9-2"></a>
+### 9.2. Public Hearing and First Reading of Ordinance No. 5111-24 amending Chapter 54 to repeal aggressive solicitation regulations and to amend public camping and sleeping regulations to be consistent with case law and 2024 amendments to Section 125, Florida Statutes.
+
+#### Originating Department
+
+City Attorney's Office
+
+#### Ordinance/Resolution
+
+
+> ORDINANCE NO.
+
+5111-24:
+
+#### AN ORDINANCE OF THE CITY
+
+#### COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA,
+
+#### AMENDING CHAPTER 54 (OFFENSES), TO REPEAL ARTICLE IV
+
+#### (OFFENSES AGAINST PUBLIC PEACE), DIVISION 2 (AGGRESSIVE
+
+#### SOLICITATION); AND TO AMEND DIVISION 3 (PROHIBITED
+
+#### CONDUCT), SECTIONS 54-146 THROUGH 54-147 OF THE CODE OF
+
+#### ORDINANCES OF THE CITY OF WEST PALM BEACH, FLORIDA;
+
+#### PROVIDING A CODIFICATION CLAUSE; PROVIDING A CONFLICTS
+
+#### AND SEVERABILITY CLAUSE; PROVIDING AN EFFECTIVE DATE;
+
+#### AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Ordinance No. 5111-24 on first reading and schedule second reading for September 30, 2024.
+
+#### Background Information
+
+Chapter 54, Article IV regulates offenses against public peace. The provisions in Article IV, Division 2 prohibits Aggressive Solicitation.
+
+Ordinance No. 5111-24 repeals this provision in its entirety to ensure that the City's regulations are in keeping with current case law that has developed since the United States Supreme Court case Reed v. Town of Gilbert, 576 U.S. 155 (2015) (which found that content-based regulations must survive strict scrutiny). In addition, Division 3, is being amended to remove the provisions requiring the City to provide outreach services and to ensure that there are shelter beds available prior to issuance of a citation for sleeping and camping in public.
+
+These changes are
+
+
+City Commission - Sep 16 2024
+
+recommended based on the United States Supreme Court decision in Grants Pass v. Johnson, 603 U. S. (2024) (finding local governments were not required to ensure adequate shelter prior to enforcement of local sleeping/camping ordinance).
+
+The amendment also updates the definition of camping to be consistent with the definition in the recent legislative amendments to Chapter 125, Florida Statutes.
+
+While the ordinance removes the currently required outreach efforts, the City's Housing and Community Development Department will continue to reach out to and to provide support services to those in need.
+
+Adoption of Ordinance No. 5111-24 will ensure that the City's regulations are in keeping with current laws.
+
+#### Fiscal Note
+
+No fiscal impact.
+
+<a id="item-9-3"></a>
+### 9.3. Public Hearing and Second Reading of Ordinance No. 5106-24: A request by Shayne Broadnix of Urban Design Studio, on behalf of WPB Press LLC, for a Future Land Use Map Amendment to change the Future Land Use designation of 8.39 of the overall 11.57 acres of the subject area consisting of two (2) parcels located at 2751 South Dixie Highway and 501 Monceaux Road from Commercial (C) to Commercial East (CE).
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> ORDINANCE NO. 5106-24: AN ORDINANCE OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AMENDING THE FUTURE LAND USE MAP OF THE COMPREHENSIVE PLAN OF THE CITY OF WEST PALM BEACH, FLORIDA, BY CHANGING THE FUTURE LAND USE DESIGNATION OF 8.39 OF THE OVERALL 11.57 ACRES OF THE SUBJECT AREA CONSISTING OF TWO (2) PARCELS LOCATED AT 2751 SOUTH DIXIE HIGHWAY AND 501 MONCEAUX ROAD, FROM COMMERCIAL (C) TO COMMERCIAL EAST (CE); DECLARING THE PROPOSED AMENDMENT TO THE FUTURE LAND USE MAP TO BE CONSISTENT WITH ALL OTHER ELEMENTS OF THE COMPREHENSIVE PLAN OF THE CITY; PROVIDING FOR AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Ordinance No. 5106-24, changing the Future Land Use designation of ±8.39 acres of the overall ±11.57-acre parcel located at 2751 South Dixie Highway and 501 Monceaux Road from Commercial to Commercial East.
+
+This motion is based on the application submitted, the staff report, factual
+
+
+City Commission - Sep 16 2024
+
+testimony, the recommendation of the Planning Board, and the findings that the request complies with the provisions of Chapter 163, Florida Statutes, and Policies 1.1.5 and 1.1.6 of the City’s Comprehensive Plan, based on changed assumptions.
+
+#### Background Information
+
+#### (THE INFORMATION BELOW IS A GENERAL SUMMARY. A FULL
+
+#### ANALYSIS IS INCLUDED IN THE STAFF REPORT.)
+
+The +11.57-acre subject area comprises two (2) platted lots addressed 2751 South Dixie Highway and 501 Monceaux Road, separated by the FEC Railroad. The land area east of the FEC Railroad supports the existing buildings and parking on-site, while the area to the west of the Railroad supports the 423-space parking lot. Seven hundred forty-nine (749) parking spaces and pedestrian access to the west parking lot via the newly constructed bridge over the railroad tracks are provided. The property east of the FEC Railway is characterized by a split Future Land Use (FLU) designation of Commercial East (CE) and Commercial (C). To consolidate the FLU, the applicant has submitted a request to change the current FLU designation of the property.
+
+Additionally, the applicant has submitted a rezoning application to change the property's zoning designation to establish a Commercial Planned Development (CPD) from General Commercial (GC), including the incorporation of an additional permitted use and a parking waiver.
+
+#### PLANNING BOARD
+
+After a Public Hearing on July 16, 2024, the Planning Board unanimously recommended approval (6-0) of the proposed Future Land Use Map Amendment to the City Commission.
+
+#### PUBLIC NOTICE
+
+Individual notices were mailed to all property owners within 500 feet of the subject property, and signs were also posted on the property and all statutory notice requirements have been fulfilled.
+
+#### Commission District
+
+5: Commissioner Christina Lambert.
+
+
+City Commission - Sep 16 2024
+
+<a id="item-10"></a>
+## 10. PUBLIC HEARING - QUASI-JUDICIAL- APPROVED.
+
+Disclosure of ex-parte communications, if any* Swearing-in of witnesses.
+
+<a id="item-10-1"></a>
+### 10.1. Public Hearing and Second Reading of Ordinance No. 5107-24 regarding a Rezoning to change the Zoning designation of approximately 11.57 acres located at 2751 South Dixie Highway and 501 Monceaux Road from General Commercial (GC) to Commercial Planned Development (CPD); and Public Hearing of Resolution No. 162-24 regarding the development regulations for the Shops at The Press Commercial Planned Development, and granting a waiver of the Zoning and Land Development Regulations. The above-referenced requests are being made by Shayne Broadnix of Urban Design Studio, on behalf of WPB Press LLC., to create the Shops at The Press Commercial Planned Development.
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+#### ORDINANCE 5107-24: AN ORDINANCE OF THE CITY COMMISSION
+
+#### OF THE CITY OF WEST PALM BEACH, FLORIDA, AMENDING THE
+
+#### ZONING MAP OF THE CITY OF WEST PALM BEACH, FLORIDA, BY
+
+#### REZONING TWO (2) PARCELS LOCATED AT 2751 SOUTH DIXIE
+
+#### HIGHWAY AND 501 MONCEAUX ROAD, CONSISTING OF
+
+#### APPROXIMATELY 11.57 ACRES, FROM GENERAL COMMERCIAL
+
+#### (GC) TO COMMERCIAL PLANNED DEVELOPMENT (CPD) TO
+
+#### CREATE THE SHOPS AT THE PRESS COMMERCIAL PLANNED
+
+#### DEVELOPMENT; DECLARING THIS ZONING MAP AMENDMENT TO
+
+#### BE CONSISTENT WITH THE COMPREHENSIVE PLAN OF THE CITY;
+
+#### REVISING THE ZONING MAP OF THE CITY ACCORDINGLY;
+
+#### PROVIDING FOR AN EFFECTIVE DATE; AND FOR OTHER
+
+#### PURPOSES.
+
+#### RESOLUTION 162-24: A RESOLUTION OF THE CITY COMMISSION
+
+#### OF THE CITY OF WEST PALM BEACH, FLORIDA, ESTABLISHING
+
+#### THE DEVELOPMENT REGULATIONS, FOR THE SHOPS AT THE
+
+#### PRESS COMMERCIAL PLANNED DEVELOPMENT LOCATED AT 2751
+
+#### SOUTH DIXIE HIGHWAY AND 501 MONCEAUX ROAD; GRANTING A
+
+#### WAIVER
+
+#### TO THE
+
+#### ZONING
+
+#### AND LAND
+
+#### DEVELOPMENT
+
+#### REGULATIONS; DECLARING THIS AMENDMENT CONSISTENT WITH
+
+#### THE COMPREHENSIVE PLAN OF THE CITY; PROVIDING FOR AN
+
+#### EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Ordinance No. 5107-24, a rezoning to change the Zoning
+
+
+City Commission - Sep 16 2024
+
+designation of approximately 11.57 acres located at 2751 South Dixie Highway and 501 Monceaux Road from General Commercial (GC) to Commercial Planned Development (CPD).
+
+This motion is based upon the application submitted, the staff report, factual testimony, the recommendation of the Planning Board, and the findings that the request complies with the Comprehensive Plan and the standards in Sections 94-32 of the City's Zoning and Land Development Regulations.
+
+Approve Resolution No. 162-24 establishing development regulations and conditions for the Shops at The Press Commercial Planned Development (CPD), and granting a waiver from the Zoning and Land Development Regulations.
+
+#### Background Information
+
+#### (THE INFORMATION BELOW IS A GENERAL SUMMARY.
+
+#### ANALYSIS IS INCLUDED IN THE STAFF REPORT.)
+
+
+#### A FULL
+
+
+The +11.57-acre subject area comprises two (2) platted lots addressed 2751 South Dixie Highway and 501 Monceaux Road, separated by the FEC Railroad. The land area east of the FEC Railroad supports the existing buildings and parking on-site, while the area to the west of the Railroad supports the 423-space parking lot. Seven hundred forty-nine (749) parking spaces and pedestrian access to the west parking lot via the newly constructed bridge over the railroad tracks are provided. The property east of the FEC Railway is characterized by a split Future Land Use (FLU) designation of Commercial East (CE) and Commercial (C). To consolidate the FLU, the applicant has submitted a request to change the current FLU designation of the property.
+
+Along with the request to change the current FLU designation of the property, the applicant has submitted a rezoning application to change the zoning designation of the property to establish a Commercial Planned Development (CPD) from General Commercial (GC), which includes the incorporation of an additional permitted use, classified as Schools, Colleges and Universities, Public and Private, along with a parking waiver. This change would allow Palm Beach Atlantic University to establish classroom space within this project.
+
+The parking waiver requested is from the minimum number of parking spaces required per Section 94-486, Table XV-6 of the ZLDRs (described and analyzed in the Staff Report). The waiver request is for 128 spaces to reduce the number of required parking spaces from 877 to 749. It is staff’s professional opinion that with the finding that particular circumstances justify the parking reduction, as well as the parking study provided, the proposed CPD complies with the City's Comprehensive Plan and that the proposed request, with the waiver granted, will comply
+
+
+City Commission - Sep 16 2024
+
+with the standards required by the ZLDRs. Planning staff is, therefore, recommending approval of Resolution No. 162-24.
+
+#### PLANNING BOARD
+
+After a Public Hearing on July 16, 2024, the Planning Board unanimously recommended approval (6-0) of the proposed rezoning to the City Commission.
+
+#### PUBLIC NOTICE
+
+Individual notices were mailed to all property owners within 500 feet of the subject property, and signs were also posted on the property.
+
+#### Commission District
+
+5: Commissioner Christina Lambert.
+
+
+<a id="item-11"></a>
+## 11. COMMENTS FROM THE PUBLIC
+
+Public comments are limited to three (3) minutes. Anyone wishing to address the Commission should complete a "Comments by the Public" card and present it to the City Clerk prior to the Public Comments. When you are called to speak, please go to the podium and state your name and address for the record prior to addressing Commission. The Commission will not discuss the matter nor respond to the comment this evening. Comments made will become part of the record and may be addressed at a later date.
+
+<a id="item-12"></a>
+## 12. COMMENTS BY THE MAYOR AND CITY COMMISSIONERS
+
+
+<a id="item-13"></a>
+## 13. ADJOURNMENT- 6:24 P.M.
+
+*Pursuant to Resolution No. 179-95, adopted according to the provisions of Section 286.0115, Florida Statutes, members of the Commission shall disclose on the record: 1) ex-parte communications verbal or written; 2.) written communications shall be placed in the record; and 3) site visits, investigations, etc. shall be disclosed.
+
+NOTICE: If any person decides to appeal any decision made by the City Commission at this meeting, that person will need a record of the proceedings, and that, for such purposes, may need to ensure that a verbatim records of the proceedings be made, which record includes the testimony and evidence upon which the appeal is based. The City of West Palm Beach does not prepare or provide such record.

@@ -21,6 +21,8 @@ Commercial haulers and property owners operate under city franchise rules and fe
 
 | Date | Doc | What showed up | Outcome | Links |
 |------|-----|----------------|---------|-------|
+| 2025-05-12 | Pass/fail | **Ord. 5133-25** Chapter 74 commercial collection franchise amendments **1st reading** (fee structure shift noted on later 2026 agendas) | approved (1st reading; with items 10.1–10.3) | [summary](../../meetings/2025-05-12/summary.md) · [agenda §10.3](../../meetings/2025-05-12/agenda.md#item-10-3) · [pass-fail](../../meetings/2025-05-12/pass-fail.md#item-10-3) |
+| 2025-05-27 | Pass/fail | **Ord. 5133-25** **2nd reading** | approved | [summary](../../meetings/2025-05-27/summary.md) · [agenda §8.2](../../meetings/2025-05-27/agenda.md#item-8-2) · [pass-fail](../../meetings/2025-05-27/pass-fail.md#item-8-2) |
 | 2026-09-14 | Pass/fail | Ord. 5184-26 **1st reading** (public hearing) | approved (1st reading) | [summary](../../meetings/2026-09-14/summary.md) · [agenda §11.2](../../meetings/2026-09-14/agenda.md#item-11-2) · [PDF](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/09-sep-2026-final-cca/09_14_26_final-city-commission-agenda.pdf) |
 | 2026-09-28 | Final agenda | Ord. 5184-26 **2nd reading** / public hearing (scheduled on agenda) | — | [summary](../../meetings/2026-09-28/summary.md) · [agenda §9.2](../../meetings/2026-09-28/agenda.md#item-9-2) · [PDF](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/09-sep-2026-final-cca/09_28_26_final-city-commission-agenda.pdf) |
 

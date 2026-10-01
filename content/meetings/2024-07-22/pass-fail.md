@@ -1,0 +1,456 @@
+---
+date: 2024-07-22
+doc_type: pass-fail
+title: City Commission Pass/Fail Agenda
+meeting: Regular City Commission Meeting
+official_pdf: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2024-pass-fail-agendas/pf-city-commission-agenda_07_22_24.pdf
+retrieved: 2026-10-01
+extractor: pdftotext + civic-pdf-cleanup
+notes: >
+  Plain-text extract of the official PDF. Binary PDF not stored in this repo.
+---
+
+# City Commission Pass/Fail Agenda — 2024-07-22
+
+**Official PDF (wpb.org):** [pf-city-commission-agenda_07_22_24.pdf](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2024-pass-fail-agendas/pf-city-commission-agenda_07_22_24.pdf)
+
+Text extract below is for search and deep-linking. The official PDF is authoritative.
+
+---
+
+401 Clematis Street West Palm Beach, Florida 33401 (561) 822-2222 (TTY) 800-955-8771 www.wpb.org Mayor Keith A. James Commission President Cathleen Ward (District 1) Commissioner Shalonda Warren (District 2) Commissioner Christy Fox (District 3) Commissioner Joseph A. Peduzzi (District 4) Commissioner Christina Lambert (District 5)
+
+City Administrator Faye W. Johnson City Attorney Kimberly Rothenburg City Clerk Shaquita Edwards
+
+City of West Palm Beach City Commission Pass/Fail Agenda Monday, July 22, 2024 5:00 PM In accordance with the provisions of the Americans with Disabilities Act (ADA), persons in need of a special accommodation to participate in this proceeding shall, within three days prior to any proceeding, contact the City Clerk's Office, 401 Clematis Street, West Palm Beach, FL 33401, (561) 822-1210.
+
+<a id="item-1"></a>
+## 1. CALL TO ORDER-5:00 P.M.
+
+
+<a id="item-2"></a>
+## 2. MOMENT OF SILENCE
+
+
+<a id="item-3"></a>
+## 3. PLEDGE OF ALLEGIANCE
+
+
+<a id="item-4"></a>
+## 4. CIVILITY AND DECORUM
+
+The City of West Palm Beach is committed to civility and decorum by its officials, employees and members of the public who attend this meeting. The City Code, Secs. 2-31(8), 2-31(18) and 2-31(22), provides in pertinent part:
+- Officials shall be recognized by the Chair and shall not interrupt a speaker.
+- Public comment shall be addressed to the City Commission as a whole and not to any individual on the dais or in the audience.
+- Displays of anger, rudeness, ridicule, impatience, lack of respect and personal attacks are strictly prohibited.
+- Unauthorized remarks from the audience, stamping of feet, whistles, yells and similar demonstrations shall not be permitted.
+- Offenders may be removed from the meeting.
+- Any person desiring to address the Commission shall file a written request with the city clerk prior to consideration of the matter by the Commission or prior to the public comment portion of a meeting. The person wishing to speak shall complete a comment card for each agenda item the person wishes to address, which shall include the person's full name, address, and the numbered agenda item. The person will not be recognized if the comment card is not completed.
+
+
+City Commission - Jul 22 2024
+
+<a id="item-5"></a>
+## 5. ADDITIONS / DELETIONS / REORGANIZATION OF AGENDA- NONE.
+
+
+<a id="item-6"></a>
+## 6. CONSENT CALENDAR-ALL ITEMS WERE APPROVED.
+
+All items listed under the consent calendar are considered routine and will be enacted by one motion. There will be no separate discussion of these items.
+
+<a id="item-6-1"></a>
+### 6.1. Minutes of the Special City Commission Meeting of May 20, 2024.
+
+#### Originating Department
+
+Mayor's Office
+
+
+<a id="item-6-2"></a>
+### 6.2. Minutes of the Regular City Commission Meeting of June 10, 2024.
+
+#### Originating Department
+
+Mayor's Office
+
+
+<a id="item-6-3"></a>
+### 6.3. Minutes of the Regular City Commission Meeting of June 24, 2024.
+
+#### Originating Department
+
+Mayor's Office
+
+
+<a id="item-6-4"></a>
+### 6.4. Resolution No. 122-24 accepting a grant of $75,000 from the Florida Department of Agriculture and Consumer Services under the 2023 Urban and Community Forestry-Plantings, Preservation, and Invasives Control Grant Program to fund a planting project of 148 trees along Clear Lake Trail; and Resolution No. 148-24(F) amending the Grant Programs Special Revenue Fund to provide for the receipt of a $75,000 grant from the Florida Department of Agriculture and Consumer Services for the 2023 Urban and Community Forestry-Plantings, Preservation, and Invasives Control Grant Program.
+
+#### Originating Department
+
+Public Utilities
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 122-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, ACCEPTING A GRANT FROM THE FLORIDA DEPARTMENT OF AGRICULTURE AND CONSUMER SERVICES 2023 URBAN AND COMMUNITY FORESTRY- PLANTINGS, PRESERVATION, AND INVASIVES CONTROL GRANT PROGRAM IN THE AMOUNT OF $75,000 TO FUND A PLANTING PROJECT OF 148 TREES ALONG CLEAR LAKE TRAIL; AUTHORIZING EXECUTION OF A GRANT AGREEMENT; PROVIDING FOR AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+
+City Commission - Jul 22 2024
+
+> RESOLUTION NO. 148-24(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2023/2024 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE GRANT PROGRAMS SPECIAL REVENUE FUND BUDGET TO RECOGNIZE A GRANT FROM THE FLORIDA DEPARTMENT OF AGRICULTURE AND CONSUMER SERVICES 2023 URBAN AND COMMUNITY FORESTRYPLANTINGS, PRESERVATION, AND INVASIVES CONTROL GRANT PROGRAM IN THE AMOUNT OF $75,000 TO FUND A PLANTING PROJECT OF 148 TREES ALONG CLEAR LAKE TRAIL; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+The City has recently completed the remaining 0.96-mile portion of a ten (10) foot-wide paved commuter trail and boardwalk between Palm Beach Lakes Boulevard and Okeechobee Boulevard. The trail was constructed to enable safe pedestrian and bicycle commuter traffic in this busy urban area, to provide safe routes to educational, medical, and social services facilities for the surrounding communities, and adds recreation and educational benefits.
+
+The trail location was selected based on the results of a City Mobility Study, and specifically targeted an area of the City where the majority of residents are classified as low-or moderate-income individuals according to the U. S. Census. The trail was funded in part by Florida Commerce and Florida Department of Transportation assistance programs, but the trail scope of work could only provide littoral plantings and preserve as many existing trees as possible. The majority of the trail remains unshaded, which can be oppressive in our South Florida climate. The City's Office of Sustainability recently conducted a tree canopy survey and identified this project site as needing shade trees.
+
+The Trail Greening project aims to plant 148 trees along this urban commuter trail to provide a shade canopy for ease of use. The following Florida native species will be installed: 36 Live Oak (Quercus virginiana); 20 'East Palatka' Holly (Ilex x attenuate); 25 Wild Tamarind (Lysiloma latisiliquum); 23 Mahogany (Swietenia mahagoni); 26 Gumbo limbo (Bursera simaruba); and 18 Green Buttonwood (Conocarpus Erectus).
+
+All trees installed for this project will be minimum Florida grade 1, with a minimum 12-foot height.
+
+The commuter trail borders Clear Lake, which is part of the water supply system to the City of West Palm Beach. Trees planted along the commuter trail can have a positive impact on runoff water quality and volume to Clear Lake in this urban area. Therefore, in addition to providing shade to residents and trail users, the proposed trees will also
+
+
+City Commission - Jul 22 2024
+
+provide a benefit to the water supply for the City. The Office of Sustainability plans to use the Clear Lake Commuter Trail Greening site as a future means of education on sustainability and water supply.
+
+Furthermore, the tree planting effort will provide carbon sequestration and will assist the City with meeting its Tree Canopy improvement goals, and Greenhouse Gas Reduction target of net zero by 2050.
+
+The Florida Department of Agriculture and Consumer Services’ 2023 Urban and Community Forestry - Plantings, Preservation, and Invasives Control Grant Program awarded the $75,000 grant to the City for the project. There are no match requirements for this grant; however, in order to ensure the trees are receiving adequate irrigation, the City has committed a local match total of $41,812 from the City-Wide Tree Program, which has been budgeted.
+
+Resolution No. 122-24 accepts the grant award and authorized execution of the grant agreement.
+
+Resolution No. 148-24(F) provides for receipt of the grant and appropriation for the tree planting project.
+
+#### Commission District
+
+3: Commissioner Christy Fox.
+
+#### Fiscal Note
+
+Approval of this item provides for receipt of the grant and appropriates the grant award of $75,000 for the tree planting project.
+
+<a id="item-6-5"></a>
+### 6.5. Resolution No. 131-24 authorizing the City Commission of the City of West Palm Beach to approve a neighborhood maintenance covenant for the tree planting project in the Northwood Hills neighborhood.
+
+#### Originating Department
+
+Public Utilities
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 131-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE EXECUTION OF A NEIGHBORHOOD STREET MAINTENANCE AGREEMENT BETWEEN THE CITY OF WEST PALM BEACH AND THE NORTHWOOD HILLS NEIGHBORHOOD ASSOCIATION, INC., REGARDING MAINTENANCE OF VARIOUS TREES PLANTED IN THE NEIGHBORHOOD RIGHTS-OF-WAY; PROVIDING FOR AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+The Northwood Hills Neighborhood Association, Inc. (NHNA) is a volunteer, non-profit corporation that is open to the public and organized for the purpose of providing benefits to the citizens within the Northwood
+
+
+City Commission - Jul 22 2024
+
+Hills Neighborhood.
+
+At the request of NHNA, the Public Utilities Department Office of Sustainability, City Parks Division, Landscape Planner and Engineering staff have been collaborating to accomplish the planting of trees in the City rights-of-way in the Northwood Hills Neighborhood (the “Project”).
+
+The City planted 100 native shade trees within parkways in the neighborhood. Tree species were chosen together with input from the neighborhood association and are as follows: Green Buttonwood (23), East Palatka Holly (25), Gumbo Limbo (14), Wild Tamarind (6), Live Oak (9), and Silver Buttonwood (23).
+
+The City utilized the Master Landscaping Contract with Alligator Landscaping to complete the planting Project with funds from the City Wide Tree Program (Large Canopy Fund).
+
+These funds were appropriated for the purpose of tree planting projects specifically in the north end of the City and within the Downtown. The total cost of the tree planting Project is estimated to be $144,865, which includes a year of supplemental watering. The NHNA agreed to maintain the trees for twenty (20) years following the year of warranty and watering supplied by the City and Alligator Landscaping. The NHNA signed the agreement before the trees were installed as the City and NHNA recognized locations would potentially shift depending on the utility line locations.
+
+After tree installation was completed and the final tree count and location were derived, Exhibit A was completed and provided with the signed maintenance covenant.
+
+Extensive community outreach was conducted prior to the installation of the trees within the neighborhood. Tree species preferences and locations were shared, and feedback was requested and integrated into the Project. Outreach included displaying yard signs, staff attending neighborhood meetings, multiple meetings with NHNA, email blasts, and website postings.
+
+Resolution No. 131-24 approves the Neighborhood Street Tree Maintenance Agreement with the Northwood Hills Neighborhood Association, Inc.
+
+#### Commission District
+
+1: Commissioner Cathleen Ward.
+
+
+<a id="item-6-6"></a>
+### 6.6. Resolution No. 147-24(F) provides appropriations in the total amount of $2,484,700 for Public Utilities funds for additional water, sewer, and storm water operating expenses and for a storm sewer capital project.
+
+#### Originating Department
+
+Public Utilities
+
+#### Ordinance/Resolution
+
+
+City Commission - Jul 22 2024
+
+> RESOLUTION NO. 147-24(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2023/2024 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE WATER AND SEWAGE SYSTEMS REVENUE FUND, WATER AND SEWER GENERAL RESERVE FUND, WATER AND SEWER RENEWAL AND REPLACEMENT FUND, STORM WATER SYSTEM FUND, AND STORM WATER SERIES 2017A CONSTRUCTION BOND FUND BUDGETS TO PROVIDE APPROPRIATIONS FOR ADDITIONAL WATER, SEWER, AND STORMWATER OPERATING EXPENSES AND VARIOUS CAPITAL PROJECTS; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+The summary of additional appropriations of funds is as follows: Water and Sewage Systems Revenue Fund 450
+- $543,000 from operating contingency to the Water Treatment Plant o $175,500 for electricity rate increases and fuel charges o $160,000 for water interconnect usage - dry conditions o $63,975 for fire suppression system recharge o $51,900 for heavy equipment rental for water plant drying beds and wellfield power line service o $54,625 for overtime for staff vacancies and special projects handled in-house o $37,000 for special pay not included in fiscal year 2023 2024 operating budget
+
+- $240,000 from operating contingency to Watershed Management o $230,000 for taxing improvement district fees o $10,000 for special pay not included in fiscal year 2023 2024 operating budget
+
+- $117,000 from operating contingency and $24,000 from Utility General Reserves for special pay not included in fiscal year 2023 2024 operating budget for the following divisions: o $8,500 Utilities Administration o $9,500 Field Customer Service o $8,000 Warehouse o $42,000 Water Distribution o $8,500 Laboratory Services o $22,000 Utilities Pumping Operations o $35,000 Wastewater Collections / Sanitary Sewer o $7,500 Industrial Pretreatment
+
+
+City Commission - Jul 22 2024
+
+Storm Water System Fund 481
+- $60,700 from operating contingency for special pay not included in fiscal year 2023 - 2024 operating budget for the following divisions: o $40,700 Drainage o $20,000 Street Sweeping
+
+Water and Sewer Renewal and Replacement Fund 454
+- $1,375,000 from the reserve for future projects:
+
+Georgia Avenue Rehabilitation
+
+Sanitary
+
+Sewer
+
+&
+
+Storm
+
+Water
+
+Pipeline
+
+The project involves the repairs and improvements to the sewer and storm water pipes along 1.2 miles of Georgia Avenue between Forest Hill Boulevard and Dobbins Street. A reserve fund transfer of $1,125,000 from sewer and $125,000 from storm water is needed to accomplish the project with the accepted bid of $3,365,609.
+
+Lift Station 76 Improvements This project plans improvements to the structural, mechanical, and electrical systems at this sanitary sewer pump lift station located at 1101 N. Congress Avenue. Estimated construction costs have increased and require an additional $250,000 from reserves for a total projected project cost of $1,910,000.
+
+Storm Water Series 2017A Construction Bond Fund 48A
+- $125,000 from reserve for future projects for the Georgia Avenue projected noted above (sewer portion of the funding).
+
+Fiscal Note Details
+Post approval, fund balances will be approximately:
+- $0 Water and Sewage Systems Revenue Fund 450 contingency $80,000,000 Water and Sewer General Reserve Fund $1,000,000 Water and Sewer Renewal and Replacement Fund Reserve for Future Projects $14,000 Storm Water System Fund Reserved for Contingency $780,000 Storm Water Series 2017A Construction Bond Fund
+
+
+City Commission - Jul 22 2024
+
+Commission Districts District 1: Commissioner Cathleen Ward District 2: Commissioner Shalonda Warren District 3: Commissioner Christy Fox District 4: Commissioner Joseph Peduzzi District 5: Commissioner Christina Lambert
+
+#### Fiscal Note
+
+Fiscal note details are outlined in the Background Information section above.
+
+<a id="item-6-7"></a>
+### 6.7. Resolution No. 163-24 waiving a potential conflict of interest relating to Holland and Knight’s representation of the City for existing federal lobbying work and its representation of IPS Group, Inc., in connection with IPS’s parking enforcement program contract with the City of West Palm Beach and IPS’s SOC 2 audit and related information requested that IPS considers confidential trade secret information.
+
+#### Originating Department
+
+City Attorney's Office
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 163-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, WAIVING A POTENTIAL CONFLICT OF INTEREST RELATING TO HOLLAND AND KNIGHT’S REPRESENTATION OF THE CITY FOR EXISTING FEDERAL LOBBYING WORK AND ITS REPRESENTATION OF IPS GROUP, INC., IN CONNECTION WITH IPS’S PARKING ENFORCEMENT PROGRAM CONTRACT WITH THE CITY OF WEST PALM BEACH AND IPS’S SOC 2 AUDIT AND RELATED INFORMATION REQUESTED THAT IPS CONSIDERS CONFIDENTIAL TRADE SECRET INFORMATION; PROVIDING FOR AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+The City of West Palm Beach (“City”) is represented by Holland and Knight, LLP, (the “firm”) for existing federal lobbying work.
+
+The firm desires to represent IPS Group, Inc. (“IPS”) in connection with IPS’s parking enforcement program contract with the City and IPS’s SOC 2 audit and related information requested by the City that IPS considers confidential trade secret information.
+
+The firm requests that the City waive any potential conflict and stated that it is able to provide competent and diligent representation to both the City and IPS in the matters described herein.
+
+
+City Commission - Jul 22 2024
+
+The firm agrees that it will not represent IPS in any formal litigation or similar adversarial proceedings against the City regarding the matter it expects to handle for IPS, and if the matter becomes adversarial, it will not represent either party in the litigation.
+
+The firm also sought consent and obtained a waiver from IPS who has agreed to waive this potential conflict under the conditions outlined herein.
+
+Chapter 2 (Administration), Section 2-222 (Qualifications, Term), of the Code of Ordinances of the City of West Palm Beach (the “Code”) allows the City Commission to waive a potential conflict of interest in matters or transactions, which will not adversely affect the counsel’s representation of the City.
+
+The City of West Palm Beach desires to waive the potential conflict of interest between the City of West Palm Beach and the firm.
+
+#### Fiscal Note
+
+No fiscal impact.
+
+<a id="item-7"></a>
+## 7. PUBLIC HEARING-ALL ITEMS WERE APPROVED.
+
+<a id="item-7-1"></a>
+### 7.1. Public Hearing and Second Reading of Ordinance No. 5103-24 amending the Code of Ordinances of the City of West Palm Beach, Florida, at Chapter 94, Zoning and Land Development Regulations, providing an application process and incentives for qualifying affordable and workforce housing projects.
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> ORDINANCE NO. 5103-24: AN ORDINANCE OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AMENDING THE CODE OF ORDINANCES OF THE CITY OF WEST PALM BEACH, FLORIDA, AT CHAPTER 94, ZONING AND LAND DEVELOPMENT REGULATIONS; ARTICLE II, ORGANIZATION, ADMINISTRATION, AND ENFORCEMENT, TO CREATE SECTION 9456 AFFORDABLE AND WORKFORCE HOUSING APPLICATION PROCESS; ARTICLE XVII, AFFORDABLE AND WORKFORCE HOUSING TO CREATE REGULATIONS RELATED THERETO, TO BE CONSISTENT WITH GENERAL LAW; DECLARING THESE AMENDMENTS TO BE CONSISTENT WITH THE COMPREHENSIVE PLAN OF THE CITY; PROVIDING A CONFLICTS CLAUSE, A CODIFICATION CLAUSE, AND A SEVERABILITY CLAUSE; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+
+City Commission - Jul 22 2024
+
+#### Staff Recommended Motion
+
+Approve Ordinance No. 5103-24 on Second Reading on July 22, 2024, based on the findings that the amendment complies with the provision of Chapter 163 and Section 166.04151, Florida Statutes, and the City’s Comprehensive Plan and the required Amendment Standards in Section 94-32 of the City of West Palm Beach Zoning and Land Development Regulations (ZLDRs).
+
+#### Background Information
+
+The proposed amendments to the City of West Palm Beach Land Development Regulations provide for expanded production of affordable and workforce housing in the City consistent with both the newly adopted provisions of Section 166.0451 (7) (a), Florida Statutes, referred to herein as the Live Local Act and the State of Florida Live Local Act, and the City's Ordinance No. 5071-23, Evaluation and Appraisal (EAR) based amendments to the Comprehensive Plan more specifically amendments to the Future Land Use Element Policy 1.1.1, Policy 1.1.3, and Goal 6.
+
+In December 2022, the City enacted Resolution No. 306-22, which approved interim standards for Commission review of residential projects, which increased the supply of affordable and workforce housing by granting increases in density and expediting the review process as permitted under Section 166.0451, Florida Statutes.
+
+In July 2023, the interim program established under Resolution No. 30622 was pre-empted, in part, by further amendments to 166.04151, Florida Statutes, which was one of the statutes amended through the adoption of the Live Local Act. The most utilized provisions for increasing the affordable and workforce housing production of Resolution No. 306-22 were no longer applicable due to the amendment. The City adopted its Comprehensive Plan EAR amendments. It included provisions related to affordable and workforce housing production, allowing the City to adopt land development regulations to implement the proposed affordable and workforce housing program similar to that established by Resolution No. 306-22. Additionally, the Ordinance codifies an administrative process to address the policy requirements of Section 166.04151(7), Florida Statutes, as amended on May 16, 2024.
+
+Attachment II of the Planning Board report provides a summary of both the Live Local Act and the proposed Affordable and Workforce Housing Overlay development overlay.
+
+#### MAYOR /COMMISSION WORK SESSION
+
+On May 20, 2024, the Mayor and Commission held a Work Session to discuss the proposal to amend the code. No additional changes were recommended at that time.
+
+
+City Commission - Jul 22 2024
+
+#### PUBLIC INPUT
+
+There has been ongoing conversation within the City departments and with the development community since HB 1339 was enacted in 2022.
+
+The adoption of Resolution No. 306-22 and subsequent legislative action in 2023 (SB102 Live Local Act) and 2024 (SB328 Live Local Act as amended) facilitated more action by the City to continue the success of the efforts under Resolution No. 306-22.
+
+City staff held roundtable discussions with the development community and interested parties on August 1, 2023, and March 26, 2024, to review the approach and proposed code amendment language.
+
+#### PLANNING BOARD
+
+On May 21, 2024, the Planning Board voted unanimously to recommend approval to the City Commission.
+
+#### COMMISSION
+
+On July 8, 2024, the Commission voted unanimously to approve and to schedule Second Reading on July 22, 2024.
+
+<a id="item-7-2"></a>
+### 7.2. Public Hearing of Resolution No. 138-24 authorizing acceptance of federal entitlement grants in the amount of $5,201,323; approving submission of the One-Year Action Plan for Fiscal Year 2024-2025; and authorizing execution of all agreements and related documents.
+
+#### Originating Department
+
+Housing and Community Development
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 138-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, RELATING TO THE CITY’S ANNUAL ACTION PLAN FOR FISCAL YEAR 2024-2025; AUTHORIZING ACCEPTANCE OF FEDERAL ENTITLEMENT GRANTS FROM THE U. S. DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT UNDER THE COMMUNITY DEVELOPMENT BLOCK GRANT (CDBG) PROGRAM, THE HOME INVESTMENT PARTNERSHIPS (HOME) PROGRAM, AND THE HOUSING OPPORTUNITIES FOR PERSONS WITH AIDS (HOPWA) PROGRAM; APPROVING THE CITY’S ANNUAL ACTION PLAN FOR FISCAL YEAR 2024-2025 FOR USE OF THE FUNDS; AUTHORIZING THE MAYOR TO EXECUTE ALL AGREEMENTS AND RELATED DOCUMENTS NECESSARY TO RECEIVE THE GRANT FUNDS AND TO AWARD THE GRANT FUNDS TO SUBRECIEPIENTS; AUTHORIZING AND DIRECTING THE DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT TO SUBMIT THE ONE-YEAR
+
+
+City Commission - Jul 22 2024
+
+#### ACTION PLAN TO THE U. S. DEPARTMENT OF HOUSING AND
+
+#### URBAN DEVELOPMENT; PROVIDING AN EFFECTIVE DATE; AND
+
+#### FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Resolution No. 138-24.
+
+#### Background Information
+
+The City of West Palm Beach is an entitlement recipient of federal funds from the U. S. Department of Housing and Urban Development (HUD) under the Community Development Block Grant Program (CDBG), HOME Investment Partnerships Program (HOME), and the Housing Opportunities for Persons with AIDS Program (HOPWA). For Fiscal Year (FY) 2024-2025, the City anticipates receiving a total of $5,201,323 as follows:
+- CDBG: $1,039,077;
+HOME:
+$492,244; and
+
+#### HOPWA: $3,670,002
+
+
+To receive these funds, the City is required to submit an Annual OneYear Action Plan to HUD, which describes the City's intended use of these funds. The Annual One-Year Action Plan submission deadline is August 16, 2024.
+
+The grant funds are intended to address the community development and housing needs within the corporate limits of the City of West Palm Beach by achieving the overall goal of decent housing, providing a suitable living environment, and expanding economic development opportunities principally for low and moderate income persons.
+
+As a part of developing the Annual Action Plan, federal regulations require the City to hold a public meeting to receive public input on using the funds. In addition to this public hearing, the City held an input meeting in-person and via Zoom on June 11, 2024. Input gathered at the meeting focused on the availability or need for mental health services for the City’s homeless population and the need for additional affordable housing units and rental assistance.
+
+Federal regulations also require the City to provide citizens with reasonable notice of and an opportunity to comment on the Annual Action Plan, as well as any substantial amendment to the Plans in accordance with 24 CFR 91.10. The 30-day comment period commenced on June 22, 2024, and ended on July 22, 2024. The City of West Palm Beach will consider all comments or views of residents, agencies, or other interested parties in preparation for the Action Plan. Such comments will be included in the final submittal documents to HUD.
+
+
+City Commission - Jul 22 2024
+
+Resolution No. 138-24: (a) authorizes the acceptance of the funds; (b) approves the FY 2024-2025 Annual Action Plan for uses of funds; (c) authorizes the Mayor to execute grant agreements and all other documents necessary for the submission of the Action Plan and the receipt and use of grant funds; and (d) authorizes submittal of the Action Plan to HUD for its review and approval.
+
+#### Fiscal Note
+
+Budget line item appropriations will be setup in the FY 2025 Grant fund budget.
+
+<a id="item-8"></a>
+## 8. PUBLIC HEARING - QUASI-JUDICIAL- APPROVED.
+
+Disclosure of ex-parte communications, if any* Swearing-in of witnesses.
+
+<a id="item-8-1"></a>
+### 8.1. Resolution No. 146-24 approving the replat of approximately 6.57 acres (286,344 square feet) of real property generally located at 807 North Flagler Drive, as is associated with the Rosarian Academy school.
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 146-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING THE CONSOLIDATION AND REPLAT OF REAL PROPERTY TO CREATE THE PLAT ENTITLED “ROSARIAN ACADEMY REPLAT” CONSISTING OF ONE (1) DEVELOPMENT TRACT TOTALING APPROXIMATELY 6.57 ACRES (286,344 SQUARE FEET) GENERALLY LOCATED AT 807 NORTH FLAGLER DRIVE; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Resolution No. 146-24 creating the plat entitled "ROSARIAN
+
+#### ACADEMY REPLAT".
+
+This motion is based upon the application submitted, the staff report, factual testimony, and the findings that the request complies with all applicable provisions of Chapter 177, Florida Statutes, the Comprehensive Plan, and the standards in Section 94-342 of the City's Zoning and Land Development Regulations.
+
+#### Background Information
+
+On June 2, 1997, the City Commission approved Ordinance No. 3031-97 and Ordinance No. 3032-97, which assigned the land use designation of Community Service (CS) and rezoned approximately 0.24 acres of land adjacent to the boundaries of Rosarian Academy PSPPD to Community Service (CS) with the intention of the parcels to be included in the CSPD.
+
+
+City Commission - Jul 22 2024
+
+On June 2, 1997, the City Commission approved Ordinance No. 3033-97, which rezoned and established the Rosarian Academy Community Service Planned Development (CSPD) boundaries.
+
+On December 16, 2019, the City Commission passed Ordinance No. 4873-19, which amended Ordinance No. 3033-97 to transfer all site plan approvals and related conditions to a separate resolution.
+
+On August 9, 2022, Jon Schmidt of Schmidt Nichols, on behalf of Rosarian Academy, Inc., submitted three (3) separate applications for the Rosarian Academy CSPD, an application for a text amendment to allow expansion of CSPD boundary or rezoning of DMP properties, an application for the rezoning/boundary expansion, and an application for a major amendment for a revised campus site plan.
+
+On January 23, 2023, the City Commission approved Ordinance No. 5028-22, which abandoned a portion of Eucalyptus Street and a 7th Street alleyway.
+
+The subject property and project entitled: “Rosarian Academy" had both a rezoning and major planned development site amendment approved on May 30, 2023. The applications consisted of expanding the Community Service Planned Development (CSPD) designation to the remaining 6.3 acres of land under the ownership of Rosarian Academy. The school's property is generally located at 807 North Flagler Drive.
+
+On May 24, 2024, Jon Schmidt of Schmidt Nichols, on behalf of Rosarian Academy, Inc., submitted the application for the Rosarian Academy CSPD replat in response to the revised campus site plans.
+
+The purpose of the replat is to wholly incorporate the subject properties of 810 North Olive Avenue, 808 North Olive Avenue, 804 North Olive Avenue, 800 North Olive Avenue, 7th Street, and 807 North Flagler Drive into the existing Rosarian CSPD for regulatory consistency and to “square off” the school's downtown property.
+
+All of the public hearings were advertised in the Palm Beach Post. Proof of publication is housed in the Planning and Zoning Division records, along with evidence that individual public hearing notices were mailed to all property owners within 500 feet of the subject property.
+
+The Planning Division has determined that the request is consistent with the Comprehensive Plan and complies with all applicable criteria in Chapter 177 Florida Statutes, and all of the subdivision general design standards located in Section 94-342 in the Zoning and Land Development Regulations.
+
+
+City Commission - Jul 22 2024
+
+#### Commission District
+
+3: Commissioner Christy Fox.
+
+
+<a id="item-9"></a>
+## 9. COMMENTS FROM THE PUBLIC
+
+Public comments are limited to three (3) minutes. Anyone wishing to address the Commission should complete a "Comments by the Public" card and present it to the City Clerk prior to the Public Comments. When you are called to speak, please go to the podium and state your name and address for the record prior to addressing Commission. The Commission will not discuss the matter nor respond to the comment this evening. Comments made will become part of the record and may be addressed at a later date.
+
+<a id="item-10"></a>
+## 10. COMMENTS BY THE MAYOR AND CITY COMMISSIONERS
+
+
+<a id="item-11"></a>
+## 11. ADJOURNMENT-5:28 P.M.
+
+*Pursuant to Resolution No. 179-95, adopted according to the provisions of Section 286.0115, Florida Statutes, members of the Commission shall disclose on the record: 1) ex-parte communications verbal or written; 2.) written communications shall be placed in the record; and 3) site visits, investigations, etc. shall be disclosed.
+
+NOTICE: If any person decides to appeal any decision made by the City Commission at this meeting, that person will need a record of the proceedings, and that, for such purposes, may need to ensure that a verbatim records of the proceedings be made, which record includes the testimony and evidence upon which the appeal is based. The City of West Palm Beach does not prepare or provide such record.

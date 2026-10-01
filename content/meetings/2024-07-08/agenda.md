@@ -1,0 +1,382 @@
+---
+date: 2024-07-08
+doc_type: agenda
+title: Final City Commission Agenda
+meeting: Regular City Commission Meeting
+official_pdf: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2024-agendas/2024-final-city-commission-agendas/final-city-commission-agenda-_07_08_24-p.pdf
+retrieved: 2026-10-01
+extractor: pdftotext + civic-pdf-cleanup
+notes: >
+  Plain-text extract of the official PDF. Binary PDF not stored in this repo.
+---
+
+# Final City Commission Agenda — 2024-07-08
+
+**Official PDF (wpb.org):** [final-city-commission-agenda-_07_08_24-p.pdf](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2024-agendas/2024-final-city-commission-agendas/final-city-commission-agenda-_07_08_24-p.pdf)
+
+Text extract below is for search and deep-linking. The official PDF is authoritative.
+
+---
+
+401 Clematis Street West Palm Beach, Florida 33401 (561) 822-2222 (TTY) 800-955-8771 www.wpb.org Mayor Keith A. James Commission President Cathleen Ward (District 1) Commissioner Shalonda Warren (District 2) Commissioner Christy Fox (District 3) Commissioner Joseph A. Peduzzi (District 4) Commissioner Christina Lambert (District 5)
+
+City Administrator Faye W. Johnson City Attorney Kimberly Rothenburg City Clerk Shaquita Edwards
+
+City of West Palm Beach City Commission Agenda Monday, July 8, 2024 5:00 PM In accordance with the provisions of the Americans with Disabilities Act (ADA), persons in need of a special accommodation to participate in this proceeding shall, within three days prior to any proceeding, contact the City Clerk's Office, 401 Clematis Street, West Palm Beach, FL 33401, (561) 822-1210.
+
+<a id="item-1"></a>
+## 1. CALL TO ORDER
+
+
+<a id="item-2"></a>
+## 2. MOMENT OF SILENCE
+
+
+<a id="item-3"></a>
+## 3. PLEDGE OF ALLEGIANCE
+
+
+<a id="item-4"></a>
+## 4. CIVILITY AND DECORUM
+
+The City of West Palm Beach is committed to civility and decorum by its officials, employees and members of the public who attend this meeting. The City Code, Secs. 2-31(8), 2-31(18) and 2-31(22), provides in pertinent part:
+- Officials shall be recognized by the Chair and shall not interrupt a speaker.
+- Public comment shall be addressed to the City Commission as a whole and not to any individual on the dais or in the audience.
+- Displays of anger, rudeness, ridicule, impatience, lack of respect and personal attacks are strictly prohibited.
+- Unauthorized remarks from the audience, stamping of feet, whistles, yells and similar demonstrations shall not be permitted.
+- Offenders may be removed from the meeting.
+- Any person desiring to address the Commission shall file a written request with the city clerk prior to consideration of the matter by the Commission or prior to the public comment portion of a meeting. The person wishing to speak shall complete a comment card for each agenda item the person wishes to address, which shall include the person's full name, address, and the numbered agenda item. The person will not be recognized if the comment card is not completed.
+
+
+City Commission - Jul 08 2024
+
+<a id="item-5"></a>
+## 5. ADDITIONS / DELETIONS / REORGANIZATION OF AGENDA
+
+
+<a id="item-6"></a>
+## 6. PROCLAMATION
+
+<a id="item-6-1"></a>
+### 6.1. Proclaiming July 2024 as Recreation and Parks Month. Proclamation to be accepted by Leah Rockwell, Director of Parks and Recreation; Todd Snyder, Assistant Director of Parks and Recreation; Sherry Wilson, Assistant Director of Parks and Recreation; and Mary Pinak, Marketing and Community Events Manager.
+
+#### Originating Department
+
+Mayor's Office
+
+
+<a id="item-7"></a>
+## 7. CONSENT CALENDAR
+
+All items listed under the consent calendar are considered routine and will be enacted by one motion. There will be no separate discussion of these items.
+
+<a id="item-7-1"></a>
+### 7.1. Minutes of the Regular City Commission Meeting of May 13, 2024.
+
+#### Originating Department
+
+Mayor's Office
+
+
+<a id="item-7-2"></a>
+### 7.2. Minutes of the Regular City Commission Meeting of May 28, 2024.
+
+#### Originating Department
+
+Mayor's Office
+
+
+<a id="item-7-3"></a>
+### 7.3. Resolution No. 124-24 accepting maintenance responsibility for landscape and hardscape improvements to be constructed on a portion of Broadway Avenue between 24th and 25th Street as part of The District mixed-use project, approving a Maintenance Memorandum of Agreement (MMOA) with the Florida Department of Transportation (FDOT) and approving a Right of Way (ROW) maintenance agreement with Immocorp Ventures.
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 124-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, ACCEPTING MAINTENANCE RESPONSIBILITY FOR A PORTION OF STATE ROAD 5 (BROADWAY AVENUE) FOR IMPROVEMENTS TO BE CONSTRUCTED BETWEEN 24TH AND 25TH STREETS FOR THE DISTRICT MIXED-USE PROJECT; APPROVING A MAINTENANCE MEMORANDUM OF AGREEMENT WITH THE FLORIDA DEPARTMENT OF TRANSPORTATION; APPROVING A RIGHT OF WAY MAINTENANCE AGREEMENT WITH IMMOCORP VENTURES; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+
+City Commission - Jul 08 2024
+
+#### Background Information
+
+Immocorp Ventures, the Developer of a new mixed-use project known as "The District" (previously known as the Anchor site), is proposing landscape and hardscape improvements along Broadway Avenue between 24th Street and 25th Street. FDOT owns this portion of Broadway Avenue, and any improvements will require the approval of an FDOT Maintenance Memorandum of Agreement ("MMOA").
+
+FDOT requires the MMOA to be between the City and FDOT. The City agrees to accept the maintenance responsibilities for the Developerinstalled improvements under the FDOT MMOA, provided that the Developer executes a Right-of-Way Maintenance Agreement with the City assuming the maintenance responsibilities for Developer-installed improvements under the MMOA.
+
+Resolution No. 124-24 approves the MMOA between the City and FDOT and also approves a Right-of-Way Maintenance Agreement with Immocorp Ventures, pursuant to which Immocorp Ventures assumes the City's maintenance obligations under the FDOT MMOA.
+
+#### Commission District
+
+1: Commissioner Cathleen Ward.
+
+#### Fiscal Note
+
+No fiscal impact.
+
+<a id="item-7-4"></a>
+### 7.4. Resolution No. 130-24 approves a Mediated Settlement Agreement totaling $80,000 in the matter of Amanda Vasquez vs. The City of West Palm Beach.
+
+#### Originating Department
+
+City Attorney's Office
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 130-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING A MEDIATED SETTLEMENT AGREEMENT FOR $80,000 IN THE MATTER OF AMANDA VASQUEZ VS. THE CITY OF WEST PALM BEACH, FILED IN THE FIFTEENTH JUDICIAL CIRCUIT, IN AND FOR PALM BEACH COUNTY, FLORIDA, CASE NO. 50-2023-CA002881-XXXX-MBAE; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+Amanda Vasquez filed a complaint in the Fifteenth Judicial Circuit of Florida for damages stemming from an accident that occurred on March 6, 2022, to wit: AMANDA VASQUEZ vs. THE CITY OF WEST PALM BEACH in the Circuit Court of the Fifteenth Judicial Circuit, in and for Palm Beach County, Florida, Case No. 50-2023-CA-002881-XXXX-MB AE.
+
+
+City Commission - Jul 08 2024
+
+The City has reached a settlement agreement with Amanda Vasquez and her attorney to resolve the matter for a total of $80,000. The plaintiff signed a general release that releases the City from all claims arising from this accident, which resolves all of the claims for damages, including attorneys' fees and costs, against the City of West Palm Beach.
+
+Section 2-268(g)(4) of the Code of Ordinances of the City of West Palm Beach, Florida, provides that the authority for settlement of all claims in excess of $30,000 shall require the approval of the City Commission by formal resolution.
+
+Resolution No. 130-24 approves the Mediated Settlement Agreement.
+
+<a id="item-7-5"></a>
+### 7.5. Resolution No. 150-24 consenting to a second amendment to the declaration of covenants, restrictions, and easements governing the development of the old City Hall site/Helen Wilkes site to allow the open space adjacent to 185 N. Banyan to be used as an ice rink open to the public.
+
+#### Originating Department
+
+Community Redevelopment Agency
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 150-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, CONSENTING TO A SECOND AMENDMENT TO THE DECLARATON OF COVENANTS, RESTRICTIONS AND EASEMENTS GOVERING THE DEVELOPMENT OF THE OLD CITY HALL / HELEN WILKES SITE, AMONG NAVARRO LOWREY WATERFRONT, LLC,, WEST PALM BEACH APARTMENTS, LLC, WS BPB OWNER, LLC, WITH THE CONSENT OF THE CITY OF WEST PALM BEACH AND THE WEST PALM BEACH COMMUNITY REDEVELOPMENT AGENCY, TO ALLOW THE OPERATION OF AN ICE RINK ON THE OPEN SPACE FOR THE 2024 / 2024 FALL / WINTER SEASON; PROVIDING AN EFFECTIVE DATE AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+In 2018, the Community Redevelopment Agenda (CRA) Board approved Resolution No. 18-9 for a ground lease and development agreement with Navarro Lowrey Waterfront, LLC, for lease of the Helen Wilkes site (CRA property--now 185 Banyan Boulevard). This property, along with the old City Hall site, was redeveloped into a 443,361 square foot commercial project consisting of The Ben hotel, a mixed-use building with residential use, a parking garage, and a restaurant with an open space component on the CRA property.
+
+The CRA property now houses Elisabetta's Ristorante and the Open Space component, situated directly north of the restaurant. This Open
+
+
+City Commission - Jul 08 2024
+
+Space is utilized for additional restaurant seating, special events, and use by the general public. It is allowed to be closed to the public for limited periods for private events.
+
+The Ben hotel proposed to use this Open Space to install and operate a seasonal ice rink and concession area for food and beverages between November 1, 2024 and March 1, 2025. The ice rink will be open to the public and will provide discounted ticket prices for students and seniors.
+
+The CRA's lessee, Navarro Lowrey Waterfront, LLC, consents to this use of the Open Space.
+
+In order to allow the operation of the ice skating rink, an amendment to the Declaration of Covenants, Conditions, Restriction and Easements governing the development of the old City Hall/Helen Wilkes site among Navarro Lowrey Waterfront, LLC, West Palm Beach Apartment, LLC, WS BPB Owner, LLC with the consent of the City of West Palm Beach and the WPB CRA is necessary. City Commission Resolution No. 150-24 approves the required amendment.
+
+Companion CRA Resolution No. 24-27 approves an amendment to the ground lease to allow the use as an ice rink for the 2024-2025 winter season, along with an amendment to the Declaration of Covenants, Conditions, Restriction and Easements.
+
+City Resolution No. 150-24 consents to the amendment to the Declaration of Covenants, Conditions, Restriction and Easements to allow the ice rink.
+
+CRA District: Downtown/City Center.
+
+#### Commission District
+
+3: Commissioner Christy Fox.
+
+#### Fiscal Note
+
+No fiscal impact.
+
+<a id="item-8"></a>
+## 8. RESOLUTIONS
+
+<a id="item-8-1"></a>
+### 8.1. Resolution No. 128-24 approves, as Face of the City, a temporary, fivepiece video installation titled "Entropydoscopes" by South Florida-based artist Sandra Ramos to be installed and exhibited in the Urban Living Room / Mandel Public Library for three months; and Resolution No. 129-24(F) appropriating $25,000 from the Art in Public Places (AIPP) Reserves for future projects for the installation of a public exhibition of "Entropydoscopes".
+
+#### Originating Department
+
+City Commission - Jul 08 2024
+
+
+Mayor's Office
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 128-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING A TEMPORARY ART INSTALLATION BY ARTIST SANDRA RAMOS AT THE URBAN LIVING ROOM / MANDEL PUBLIC LIBRARY; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+> RESOLUTION NO. 129-24(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2023/2024 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE ARTLIFE WPB CAPITAL PROJECT FUND BUDGET TO PROVIDE APPROPRIATIONS FOR A TEMPORARY ART INSTALLATION BY ARTIST SANDRA RAMOS AT THE URBAN LIVING ROOM / MANDEL PUBLIC LIBRARY; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Resolution No. 128-24 and Resolution No. 129-24(F).
+
+#### Background Information
+
+On May 1, 2024, the ArtLife Committee voted unanimously to recommend to the City Commission the allocation of $25,000 for the 3-month installation, in partnership with Mandel Library and ArtLife, of "Entropydoscopes", a 5-piece mixed media project by South Floridabased artist, Sandra Ramos to be installed in the Urban Living Room.
+
+Further, the sculpture meets the criteria outlined in Section 78-125 of the code of ordinances.
+
+#### ABOUT THE ARTIST
+
+Sandra Ramos is a visual artist based in Miami. She was educated at the Elemental School of Visual Arts 20 de Octubre, at the San Alejandro Academy, and at the Instituto Superior de Arte (ISA) in Havana, Cuba.
+
+Her work illustrates her views of the political and social contemporary context in her country and worldwide. Ramos takes elements and recognizable characters from political cartoons to humorously comment on a very hard reality. Although it is an autobiographical work in many ways, it relates to a generational position, provoking dialogue among the private and public of personal and collective memories. She works in a range of media, including painting, printmaking, collage, video, and installation-based work. As an artist and an independent curator, she is interested in wide-ranging concepts, from cultural identity and migration to social media.
+
+
+City Commission - Jul 08 2024
+
+#### LOCATION
+
+The Urban Living Room / Mandel Public Library.
+
+#### EXHIBIT TIMEFRAME
+
+July through September 2024.
+
+#### ARTWORK
+
+For the installation at the Urban Living Room, five (5) distinct light boxes make up“ Entropydoscopes” by South Based Cuban artist Sandra Ramos. Utilizing her wide range of mediums, including drawings and engravings, she creates kaleidoscopic collages that include maps, passport pages, and notes, which reflect her childhood memories of Cuba. These light boxes feature videos composed of these gathered recollections. Some components are recognizable, while others are left intentionally obscured and nuanced. The visual narrative is non-linear.
+
+Instead, the artist focuses on experiencing her memories as witty, colorful, whilst critical of societal ideals. Ramos states: “My work is a reflection about history and about the present, functioning as a daily gathering of individual and social memories.”
+
+Dimensions: Entropydoscopes, 92.5” (W) x 85” (H) x 36.5” (D) Materials: Video installation and light boxes Dimensions: Entropydoscopes (Talibans), 31” (W) x 23.75” (H) x 31” (D) Materials: Video installation and light boxes Dimensions: Entropydoscopes (Ukrainians), 24” (W) x 24” (H) x 8.5” (D) Materials: Video installation and light boxes Dimensions: Entropydoscopes,21.5” (W) x 21.5” (H) x 10” (D) Materials: Video installation and light boxes Dimensions: Entropydoscopes,24” (W) x 24” (H) x 10” (D) Materials: Video installation and light boxes Resolution No. 128-24 approves, as Face of the City, a temporary, 5piece video installation titled "Entropydoscopes" by South Florida-based artist, Sandra Ramos to be exhibited in the Urban Living Room / Mandel Public Library for three months: August-October 2024.
+
+Resolution No. 129-24(F) approves and provides appropriations of $25,000 for this Public Art commission.
+
+
+City Commission - Jul 08 2024
+
+#### Commission District
+
+3: Commissioner Christy Fox.
+
+#### Fiscal Note
+
+Approval of this item appropriates funding in the amount of $25,000 for the installation of a public exhibition of "Entropydoscopes".
+
+<a id="item-8-2"></a>
+### 8.2. Resolution No. 145-24 approving Amendment No. 3 to the Tamarind Parcel Lease with Transit Village PPP-Seaboard, LLC, for the Seaboard Train Station.
+
+#### Originating Department
+
+Housing and Community Development
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 145-24:A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING AMENDMENT NO. 3 TO THE TAMARIND PARCEL LEASE WITH TRANSIT VILLAGE PPP-SEABOARD, LLC, FOR THE SEABOARD TRAIN STATION; PROVIDING FOR AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Resolution No. 145-24.
+
+#### Background Information
+
+As approved by Ordinance No. 4751-17, the City of West Palm Beach and Transit Village PPP-Seaboard, LLC, entered into the Tamarind Parcel Lease Agreement dated February 2, 2018, for the lease of the City-owned Tamarind Parcel, which includes the Seaboard Train Station.
+
+Resolution No. 226-20 approved an amendment to the lease indicating that the term of the lease will commence when Transit Village commences construction of its Public Podium Plaza as part of its Transit Oriented Development project. The date by which such construction was to commence was also revised to August 13, 2023.
+
+Resolution No. 298-21 approved a second amendment to the lease to provide an eleven (11) month extension for commencement of construction of the Public Podium Plaza due to delays caused by the COVID-19 pandemic. The commencement date of the lease was revised to July 13, 2024.
+
+The Developer is requesting a third amendment to the lease as follows: 1. Commencement Date: Extend the date by which the lease term must commence to the earlier construction of the Public Podium Plaza, or the construction of the relocated Palm Tran Intermodal Transit Center (ITC) by July 13, 2025. The City, in its sole
+
+
+City Commission - Jul 08 2024
+
+discretion, may extend for an additional year. 2. Leased Premises: Revise the area of the leased premises to exclude the Seaboard Train Station in order to return operational control, including maintenance and repair of the train station, to the City. 3. Existing Tenants: Restore management of leases with existing tenants and occupancy by Mass Transit Lessees to the City. 4. Train Station Improvements/Maintenance and Repair: The City will be solely responsible for repairs, maintenance, and exterior and interior station improvements, including design changes, subject to the following: a. Transit Village and the City will collaborate and mutually agree on the design changes to the exterior of the Seaboard Train Station to ensure integration with the Transit Village project, to the extent such design is consistent with the Seaboard Train Station’s designation on the National Register of Historic Places and the West Palm Beach Register of Historic Places. b. Transit Village with contribute funding of $50,000 toward the repair and maintenance of the Seaboard Train Station. The City will be responsible for all other costs or fees related to the repair, maintenance and improvement of the Seaboard Train Station. 5. Affordable Housing: The City, as property owner, will consent to the development of affordable housing by Transit Village on the Tamarind Parcel south of the train station area, provided such development does not interfere with the parking needs and operations of the train station and with governmental approval under all applicable building codes, ordinances, laws, or regulations.
+
+Resolution No. 145-24 approves a third amendment to the Transit Village PPP-Seaboard, LLC Tamarind Parcel Lease Agreement for the Seaboard Train Station.
+
+#### Commission District
+
+3: Commissioner Christy Fox.
+
+#### Fiscal Note
+
+No
+
+#### fiscal
+
+
+impact.
+
+
+City Commission - Jul 08 2024
+
+<a id="item-9"></a>
+## 9. PUBLIC HEARING
+
+<a id="item-9-1"></a>
+### 9.1. Public Hearing and First Reading of Ordinance No. 5103-24 amending the Code of Ordinances of the City of West Palm Beach, Florida, at Chapter 94, Zoning and Land Development Regulations, providing an application process and incentives for qualifying affordable and workforce housing projects.
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> ORDINANCE NO. 5103-24 AN ORDINANCE OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AMENDING THE CODE OF ORDINANCES OF THE CITY OF WEST PALM BEACH, FLORIDA, AT CHAPTER 94, ZONING AND LAND DEVELOPMENT REGULATIONS; ARTICLE II, ORGANIZATION, ADMINISTRATION, AND ENFORCEMENT, TO CREATE SECTION 9456 AFFORDABLE AND WORKFORCE HOUSING APPLICATION PROCESS; ARTICLE XVII, AFFORDABLE AND WORKFORCE HOUSING TO CREATE REGULATIONS RELATED THERETO, TO BE CONSISTENT WITH GENERAL LAW; DECLARING THESE AMENDMENTS TO BE CONSISTENT WITH THE COMPREHENSIVE PLAN OF THE CITY; PROVIDING A CONFLICTS CLAUSE, A CODIFICATION CLAUSE, AND A SEVERABILITY CLAUSE; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Ordinance No. 5103-24 on First Reading and schedule Second Reading on July 22, 2024, based on the findings that the amendment complies with the provision of Chapter 163 and Section 166.04151, Florida Statutes, and the City’s Comprehensive Plan and the required Amendment Standards in Section 94-32 of the City of West Palm Beach Zoning and Land Development Regulations (ZLDRs).
+
+#### Background Information
+
+#### THE INFORMATION BELOW IS A GENERAL SUMMARY. SEE
+
+#### ATTACHMENT II SUMMARY DOCUMENT OF THE PLANNING BOARD
+
+#### REPORT FOR MORE DETAILED DESCRIPTION OF THE PROPOSED
+
+#### CODE PROVISIONS.
+
+The proposed amendments to the City of West Palm Beach Land Development Regulations provide for expanded production of affordable and workforce housing in the City consistent with both the newly adopted provisions of section 166.0451 (7) (a), Florida Statutes, referred to herein as the Live Local Act and the State of Florida Live Local Act, and the City's Ordinance No. 5071-23, Evaluation and Appraisal (EAR) based amendments to the Comprehensive Plan more specifically amendments to the Future Land Use Element Policy 1.1.1, Policy 1.1.3, and Goal 6.
+
+
+City Commission - Jul 08 2024
+
+In December 2022, the City enacted Resolution No. 306-22, which approved interim standards for Commission review of residential projects, which increased the supply of affordable and workforce housing by granting increases in density and expediting the review process as permitted under Section 166.0451, Florida Statutes.
+
+In July 2023, the interim program established under Resolution No. 30622 was pre-empted, in part, by further amendments to 166.04151, Florida Statutes, which was one of the statutes amended through the adoption of the Live Local Act. The most utilized provisions for increasing the affordable and workforce housing production of Resolution No. 306-22 were no longer applicable due to the amendment. The City adopted its Comprehensive Plan EAR amendments and included provisions related to affordable and workforce housing production, allowing the City to adopt land development regulations to implement the proposed affordable and workforce housing program similar to that established by Resolution No. 306-22. Additionally, the Ordinance codifies an administrative process to address the policy requirements of section 166.04151(7), Florida Statutes, as amended on May 16, 2024.
+
+Attachment II of the Planning Board report provides a summary of both the Live Local Act and the proposed Affordable and Workforce Housing Overlay development overlay.
+
+#### MAYOR /COMMISSION WORK SESSION
+
+On May 20, 2024, the Mayor and Commission held a Work Session to discuss the proposal to amend the code. No additional changes were recommended at that time.
+
+#### PUBLIC INPUT
+
+There has been ongoing conversation within the City departments and with the development community since HB 1339 was enacted in 2022.
+
+The adoption of Resolution No. 306-22 and subsequent legislative action in 2023 (SB102 Live Local Act) and 2024 (SB328 Live Local Act as amended) facilitated more action by the City to continue the success of the efforts under Resolution No. 306-22.
+
+City staff held roundtable discussions with the development community and interested parties on August 1, 2023, and March 26, 2024, to review the approach and proposed code amendment language.
+
+#### PLANNING BOARD
+
+On May 21, 2024, the Planning Board voted unanimously to recommend
+
+
+City Commission - Jul 08 2024
+
+approval to the City Commission.
+
+Approval of Ordinance No. 5103-24 creates an application and review process. It provides regulations related to qualified affordable and workforce housing projects and includes processes and regulations applicable to developments being reviewed pursuant to the Live Local Act.
+
+<a id="item-10"></a>
+## 10. COMMENTS FROM THE PUBLIC
+
+Public comments are limited to three (3) minutes. Anyone wishing to address the Commission should complete a "Comments by the Public" card and present it to the City Clerk prior to the Public Comments. When you are called to speak, please go to the podium and state your name and address for the record prior to addressing Commission. The Commission will not discuss the matter nor respond to the comment this evening. Comments made will become part of the record and may be addressed at a later date.
+
+<a id="item-11"></a>
+## 11. COMMENTS BY THE MAYOR AND CITY COMMISSIONERS
+
+
+<a id="item-12"></a>
+## 12. ADJOURNMENT
+
+*Pursuant to Resolution No. 179-95, adopted according to the provisions of Section 286.0115, Florida Statutes, members of the Commission shall disclose on the record: 1) ex-parte communications verbal or written; 2.) written communications shall be placed in the record; and 3) site visits, investigations, etc. shall be disclosed.
+
+NOTICE: If any person decides to appeal any decision made by the City Commission at this meeting, that person will need a record of the proceedings, and that, for such purposes, may need to ensure that a verbatim records of the proceedings be made, which record includes the testimony and evidence upon which the appeal is based. The City of West Palm Beach does not prepare or provide such record.

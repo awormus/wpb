@@ -1,0 +1,1336 @@
+---
+date: 2024-05-13
+doc_type: pass-fail
+title: City Commission Pass/Fail Agenda
+meeting: Regular City Commission Meeting
+official_pdf: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2024-pass-fail-agendas/pf-city-commission-agenda-_05_13_24.pdf
+retrieved: 2026-10-01
+extractor: pdftotext + civic-pdf-cleanup
+notes: >
+  Plain-text extract of the official PDF. Binary PDF not stored in this repo.
+---
+
+# City Commission Pass/Fail Agenda — 2024-05-13
+
+**Official PDF (wpb.org):** [pf-city-commission-agenda-_05_13_24.pdf](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2024-pass-fail-agendas/pf-city-commission-agenda-_05_13_24.pdf)
+
+Text extract below is for search and deep-linking. The official PDF is authoritative.
+
+---
+
+401 Clematis Street West Palm Beach, Florida 33401 (561) 822-2222 (TTY) 800-955-8771 www.wpb.org Mayor Keith A. James Commission President Cathleen Ward (District 1) Commissioner Shalonda Warren (District 2) Commissioner Christy Fox (District 3) Commissioner Joseph A. Peduzzi (District 4) Commissioner Christina Lambert (District 5)
+
+City Administrator Faye W. Johnson City Attorney Kimberly Rothenburg City Clerk Shaquita Edwards
+
+City of West Palm Beach City Commission PASS/FAIL Agenda Monday, May 13, 2024 5:00 PM In accordance with the provisions of the Americans with Disabilities Act (ADA), persons in need of a special accommodation to participate in this proceeding shall, within three days prior to any proceeding, contact the City Clerk's Office, 401 Clematis Street, West Palm Beach, FL 33401, (561) 822-1210.
+
+<a id="item-1"></a>
+## 1. CALL TO ORDER
+
+
+<a id="item-2"></a>
+## 2. MOMENT OF SILENCE
+
+
+<a id="item-3"></a>
+## 3. PLEDGE OF ALLEGIANCE
+
+
+<a id="item-4"></a>
+## 4. CIVILITY AND DECORUM
+
+The City of West Palm Beach is committed to civility and decorum by its officials, employees and members of the public who attend this meeting. The City Code, Secs. 2-31(8), 2-31(18) and 2-31(22), provides in pertinent part:
+- Officials shall be recognized by the Chair and shall not interrupt a speaker.
+- Public comment shall be addressed to the City Commission as a whole and not to any individual on the dais or in the audience.
+- Displays of anger, rudeness, ridicule, impatience, lack of respect and personal attacks are strictly prohibited.
+- Unauthorized remarks from the audience, stamping of feet, whistles, yells and similar demonstrations shall not be permitted.
+- Offenders may be removed from the meeting.
+- Any person desiring to address the Commission shall file a written request with the city clerk prior to consideration of the matter by the Commission or prior to the public comment portion of a meeting. The person wishing to speak shall complete a comment card for each agenda item the person wishes to address, which shall include the person's full name, address, and the numbered agenda item. The person will not be recognized if the comment card is not completed.
+
+
+City Commission - May 13 2024
+
+<a id="item-5"></a>
+## 5. ADDITIONS / DELETIONS / REORGANIZATION OF AGENDA-
+
+Item 7.1 was pulled from
+
+the consent agenda for discussion.
+
+<a id="item-6"></a>
+## 6. PROCLAMATION-
+
+Proclamations were presented.
+
+<a id="item-6-1"></a>
+### 6.1. Proclaiming May 2024 as: Mental Health Month #TakeAMentalHealthMoment. Proclamation to be accepted by Renee Govig, Chief Human Resources Officer; Mike Russell, Talent Development Officer; Chelsea McGee, Cigna Onsite Service Representative; Jewish Family Services Representatives Courtney Marx, Mental Health First Aid Director; and Tatiana Bastian, Mental Health First Aid Instructor.
+
+#### Originating Department
+
+Mayor's Office
+
+
+<a id="item-6-2"></a>
+### 6.2. Proclaiming May 19-25, 2024 as: National Public Works Week. The proclamation is to be accepted by Leon Pinder, Public Works Director; Amy Marks, Administrative Services Manager; Matthew Williams, Fleet Manager; Jonathan Algaranaz, Facilities Manager.
+
+#### Originating Department
+
+Mayor's Office
+
+
+<a id="item-7"></a>
+## 7. CONSENT
+
+CALENDAR-Item 7.1 was pulled for discussion. Items 7.2-7.7 were approved.
+
+All items listed under the consent calendar are considered routine and will be enacted by one motion. There will be no separate discussion of these items.
+
+<a id="item-7-1"></a>
+### 7.1. Resolution No. 87-24 an agreement among the City, the Community Redevelopment Agency (CRA), and 300 Banyan LLC regarding funding and construction of improvements along Banyan Boulevard on the north side to the 300 Banyan Boulevard office project.
+
+#### Originating Department
+
+Engineering
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 87-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH APPROVING AN AGREEMENT AMONG THE CITY OF WEST PALM BEACH, THE WEST PALM BEACH COMMUNITY REDEVELOPMENT AGENCY, AND 300 BANYAN LLC REGARDING FUNDING AND CONSTRUCTION OF CITY IMPROVEMENT IN THE 300 BLOCK OF BANYAN BOULEVARD; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+Last year, the City and the CRA completed the construction of Phase I improvements to Banyan Boulevard providing much-needed landscaping upgrades, a bike lane, and new lighting. Phase II of the Banyan Boulevard streetscape improvement was originally scheduled by the City
+
+
+City Commission - May 13 2024
+
+and the CRA for this year, but cost increases necessitated a reevaluation of the project, and Phase II will not start for the next six (6) months.
+
+The streetscape improvements delay will impact the completion of the streetscape and utility improvements originally scheduled adjacent to the new office building currently being completed at 300 Banyan Boulevard.
+
+To avoid a negative impact on the completion of the office building, staff is proposing an agreement with the project Developer (300 Banyan LLC) to allow the required utility improvements to be performed by the building contractor.
+
+If utility improvements are not completed now, the Developer will complete their code- required improvements, and the City will have to demolish those improvements when the streetscape project moves ahead in the near future.
+
+It is in the City's and the CRA's best interest to contract 300 Banyan LLC to make improvements for the City.
+
+The scope of work to be performed by 300 Banyan LLC on behalf of the City for a total amount of $407,135 includes utility work and asphalt paying and stripping.
+
+Companion Resolution No. 24-18 is being presented for approval by the
+
+#### WPB CRA.
+
+CRA District - Downtown / City Center District.
+The proposed project is located within Commission District 3:
+Commissioner Christy Fox.
+
+#### Fiscal Note
+
+Expenses will be charged 356.012445.559.500630.30375398.
+
+<a id="item-7-2"></a>
+### 7.2. to Account No. Resolution No. 79-24(F) authorizing the re-appropriation of City funds in the amount of $86,637 in Fiscal Year 2023/2024 to provide appropriations for the replacement of police vehicle technology equipment.
+
+#### Originating Department
+
+Police
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 79-24(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2023/2024 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM
+
+
+City Commission - May 13 2024
+
+#### BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE
+
+#### GENERAL FUND BUDGET TO PROVIDE APPROPRIATIONS FOR
+
+#### VEHICLE DATA SIGNAL ROUTERS; PROVIDING AN EFFECTIVE
+
+#### DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+The Police Department has contracted with Utility Associates Inc. to provide “RIOT” and “ROCKET” routers.
+
+The Police Department configures each marked police vehicle with the updated “RIOT” system that acts as a router for the technology-based systems within the vehicle.
+
+The system functions as an internet connection and WIFI hotspot that incorporates GPS location capability for the AVIL system and Computer Assisted Dispatching (CAD). The equipment requires a monthly cellular service fee. Installation of the system requires a wiring harness, antenna, and locker.
+
+In Fiscal Year 2023/2024, the Police Department is required to upgrade all remaining older model “ROCKET” devices that are end of life and will no longer be supported to the updated “RIOT” devices. In Fiscal Year 2023/2024, the Police Department will have to replace fifty (50) Utility “ROCKET” devices and replace them with updated Utility “RIOT” devices.
+
+Resolution No. 79-24(F) authorizes the movement of $86,637 in available funding from the Capital Outlay account to the Police Minor Equipment account as listed below:
+- From: Capital Outlay - 001-031200-521-500641 To: Police Minor Equipment - 001-031200-521-500560
+
+#### Fiscal Note
+
+Approval will re-appropriate existing automotive equipment budget for the purchase of vehicle data signal routers.
+
+<a id="item-7-3"></a>
+### 7.3. Resolution No. 102-24 authorizing the Mayor to execute a conditional release of code enforcement liens encumbered at 1009 9th Street, West Palm Beach, Florida.
+
+#### Originating Department
+
+Police
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 102-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING AND DIRECTING THE MAYOR TO EXECUTE A CONDITIONAL RELEASE OF CODE ENFORCEMENT LIENS ENCUMBERING CERTAIN REAL PROPERTY LOCATED AT 1009 9TH STREET, WEST PALM BEACH, FLORIDA; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+
+City Commission - May 13 2024
+
+#### Background Information
+
+IWAHO, LLC purchased the property located at 1009 9th Street, West Palm Beach, in April 2022. The prior owner incurred over $501,000 in code enforcement liens. Code enforcement violations, which continue at this property include: lack of safe and functional appliances; exterior paint issue; trash and debris; pest/rodent infestation; inoperative vehicles on the property; repair of fence/wall required; bare areas, which require landscaping, or approved plant material; sealing of parking lot; striping of parking lot; and items outdoors, which are improperly stored.
+
+Several liens are due to multiple repeat violation of the requirement for a rental license and certificate of use.
+
+The new owner plans to rehabilitate the property by obtaining all required permits within one (1) year from the approval date of this proposed conditional release. To effectuate the conditional release, IWAHO, LLC has agreed to pay a reduced administrative fine of $15,000 and has agreed to all proposed conditions to bring this property into compliance by repairing, replacing, and painting; bringing the property into a clean and sanitary condition; replacing appliances; repairing/replacing the fence/walls; installing/maintaining landscaping; sealing and striping the parking lot; removing improperly stored items; removing inoperative vehicles; obtaining all required permits; and, if the property is to be rented, first obtaining a rental license and certificate of use. The listed code enforcement lien will not be ultimately reduced unless all conditions in this conditional release are met in a timely manner.
+
+By bringing this property into compliance from a code enforcement and building code standpoint, this property owner aims to transform the property into one that enhances the neighborhood, increases the property value, and contributes to the safety of the neighborhood.
+
+#### Commission District
+
+3: Commissioner Christy Fox.
+
+#### Fiscal Note
+
+No fiscal impact.
+
+<a id="item-7-4"></a>
+### 7.4. Resolution No. 103-24 approving a Right-of-Way Improvement and Maintenance Agreement with Park Central WPB, LLC for the maintenance of the landscape improvements within the rights-of-way adjacent to the Park Central Residential Planned Development.
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 103-23: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA,
+
+
+City Commission - May 13 2024
+
+#### CONSENTING TO THE INSTALLATION OF IMPROVEMENTS WITH
+
+#### THE PUBLIC RIGHTS-OF-WAY ADJACENT TO 1919 DOCK STREET
+
+FOR THE PARK CENTRAL DEVELOPMENT; APPROVING A RIGHTOF-WAY ENCROACHMENT & MAINTENANCE AGREEMENT
+
+#### BETWEEN PARK CENTRAL WPB, LLC AND THE CITY OF WEST
+
+#### PALM BEACH FOR MAINTENANCE OF THE ENCROACHMENTS;
+
+#### PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+The City Commission of the City of West Palm Beach, Florida, is the governing body of the City and has plenary authority of the roads, alleys, and rights-of-way within the City street system. The City generally maintains the City rights-of-way platted or dedicated for public use.
+
+Park Central WPB, LLC (“Owner”) is developing a multi-family residential project (known as the Park Central Residential Planned Development) located generally on the north side of Dock Street, between Parker Avenue and Flamingo Drive (the “Project”). The Project features elements, including specialized landscaping, trees, and irrigation system (“Improvements”) to be installed within the public rights-of-way adjacent to the Project, along Dock Street, Flamingo Drive, and Parker Avenue in accordance with the applicable plans approved by the City.
+
+The Owner agrees to assume all maintenance obligations for the Improvements for the Project installed in the right-of way.
+
+Resolution No. 103-24 approves the Right-of-Way Improvement & Maintenance Agreement with Park Central WPB, LLC, setting forth the responsibilities of each party with respect to the encroachments and maintenance of the improvements.
+
+#### Commission District
+
+5: Commissioner Christina Lambert.
+
+
+<a id="item-7-5"></a>
+### 7.5. Resolution No. 106-24 approving a Right-of-Way Improvement and Maintenance Agreement with WPB 303 BANYAN APARTMENTS, LLC for the maintenance of the landscape improvements within the rights-ofway adjacent to the Anya Apartments residential development.
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 106-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, CONSENTING TO THE INSTALLATION OF LANDSCAPE, STREETSCAPE, AND HARDSCAPE IMPROVEMENTS WITHIN THE PUBLIC RIGHTS-OF-WAY ADJACENT TO 345 BANYAN BOULEVARD AS PART OF THE ANYA APARTMENTS RESIDENTIAL DEVELOPMENT; APPROVING A RIGHT-OF-WAY MAINTENANCE
+
+
+City Commission - May 13 2024
+
+#### AGREEMENT BETWEEN WPB 303 BANYAN APARTMENTS, LLC AND
+
+#### THE CITY OF WEST PALM BEACH FOR THE MAINTENANCE OF SAID
+
+#### IMPROVEMENTS; PROVIDING AN EFFECTIVE DATE; AND FOR
+
+#### OTHER PURPOSES.
+
+#### Background Information
+
+The City Commission of the City of West Palm Beach, Florida, is the governing body of the City and has plenary authority over the roads, alleys, and rights-of-way within the City street system. The City generally maintains the City rights-of-way platted or dedicated for public use.
+
+WPB 303 BANYAN APARTMENTS, LLC (“Owner”) has developed a multi-family residential project (known as the Anya Apartments) located generally on the north side of Banyan Boulevard, between N. Dixie Highway and N. Olive Avenue (the “Project”). The Project features various streetscape, hardscape, and landscaping elements, including specialized vegetation, lighting, decorative features, trees, and irrigation system (“Improvements”) to be installed within the public rights-of-way adjacent to the Project along Banyan Boulevard and N. Dixie Highway in accordance with the applicable plans approved by the City.
+
+The Owner agrees to assume all maintenance obligations for the Improvements for the Project installed in the right-of-way.
+
+Resolution No. 106-24 approves the Right-of-Way Improvement & Maintenance Agreement with WPB 303 BANYAN APARTMENTS, LLC, setting forth the responsibilities of each party concerning the maintenance of the improvements.
+
+#### Commission District
+
+3: Commissioner Christy Fox.
+
+
+<a id="item-7-6"></a>
+### 7.6. Resolution No. 109-24(F) authorizes amending the General Fund and various other fund budgets for changes in revenues and expenditures for Fiscal Year 2023-2024 ending September 30, 2024.
+
+#### Originating Department
+
+Housing and Community Development
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 109-24(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2023/2024 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA FOR THE RE-APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2023-2024 FOR THE PURPOSE OF AMENDING THE GENERAL FUND AND VARIOUS OTHER FUNDS BUDGETS TO PROVIDE FOR APPROPRIATIONS FOR CHANGES IN REVENUES AND EXPENDITURES, AND TO FINALIZE THE REPage 7 of 44
+
+
+City Commission - May 13 2024
+
+#### ESTABLISHMENT OF THE REAL ESTATE MANAGEMENT FUND;
+
+#### PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+The Housing and Community Development Department has undertaken a review and reconciliation of its grant funds, resulting in the identification of actions needed to clean up its records. This agenda item outlines the measures required to align funding with program objectives. This is a housekeeping measure, with no new funding being appropriated or any changes to existing projects.
+
+Resolution No. 109-24(F) recognizes the re-appropriation of funds, transfer from Reserves For Future Projects, and re-establishment of the
+Real Estate Management Fund for the following:
+CDBG Fund and Grant Capital Project Fund: $449,586 $449,586 re-appropriation is required, so that funds can be fully expended and drawn/reimbursed from HUD.
+
+HOME Fund: $122,062 $122,062 re-appropriation is required so that funds can be fully expended and drawn/reimbursed from HUD.
+
+#### HOME-ARP: $0
+
+$0 reclassification of grant admin to professional services.
+
+HOPWA Fund: $420,817 $420,817 re-appropriation is required so that funds can be fully expended and drawn/reimbursed from HUD.
+
+HOPWA-CV Fund: $2,147 $2,147 re-appropriation is required so that funds can be fully expended and drawn/reimbursed from HUD.
+
+Housing Trust Fund: $1,000,000 $1,000,000 transfer from Reserves For Future Projects to fund a predevelopment grant agreement for the construction of affordable rental housing development (Resolution No. 25-24) and other upcoming projects.
+
+General Fund and Real Estate Management Fund: $1,078,537 $1,078,537 transfer from General Fund to re-establish the Real Estate Management Fund for the repairs and maintenance of Cityowned properties and to add HOME-ARP grant administrative allocation for salaries and benefits.
+
+#### Fiscal Note
+
+
+City Commission - May 13 2024
+
+Approval authorizes the amendment of the General Fund and various other funds providing updated alignment and records for various City grants and programs.
+
+<a id="item-7-7"></a>
+### 7.7. Resolution No. 93-24 authorizing the execution of an Interlocal Agreement between Palm Beach County and the City of West Palm Beach providing for certain traffic control authority within the City of West Palm Beach by Palm Beach County.
+
+#### Originating Department
+
+Engineering
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 93-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING AN INTERLOCAL AGREEMENT BETWEEN THE CITY OF WEST PALM BEACH AND PALM BEACH COUNTY PROVIDING TRAFFIC CONTROL AUTHORITY; PROVIDING FOR AN EFFECTIVE DATE; AND OTHER PURPOSES.
+
+#### Background Information
+
+Section 163.01, Florida Statutes, known as the “Florida Interlocal Cooperation Act of 1969,” authorizes local governments to make the most efficient use of their powers by enabling them to cooperate with other localities on a basis of mutual advantage and thereby to provide services and facilities that will harmonize geographic, economic, population, and other factors influencing the needs and development of local communities. Section 316.006(2)(a), Florida Statutes, as amended, vests municipalities with traffic control jurisdiction over all streets and highways located within their boundaries, except state roads.
+
+Section 316.006(2)(c), Florida Statutes, as amended, provides that the City may, by interlocal agreement with the County, agree to transfer traffic regulatory authority over areas within the City to the County.
+
+On July 9, 1985, the County and the City entered into an interlocal agreement (R85-1067) (“1985 Traffic Control Agreement“) wherein the City transferred certain traffic control functions and duties to the County over certain roads, flashers, school zone flashers, signalized intersections, and traffic signal cabinets.
+
+The City has expanded its boundaries, and its authority currently extends over certain County roadways that are not covered by the 1985 Traffic Control Agreement.
+
+The City agrees to transfer, and the County agrees to accept authority over all County-maintained roads within the City’s municipal boundaries, as may be amended.
+
+The City also agrees to transfer, and the County agrees to accept certain
+
+
+City Commission - May 13 2024
+
+maintenance and operations responsibilities over certain existing traffic control devices and certain new traffic signals on City maintained road right-of-ways. The costs for installation and maintenance of traffic control devices at intersections of City and County roads will be shared by the City and County. The installation and maintenance of all other traffic control devices will be performed by the County at the City’s expense.
+
+The City will need to obtain the County’s approval of the City’s desire to paint or wrap any traffic control devices.
+
+Resolution No. 93-24 approves the 2024 Traffic Control Interlocal Agreement with Palm Beach County, which will replace the 1985 Traffic Control Agreement.
+
+#### Fiscal Note
+
+No fiscal Impact.
+
+<a id="item-8"></a>
+## 8. RESOLUTIONS-
+
+Items 7.1 and 8.1-8.4 were approved.
+
+<a id="item-8-1"></a>
+### 8.1. Resolution No. 110-24 approving an agreement with the Bloomberg Philanthropies’ Youth Climate Action Fund providing $50,000 to distribute as microgrants to fund a groundswell of youth-led climate initiatives; and Resolution No. 111-24(F) providing for the receipt and appropriation of Fifty Thousand Dollars ($50,000) in grant funding.
+
+#### Originating Department
+
+Mayor's Office
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 110-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, ACCEPTING A GRANT FROM THE ROCKEFELLER PHILANTHROPY ADVISORS YOUTH CLIMATE ACTION FUND IN THE AMOUNT OF $50,000 TO DISTRIBUTE AS MICROGRANTS TO FUND YOUTH-LED CLIMATE INITIATIVES; AUTHORIZING EXECUTION OF RELATED AGREEMENTS AND DOCUMENTS; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+> RESOLUTION NO. 111-24(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2023/2024 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE DONATION FUND BUDGET TO RECOGNIZE THE RECEIPT OF FUNDS IN THE AMOUNT OF $50,000 FROM THE BLOOMBERG PHILANTHROPIES YOUTH CLIMATE ACTION FUND FOR THE IMPLEMENTATION OF A YOUTH CLIMATE ACTION FUND PROGRAM
+
+
+City Commission - May 13 2024
+
+#### TO DISTRIBUTE AS MICROGRANTS TO FUND A GROUNDSWELL OF
+
+#### YOUTH-LED CLIMATE INITIATIVES; PROVIDING AN EFFECTIVE
+
+#### DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Resolution No. 110-24 and Resolution No. 111-24(F).
+
+#### Background Information
+
+West Palm Beach is proud to be selected as one of the 100 cities nationwide that will receive funding and technical assistance to spur a groundswell of youth-driven climate action.
+
+With 84% of youth around the world reporting that they are worried climate change threatens people and the planet, Mayor Keith James is committed to this cause and signed a pledge that the City of West Palm Beach will join Bloomberg Philanthropies’ new Youth Climate Action Fund, which will provide technical assistance and funding for 100 mayors to activate tens of thousands of young people ages 15-24 years to design, produce, and govern urgent climate solutions in cities across the globe. West Palm Beach joins the Fund alongside other cities worldwide, which spans 38 countries across six (6) continents, representing over 62 million residents.
+
+As part of this program, the City will receive $50,000 to distribute as micro-grants to fund a groundswell of youth-led climate initiatives. From mobilizing tree-planting or public education campaigns, to launching recycling or waste reduction initiatives, to participating in mitigation planning or preparedness programs, efforts stemming from the new Youth Climate Action Fund will advance critical community goals such as meeting decarbonization commitments or reducing consumption-based emissions.
+
+Grant funds will help our City partner with youth as co-designers, cocreators, and co-governors of climate-focused projects, beyond simply getting feedback from youth on City-proposed climate projects.
+
+As part of the Youth Climate Action Fund, Mayor Keith James has launched an open call for applications for funding request for new and ambitious climate efforts led by young people.
+
+On February 26, 2024, the Mayor signed the Bloomberg Philanthropies Youth Climate Action Fund Mayor’s Pledge, and our grant application was submitted.
+
+On March 15, 2024, our City was notified that the Bloomberg Philanthropies Youth Climate Action Fund has accepted our City application for funding and has awarded the City an initial $50,000 to support youth community projects that address climate change
+
+
+City Commission - May 13 2024
+
+challenges in the City. Additionally, cities that respond to the urgency of the moment and commit the initial $50,000 within six (6) months will receive an additional $100,000 to support more youth-driven projects over the course of one (1) year.
+
+By accepting the grant funds, the City commits to the values and principles to administer this youth-led climate action program in a way that is consistent with our City’s climate plan.
+
+The initial implementation funding will provide $50,000 to be disbursed in increments between $1,000 and $5,000 to selected qualified youth group applicants.
+
+April 10, 2024, was the official program announcement and the city expects to disburse donations after reviewing and approving qualified applications. All grant funds are expected to be disbursed no later than September 30, 2024.
+
+Resolution No. 110-24 accepts the grant and approves the grant agreement.
+
+Resolution No. 111-24(F) approves Budget appropriations.
+
+#### Fiscal Note
+
+No fiscal impact. The donation is in the form of a grant.
+
+<a id="item-8-2"></a>
+### 8.2. Resolution No. 112-24 authorizing installation of a State of Florida Historical marker at 501 21st Street at the Pleasant City Community Center designating Pleasant City as historical.
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 112-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING THE INSTALLATION OF A FLORIDA HISTORICAL MARKER FOR THE PLEASANT CITY HISTORIC DISTRICT ON CITYOWNED PROPERTY; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Resolution No. 112-24.
+
+#### Background Information
+
+The Comprehensive Plan for the City of West Palm Beach, Historic Preservation Element Policies, provide that the City will protect and promote its historic assets.
+
+
+City Commission - May 13 2024
+
+The Florida Historical Marker Program is one of the State of Florida Division of Historical Resources' most popular and visible history programs. It is designed to raise public awareness of Florida's rich cultural history and enhance the enjoyment of our historic sites by citizens and tourists.
+
+Pleasant City is the oldest African-American community in West Palm Beach. It is a 27-block area bordered on the north by 23rd Street, on the south by 15th Street, on the east by Dixie Highway, and the west by the Florida East Coast Railway.
+
+In 1993, the Pleasant City Family Reunion Committee was established and founded by Everee Jimerson Clarke to sponsor the Pleasant City Community Reunion in conjunction with the West Palm Beach Centennial Celebration in 1994.
+
+The Pleasant City Family Reunion Committee desires to apply to the Florida Historical Marker Program for funding to create of a Florida Historical Marker for the Pleasant City Historical District. They desire that the Historical Marker be installed on City-owned property at 501 21st Street, at the Pleasant City Community Center, and seek the City Commission's approval to install of the Historical Marker at this location.
+
+The funding for the Historical Marker will be funded through the Florida Historical Marker Program.
+
+The City will be responsible for any maintenance required for the Historical Marker.
+
+Section 66-13 of the City of West Palm Beach Code of Ordinances requires City Commission approval of design features for above-ground changes involving streets, parks, buildings, or landscaping, referred to as the "Face of the City".
+
+The Historical Marker will be the State of Florida's standard design.
+
+#### Commission District
+
+1: Commissioner Cathleen Ward.
+
+#### Fiscal Note
+
+No fiscal impact.
+
+<a id="item-8-3"></a>
+### 8.3. Resolution No. 116-24 authorizing the submittal of an application to the U. S. Department of Transportation Federal Railroad Administration under the FY23 - FY24 Consolidated Rail Infrastructure and Safety Improvements (CRISI) program for the WPB Rail S.A.F.E. (Safety And Functionality for Everyone) project for the amount of $14,450,000; and Resolution No. 118-24 authorizing the submittal of an application to U. S. Department of Transportation Federal Highway Administration FY 2023 City Commission - May 13 2024 Active Transportation Infrastructure Investment Program (ATIIP) for the WPB Rail S.A.F.E. (Safety And Functionality for Everyone) project for the amount of $11,184,932.
+
+#### Originating Department
+
+Engineering
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 116-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA AUTHORIZING THE SUBMITTAL OF AN APPLICATION TO THE U. S. DEPARTMENT OF TRANSPORTATION FEDERAL RAILROAD ADMINISTRATION UNDER THE FY23 - FY24 CONSOLIDATED RAIL INFRASTRUCTURE AND SAFETY IMPROVEMENTS (CRISI) PROGRAM FOR THE WPB RAIL S.A.F.E. (SAFETY AND FUNCTIONALITY FOR EVERYONE) PROJECT FOR THE AMOUNT OF $14,450,000; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+> RESOLUTION NO. 118-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE SUBMITTAL OF AN APPLICATION TO U. S. DEPARTMENT OF TRANSPORTATION FEDERAL HIGHWAY ADMINISTRATION FY 2023 ACTIVE TRANSPORTATION INFRASTRUCTURE INVESTMENT PROGRAM (ATIIP) FOR THE WPB RAIL S.A.F.E. (SAFETY AND FUNCTIONALITY FOR EVERYONE) PROJECT FOR THE AMOUNT OF $11,184,932; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Resolution No. 116-24 and Resolution No. 118-24.
+
+#### Background Information
+
+The City of West Palm Beach is planning a single large project with four (4) components known as the WPB Rail S.A.F.E. project. The City intends to seek grant funding from the FY2024 - FY2025 Consolidated Rail Infrastructure and Safety Improvements (CRISI) Program administered by the U. S. Department of Transportation Federal Railroad Administration (FRA) and the Active Transportation Infrastructure Investment Program (ATIIP) administered by the DOT Federal Highway Administration (FHWA). This funding will be allocated for the following four (4) projects: Division Avenue Crossing Elimination, 25th Court Crossing Elimination, Old Okeechobee Intersection Improvements (Partial Crossing Elimination), and Fern Street Extension. The primary goals of the project are to enhance rail network efficiency, improve connectivity within the City's transportation system, and enhance safety for pedestrians, cyclists, motorists, and micro mobility users in and around railroad areas. These efforts are in line with the City's "Complete Streets" initiative, which aims to cater to the diverse needs of different users.
+
+
+City Commission - May 13 2024
+
+The scope of work includes:
+1. Division Avenue Crossing Elimination: The project is located at the SFRC track (26.736729427129266, -80.05978529635246) and Division Avenue between 25th Street and 27th Street in the City of West Palm Beach, Florida. The project includes the design, programming, shop wiring, and installation of a Crossing Warning System, as well as testing and updates related to PTC systems. It also involves tasks such as crossing surface/resurfacing, track grade and rehabilitation, railroad engineering, preliminary engineering, agreements and approvals, construction engineering, construction engineering inspection, AC power service, and hiring a railroad flagger for a specified duration. 2. 25th Court Crossing Elimination: The project is located at the SFRC track (26.736748371160356, -80.0619977760749) and 25th Court between 25th Street and Windsor Avenue in the City of West Palm Beach, Florida.
+
+The project includes the design, programming, shop wiring, and installation of a Crossing Warning System, as well as testing and updates related to PTC systems. It also involves tasks such as crossing surface/resurfacing, track grade and rehabilitation, railroad engineering, preliminary engineering, agreements and approvals, construction engineering, construction engineering inspection, AC power service, and hiring a railroad flagger for a specified duration. 3. Old Okeechobee Intersection Improvements (Partial Crossing
+Elimination):
+The project is located at the SFRC track (26.704615651154015, -80.06184485257039) at Old Okeechobee Boulevard and Parker Avenue in the City of West Palm Beach, Florida. The project scope will involve the elimination of the Southbound slip lane onto Old Okeechobee and realigning the intersection with a new traffic signal. 4. Fern Street Extension: The project is located at the SRFC track on Fern Street between Clearwater Drive and Tamarind Avenue in downtown West Palm Beach. The Fern Street Crossing project, which includes a new at-grade crossing, traffic signalization improvements, separated bike lanes, pedestrian crosswalks, and landscaping. This project aligns with the City's commitment to provide multimodal connectivity and ADA accessibility, while also improving safety by addressing trespassing concerns and enhancing transit access to essential destinations like the Dreyfoos School of the Arts and transit stations. Key features of the project include the installation of a new traffic signal, creation of protected bike lanes, and enhancements to pedestrian crossings and lighting. This project will connect the multi-use trail linking Australian Avenue, Clear Lake Trail, and Flagler Trail. SFRTA is
+
+
+City Commission - May 13 2024
+
+currently designing track and rail signalization for construction in FY25.
+
+This project is identified on the City of West Palm Beach Capital Improvement Projects (CIP) list, the City’s Bicycle Master Plan, the City’s Okeechobee Corridor Study, the City’s Rail Safety Plan, as well as the Palm Beach County Transportation Planning Agency (TPA) 2045 Long Range Transportation Plan. The project will be constructed completely within the right-of-way of the City of West Palm Beach. This project will enhance safety, accessibility, and connectivity for all modes of transportation.
+
+To supplement the City’s budget for planning and design, staff is pursuing two (2) grants in the FY2024- FY2025 Notice of Funding Opportunity (NOFO): 1. Consolidated Rail Infrastructure and Safety Improvements (CRISI) Program: Eligible projects including deployment of railroad safety technology, capital projects for intercity passenger rail service, highway-rail grade crossing improvements, and more.
+
+Eligible recipients for the funding include: states, groups of states, interstate compacts, public agencies, Amtrak, rail carriers, federally recognized Indian tribes, and other entities involved in rail-related activities. 2. Active Transportation Infrastructure Investment Program (ATIIP): The ATIIP program aims to enhance active transportation networks and communities by improving safety, efficiency, and reliability, connecting active transportation modes with public transportation, enhancing infrastructure resiliency, and improving quality of life in disadvantaged communities. The grants will help communities address barriers to pedestrian and bicycle network connectivity, create plans for active transportation networks, and integrate active transportation facilities with transit services.
+
+The project design began in March 2024 where the City has entered into a Project Funding Agreement with SFRTA for the design of railroad tracks and railroad signalization and the Stipulation of Parties between the City, the South Florida Regional Transportation Authority (SFRTA), and the Florida Department of Transportation (FDOT) for the railroad crossing closures at Division Avenue and 25th Court and the partial closure of the railroad crossing at Old Okeechobee Road.
+On March 4, 2024, the City of West Palm Beach approved:
+- Resolution No. 19-24 approving the Stipulation of Parties between the City, the South Florida Regional Transportation Authority (SFRTA) and the Florida Department of Transportation
+
+
+City Commission - May 13 2024
+
+(FDOT) for the railroad crossing closures at Division Avenue and 25th Court and the partial closure of the railroad crossing at Old Okeechobee Road;
+- Resolution No. 22-24 approving the Project Funding Agreement among the City, SFRTA, and FDOT for the cost reimbursement by the City to SFRTA for the design work associated with the crossing closures and the new crossing at Fern Street;
+
+- Resolution No. 59-24 approving an Interlocal Funding Agreement between the West Palm Beach Community Redevelopment Agency and the City of West Palm Beach regarding funding in the amount of $300,000 to cover design costs for the Fern Street Railway Crossing; and
+
+- Resolution No. 60-24(F) authorizing the appropriation or transfer of City funds in FY 2023/2024 in accordance with Section 4.03 of the City Charter of the City of West Palm Beach, Florida, for the purpose of amending the capital acquisition fund budget to provide appropriates for the design of the Fern Street railroad crossing.
+
+The project schedule is detailed, as follows:
+Fern Street Extension Roadway Design Old Okeechobee Intersection Improvements (Partial Crossing Elimination) Division Avenue and 25th Court Crossing Elimination RR Track/Signal Design Fern Street Extension Rights of Way Acquisition Division Avenue and 25th Court Crossing Elimination RR Track/Signal Construction Fern Street Extension Road Construction Fern Street Extension Construction Engineering Inspection (CEI)
+
+#### FY2025 - FY2026 FY2024 - FY2025 FY2025 FY2025- FY2026 FY2026 - FY2028 FY2026-2028
+
+
+The WPB Rail S.A.F.E. project budget, funding, and grant appropriations are as follows:
+- FY 2025 City Match for CRISI grant: $3,612,500 FY 2025 City Match for ATIIP grant: $2,796,233
+
+FY2025 - Appropriations Federal CRISI Fern Street Extension FY2025 - Appropriations Federal CRISI Old Okeechobee Old Okeechobee Intersection Improvements (Partial Crossing Elimination) F2025 - Appropriations Federal CRISI Track Work FY2025 - Federal - ATIIP Discretionary Grant
+
+#### TOTAL FUNDING FROM GRANTS
+
+
+$7,000,000 $5,000,000 $2,450,000 $11,184,932 $25,634,932
+
+
+City Commission - May 13 2024
+
+Resolution No 116-24 authorizes the City to submit the application for the CRISI grant, and Resolution No. 118-24 authorizes the City to submit the ATIIP grant.
+
+This project is located in Commission District 1: Commissioner Cathleen Ward and Commission District 3: Commissioner Christy Fox.
+
+#### Fiscal Note
+
+The CRISI grant will fund $14,450,000; and the ATIIP grant will fund $11,184,932.
+
+The City's match from the CRA and the sales tax program will fund $3,612,500 towards the CRISI Grant and $2,796,233.
+
+<a id="item-8-4"></a>
+### 8.4. Resolution No. 117-24 establishing the goal of zero fatalities in the West Palm Beach Rail environment and at rail crossings and adopting ‘Rail S.A.F.E. (Safety And Functionality for Everyone)’ as the policy for rail safety for the City of West Palm Beach.
+
+#### Originating Department
+
+Engineering
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 117-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, ESTABLISHING THE GOAL OF ZERO FATALITIES IN THE WEST PALM BEACH RAIL ENVIRONMENT AND AT RAIL CROSSINGS; ADOPTING ‘RAIL S.A.F.E.’ AS THE POLICY FOR RAIL SAFETY FOR THE CITY OF WEST PALM BEACH; PROVIDING FOR AN EFFECTIVE DATE; AND FOR OTHER PURPOSES
+
+#### Staff Recommended Motion
+
+Approve Resolution No. 117-24.
+
+#### Background Information
+
+The City of West Palm Beach has prioritized rail safety. The historic growth of the City and population boom coupled with the 2018 expansion of Brightline high-speed rail into West Palm Beach have brought renewed public interest in rail transit and concerns about safety. The City of West Palm Beach desires to take the bold step to codify its rail safety commitment, following the implementation of a series of existing and past rail safety measures.
+
+West Palm Beach's rail safety journey began with the U. S. Department of Transportation Trespass Prevention Research Study to implement a community-based trespass prevention approach in July 2014. The purpose of this demonstration was to show the potential benefits of, document the lessons learned from, and provide recommendations for implementation and evaluation of trespass prevention strategies following
+
+
+City Commission - May 13 2024
+
+the CARE community-based approach developed by the Federal Railroad Administration (FRA) and Transport Canada.
+
+The City of West Palm Beach launched a sweeping rail safety public information and education campaign, the first of its kind in the state, which was recognized by Brightline as a model for municipalities in 2018.
+
+The City has continued public information and public engagement efforts to share the risks of railway trespassing and public safety, holding public workshops and creating rail safety programming for children, neighborhoods, and the general public. Upon the expansion of Brightline Rail in West Palm Beach, the City implemented a 'See Tracks. Think Train' campaign, a public information and education effort designed to minimize risks around train tracks in the downtown in 2018. In December 2022, the City launched a 12-Days of Rail Safety campaign, to highlight key safety initiatives and information.
+
+In January 2023, a Safe Systems Approach Technical Memorandum for Rail Safety was prepared, which established a rail-safety framework for necessary rail system improvements. The commitment required a dedicated system of improvements to enhance and encourage rail operations in a safe and effective manner. The memo itemized several key programs, including: corridor planning for openings and closings, identification of potential crossings to support trespassing mitigation not at intersections, and safety programming including partnering with operators and the public.
+
+In November 2023, the City affirmed the Brightline/FEC Railway South Quiet Zone and established the Brightline/FEC Railway North Quiet Zone.
+
+The quiet zones were established to improve safety and quality of life.
+
+In December 2023, a Comprehensive Rail Safety Audit was undertaken by the City of each rail crossing within City limits. The audit explored a wide range of safety issues including, but not limited to, sidewalk connectivity, fencing, safety gates and more. The detailed report resulting from the audit listed rail crossings where improvements are recommended or needed.
+
+In March 2024, the City Commission approved a Stipulation of Parties between the South Florida Regional Transportation Authority for rail crossing closure.
+
+Now, the City desires to formally adopt a rail safety policy. The "City of West Palm Beach Rail S.A.F.E.” resolution, formally codifies the City’s rail safety policy, providing a directive to eliminate deaths and reduce serious injuries resulting from trespassing in railroad rights-of-way or crashes between trains and motorists, bicyclists and pedestrians through a combination of engineering, education, enforcement measures, and community planning. This rail safety policy will complement the City’s
+
+
+City Commission - May 13 2024
+
+Vision Zero policy, which focuses on road safety, with both policies holistically working together to minimize risks and promote the functionality of the City’s and region’s transportation network. The West Palm Beach Rail S.A.F.E. Policy is believed to be the first of its kind in Palm Beach County and, perhaps, the nation.
+
+Resolution No 117-24 establishes the goal of zero fatalities in the West Palm Beach Rail environment and at rail crossings and adopts ‘Rail S.A.F.E. (Safety And Functionality for Everyone)’ as the policy for rail safety for the City of West Palm Beach.
+
+#### Commission District
+
+1: Commissioner Cathleen Ward.
+
+#### Commission District
+
+3: Commissioner Christy Fox.
+
+#### Commission District
+
+5: Commissioner Christina Lambert.
+
+#### Fiscal Note
+
+No fiscal impact.
+
+<a id="item-9"></a>
+## 9. PUBLIC HEARING- ALL ITEMS WERE APPROVED.
+
+<a id="item-9-1"></a>
+### 9.1. Public Hearing and Second Reading of Ordinance No. 5095-24 relating to the change of boundaries of the CityPlace Community Development District (District). The above-referenced requests are being made by the Board of Supervisors of CityPlace Community Development District . The District is approximately 25 acres and is located within the CityPlace Commercial Planned Development.
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> ORDINANCE NO. 5095-24: AN ORDINANCE OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, RELATING TO THE CHANGE OF BOUNDARIES OF THE CITYPLACE CDD; CHANGING THE BOUNDARIES OF THE DISTRICT; DESCRIBING THE REVISED BOUNDARIES OF THE DISTRICT; PROVIDING FOR AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Ordinance No. 5095-24.
+
+#### Background Information
+
+The Downtown Uptown Community Development District (District) was created by the City of West Palm Beach, pursuant to Chapter 190, Florida Statutes, by Ordinance No. 2380-90 on March 26, 1990. A petition to
+
+
+City Commission - May 13 2024
+
+amend the boundaries of the District in 2001 was approved by the City through the adoption of Ordinance No. 3396-01.
+
+The Board of the District is requesting to change the boundaries of the District to exclude parcels that have been developed for residential uses.
+
+The property to be excluded from the District consists of residential and commercial uses, and this request only excludes the residential uses located within the mixed-use building. Exclusion of this property will ensure that the residential landowners will not be assessed for the commercial facilities and services provided by the District.
+
+#### Commission District
+
+3: Commissioner Christy Fox.
+
+
+<a id="item-9-2"></a>
+### 9.2. Public Hearing and Second Reading of Ordinance No. 5098-24 amending and restating the Code of Ordinances of the City of West Palm Beach at Chapter 58 "Parks and Recreational Facilities and amending Chapter 78 "Streets, Sidewalks and Public Places" Article XVI "Public Places" in Sections 78-466 and 78-467.
+
+#### Originating Department
+
+Parks and Recreation
+
+#### Ordinance/Resolution
+
+
+> ORDINANCE NO. 5098-24: AN ORDINANCE OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AMENDING THE CODE OF ORDINANCES OF THE CITY OF WEST PALM BEACH, FLORIDA, AT CHAPTER 26, ARTICLE III “CITATION PROCEDURE”, SECTION 26-66, TO ADD CHAPTER 58, ARTICLE III TO THE LIST OF CHAPTERS ENFORCEABLE BY CITATION; AMENDING CHAPTER 58 “PARKS AND RECREATIONAL FACILITIES”, ARTICLE III “CONDUCT IN PARKS AND RECREATIONAL FACILITIES”, BY AMENDING, RESTATING AND ADDING SECTIONS 58-81 THROUGH 58-91; AMENDING THE CODE OF ORDINANCES OF THE CITY OF WEST PALM BEACH, FLORIDA, AT CHAPTER 78 “STREETS, SIDEWALKS AND PUBLIC PLACES”, ARTICLE XVI “PUBLIC PLACES”, BY AMENDING SECTIONS 78-466 AND 78-467; PROVIDING FOR CODIFICATION; PROVIDING FOR SEVERABILITY; PROVIDING FOR CONFLICTS; AND PROVIDING FOR AN EFFECTIVE DATE.
+
+#### Staff Recommended Motion
+
+Approve Ordinance No. 5098-24 on Second Reading.
+
+#### Background Information
+
+During the Mayor/Commission Work Session held on March 11, 2024, staff presented proposed revisions for City Ordinance Chapter 58 - Parks and Recreation Facilities and Chapter 78 - Streets, Sidewalks and Public Places.
+
+At the City Commission meeting held on April 15, 2024, the Public
+
+
+City Commission - May 13 2024
+
+Hearing and First Reading of Ordinance No. 5098-24 was presented and approved by the City Commission. No changes were made.
+
+Sections 58-81 through 58-91 proposed revisions restate ordinances to provide a more user-friendly format, remove ordinances due to redundancy, and propose new ordinances.
+
+Section 58-81. Conduct in Parks, Recreational Areas, and Public Property Below are proposed additions of prohibited activities based on trends and issues currently occurring in parks and public spaces. (a) Prohibited activities.
+- Beaching a dinghy or other vessels in an area not designated for vessels.
+
+- Using city water or city electricity when not authorized to do so.
+
+- Tampering with or destroying a fire department connection or fire control equipment such as extinguishers.
+
+- Hanging or otherwise placing laundry or any other items from trees, signs or on other public property.
+
+- Anchoring or mooring in an underwater lease area.
+
+- Drones in parks and recreation areas.
+
+- Leaving a vessel, dinghy, kayak, paddleboard, or other form of water transportation unattended in a park.
+
+- Chaining or locking of personal property to trees, seawall, poles, signs, fences, or other structures is prohibited, except in designated areas.
+
+(c) Bicycles (including electric), golf carts, motorcycles and ATV’s.
+
+These regulations originally only addressed bicycles but now include electric bicycles, golf carts, motorcycles, and ATVs. (e) Playgrounds and Splash Pads.
+
+No person 18 years or older shall enter or remain in a designated playground or splash pad area unless that person is supervising or accompanying a child.
+
+
+City Commission - May 13 2024
+
+For prohibited activities, a definition of “public parks”, “recreation areas”, and “public property”, as set forth in Section 94-611 of the Code for “public place” has been provided so all ordinances which apply to parks shall now be enforceable on public property. This would include areas like the Waterfront Great Lawn and others not specified as parks.
+
+Section 58-82. City Docks These regulations are not currently codified. By adding, they will provide a tool for the Police Department, Code Enforcement, and Parks and Recreation staff to protect the safety of the public and the integrity of the docks.
+- No vessel shall remain tied to a loading zone in excess of 15 minutes.
+
+- Unattended vessels, dingy, or other watercraft at city docks or boat ramps may be removed and disposed of pursuant to city policy and federal, state, and local law.
+
+- Chaining or otherwise locking bicycles, carts, or scooters anywhere on a city dock is prohibited and such items shall be disposed of pursuant to city policy and federal, state and local law.
+
+- Use of city water or city electric at city docks is prohibited.
+
+- City docks are open from dawn to dusk and closed from dusk to dawn, unless there is signage indicating otherwise.
+
+NOTE: Ordinance 78-466. – Regulations of conduct in public places, currently states City docks are open from 5:00 a.m. – 12:00 a.m. Staff are proposing as stated above: City docks are open from dawn to dusk and closed dusk to dawn unless there is signage indicating otherwise.
+
+This will allow the city to set dock hours based on appropriate operational conditions. The Police and Parks and Recreation Departments are recommending 7 a.m. – 11:00 p.m.
+
+Section 58-84. Commercial Use The proposed regulation would assist staff with enforcement.
+
+No person shall operate a commercial business in a park, recreational area, city dock or on public property without a permit from the city parks and recreation department. This prohibition shall include the commercial offering of dog training, pickleball, tennis or any other sport or physical activity.
+
+
+City Commission - May 13 2024
+
+Section 58-91. Enforcement This language was restated and clarified the method of enforcement and penalties. (a)
+
+Generally. This Chapter shall be enforced as set forth in City Code Section 1-13; Chapter 26, Code Enforcement, of this Code; Florida Statutes, Section 810.09; and Chapters 162 and 166 of the Florida Statutes.
+
+(b)
+
+Ejectment. The director of parks and recreation, park attendant, parks and recreation department personnel, or any law enforcement officer of the city shall have the authority to eject from a park or public property any person acting in violation of this article and is an authorized person pursuant to F.S. § 810.09, to ask an owner, operator, or occupant of a boat in violation of the city code to leave city property.
+
+#### Fiscal Note
+
+No fiscal impact.
+
+<a id="item-9-3"></a>
+### 9.3. Public Hearing and Second Reading of Ordinance No. 5100-24 authorizing the execution of a Lease Agreement between the City of West Palm Beach and the Boys and Girls Clubs of Palm Beach County, Inc. for the Florence De Georges Boys and Girls Club located at 4105 Pinewood Avenue.
+
+#### Originating Department
+
+Parks and Recreation
+
+#### Ordinance/Resolution
+
+
+> ORDINANCE NO. 5100-24: AN ORDINANCE OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, CONTINUING TO FIND THE PROPERTY AT 4105 PINEWOOD AVENUE NOT NEEDED FOR CITY PURPOSES; APPROVING A LEASE AGREEMENT BETWEEN THE CITY OF WEST PALM BEACH AND THE BOYS AND GIRLS CLUBS OF PALM BEACH COUNTY, INC., FOR THE FOR THE FLORENCE DE GEORGES BOYS AND GIRLS CLUB LOCATED AT 4105 PINEWOOD AVENUE; AUTHORIZING EXPANSION OF THE LEASE AREA; APPROVING EXECUTION OF THE LEASE AND ALL DOCUMENTS NECESSARY TO EFFECTUATE THESE PURPOSES; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Ordinance No. 5100-24.
+
+
+City Commission - May 13 2024
+
+(Section 2-31(27) of the Code Ordinance provides for approval of a lease of City property by ordinance approved by four-fifths of the membership of the City Commission at First or Second Reading).
+
+#### Background Information
+
+The Boys and Girls Clubs of Palm Beach County (BGC) is the largest non-for-profit in the county serving our young people, and has seventeen (17) locations serving more than 10,000 youth between the ages of 6 and 18. In 1999, the Boys and Girls Clubs executed a lease with the City of West Palm Beach (the “1999 Lease”) for the property at 4105 Pinewood Avenue (the “Property”), known as the Florence De Georges Boys and Girls Club, which has served the youth in the community. The 1999 Lease will expire this year.
+
+The Boys and Girls Clubs desire to continue to lease the Property to continue to provide services in the community and desire to expand the lease area, which will allow the Boys and Girls Clubs to provide additional services.
+The significant terms of the Lease include the following:
+
+#### WPB RESIDENT PREFERENCE
+
+The Boys and Girls Club shall give a transportation preference for providing service and participation in programs to youth who reside or attend public schools within, the jurisdictional boundaries of the City of West Palm Beach.
+
+To the extent that BGC provides transportation, it will be provided only to West Palm Beach residents and those children attending public schools within the City and in the transportation plan.
+
+#### LEASE TERM
+
+A lease term of twenty-five (25) years with a renewal option for two (2) additional terms of ten (10) years each.
+
+RENT Annual rent of $100 per year.
+
+#### LEASE AREA
+
+The lease area will be expanded to include the two (2) City-owned parcels between the Club and Pinewood Park to the South and will incorporate the following three (3) parcels:
+
+
+City Commission - May 13 2024
+
+4105 Pinewood Avenue, West Palm Beach, FL PCN # 74-43-43-04-05-032-0130 4017 Pinewood Avenue, West Palm Beach, FL PCN # 74-43-43-09-05-055-0200 3923 Pinewood Avenue, West Palm Beach, FL PCN # 74-43-43-09-05-055-0190
+
+#### MAINTENANCE
+
+The BGC will be responsible for all operating and maintenance costs for the Club facilities, including the HVAC, plumbing, electrical, fire sprinklers, alarm and other building systems, building-mounted lighting, and building-mounted signage. BGC will be responsible for sod and landscape replacement for the Recreational Field located North of the Club when required.
+
+The City will maintain the splash pad, any non-building mounted exterior lighting, non-building mounted signage, and the irrigation system. City will provide landscape services, including mowing and trimming for the sod and landscaping for the Recreational Field located North of the Club.
+
+Section 2-31(27)(c) of the Code Ordinances eliminates the requirement for appraisal of the property to be leased if the lessee is a bona fide notfor-profit 501(c)(3) corporation. Accordingly, appraisals were not required for this transaction. Section 2-31(27) of the Code Ordinance provides for approval of a lease of City property by ordinance approved by four-fifths of the membership of the City Commission.
+
+Ordinance No. 5100-24 approves the new lease for the Florence De Georges Boys and Girls Club at 4105 Pinewood Avenue.
+
+#### Commission District
+
+1: Commissioner Cathleen Ward.
+
+#### Fiscal Note
+
+No fiscal impact.
+
+<a id="item-9-4"></a>
+### 9.4. Public Hearing and Second Reading of Ordinance No. 5099-24 approving a Ground Lease for a portion of Dreher Park with the Boys and Girls Clubs of Palm Beach County, Inc. for a new club to be constructed in Dreher Park, approving the Concept Plan, and granting a License for Entry.
+
+#### Originating Department
+
+City Commission - May 13 2024
+
+
+Parks and Recreation
+
+#### Ordinance/Resolution
+
+
+> ORDINANCE NO. 5099-24: AN ORDINANCE OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING A GROUND LEASE AGREEMENT BETWEEN THE CITY OF WEST PALM BEACH AND THE BOYS AND GIRLS CLUBS OF PALM BEACH COUNTY, INC., FOR THE LOCATION OF A CLUB IN DREHER PARK; AUTHORIZING EXECUTION OF THE LEASE AND ALL DOCUMENTS NECESSARY TO EFFECTUATE THESE PURPOSES; APPROVING THE CONCEPT PLAN; GRANTING A LICENSE FOR ENTRY; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Ordinance No. 5099-24 at Second Reading.
+
+#### Background Information
+
+The Boys and Girls Club of Palm Beach County (BGC) is the largest notfor-profit in the county serving our young people and has seventeen (17) locations serving more than 10,000 youth between the ages of 6 and 18.
+
+The BGC has identified a greater need for service for youth living within the City’s District 5 where Dreher Park is located. The BGC is conducting a fund-raising campaign for a District 5 Club and has raised $12 million.
+
+The BGC proposed the construction of a 31,901 square-foot, state-of-theart Club in District 5, conveniently located in Dreher Park along Southern Boulevard pursuant to a ground lease with the City of West Palm Beach.
+
+The major components of the Club will be a teen center, educational/study labs, gymnasium, and multi-purpose areas. The Club will provide academic support by certified teachers, mental health programs to address childhood trauma, hunger relief, and career readiness programming for teens.
+
+The Cox Science Center and Aquarium and the Palm Beach Zoo support the location of a Club on the North end of Dreher Park.
+
+By Resolution No. 103-23, the City Commission declared a portion of Dreher Park as surplus and directed the negotiation of the terms of a ground lease with the Boys & Girls Club. The Parks and Recreation Advisory Committee voted to recommend approval of the proposed material terms.
+
+By Resolution No. 303-23, the City Commission approved a Term Sheet for a Dreher Park lease.
+The significant terms of the Lease include the following:
+
+
+City Commission - May 13 2024
+
+#### CLUB FACILITIES
+
+The Boys & Girls Club will design, fund, and construct the Club facilities.
+
+#### ADDITIONAL IMPROVEMENTS
+
+Parking Area: The Boys & Girls Club will design, fund and construct a parking area, which may be used by the general public when the Club facilities are closed.
+
+Mound Removal: The Boys & Girls Club will remove two mounds of approximately one acre in size and install sod and irrigation to provide a more functional green space for the community.
+
+#### WPB RESIDENT PREFERENCE
+
+BGC shall give a transportation preference for providing service and participation in programs to youth who reside or attend public schools within the jurisdictional boundaries of the City of West Palm Beach.
+
+To the extent that BGC provides transportation, it will be provided only to West Palm Beach residents and those children attending public schools within the City and included in the transportation plan.
+
+#### LEASE TERM
+
+A lease term of thirty (30) years with a renewal option for an additional two (2) terms of ten (10) years each.
+
+RENT Annual rent of $100 per year.
+
+#### CONSTRUCTION TIMELINE
+
+Construction shall commence within thirty-six (36) months of the execution of a Lease. Construction will be completed within four (4) years of the commencement of construction.
+
+#### SMALL BUSINESS / MWBE PARTICIPATION
+
+Contractors will be required to use no less than 18% contractors and subcontractors from small businesses and minority/women owned businesses certified by the City.
+
+
+City Commission - May 13 2024
+
+#### LOCAL WORKFORCE
+
+Boys and Girls Club will require its Contractors to conduct two job fairs within the City and to use their best good faith efforts to obtain local workforce participation of no less than 8% of the value of the Club facilities construction work.
+
+#### MAINTENANCE
+
+The Boys & Girls Club will be responsible for all operating and maintenance costs for the Club facilities. Additionally, the Boys and Girls Club will maintain the parking area constructed, their monument sign, and the access sidewalk.
+
+#### NAMING RIGHTS
+
+The Boys & Girls Club will be permitted to place the name of up to 4 significant donors on exterior Club facilities.
+
+Section 2-31(27)(c) of the Code Ordinances eliminates the requirement for appraisal of the property to be leased if the lessee is a bona fide notfor-profit 501(c)(3) corporation. Accordingly, appraisals were not required for this transaction. Section 2-31(27) of the Code Ordinance provides for approval of a lease of City property by ordinance approved by four-fifths of the membership of the City Commission.
+
+Ordinance No. 5099-24 approves the lease for construction of a Boys and Girls Club in a portion of Dreher Park and approves the concept plan presented.
+
+Ordinance No. 5099-24 approves the Concept Plan for the Boys and Girls Club and provides that any necessary revisions be by resolution.
+
+Ordinance No. 5099-24 also grants a License for Entry to the Boys and Girls Club so geotechnical soil borings and minor site preparation can commence prior to the Effective Date of the Ground Lease.
+
+#### Commission District
+
+5: Commissioner Christina Lambert.
+
+#### Fiscal Note
+
+No fiscal impact.
+
+<a id="item-9-5"></a>
+### 9.5. Resolution No. 101-24 amending the City's Salary Plan for FY2023-2024 by adding various job classifications and updating the pay grade and/or salary range for certain job classifications; City Commission - May 13 2024 Resolution No. 105-24(F) amending the full-time equivalent budget (F.T.E.) for certain departments and for certain funds for FY2023-2024; and Public Hearing and First Reading of Ordinance No. 5102-24 modifying the annual salary for the Mayor and City Commissioners pursuant to Section 2.02 of the City Charter.
+
+#### Originating Department
+
+Mayor's Office
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 101-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AMENDING THE CITY’S SALARY PLAN AS PROVIDED IN
+
+> RESOLUTION NO. 229-23 APPROVED ON SEPTEMBER 18, 2023, TO CREATE THE JOB CLASSIFICATIONS OF SENIOR MANAGEMENT ANALYST, AFTER SCHOOL PROGRAMS SUPERVISOR, TENNIS FACILITIES SUPERVISOR, POLICE EXPLORER SENIOR ADVISOR; RIGHT OF WAY PROJECT COORDINATOR, POLICE ACCREDITATION MANAGER, AND FORENSIC SCIENTIST; TO CHANGE THE JOB TITLE OF CERTAIN JOB CLASSIFICATIONS, AND TO CHANGE THE PAY GRADE ALLOCATION FOR CERTAIN JOB CLASSIFICATIONS; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+> RESOLUTION NO. 105-24(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, TO AMEND THE FULL TIME EQUIVALENT (F.T.E.) PERSONNEL DETAIL OF THE GENERAL FUND FOR THE DEPARTMENT OF DEVELOPMENT SERVICES; THE DEPARTMENT OF ENGINEERING SERVICES; THE DEPARTMENT OF FINANCE; THE LIBRARY DEPARTMENT; THE DEPARTMENT OF PARKS AND RECREATION; THE DEPARTMENT OF PUBLIC WORKS AND SUPPORT SERVICES; THE DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT AND THE POLICE DEPARTMENT; AND TO AMEND THE FULL TIME EQUIVALENT (F.T.E.) PERSONNEL DETAIL OF BUILDING PERMITTING FUND; THE EQUIPMENT MAINTENANCE FUND; THE GRANT PROGRAMS SPECIAL REVENUE FUND; THE INFORMATION TECHNOLOGY FUND; AND THE FIRE ASSESSMENT FEE FUND; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+> ORDINANCE NO. 5102-24:AN ORDINANCE OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, ESTABLISHING THE ANNUAL SALARY OF THE MAYOR AND THE COMMISSIONERS PURSUANT TO SECTION 2.02 OF THE CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA; REPEALING
+
+> ORDINANCE NO. 4610-16; PROVIDING FOR CONFLICTS AND SEVERABILITY CLAUSES; PROVIDING AN EFFECTIVE DATE; AND
+
+
+City Commission - May 13 2024
+
+#### FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Resolution No. 101-24 and Resolution No. 105-24(F).
+
+Approve Ordinance No. 5102-24 on First Reading and schedule Second Reading for May 28, 2024.
+
+#### Background Information
+
+In FY2022, City Administration established a mid-fiscal year process for the Board’s consideration of modifications to the City’s salary plan and updating of job classifications and pay grades. This process allows departments to meet their changing operational needs so as to ensure the continued efficient delivery of City services. In order to be included within the proposed mid-year adjustments, the requested changes must be cost neutral and absorbed within the Departments annual budgets.
+
+Per that established process, staff is presenting the FY2024 mid-fiscal year budget and personnel-related adjustments for the Board’s consideration in addition to a proposal to adjust the current salaries of the City’s elected officials.
+
+The first resolution, Resolution No. 101-24, for the Board’s consideration relates to modifications to the City’s Salary Plan. If approved, it will implement changes to certain job titles, position pay grades, and create new job titles. Resolution No. 105-24(F) amends the full-time equivalent (F.T.E.) budget and positions for various City departments and operational areas. Again, the associated costs have no general fund impact and will be absorbed by reallocating funding from operational reductions or elimination of vacant funded positions. Updates to pay grades do not have a cost and do not result in employee salary increases.
+
+The proposed changes will better align organizational areas to meet current operational needs and correspond with the 8th Pillar of the City’s
+Updated Strategic Plan:
+Financial Sustainability & Organizational Excellence.
+
+I. Resolution No. 101-24 amends the City’s FY2023-2024 Salary Plan as follows: Department of Engineering Services
+- Add a new job title of Right of Way Project Coordinator.
+
+- Reallocate a Senior Engineering Services Project Coordinator position to Special Projects Manager.
+
+- Reallocate a Senior Stormwater Engineer position to Engineering Manager.
+
+
+City Commission - May 13 2024
+
+- Reallocate an Engineering Services Project Coordinator position to Right of Way Project Coordinator.
+
+- Update Senior Stormwater Engineer pay grade from 75 to 76.
+
+Department of Finance
+- Reallocate a Financial Accountant 1 position to Contract Specialist.
+
+Mandel Public Library
+- Reallocate a Library Assistant position to Librarian.
+
+Department of Parks and Recreation
+- Eliminate five (5) vacant part-time and two (2) vacant full time F.T.E.s (total F.T.E.s eliminated = 5.75)
+
+- Add two Recreation Campus Managers.
+
+- Add job title and position of Afterschool Programs Supervisor.
+
+- Add job title and position of Tennis Facilities Supervisor.
+
+- Update Lifeguard pay grade from 39 to 45.
+
+- Update Lead Lifeguard pay grade from 46 to 48.
+
+- Update Lead Irrigation Technician pay grade 48 to 55.
+
+Department of Housing and Community Development
+- Change the job title of Community Resources Manager to Community Services Manager.
+
+- Change the job title of Social Services Supervisor to Homeless Services Supervisor.
+
+- Change the job title of Homeless Services Coordinator to Community Resources Coordinator.
+
+- Change the job title of Community Resources Specialist to Housing & Community Support Specialist.
+
+- Reallocate a Community Resources Specialist position to HCD Programs Coordinator.
+
+
+City Commission - May 13 2024
+
+- Reallocate a HCD Programs Administrator position to HCD Programs Manager.
+
+Department of Information Technology
+- Reallocate two (2) GIS Support Specialist I positions to GIS Analyst I.
+
+Fire Department
+- Add a Division Chief position.
+
+Police Department
+- Add job title and position of Forensic Scientist.
+
+- Add job title and position of Police Explorer Senior Advisor (on-call grant funded).
+
+- Reallocate a Police Captain position to Assistant Chief of Police.
+
+- Reallocate a Volunteer Coordinator position to Police Accreditation Manager.
+
+Department of Development Services
+- Add new job title of Senior Management Analyst.
+
+- Reallocate an Administrative Assistant I position to Administrative Assistant II.
+
+- Reallocate a Clerical Specialist position to Administrative Assistant I.
+
+- Reallocate an Urban Design Planner position to Senior Urban Design Planner (building fund).
+
+- Add one Plans Review Librarian and two (2) Senior Management Analysts (building fund).
+
+- Update Comprehensive Planner pay grade from 70 to 71.
+
+- Update Historic Preservation Planner pay grade from 70 to 71.
+
+
+City Commission - May 13 2024
+
+City Clerk’s Office
+- Update the Deputy Clerk pay grade from 43 to 52.
+
+Internal Auditor's Office
+- Update the Staff Auditor pay grade from 60 to 61.
+
+- Update the Senior Staff Auditor pay grade from 66 to 69.
+
+Contingent on approval of the first resolution (Resolution No. 101-24), the second resolution (Resolution No. 105-24{F}) for the Board’s consideration relates to changing the number of F.T.E.s in the FY2024 budget. This includes a total of eight (8) new proposed positions as follows:
+- One (1) position is funded from fire assessment funds (Fire).
+
+- Three (3) positions are (Development Services).
+
+- Four (4) positions are funded with general funds from eliminated vacant positions (Parks & Recreation.)
+
+funded
+
+from
+
+build
+
+permit
+
+funds
+
+II. Resolution No. 105-24(F) amends the full-time equivalent (F.T.E.) budget for FY2023-2024 by implementing the changes noted above in the current budget.
+
+III. Ordinance No. 5102-24 is a request for City Commission approval of the staff recommendation to increase the salary of the Mayor and City Commissioners and provide Cost-of-Living Adjustments (COLAs).
+
+Section 2.02 of the City Charter establishes, in part, that, "The annual salaries of the mayor and the city commissioners shall be fixed by ordinance. These salaries shall be reviewed during the city's annual budget process".
+
+As noted above, the City Charter specifies that the salaries of the Mayor and City Commissioners shall be reviewed during the City’s annual budget process. No such review has been done heretofore. Under the current Administration, as supported by the Board, the primary focus has been to address the historic low market placement of the City’s salary for the various City employee groups. Between FY2019 and FY2024, sworn public safety employees’ salaries have increased by 40-59% on average, which includes annual step pay and significant market adjustments in FY2022. Non-public safety employees’ salaries have increased by 46% on average, which includes annual cost-of-living adjustments and
+
+
+City Commission - May 13 2024
+
+significant market adjustments in FY2024, excluding Management 1 employees. Market adjustments were not warranted for Management 1 employees; however, the annual cost-of-living adjustments increased their salaries on average by 24%.
+
+Conversely, the City’s elected officials’ annual salaries have not been adjusted since February 2016. At that time, the salary for Commissioners was increased from $30,000 to $35,000, and the Mayor’s salary was increased from $125,000 to $150,000. The goal was for our City’s elected official’s salaries to be commensurate with, but not to surpass, the salaries of the Strong Mayor governments of: Orlando, St. Petersburg, and Jacksonville. Since 2016, those benchmark municipalities have increased their Mayors’ and Commissioners’ salaries by 24% - 42% on average, whereas our City’s elected officials salaries have remained flat with no increase or cost-of-living adjustment during the same eight year period.
+
+During the Board's comments at its August 21, 2023 meeting, the potential change to the Mayor and Commissioner salaries was discussed by the Commission. Subsequent to that meeting, the State provided the final amount of the City’s State-shared revenue, which was an increase of the initial projection. That enabled staff to include funding in the balanced FY2024 Adopted Final Budget to accommodate any potential salary changes the Commission elects to consider in the current fiscal year.
+
+It is the recommendation of staff that the FY16 benchmarked salaries for the Mayor and Commissioners be increased in accordance with the Consumer Price Index (CPI). Using the U. S. Department of Labor, Bureau of Labor Statistics CPI Inflation Calculator, the $150,000 salary in 2016 equates to $197,585 in 2024. Respectively, the $35,000 salary in 2016 equates to $46,103 in 2024. The proposed ordinance, if adopted, would raise the Mayor's salary to $197,625 per year and the salary of Commissioners to $46,112 per year. In addition, if approved, the ordinance would also allow the City’s elected officials to receive the same annual cost of living adjustments that the City provides to non-union City employees.
+
+#### Fiscal Note
+
+Fully budgeted. All costs associated with proposed F.T.E. changes will be offset by operational budget reductions and/or elimination of vacant positions in the FY2024 budget.
+
+
+City Commission - May 13 2024
+
+<a id="item-10"></a>
+## 10. PUBLIC HEARING - QUASI-JUDICIAL- ALL ITEMS WERE APPROVED.
+
+Disclosure of ex-parte communications, if any* Swearing-in of witnesses.
+
+<a id="item-10-1"></a>
+### 10.1. Public Hearing and Second Reading of Ordinance No. 5097-24 regarding a rezoning of ±1.65 acres located at 1150 Southern Boulevard from Recreation and Open Space (ROS) to a Recreation and Open Space Planned Development (ROSPD); and Public Hearing of Resolution No. 86-24 regarding the development regulations and conditions for the Recreation and Open Space Planned Development (ROSPD) and the granting of waivers from the Zoning and Land Development Regulations. The above-referenced requests are being made by Roxann Read, of WGI, on behalf of the Boys and Girls Club of Palm Beach County to allow for the construction of two (2) buildings, an outdoor playground and an outdoor classroom.
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> ORDINANCE NO. 5097-24: AN ORDINANCE OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AMENDING THE ZONING MAP OF THE CITY OF WEST PALM BEACH, FLORIDA, BY REZONING ±1.65 ACRES LOCATED WITHIN DREHER PARK AT 1150 SOUTHERN BOULEVARD FROM RECREATION AND OPEN SPACE (ROS) TO RECREATION AND OPEN SPACE PLANNED DEVELOPMENT (ROSPD) TO CREATE THE BOYS AND GIRLS CLUB RECREATION AND OPEN SPACE PLANNED DEVELOPMENT (ROSPD); PROVIDING FOR THE ESTABLISHMENT OF DEVELOPMENT REGULATIONS BY SEPARATE RESOLUTION; DECLARING THIS ZONING MAP AMENDMENT TO BE CONSISTENT WITH THE COMPREHENSIVE PLAN OF THE CITY; REVISING THE ZONING MAP OF THE CITY ACCORDINGLY; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+> RESOLUTION NO. 86-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, ESTABLISHING THE DEVELOPMENT REGULATIONS, INCLUDING THE SITE AND LANDSCAPE PLANS AND BUILDING ELEVATIONS, FOR THE BOYS AND GIRLS CLUB RECREATION AND OPEN SPACE PLANNED DEVELOPMENT (ROSPD) LOCATED AT 1150 SOUTHERN BOULEVARD; GRANTING WAIVERS TO THE ZONING AND LAND DEVELOPMENT REGULATIONS; DECLARING THIS AMENDMENT CONSISTENT WITH THE COMPREHENSIVE PLAN OF THE CITY; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Ordinance No. 5097-24 at Second Reading to change the zoning designation of ±1.65 acres located within Dreher Park at 1150 Southern Boulevard from Recreation and Open Space (ROS) to Recreation and Open Space Planned Development (ROSPD). This motion is based upon the application submitted, the staff report, factual testimony, the recommendation of the Planning Board, and the findings that the request
+
+
+City Commission - May 13 2024
+
+complies with the Comprehensive Plan and the standards in Sections 94-32, 94-35(c), 94-204, and 94-207 of the City's Zoning and Land Development Regulations.
+
+Approve Resolution No. 86-24 establishing development regulations and conditions for the Recreation and Open Space Planned Development (ROSPD),and granting waivers from the Zoning and Land Development Regulations .
+
+#### Background Information
+
+#### (THE INFORMATION PROVIDED BELOW IS A GENERAL SUMMARY. A FULL
+
+#### ANALYSIS IS INCLUDED IN THE STAFF REPORT)
+
+The Boys and Girls Club, which was founded in 1971, is a not-for-profit youth development organization that promotes educational, vocational, health leadership, and character building of boys and girls in a safe environment. The Boys and Girls Club and the City of West Palm Beach entered into a long-term lease agreement of a portion of City-owned land within Dreher Park. This portion of the park consists of approximately 1.65 acres.
+
+The applicant and the City have established a lease line area (1.65 acres), off-lease maintenance area (0.92 acres), and off-lease improvement area, which totals 5.76 acres. The project request includes rezoning the subject property from Recreation and Open Space (ROS) to Recreation and Open Space Planned Development (ROSPD) with waivers from the City of West Palm Beach Zoning and Land Development Regulations (ZLDRs) to allow for the construction of a 19,273 square foot office and daycare building, a 11,818 square foot gym, and an outdoor classroom.
+
+To accommodate the proposed development, the applicant is requesting the following waivers (all of which are described and analyzed in the staff report): Waiver Requested: Sections 94-204 (7), 94-273 (11)(b)(2)(i) & 94-273 (11)(b)(2)(iii) (Table Shown On Following Page)
+
+
+City Commission - May 13 2024
+
+The purpose of rezoning the 1.65 acre lease area located at Dreher Park to a Recreation and Open Space Planned Development (ROSPD) is to allow for flexibility with the construction of the Boys and Girls Club development due to size constraints of the lease area. Subject to the granting of the waivers and the proposed conditions of approval, the project proposal complies with the City of West Palm Beach Zoning and Land Development Regulations. Planning staff, therefore, is recommending approval subject to the conditions contained in Resolution No. 86-24.
+
+#### PLANNING BOARD
+
+After a Public Hearing on February 21, 2024, the Planning Board recommended approval (5-0) of the requests.
+
+#### PUBLIC NOTICE
+
+Individual notices were mailed to all property owners within 500 feet of the property, and signs were posted on the subject property. A legal ad for Ordinance No. 5097-24 and Resolution No. 86-24 will be advertised in the Palm Beach Post prior to Second Reading.
+
+#### Commission District
+
+5: Commissioner Christina Lambert.
+
+
+<a id="item-10-2"></a>
+### 10.2. Public Hearing and Second Reading of Ordinance No. 5096-24 regarding a rezoning to change the zoning designation of approximately ±11.02 acres located at 3801 Georgia Avenue from Multifamily High Density (MF32) Residential to Residential Planned Development (RPD); and City Commission - May 13 2024 Public Hearing of Resolution No. 70-24 regarding the development regulations and conditions for the Roseland Gardens Residential Planned Development (RPD), and granting of waivers to the Zoning and Land Development Regulations. The above-referenced requests are being made by Josh Nichols of Schmidt Nichols, on behalf of West Palm Beach Housing Authority.
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> ORDINANCE NO. 5096-24: AN ORDINANCE OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AMENDING THE ZONING MAP OF THE CITY OF WEST PALM BEACH BY REZONING ±11.02 ACRES LOCATED AT 3801 GEORGIA AVENUE FROM MULTIFAMILY HIGH DENSITY RESIDENTIAL TO RESIDENTIAL PLANNED DEVELOPMENT TO CREATE THE ROSELAND GARDENS RESIDENTIAL PLANNED DEVELOPMENT; PROVIDING FOR THE ESTABLISHMENT OF DEVELOPMENT REGULATIONS BY SEPARATE RESOLUTION; DECLARING THIS ZONING MAP AMENDMENT TO BE CONSISTENT WITH THE COMPREHENSIVE PLAN OF THE CITY; REVISING THE ZONING MAP OF THE CITY ACCORDINGLY; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+> RESOLUTION NO. 70-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, ESTABLISHING THE DEVELOPMENT REGULATIONS, INCLUDING THE SITE AND LANDSCAPE PLANS AND BUILDING ELEVATIONS, FOR THE ROSELAND GARDENS RESIDENTIAL PLANNED DEVELOPMENT LOCATED AT 3801 GEORGIA AVENUE; GRANTING WAIVERS TO THE ZONING AND LAND DEVELOPMENT REGULATIONS; DECLARING THIS AMENDMENT CONSISTENT WITH THE COMPREHENSIVE PLAN OF THE CITY; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Ordinance No. 5096-24 at Second Reading for a rezoning to change the Zoning designation of approximately ±11.02 acres located at 3801 Georgia Avenue from Multifamily High Density (MF32) Residential to Residential Planned Development (RPD). This motion is based upon the application submitted, the staff report, factual testimony, the recommendation of the Planning Board, and the finding that the request complies with the Comprehensive Plan and the standards in Section 9432 and Section 94-207 of the City's Zoning and Land Development Regulations.
+
+Approval Resolution No. 70-24 at First Reading to establish the
+
+
+City Commission - May 13 2024
+
+development regulations, including the site and landscape plans and building elevations for the Roseland Gardens Residential Planned Development (RPD) located at 3801 Georgia Avenue. This motion is based upon the factual testimony presented, the application submitted, the staff report, the recommendation of the Planning Board, and the findings that the amendment is consistent with the Comprehensive Plan and complies with the standards found in Section 94-32, Section 94-35, and Section 94-207 of the City’s Zoning and Land Development Regulations.
+
+#### Background Information
+
+#### (THE INFORMATION PROVIDED BELOW IS A GENERAL SUMMARY.
+
+#### A FULL ANALYSIS IS INCLUDED IN THE STAFF REPORT)
+
+The subject property is comprised of one (1) parcel owned and managed by the West Palm Beach Housing Authority, with the address of 3801 Georgia Avenue, consisting of approximately ±11.02 acres. Specifically, the subject property is located on the east side of Georgia Avenue, north of Roseland Drive, west of Lake Avenue, and south of Southern Boulevard. The subject property has a double frontage along Southern Boulevard and Roseland Drive. The subject property contains an existing multifamily apartment complex and surface parking areas.
+
+The new site layout the applicant proposed will support 355 multifamily residential development units and consist of elderly and non-elderly housing units. This development will be completed in two (2) phases. To effectuate the plans and to allow the request of two (2) waivers from the City Zoning and Land Development Regulations (ZLDRs), an application was submitted to change the zoning designation of one (1) parcel from Multifamily High Density (MF32) to Residential Planned Development (RPD).
+
+The applicant is requesting a parking waiver from Section 94-486 of the ZLDRs and a landscape waiver from Section 94-443 (d)(2)(a) of the ZLDRs (which both waivers are described and analyzed in the staff report). It is staff's professional opinion that with the finding that particular circumstances justify the parking reduction and landscape reduction, the proposed RPD complies with the City's Comprehensive Plan, and that the proposed development, with the waivers granted, will comply with the standards required by the ZLDRs.
+
+Planning staff, therefore, is recommending approval, subject to the conditions contained in Resolution No. 70-24.
+
+#### PLANNING BOARD
+
+After a Public Hearing on February 21, 2024, the Planning Board recommended approval (6-0).
+
+
+City Commission - May 13 2024
+
+#### PUBLIC NOTICE
+
+Individual notices were mailed to all property owners within 500 feet of the property, and signs were posted on the subject property. Ordinance No. 5096-24 and Resolution No. 70-24 were advertised in the Palm Beach Post.
+
+#### Commission District
+
+5: Commissioner Christina Lambert.
+
+
+<a id="item-10-3"></a>
+### 10.3. Public Hearing of Resolution No. 88-24 regarding a Major Amendment to the Palm Beach Riverstone Commercial Planned Development, located at the southeast corner of 45th Street and Interstate-95, to amend the approved hotel site plan on Pod 2, providing for the increase in the number of hotel rooms from 150 rooms to 233 rooms; 7,633 square feet of restaurant use; and a new four-story parking garage structure.
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 88-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING A MAJOR AMENDMENT TO THE PALM BEACH RIVERSTONE COMMERCIAL PLANNED DEVELOPMENT (CPD), GENERALLY LOCATED AT THE SOUTHEAST CORNER OF 45TH STREET AND INTERSTATE-95, TO MODIFY THE APPROVED SITE PLAN FOR THE HOTEL USE ON POD 2, TO PROVIDE FOR THE CONSTRUCTION OF A 16-STORY, 233 ROOM HOTEL WITH A 4STORY PARKING GARAGE STRUCTURE AND OTHER SITE RELATED IMPROVEMENTS; GRANTING WAIVERS OF THE ZONING AND LAND DEVELOPMENT REGULATIONS; PROVIDING FOR AN EFFECTIVE DATE ; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Resolution No. 88-24, which will approve the Major Amendment to the Palm Beach Riverstone Commercial Planned Development, generally located at the southeast corner of 45th Street and Interstate-95, to modify the approved site plan for the hotel use on Pod 2, to provide for the construction of a 16-story hotel with a 4-story parking garage structure and other site-related improvements with the waivers specified in the Resolution. This motion is based upon the factual testimony presented, the application submitted, the staff report, the recommendation of the Planning Board, and the findings that the amendment is consistent with the Comprehensive Plan and complies with the standards found in Section 94-32 and 94-35 of the City’s Zoning and Land Development Regulations.
+
+#### Background Information
+
+(The information provided below is a general summary.
+
+A complete
+
+
+City Commission - May 13 2024
+
+analysis is included in the attached Staff Report.)
+
+The Palm Beach Riverstone Commercial Planned Development (CPD) is an 11.62-acre mixed-use development comprised of three (3) pods/parcels, located at the southeast corner of 45th Street and Interstate 95 (I-95). When the CPD was established in November 2020 (Reference: Resolution No. 228-20), the uses approved for the planned development were a 6,119 square foot WaWa convenience store with associated gas sales (16 pumps) on Pod 1; an 8-story 150-room full-service hotel with a 1,160 square foot restaurant and surface parking on Pod 2; and an 8story, 374-unit multifamily apartment building with a 6-story parking garage on Pod 3. Presently, Pods 1 and 3 are built and operate with their approved uses; however, Pod 2 remains vacant and represents the final phase of build-out for the Palm Beach Riverstone CPD.
+
+For this application, the applicant is requesting a Major Planned Development (PD) Amendment to modify the approved site plan for Pod 2. The approved use will remain; however, the applicant desires to increase the number of hotel keys from 150 rooms to 233 rooms (+83 rooms); increase the restaurant square footage from 1,160 square feet to 7,633 square feet; and provide for the construction of a new 4-story parking garage structure on Pod 2. The desired improvements will require modifications to the approved site playout and architectural plans to accommodate the proposed changes. A summary comparing the major changes between the current approved and the proposed plan for the hotel use on Pod 2 is summarized in Table 1 below:
+Table 1:
+Comparison of the Major Changes between the Current Approval and the Proposed Plan for the Hotel Use on Pod 2
+
+Building Height
+
+Approved 8-stories (100.4 ft.)
+
+Number of Hotel 150 keys Keys Restaurant 1,160 sq. ft.
+
+Square Footage Parking Provided
+
+Proposed 16-stories (184.8 ft.)
+
+Change +8 stories (84.8 ft.)
+
+233 Keys
+
++83 keys
+
+7,633 sq. ft.
+
++6,473 sq. ft.
+
+279 spaces (Parking 82 spaces Garage) + 10 +225 spaces (Surface) spaces (Surface)
+
+In addition to the changes noted above, in order to provide for the proposed amendment, the applicant is requesting the approval of five (5) waivers from the Zoning and Land Development Regulations (ZLDRs).
+
+
+City Commission - May 13 2024
+
+The waivers are noted below, and each waiver is detailed and analyzed in the Staff Report:
+- Waiver #1: Side Building Setback (Hotel Building Only)
+
+- Waiver #2: Building Separation (Between the Hotel Building and Parking Garage Structure)
+
+- Waiver #3: On-Site Parking
+
+- Waiver #4: Encroachment of Structures into the Required Setback/Landscape Buffer
+
+- Waiver #5: Number of Loading Spaces
+
+Staff does not have any issues and supports the applicant’s waiver requests. The waivers have been justified, and the applicant will provide for mitigation measures where necessary to minimize any impact on the adjacent and surrounding uses and properties.
+
+#### CONCLUSION
+
+The applicant has provided sufficient evidence that supports the proposed amendment to Pod 2 of the Palm Beach Riverstone CPD. As part of the amendment, the applicant will also provide additional enhancements to improve the quality of the pedestrian environment and circulation between pods, and to maintain connectivity and integration with the overall development (i.e., additional street furnishing, enhanced landscape design, and greater use of decorative pavers to distinguish pedestrian areas).
+
+The proposed amendment with the requested waivers is consistent with the Amendment Standards of Section 94-32 of the ZLDRs, and therefore, staff is recommending approval of the request subject to the conditions contained in Resolution No. 88-24.
+
+#### PLANNING BOARD
+
+After a Public Hearing on March 19, 2024, the Planning Board unanimously recommended approval of the Major Amendment (6-0) to the City Commission.
+
+#### PUBLIC NOTICE
+
+Individual notices were mailed to all property owners within 500 feet of the planned development, and signs were posted on the property. In accordance with the advertising requirements of the City’s Zoning and
+
+
+City Commission - May 13 2024
+
+Land Development Regulations, a legal ad for Resolution No. 88-24 was advertised in the May 3, 2024, edition of the Palm Beach Post.
+
+#### Commission District
+
+1: Commissioner Cathleen Ward
+
+
+<a id="item-11"></a>
+## 11. COMMENTS FROM THE PUBLIC
+
+Public comments are limited to three (3) minutes. Anyone wishing to address the Commission should complete a "Comments by the Public" card and present it to the City Clerk prior to the Public Comments. When you are called to speak, please go to the podium and state your name and address for the record prior to addressing Commission. The Commission will not discuss the matter nor respond to the comment this evening. Comments made will become part of the record and may be addressed at a later date.
+
+<a id="item-12"></a>
+## 12. COMMENTS BY THE MAYOR AND CITY COMMISSIONERS
+
+
+<a id="item-13"></a>
+## 13. ADJOURNMENT-7:36 P.M.
+
+*Pursuant to Resolution No. 179-95, adopted according to the provisions of Section 286.0115, Florida Statutes, members of the Commission shall disclose on the record: 1) ex-parte communications verbal or written; 2.) written communications shall be placed in the record; and 3) site visits, investigations, etc. shall be disclosed.
+
+NOTICE: If any person decides to appeal any decision made by the City Commission at this meeting, that person will need a record of the proceedings, and that, for such purposes, may need to ensure that a verbatim records of the proceedings be made, which record includes the testimony and evidence upon which the appeal is based. The City of West Palm Beach does not prepare or provide such record.

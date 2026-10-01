@@ -1,0 +1,953 @@
+---
+date: 2025-01-06
+doc_type: pass-fail
+title: City Commission Pass/Fail Agenda
+meeting: Regular City Commission Meeting
+official_pdf: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2025-pass-fail-agendas-pfa/2025-01-jan-pfa/pf-city-commission-agenda-_01_06_25.pdf
+retrieved: 2026-10-01
+extractor: pdftotext + civic-pdf-cleanup
+notes: >
+  Plain-text extract of the official PDF. Binary PDF not stored in this repo.
+---
+
+# City Commission Pass/Fail Agenda — 2025-01-06
+
+**Official PDF (wpb.org):** [pf-city-commission-agenda-_01_06_25.pdf](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2025-pass-fail-agendas-pfa/2025-01-jan-pfa/pf-city-commission-agenda-_01_06_25.pdf)
+
+Text extract below is for search and deep-linking. The official PDF is authoritative.
+
+---
+
+401 Clematis Street West Palm Beach, Florida 33401 (561) 822-2222 (TTY) 800-955-8771 www.wpb.org Mayor Keith A. James Commission President Cathleen Ward (District 1) Commissioner Shalonda Warren (District 2) Commissioner Christy Fox (District 3) Commissioner Joseph A. Peduzzi (District 4) Commissioner Christina Lambert (District 5)
+
+City Administrator Faye W. Johnson City Attorney Kimberly Rothenburg City Clerk Shaquita Edwards
+
+City of West Palm Beach City Commission PASS/FAIL Agenda Monday, January 6, 2025 5:00 PM In accordance with the provisions of the Americans with Disabilities Act (ADA), persons in need of a special accommodation to participate in this proceeding shall, within three days prior to any proceeding, contact the City Clerk's Office, 401 Clematis Street, West Palm Beach, FL 33401, (561) 822-1210.
+
+<a id="item-1"></a>
+## 1. CALL TO ORDER- 5:00 P.M.
+
+
+<a id="item-2"></a>
+## 2. MOMENT OF SILENCE
+
+
+<a id="item-3"></a>
+## 3. PLEDGE OF ALLEGIANCE
+
+
+<a id="item-4"></a>
+## 4. CIVILITY AND DECORUM
+
+The City of West Palm Beach is committed to civility and decorum by its officials, employees and members of the public who attend this meeting. The City Code, Secs. 2-31(8), 2-31(18) and 2-31(22), provides in pertinent part:
+- Officials shall be recognized by the Chair and shall not interrupt a speaker.
+- Public comment shall be addressed to the City Commission as a whole and not to any individual on the dais or in the audience.
+- Displays of anger, rudeness, ridicule, impatience, lack of respect and personal attacks are strictly prohibited.
+- Unauthorized remarks from the audience, stamping of feet, whistles, yells and similar demonstrations shall not be permitted.
+- Offenders may be removed from the meeting.
+- Any person desiring to address the Commission shall file a written request with the city clerk prior to consideration of the matter by the Commission or prior to the public comment portion of a meeting. The person wishing to speak shall complete a comment card for each agenda item the person wishes to address, which shall include the person's full name, address, and the numbered agenda item. The person will not be recognized if the comment card is not completed.
+
+
+City Commission - Jan 06 2025
+
+<a id="item-5"></a>
+## 5. ADDITIONS / DELETIONS / REORGANIZATION OF AGENDA
+
+
+<a id="item-6"></a>
+## 6. APPOINTMENTS- ALL APPOINTMENTS WERE APPROVED.
+
+<a id="item-6-1"></a>
+### 6.1. City Commission approval is requested for the Mayor's reappointment of Ryan Booker to the Civil Service Board for a term of three (3) years to expire on October 29, 2027. Mr. Booker has served over the maximum allowed number of terms (3), and it is required that the City Commission confirms his reappointment.
+
+#### Originating Department
+
+Mayor's Office
+
+#### Staff Recommended Motion
+
+Approve reappointment.
+
+Mr. Booker is a very responsible and knowledgeable committee member.
+
+<a id="item-6-2"></a>
+### 6.2. City Commission approval is requested for the Mayor's reappointment of Daniel Canavan to the Construction Board of Adjustment and Appeals for a term of three (3) years to expire on November 1, 2027. Mr. Canavan has served over the maximum allowed number of terms (3), and it is required that the City Commission confirms his reappointment.
+
+#### Originating Department
+
+Mayor's Office
+
+#### Staff Recommended Motion
+
+Approve reappointment. Mr. Canavan has been conscientious regarding his service and brings extensive professional experience to the Board.
+
+<a id="item-6-3"></a>
+### 6.3. City Commission approval is requested for the Mayor's reappointment of Christopher Chase to the West Palm Beach Housing Authority for a term of four (4) years to expire on February 5, 2029. It is required that the City Commission confirms Mr. Chase’s reappointment.
+
+#### Originating Department
+
+Mayor's Office
+
+#### Staff Recommended Motion
+
+Appointments to the West Palm Beach Housing Authority require City Commission confirmation.
+
+<a id="item-6-4"></a>
+### 6.4. City Commission approval is requested for the Mayor's reappointment of Elizabeth Fountain to the Nuisance Abatement Board for a term of two (2) years to expire on November 15, 2026. Ms. Fountain has served over the maximum allowed number of terms (3), and it is required that the City Commission confirms her reappointment.
+
+#### Originating Department
+
+Mayor's Office
+
+#### Staff Recommended Motion
+
+Approve reappointment. Ms. Fountain has been committed to her
+
+
+City Commission - Jan 06 2025
+
+neighborhood and to maintaining quality throughout the City.
+
+<a id="item-6-5"></a>
+### 6.5. City Commission approval is requested for the Mayor's reappointment of Tanzanika Lillard to the West Palm Beach Housing Authority for a term of four (4) years to expire on January 4, 2029. It is required that the City Commission confirms Ms. Lillard’s reappointment.
+
+#### Originating Department
+
+Mayor's Office
+
+#### Staff Recommended Motion
+
+Appointments to the West Palm Beach Housing Authority require City Commission confirmation.
+
+<a id="item-6-6"></a>
+### 6.6. City Commission approval is requested for the Mayor's reappointment of Steve Mayans to the Planning Board for a term of three (3) years to expire on November 25, 2027. Mr. Mayans has served over the maximum allowed number of terms (3), and it is required that the City Commission confirms his reappointment.
+
+#### Originating Department
+
+Mayor's Office
+
+#### Staff Recommended Motion
+
+Approve reappointment. Due to Mr. Mayan's professional knowledge; he has been an exemplary Chair who conducts meetings fairly and efficiently.
+
+<a id="item-6-7"></a>
+### 6.7. City Commission approval is requested for the Mayor's reappointment of Michael Stellino to the Construction Board of Adjustment and Appeals for a term of three (3) years to expire on February 1, 2028. Mr. Stellino has served over the maximum allowed number of terms (3), and it is required that the City Commission confirms his reappointment.
+
+#### Originating Department
+
+Mayor's Office
+
+#### Staff Recommended Motion
+
+Approve reappointment. Mr. Stellino has been conscientious regarding his service and brings extensive professional experience to the Board.
+
+<a id="item-7"></a>
+## 7. CONSENT CALENDAR- ALL ITEMS WERE APPROVED.
+
+All items listed under the consent calendar are considered routine and will be enacted by one motion. There will be no separate discussion of these items.
+
+<a id="item-7-1"></a>
+### 7.1. Minutes of the Regular City Commission Meeting of December 9, 2024.
+
+#### Originating Department
+
+Mayor's Office
+
+
+City Commission - Jan 06 2025
+
+<a id="item-7-2"></a>
+### 7.2. Resolution No. 274-24 accepting a grant from the Florida Department of Transportation (FDOT) in the amount of $15,000 for litter prevention education through the Keep West Palm Beach Beautiful (KWPBB) program; and Resolution No. 279-24(F) recognizing and appropriating the grant funds in the Grant Programs Special Revenue Fund.
+
+#### Originating Department
+
+Public Works & Support Services
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 274-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, ACCEPTING A LITTER CONTROL AND PREVENTION GRANT FROM THE FLORIDA DEPARTMENT OF TRANSPORTATION IN THE AMOUNT OF $15,000 TO CONDUCT KEEP WEST PALM BEACH BEAUTIFUL ACTIVITIES; AUTHORIZING EXECUTION OF THE GRANT AGREEMENT; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+> RESOLUTION NO. 279-24(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2024/2025 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE GRANT PROGRAMS SPECIAL REVENUE FUND BUDGET TO RECOGNIZE A GRANT FROM THE FLORIDA DEPARTMENT OF TRANSPORTATION FOR LITTER PREVENTION AND CONTROL PROGRAMS AND TO PROVIDE APPROPRIATIONS FOR THE KEEP WEST PALM BEACH BEAUTIFUL PROGRAM; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+The Florida Legislature has appropriated $800,000 in Fiscal Year 2024/2025 to the Department of Transportation in order to provide funding for litter prevention and control programs through certified Keep America Beautiful (“KAB”) Affiliates at the local level.
+
+Keep West Palm Beach Beautiful, established by the City in February 2022, is a certified affiliate of Keep America Beautiful.
+
+The Florida Department of Transportation (FDOT) awarded grant funding to Keep West Palm Beach Beautiful/City of West Palm Beach, in an amount of up to $15,000 to be used to reimburse costs for litter prevention and control programs.
+
+The City will provide an equal match in the amount of $15,000 for litter
+
+
+City Commission - Jan 06 2025
+
+prevention and control programs. The City's grant match will be in the form of equivalent volunteer hours for the Keep West Palm Beach Beautiful Program.
+
+Resolution No. 274-24 accepts the grant agreement between FDOT and Keep West Palm Beach Beautiful.
+
+Resolution No. 279-24(F) recognizes and appropriates the grant funding.
+
+#### Fiscal Note
+
+Approval of this item will accept and recognize the grant award and provide appropriations in the amount of $15,000 toward the Keep West Palm Beach Beautiful Program.
+
+<a id="item-7-3"></a>
+### 7.3. Resolution No. 283-24 accepting a grant from the Firehouse Subs Public Safety Foundation in the amount of $18,014 to purchase sixteen (16) MSA gas detectors, three (3) bottles of calibration gas, and three (3) fill regulators; and Resolution No. 2-25(F) recognizing receipt of funds and providing appropriations for the purchase of fire equipment.
+
+#### Originating Department
+
+Fire
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 283-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, ACCEPTING A GRANT IN THE AMOUNT OF $18,014 FROM FIREHOUSE SUBS PUBLIC SAFETY FOUNDATION TO BE USED TO PURCHASE GAS DETECTORS, CALIBRATION GAS AND REGULATORS FOR FIREFIGHTER USE; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+> RESOLUTION NO. 2-25(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2024-2025 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE DONATION FUND BUDGET TO RECOGNIZE A DONATION FROM THE FIREHOUSE SUBS PUBLIC SAFETY FOUNDATION TO PROVIDE APPROPRIATIONS FOR FIRE EQUIPMENT; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+The Firehouse Subs Public Safety Foundation's mission is to assist organizations and Fire Departments with funding that can improve the lifesaving capabilities of their community.
+
+
+City Commission - Jan 06 2025
+
+The City of West Palm Beach Fire Department has been selected as a grant recipient. This will be the first year that the Fire Department has participated and received the grant.
+
+The West Palm Beach Fire Department (WPBFD) is accepting a grant awarded from Firehouse Subs Public Safety in the amount of $18,014 to supply the department with sixteen (16) MSA gas detectors, three (3) bottles of calibration gas, and three (3) fill regulators.
+
+These items will enhance and support the fire safety of the responding firefighters and protect them from unseen hazards and injuries.
+
+Resolution No. 283-24 accepts the Grant Award and approves the Memorandum of Understanding for the grant.
+
+Resolution No. 2-25(F) recognizes the funding and provides appropriations for the purchase of sixteen (16) MSA gas detectors, three (3) bottles of calibration gas, and three (3) fill regulators valued up to $18,014.
+
+#### Fiscal Note
+
+Approval of this item will accept and provide appropriations in the amount of $18,014 for the purchase of fire equipment.
+
+<a id="item-7-4"></a>
+### 7.4. Resolution No. 285-24 accepting a 2024-2025 Florida Firefighter Cancer Decontamination Equipment Grant Award of $14,896 from the Florida Department of Financial Services for the purchase of 133 pairs of gloves; and Resolution No. 8-25(F) recognizing receipt of funds and providing appropriations for the purchase of fire equipment.
+
+#### Originating Department
+
+Fire
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 285-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, ACCEPTING A GRANT FROM THE FLORIDA DEPARTMENT OF FINANCIAL SERVICES UNDER THE FIREFIGHTER CANCER DECONTAMINATION EQUIPMENT PROGRAM IN THE AMOUNT OF $14,896 TO PURCHASE ONE HUNDRED THIRTY THREE (133) PAIRS OF GLOVES; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+> RESOLUTION NO. 8-25(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA,
+
+
+City Commission - Jan 06 2025
+
+#### AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY
+
+#### FUNDS IN FISCAL YEAR 2024-2025 IN ACCORDANCE WITH
+
+#### SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM
+
+#### BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE
+
+#### GENERAL AND GRANT PROGRAMS SPECIAL REVENUE FUND
+
+#### BUDGETS TO PROVIDE FOR THE RECEIPT OF THE FLORIDA
+
+#### FIREFIGHTER CANCER DECONTAMINATION EQUIPMENT GRANT
+
+#### AND MATCHING CITY FUNDS TO PROVIDE APPROPRIATIONS FOR
+
+#### THE PURCHASE OF GLOVES; PROVIDING AN EFFECTIVE DATE;
+
+#### AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+The State of Florida, Department of Financial Services, Division of State Fire Marshal, has awarded the City of West Palm Beach Fire Department a Firefighter Cancer Decontamination Grant in the amount of $14,896 for the purchase of one hundred thirty-three (133) pairs of gloves.
+
+As a condition of the grant, the City of West Palm Beach is required to contribute 25% of the purchase amount. The City match amount is $3,724. The total amount including the award and match is $18,620.
+
+Resolution No. 285-24 accepts the Grant award.
+
+Resolution No. 8-25(F) recognizes the funding and provides appropriations for the purchase of one hundred thirty-three (133) pairs of gloves.
+
+#### Fiscal Note
+
+Approval will recognize grant and City-match proceeds to provide appropriations for the purchase of gloves.
+
+<a id="item-7-5"></a>
+### 7.5. Resolution No. 277-24 authorizing the acceptance of supplemental funding from the Florida Department of Law Enforcement (FDLE) under the Drone Replacement Program, increasing total funding not to exceed $200,000; and Resolution No. 278-24(F) to accept funding and provide budget appropriation in the amount of $200,000 to offset the eligible amount of replacement costs for eight (8) drones.
+
+#### Originating Department
+
+Police
+
+#### Ordinance/Resolution
+
+#### RESOLUTION NO: 277-24:A RESOLUTION OF THE CITY
+
+#### COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA,
+
+#### ACCEPTING SUPPLEMENTAL GRANT FROM THE FLORIDA
+
+#### DEPARTMENT OF LAW ENFORCEMENT DRONE REPLACEMENT
+
+#### PROGRAM INCREASING TOTAL GRANT FUNDS TO AN AMOUNT OF
+
+
+City Commission - Jan 06 2025
+
+#### $200,000 FOR THE PURCHASE OF DRONES WHICH MEET
+
+#### SECURITY STANDARDS; PROVIDING FOR AN EFFECTIVE DATE;
+
+#### AND FOR
+
+#### OTHER
+
+#### PURPOSES.
+
+#### RESOLUTION NO: 278-24(F): A RESOLUTION OF THE CITY
+
+#### COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA,
+
+#### AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY
+
+#### FUNDS IN FISCAL YEAR 2024/2025 IN ACCORDANCE WITH
+
+#### SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM
+
+#### BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE GRANT
+
+#### PROGRAMS SPECIAL REVENUE FUND BUDGET TO PROVIDE
+
+#### APPROPRIATIONS IN THE AMOUNT OF $200,000 FROM FLORIDA
+
+#### DEPARTMENT OF LAW ENFORCEMENT UNDER THE DRONE
+
+#### REPLACEMENT PROGRAM; PROVIDING AN EFFECTIVE DATE; AND
+
+#### FOR OTHER PURPOSES.
+
+#### Background Information
+
+The West Palm Beach Police Department started a patrol-based drone program in 2017 with DJI drones. Over the course of this program, approximately $35,000 was spent by the Police Department purchasing DJI drones.
+
+According to the State of Florida, DJI is not an approved manufacturer of drones. Once the restrictions contained in FSS 934.50 went into effect, the Police Department’s drone program was grounded.
+
+The Florida Legislature amended Section 934.50, Florida Statutes during the 2022 session. By July 1, 2022, governmental agencies using any drone not produced by an approved manufacturer must implement a plan to discontinue the use of such drone by January 1, 2023.
+
+In 2023, the State of Florida allocated $25 million dollars to serve as a reimbursement fund to be distributed to law enforcement agencies to help in replacement of prohibited drones and designated FDLE to be the program administrator. This program is titled the Drone Replacement Program. The 2023 program specifically required drones to be surrendered to the state in exchange for a reimbursement cost, which was prorated based on the life and flight hours of the drone being turned in. The Police Department took part in this program under City Contract # 31996. As a participant, the City received a reimbursement of $22,722.74 in FY2024.
+
+In the 2024 legislative session, the State program was revised from reimbursement cost to replacement cost, up to $25,000 per drone. This resulted in FDLE issuing a grant supplemental funding and extension agreement and grant amendment on July 24, 2024, that increased the funding for the three surrendered drones to $75,000. This amendment approved an additional $52,277.26 towards the three drones surrendered
+
+
+City Commission - Jan 06 2025
+
+under Contract # 31996.
+
+The revised program also allowed for additional drones to be turned in for replacement cost. An additional five (5) DJI drones that had been retained for training were surrendered, and an additional $125,000 was allocated to the West Palm Beach Police Department. This supplemental funding and extension agreement increased the total grant award to $200,000 for the purchase of eight (8) drones.
+
+Budget appropriations are necessary to allow for the purchase of new drones and to recognize the revenue offset from the grant award.
+
+This grant is hereby reinstated effective July 1, 2024.
+
+This grant is hereby extended through June 30, 2025.
+
+Note: The annual costs for the required software are currently funded from State Asset Forfeiture Funds [Resolution No. 74-24(F)] and CRA technology budget allocations.
+
+<a id="item-7-6"></a>
+### 7.6. Resolution No. 11-25(F) amending the Fiscal Year 2024/2025 Miscellaneous Trust Fund Budget to authorize appropriations of $10,960 from the State Law Enforcement Forfeiture Receipts for upgrading the dispatch operations radio channel recording system.
+
+#### Originating Department
+
+Police
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 11-25(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2024/2025 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE MISCELLANEOUS TRUST FUND BUDGET TO PROVIDE APPROPRIATIONS FROM THE STATE LAW ENFORCEMENT FORFEITURE RECEIPTS IN THE AMOUNT OF $10,960 FOR UPGRADING THE POLICE DISPATCH OPERATIONS CHANNEL RECORDING SYSTEM; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+Pursuant to the Florida Contraband Forfeiture Act, any local law enforcement agency that acquires at least $15,000 within a fiscal year must expend or donate no less than 25 percent (25%) of such proceeds.
+
+These funds may be expended upon request by the Chief of Police to the City Commission and upon appropriation to the Police Department's miscellaneous trust fund. Such funds may be used only for school
+
+
+City Commission - Jan 06 2025
+
+resource officers, crime prevention, safe neighborhoods, drug abuse education, drug prevention programs, or such other law enforcement purposes as the governing body of the municipality deems appropriate.
+
+Asset forfeiture is a powerful tool that provides valuable resources to state and local law enforcement that may not have otherwise been available. Staff reviews the permissible uses of similarly obtained federal funds in order to provide guidance for the Chief and Commission on such decisions. Equitably shared funds must be used in accordance with the statutes and guidelines that govern the federal equitable sharing program as set forth in the current edition of the Department of Justice's Guide to Equitable Sharing (Justice Guide).
+
+The State Forfeiture funds requested comply with the permissible use reporting category identified as law enforcement operations and investigations.
+
+The State Law Enforcement Trust Fund expenditure of $10,960, which the Chief of Police certifies is in compliance with Section 932.7055(5)(a), Florida Statutes, will be used for upgrading the police dispatch operations radio channel recording system. There are currently 53 talk group channels on the system and only 20 channels are recorded. The funds will allow the remaining 33 channels to be recorded for law enforcement and administrative purposes.
+
+#### Fiscal Note
+
+Resolution No. 11-25(F) allows for the forfeiture funds to be utilized for upgrades to police dispatch operations.
+
+<a id="item-7-7"></a>
+### 7.7. Resolution No. 293-24 will correct Resolution No. 260-24 due to a Scrivener's error to approve Ad Valorem Tax Exemption - Completed Work Application for the property located at 201 Monceaux Road.
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 293-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, CORRECTING RESOLUTION NO. 260-24 BY GRANTING AN AD VALOREM TAX EXEMPTION FOR THE PROPERTY LOCATED AT 201 MONCEAUX ROAD, WEST PALM BEACH, FLORIDA, AS A RESULT OF THE HISTORIC REHABILITATION OF THE PROPERTY; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+Resolution No. 293-24 will correct Resolution No. 260-24 due to a Scrivener's error.
+
+
+City Commission - Jan 06 2025
+
+At the September 24, 2024 meeting, the Historic Preservation Board (HPB) reviewed and recommended approval of the Completed Work Application for the property at 201 Monceaux Road.
+
+The HPB determined that the improvements to the historic property were successfully completed according to the Secretary of the Interior's Standards for Rehabilitation. The defining architectural characteristics of the building were preserved, and new features were determined to be compatible.
+
+This property in the Prospect Park/Southland Park Historic District was built in 1925 and was known as the Harold Spencer House, which is a two-story vernacular contributing structure.
+
+Section 94-51 of the Code of Ordinances sets forth an Ad Valorem Tax Exemption program for historic properties. The program permits a ten (10) year Ad Valorem Tax Exemption for improvements made to historic properties. To qualify, the property must be designated as an individual site, or as a contributing property within a historic district in the Local and/or National Registers of Historic Places. The property owner is required to apply for the program before improvements are initiated and again after the project is completed. The exemption is given for the City's and County's portion of taxes associated with the increased value of the property due to the improvements.
+
+Significant improvements to the property include a complete rehabilitation of the structure including new interiors resulting in a significant improvement in the condition of the building. The applicant estimates the work to total $534,000.
+
+The State Legislation allowing this exemption requires that the Commission approve the final application. After the Commission's approval, the information will be forwarded to the Palm Beach County Property Appraiser's office for implementation for the tax year of January 1, 2025 to December 31, 2034.
+
+#### Commission District
+
+5: Commissioner Christina Lambert.
+
+
+<a id="item-7-8"></a>
+### 7.8. Resolution No. 294-24 to correct Resolution No. 263-24 due to a Scrivener's error to approve Ad Valorem Tax Exemption - Completed Work Application for the property located at 211 Edgewood Drive.
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 294-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, CORRECTING RESOLUTION NO. 263-24 BY GRANTING AN AD
+
+
+City Commission - Jan 06 2025
+
+#### VALOREM TAX EXEMPTION FOR THE PROPERTY LOCATED AT 211
+
+#### EDGEWOOD DRIVE, WEST PALM BEACH, FLORIDA, AS A RESULT
+
+#### OF THE HISTORIC REHABILITATION OF THE PROPERTY;
+
+#### PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+Resolution No. 294-24 to correct Resolution No. 263-24 due to a Scrivener's error.
+
+At the May 29, 2024 meeting, the Historic Preservation Board (HPB) reviewed and recommended approval of the Completed Work Application for the property at 211 Edgewood Drive. The HPB determined that the improvements to the historic property were successfully completed according to the Secretary of the Interior's Standards for Rehabilitation.
+
+The defining architectural characteristics of the building were preserved, and new features were determined to be compatible.
+
+This property in the Prospect Park/Southland Park Historic District was built in 1941 and was known as the Ralph & Maude Hart House is a Frame Vernacular contributing structure.
+
+Section 94-51 of the Code of Ordinances sets forth an Ad Valorem Tax Exemption program for historic properties. The program permits a ten (10) year Ad Valorem Tax Exemption for improvements made to historic properties. To qualify, the property must be designated as an individual site, or as a contributing property within a historic district in the Local and/or National Registers of Historic Places. The property owner is required to apply for the program before improvements are initiated and again after the project is completed. The exemption is given for the City's and County's portion of taxes associated with the increased property value due to the improvements.
+
+Significant improvements to the property include a complete rehabilitation of the structure, including new interiors, resulting in a significant improvement in the condition of the building. The applicant estimates the work to total $710,716.
+
+The State Legislation allowing this exemption requires that the Commission approve the final application. After the Commission's approval, the information will be forwarded to the Palm Beach County Property Appraiser's office for implementation commencing on January 1, 2025, and expiring on December 31, 2034.
+
+#### Commission District
+
+5: Commissioner Christina Lambert.
+
+
+<a id="item-7-9"></a>
+### 7.9. Resolution No. 295-24 will correct Resolution No. 261-24 due to a Scrivener's error to approve Ad Valorem Tax Exemption - Completed Work Application for the property located at 318 Monroe Drive. City Commission - Jan 06 2025
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 295-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, CORRECTING RESOLUTION NO. 261-24 BY GRANTING AN AD VALOREM TAX EXEMPTION FOR THE PROPERTY LOCATED AT 318 MONROE DRIVE, WEST PALM BEACH, FLORIDA, AS A RESULT OF THE HISTORIC REHABILITATION OF THE PROPERTY; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+Resolution No. 295-24 to correct Resolution No. 261-24 due to a Scrivener's error.
+
+At the February 27, 2024 meeting, the Historic Preservation Board (HPB) reviewed and recommended approval of the Completed Work Application for the property at 318 Monroe Drive. The HPB determined that the improvements to the historic property were successfully completed according to the Secretary of the Interior's Standards for Rehabilitation.
+
+The defining architectural characteristics of the building were preserved, and new features were determined to be compatible.
+
+This property in the Prospect Park/Southland Park Historic District was built in 1947 and is a Colonial Revival contributing structure.
+
+Section 94-51 of the Code of Ordinances sets forth an Ad Valorem Tax Exemption program for historic properties. The program permits a ten (10) year Ad Valorem Tax Exemption for improvements made to historic properties. To qualify, the property must be designated as an individual site, or as a contributing property within a historic district in the Local and/or National Registers of Historic Places. The property owner is required to apply for the program before improvements are initiated and again after the project is completed. The exemption is given for the City's and County's portion of taxes associated with the increased property value due to the improvements.
+
+Significant improvements to the property include a complete rehabilitation of the structure, including new interiors, resulting in a significant improvement in the condition of the building. The applicant estimates the work to total $384,500.
+
+The State Legislation allowing this exemption requires that the Commission approve the final application. After the Commission's approval, the information will be forwarded to the Palm Beach County Property Appraiser's office for implementation, commencing on January 1, 2025, and expiring December 31, 2034.
+
+
+City Commission - Jan 06 2025
+
+#### Commission District
+
+5: Commissioner Christina Lambert.
+
+
+<a id="item-7-10"></a>
+### 7.10. Resolution No. 296-24 will correct Resolution No. 262-24 due a to Scrivener's error to approve Ad Valorem Tax Exemption - Completed Work Application for the property located at 432 Ardmore Road.
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 296-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, CORRECTING RESOLUTION NO. 262-24 BY GRANTING AN AD VALOREM TAX EXEMPTION FOR THE PROPERTY LOCATED AT 432 ARDMORE ROAD, WEST PALM BEACH, FLORIDA, AS A RESULT OF THE HISTORIC REHABILITATION OF THE PROPERTY; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+Resolution No. 296-24 will correct Resolution No. 262-24 due to a Scrivener's error.
+
+At the September 24, 2024 meeting, the Historic Preservation Board (HPB) reviewed and recommended approval of the Completed Work Application for the property at 432 Ardmore Road. The HPB determined that the improvements to the historic property were successfully completed according to the Secretary of the Interior's Standards for Rehabilitation. The building's defining architectural characteristics were preserved, and new features were determined to be compatible.
+
+This property in the Sunshine Park Historic District was built in 1925 and is known as the Karl Riddle House, a two-story Mediterranean Revival contributing structure that historically served as a single-family home.
+
+While it was used as the City of West Palm Beach’s Health Clinic in its former location, the current owners have rehabilitated it back into a single-family house.
+
+Section 94-51 of the Code of Ordinances sets forth an Ad Valorem Tax Exemption program for historic properties. The program permits a ten (10) year Ad Valorem Tax Exemption for improvements made to historic properties. To qualify, the property must be designated as an individual site, or as a contributing property within a historic district in the Local and/or National Registers of Historic Places. The property owner is required to apply for the program before improvements are initiated and again after the project is completed. The exemption is given for the City's and County's portion of taxes associated with the increased value of the property due to the improvements.
+
+
+City Commission - Jan 06 2025
+
+Significant improvements to the property include a complete rehabilitation of the structure including new interiors resulting in a significant improvement in the condition of the building. The applicant estimates the work to total $293,038.
+
+The State Legislation allowing this exemption requires that the Commission approve the final application. After the Commission's approval, the information will be forwarded to the Palm Beach County Property Appraiser's office for implementation commencing on January 1, 2025 and expiring on December 31, 2034.
+
+#### Commission District
+
+5: Commissioner Christina Lambert.
+
+
+<a id="item-7-11"></a>
+### 7.11. Resolution No. 12-25 approving a Right-of-Way Improvement and Maintenance Agreement with KJWPB1, LLC for the maintenance of the landscape improvements within the rights-of-way adjacent to the Tortoise One development.
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 12-25: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, CONSENTING TO THE INSTALLATION OF IMPROVEMENTS WITHIN THE PUBLIC RIGHTS-OF-WAY OF EUCALYPTUS STREET AND 8TH STREET, ADJACENT TO THE TORTOISE ONE DEVELOPMENT; APPROVING A PROPERTY IMPROVEMENT & MAINTENANCE AGREEMENT BETWEEN KJWPB1, LLC AND THE CITY OF WEST PALM BEACH; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+The City Commission of the City of West Palm Beach, Florida, is the governing body of the City and has plenary authority of the roads, alleys and rights-of-way within the City street system. The City generally maintains the City rights-of-way platted or dedicated for public use.
+
+KJWPB1, LLC, a Delaware limited liability company, is developing a residential apartment project known as “Tortoise One” located at 740-840 N. Dixie Highway, West Palm Beach, Florida (the “Project”). The Project features the installation of the specialized landscape and irrigation and all hardscape (the “Improvements”), including but not limited to, pavers, landscaping, street trees, irrigation, landscape up lighting, bench(es), trash receptacle(s), and bike rack(s) within the adjacent Eucalyptus Street and 8th Street, which will encroach upon a public rights-of-way.
+
+KJWPB1, LLC agrees to assume all maintenance obligations for the improvements installed for the Project; and
+
+
+City Commission - Jan 06 2025
+
+Resolution No. 12-25 approves the improvement and maintenance agreement with KJWPB1, LLC setting forth the responsibilities of each party concerning the maintenance of the improvements.
+
+#### Commission District
+
+3: Commissioner Christy Fox.
+
+
+<a id="item-7-12"></a>
+### 7.12. Resolution No. 7-25 approving and authorizing the Mayor to sign a Grant Agreement between the City of West Palm Beach and Scuba Club WPB, LLC., in the amount of $50,000, for improvements to Osprey Park located at 5026 North Flagler Drive, West Palm Beach Florida.
+
+#### Originating Department
+
+Parks and Recreation
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 7-25: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING AND AUTHORIZING THE MAYOR TO SIGN A GRANT AGREEMENT BETWEEN THE CITY OF WEST PALM BEACH AND SCUBA CLUB WPB, LLC., IN THE AMOUNT OF $50,000, FOR IMPROVEMENTS TO OSPREY PARK; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+On August 19, 2024, the City Commission approved Resolution No. 15224(F) accepting a donation from the SCUBA CLUB WPB, LLC, dba ALBA Palm Beach In the amount of $50,000, for improvements to Osprey Park.
+
+The purpose of the donation is to provide improvements to Osprey Park, located at 5026 North Flagler Drive, including, but not limited to, the installation of security cameras within the park. The Northwood Harbor Neighborhood Association supports this activity and the City will be responsible for the installation.
+
+Parks and Recreation staff recommends approval of Resolution No. 7-25.
+
+#### Commission District
+
+1: Commissioner Cathleen Ward.
+
+#### Fiscal Note
+
+Grant appropriations were recognized per Resolution No. 152-24(F). The budget will be made available through carryforward.
+
+<a id="item-7-13"></a>
+### 7.13. Resolution No. 15-25(F) authorizing the appropriation or transfer of funds in the amount of $22,289,686 in Fiscal Year 2024-2025 for the purpose of amending the grant capital project fund budget to re-establish various capital grant fund budgets. City Commission - Jan 06 2025
+
+#### Originating Department
+
+Engineering
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 15-25(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF FUNDS IN FISCAL YEAR 2024-2025 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE GRANT CAPITAL PROJECT FUND BUDGET TO RE-ESTABLISH VARIOUS CAPITAL GRANT FUND BUDGETS; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Background Information
+
+Grant Capital Project Fund 399 funds were not all carried forward starting in FY 2022-2023 due to pending reconciliation issues for managing specific grant funds. The reconciliation was completed and it was determined that in order to re-establish the appropriate funding accounts for the various grant-funded projects, an F-Resolution would need to be taken to the City Commission for approval of the amendment to the 399 Grant Capital Project Fund.
+
+Resolution No. 15-25(F) re-establishes the grant funding totaling $22,289,686 in the FY 2024-2025 budget for:
+- CDBG Mitigation grants for Fire Station Hardening at Fire Stations No. 5 and No. 6;
+
+- Federal Highway Administration grant for Northmore Elementary neighborhood sidewalks;
+
+- CDBG Mitigation grant for the Currie Park project; and
+
+- Florida Department of Environmental Protection grant for the Currie Park Project.
+
+These grant projects are located in:
+
+#### Commission District
+
+1: Commissioner Cathleen Ward
+
+#### Commission District
+
+3: Commissioner Christy Fox
+
+
+#### Fiscal Note
+
+Approval will re-establish the budget for prior year grant funding for various capital grant projects.
+
+
+City Commission - Jan 06 2025
+
+<a id="item-8"></a>
+## 8. RESOLUTIONS- ALL ITEMS WERE APPROVED.
+
+<a id="item-8-1"></a>
+### 8.1. Resolution No. 292-24 approving an Agreement for Updated Disparity Study with Griffin & Strong, P.C.; and Resolution No. 290-24(F) approving the use of General Fund Contingency in the amount of $60,198 to provide additional appropriations to fund the Disparity Analysis Study.
+
+#### Originating Department
+
+Mayor's Office
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 292-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING A CONTRACT WITH GRIFFIN & STRONG TO PERFORM A DISPARITY ANALYSIS OF THE IMPACT OF THE CITY’S MINORITY AND WOMAN-OWNED BUSINESS ENTERPRISE PROGRAM; PROVIDING FOR AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+> RESOLUTION NO. 290-24(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2024/2025 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE GENERAL FUND BUDGET TO APPROVE THE USE OF GENERAL FUND CONTINGENCY TO PROVIDE APPROPRIATIONS FOR A DISPARITY ANALYSIS STUDY; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Resolution No. 292-24 and Resolution No. 290-24(F).
+
+#### Background Information
+
+The United States Supreme Court affirmed, in the City of Richmond v.
+
+J.A. Croson Co., 488 U.S. 469 (S. Ct. 1989), that, pursuant to the Fourteenth Amendment, a local government may take action, in the form of a race-conscious minority business program to rectify the effects of systemic racial discrimination in awarding contracts, provided that the local government must first demonstrate statistically significant underutilization of available minority and woman-owned businesses. The Supreme Court also held that in certain circumstances, a gender-biased program can be justified if it intentionally and directly assists the members of that sex who are disproportionately burdened. The Supreme Court established that any race and gender-conscious contracting program must be narrowly tailored to address the specific discrimination found to exist.
+
+
+City Commission - Jan 06 2025
+
+A disparity study provides evidence of statistically significant underutilization of available small and minority-owned businesses in the award of certain types of City contracts.
+
+Based on the evidence of statistically significant underutilization of certain available minority and woman-owned businesses for certain types of procurement, as identified in the City’s original disparity study, the City, created its Minority/Women Business Enterprise Ordinance, (“MWBE Ordinance”).
+
+Pursuant to Section 66-273 of the City Code, a disparity analysis should be performed every five to seven years to determine program success or necessary program revisions. Accordingly, the City should have an updated disparity study performed.
+
+In April 2024, Resolution No. 61-24 approved the retention of a consultant to conduct a current disparity analysis of the utilization of available M/WBE's in the award of City procurements. The City obtained a proposal to perform the analysis for an updated disparity study from Griffin & Strong, who has been selected to update the County's disparity study under a County competitive procurement process.
+
+Resolution No. 292-24 authorizes the contract with Griffin & Strong, P.C. to update the City's disparity study analysis and make any recommendations for revisions to the City's MWBE program based on such analysis.
+
+Resolution No. 76-24(F), approved in April 2024, appropriated the amount of $300,000 for the Disparity Analysis Study.
+
+The proposal provided by Griffin & Strong, P.C. establishes a fee $360,198 to collect and review the data, perform analyses, prepare an updated disparity study and make any recommendations for program changes. Accordingly, additional funding of $60,198 is necessary to move forward with initiating the study.
+
+Resolution No. 290-24(F) will authorize the use of General Fund Contingency to provide appropriations in the amount of $60,198 for the Disparity Analysis Study.
+
+#### Fiscal Note
+
+Approval will recognize the use of General Fund Contingency to provide additional appropriations in the amount of $60,198 to fund a Disparity Analysis Study.
+
+
+City Commission - Jan 06 2025
+
+<a id="item-8-2"></a>
+### 8.2. Resolution No. 9-25 amending the original North Railroad Avenue streetscape design concept approved by Resolution No. 29-22, specifically to include wayfinding, parking, directional, and other NORA district signage within the public right-of-way.
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 9-25: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AMENDING
+
+> RESOLUTION NO. 29-22 TO AMEND THE DESIGN FEATURES OF THE STREETSCAPE WITH THE NORTH RAILROAD AVENUE (NORA) SUBDISTRICT TO INCLUDE A SIGNAGE PLAN; PROVIDING AN EFFECTIVE DATE, AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Resolution No. 9-25.
+
+#### Background Information
+
+On February 22, 2022, the City Commission heard and approved Resolution No. 29-22, which included a change to the face of the City and proposed a conceptual design for the above-ground streetscape, landscape, and public realm improvements along the North Railroad Avenue (NORA) corridor, spanning from 7th Street to 10th Street. These improvements included: a reduction in travel lane width, sidewalk widening, addition of new landscape beds and street trees, removal/reallocation of on-street parking, new hardscaping, the addition of streetscape fixtures/lightning/furniture, and a curbless street design.
+
+This project by the NORA development team (Place Projects & NDT Development) is currently under construction with much of the underground utility work being completed and surface-level improvements are actively being integrated or installed.
+
+As such, the City's Planning & Engineering staff received a formal application and request on October 10, 2024, from Damien Barr & Margarita Ramirez of NDT Development, on behalf of N. Railroad Commercial LLC to amend the previous 'Face of the City' design approval in order to incorporate a missing signage element to the NORA subdistrict. This proposal includes NORA-specific wayfinding, parking, directional, and other district signage within the public right-of-way to help guide residents and visitors.
+
+The request went before the Downtown Action Committee (DAC) on November 13, 2024, and received a recommendation of approval with conditions; passing with a final vote of 5-0 in favor.
+
+Resolution No. 9-25 amends the streetscape design to include the NORA
+
+
+City Commission - Jan 06 2025
+
+Master Signage Program, as presented to the City Commission.
+
+#### Commission District
+
+3: Commissioner Christy Fox.
+
+#### Fiscal Note
+
+No fiscal impact. No City funds are involved in this project.
+
+<a id="item-8-3"></a>
+### 8.3. Resolution No. 17-25 approving a Contribution Agreement with the West Palm Beach Community Redevelopment Agency (CRA) regarding a funding contribution for the Currie Park Redevelopment Project; and Resolution No. 16-25(F) approving the appropriation or transfer of City funds in Fiscal Year 2024/2025 for the purpose of amending the Capital Acquisition fund budget to provide additional appropriations for the Currie Park Redevelopment project; and Resolution No. 18-25 approving the construction contract with West Construction for the Currie Park Redevelopment Project.
+
+#### Originating Department
+
+Engineering
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 17-25: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING A CONTRIBUTION AGREEMENT BETWEEN THE CITY OF WEST PALM BEACH AND THE WEST PALM BEACH COMMUNITY REDEVELOPMENT AGENCY (CRA) FOR THE CURRIE PARK REDEVELOPMENT PROJECT; PROVIDING FOR AN EFFECTIVE DATE; AND OTHER PURPOSES.
+
+> RESOLUTION NO. 16-25(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2024/2025 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE CAPITAL ACQUISITION FUND BUDGET TO PROVIDE ADDITIONAL APPROPRIATIONS FOR THE CURRIE PARK REDEVELOPMENT PROJECT; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+> RESOLUTION NO. 18-25: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING A CONSTRUCTION CONTRACT WITH WEST CONSTRUCTION, INC., FOR THE CURRIE PARK REDEVELOPMENT PROJECT; PROVIDING FOR AN EFFECTIVE DATE; AND OTHER PURPOSES.
+
+
+City Commission - Jan 06 2025
+
+#### Staff Recommended Motion
+
+Approve Resolution No. 17-25, Resolution No. 16-25(F), and Resolution No. 18-25.
+
+#### Background Information
+
+The City of West Palm Beach and the West Palm Beach Community Redevelopment Agency (CRA) are working collaboratively to refurbish and enhance Currie Park.
+
+Amendment No. 20 to the CRA’s Strategic Finance Plans for the Northwood/Pleasant City CRA District identifies the Currie Park rehabilitation project as a key strategic project for this District in order to encourage redevelopment.
+
+Located in the Currie Corridor of the CRA, the 13-acre waterfront park is currently approved and funded for $27.7 million in renovations.
+
+Renovations include enhanced green space, tennis and pickleball courts, fitness/walking trails, a one-acre playground area, a kayak/paddle board launch area, a resiliency hub, and a cafe opportunity.
+
+On June 25, 2024, the City advertised the Invitation to Bid (ITB) for the Currie Park Redevelopment Project (Project). The ITB was advertised for over 18 weeks closing on November 1, 2024. At the time of closing, three (3) companies responded to the ITB. Upon review of the bids by City staff and Chen Moore Associates (CMA), the Project designer, it was determined that West Construction was the lowest and most responsive bid totaling approximately $35,500,000 which was $7,800,000 over the City’s budget for the Park Project. In addition, City staff and CMA also advised that due to the potential of unforeseen conditions and the nature of construction projects in the region exceeding budget from inflationary price pressures, that an additional $2,200,000 should be allocated to the Park Project, bringing the funding need to a total of $10,000,000.
+
+Because the Currie Park Renovation Project is a key strategic project for the CRA, the CRA desires to assist with funding the Project. The West Palm Beach CRA has budgeted $1,869,114 for the Park Project this fiscal year. Applying these funds to the Park Project reduces the $10,000,000 funding need to $8,130,660. The City intends to use dollars that are available in other accounts to cover the $8,130,660 with an agreement from the CRA to make its contributions toward the Project funding over a time period not to exceed five (5) years. Beginning in Fiscal Year 2026 the CRA will allocate $1,510,295 annually. In addition, under the Currie Mixed Use District regulations, a Developer contribution is anticipated in 2028 totaling $3,600,000. Once paid, the Developer funds will also be used toward the CRA's contribution toward the Project costs. Lastly, the CRA maintains a “Reserve for Future Projects” amount each fiscal year.
+
+At the conclusion of each fiscal year, if the Reserve for Future Projects has any funding remaining, those dollars will be allocated to the CRA's
+
+
+City Commission - Jan 06 2025
+
+contribution in addition to the $1,510,295.
+
+The CRA's funding contribution toward the Project is expected to be fully paid before the end of Fiscal Year 2028.
+
+Under this funding scenario, the Currie Park Project is fully funded, and the construction contract can be issued.
+
+Resolution No. 17-25 approves the Contribution Agreement between the West Palm Beach CRA and the City of West Palm Beach related to the CRA's contribution to the Project funding.
+
+Resolution No. 16-25(F) approves the transfers to establish full funding for the project and the initial transfer from the CRA.
+
+Resolution No. 18-25 approves the construction contract with West Construction for the Project.
+
+The CRA companion item is Resolution No. 25-3.
+
+This project is in City Commission District 1: Commissioner Cathleen Ward.
+
+#### Fiscal Note
+
+The total contract cost and budget is $35.5M. Additionally funding established of $10M with initial transfer from CRA of $1,869,114 completed.
+
+<a id="item-9"></a>
+## 9. PUBLIC HEARING - QUASI-JUDICIAL- ITEM 9.1 WAS APPROVED. ITEM 9.2 WAS
+
+#### CONTINUED TO THE FEBRUARY 3, 2025, CITY COMMISSION MEETING.
+
+Disclosure of ex-parte communications, if any* Swearing-in of witnesses.
+
+<a id="item-9-1"></a>
+### 9.1. Public Hearing of Resolution No. 281-24: A request by Patricia Lentini, M. Troy Holloway and Ben Dolan of 2GHO, on behalf of Prime Development, LLC, for a Major Planned Development Amendment to the Prime Corner CPD, to amend the design guidelines and to allow for the construction of a 2,415 square-foot Chipotle restaurant, and for the construction of a 5,399 square-foot Chick-fil-A restaurant with drive-thru and vehicular surface parking areas.
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 281-24: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING A MAJOR AMENDMENT TO THE PRIME CORNER
+
+
+City Commission - Jan 06 2025
+
+#### COMMERCIAL PLANNED DEVELOPMENT (CPD) TO ALLOW FOR
+
+#### THE CONSTRUCTION OF A 2,415 SQUARE FOOT CHIPOTLE
+
+#### RESTAURANT, FOR THE CONSTRUCTION OF A 5,399 SQUARE
+
+#### FOOT CHICK-FIL-A RESTAURANT AND TO AMEND THE APPROVED
+
+#### DESIGN GUIDELINES; DECLARING THIS RESOLUTION CONSISTENT
+
+#### WITH THE COMPREHENSIVE PLAN OF THE CITY; PROVIDING AN
+
+#### EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve, with the condition that both drive-thru lanes remain operational at all times to avoid vehicle stacking. This motion is based upon the application submitted, the staff report, factual testimony, the recommendation of the Planning Board, and the findings that the petition meets the required standards of Section 94-32 and Section 94-35(c) of the City of West Palm Beach Zoning and Land Development Regulations (ZLDRs).
+
+#### Background Information
+
+#### BACKGROUND & ANALYSIS
+
+The subject property, the Prime Corner Commercial Planned Development (CPD), is located at the northwest corner of 45th Street and Military Trail and consists of ±9.84 acres.
+
+On December 15, 2020, the City Commission adopted Ordinance No. 4931-21, for the rezoning of the subject property from General Commercial (GC) to Commercial Planned Development (CPD), establishing the Prime Corner CPD. On February 8, 2021, the City Commission passed and adopted Resolution No. 9-21 for the development regulations and applicable conditions to the Prime Corner CPD and approval with conditions for a Site Plan with waivers (Reference: Ordinance No. 4931-21) for the redevelopment of the site to construct a Convenience Store (Wawa) with Motor Vehicle Fuel Sales establishment consisted of 16 fuel pumps, and the introduction of Design Guidelines for the PD (Resolution No. 9-21). On July 12, 2022, the City of West Palm Beach approved a minor subdivision (Replat) of real property for the creation of the plat entitled “Prime Corner” (Resolution No. 12822).
+
+The applicant is now seeking approval of a Major Planned Development Amendment to accommodate a new 5,399 square-foot Chick-fil-A restaurant with a drive-thru on the southwest side of the property, and a new 2,415 square-foot Chipotle restaurant with a drive-thru on the northeast side of the property. With the inclusion of the two (2) proposed restaurant buildings to the site, the property will be developed with two (2) restaurants with a drive-thru, and a 5,636 square-foot Wawa store with sixteen (16) fuel pumps, previously approved under Ordinance No. 493121. In order to address several City staff concerns regarding pedestrian
+
+
+City Commission - Jan 06 2025
+
+access, amenities and vehicle circulation throughout the site, the applicant has proposed improvements to the design guidelines as described below.
+
+#### DESIGN GUIDELINES
+
+As noted in the applicant’s Justification Statement, the development project will be treated as one cohesive site with no individual parcels proposed. The purpose of the amendment to the Prime Corner CPD Design Guidelines is to provide for a unified and attractive development by regulating the uses, site design, building placement, and architectural standards to ensure consistency and compatibility within the CPD and the surrounding area. For the purpose of consistency with the changes to the site, the applicant submitted minor amendments to the previously approved Design Guidelines to address key elements impacted by the changes on the site. The details regarding specific elements proposed for the amendment of the design guidelines are lined out in the Staff Report.
+
+#### MASTER DEVELOPMENT PLAN
+
+The revised Master Development Plan amends the framework for all future development within the CPD, including allocation and building size information for the uses within the development. The revised Master Development Plan and Level of Services (LOS) Analysis Summary Table for the CPD are provided in the attached Planning Board Report. The table below summarizes the proposed uses and building size information within the CPD.
+
+Use
+
+Table 1: Uses within the Prime Corner CPD Building (Square Feet)
+
+(WaWa) Convenience Store with Motor Vehicle Fuel Sales (Chick-fil-A) Fast Food Restaurant with Drive-through (Chipotle) Restaurant (Vacant Area / Future Development) General Commercial
+
+#### TOTAL:
+
+
+5,636 square feet 5,399 square feet 2,415 square feet 15,000 square feet 28,450 square feet
+
+The Master Development Plan illustrates three (3) access points into the development: One right-in and right-out access point will be provided just south of the proposed 2,415 square foot Chipotle restaurant, on Military Trail, and two (2) access points will be provided on 45th Street. The first access point along 45th Street, just west of the proposed WaWa development site will be a right-in and right-out only, and the second point on 45th Street will also be a right-in and right-out access located in between the areas allocated for the 5,399 square-foot Chick-fil-A fast food restaurant with drive-through, and 15,000 square feet area of General
+
+
+City Commission - Jan 06 2025
+
+Commercial use. According to documents provided by the applicant, the project has received approvals for the access points from both the Florida Department of Transportation (FDOT) and Palm Beach County.
+
+#### CONCLUSION
+
+It is staff’s professional opinion that the proposed development plan will be a significant improvement to the site that will also have a positive effect on future development in the area. The intent of the applicant is to create a cohesive site for a future development that provides unity through different architectural styles while maintaining consistency and compatible elements throughout the different uses proposed within the Commercial Planned Development (CPD).
+
+All buildings, including signage, landscaping and accesses are designed to create a welcoming sense of arrival and a cohesive character, while still allowing for a variety of uses and unique architectural expressions.
+
+The Development Services Department – Planning Division has found the request complies with the Site Design Qualitative Development Standards of Section 94-35(c) of the ZLDRs as outlined in Section V of the attached Staff Report, and therefore, staff is recommending approval, subject to the conditions contained herein, to be considered by the Planning Board.
+
+#### STANDARDS
+
+The Planning Division has determined that the Major Planned Development Amendment to the Prime Corner Commercial Planned Development meets all eight (8) of the amendment standards for amendments found in Section 94-32, and the standards for site plans found in Section 94-35 of the City of West Palm Beach Zoning and Land Development Regulations.
+
+Compliance with the above-referenced standards is detailed in the Planning Board Staff Report (Attachment I).
+
+#### PLANNING BOARD
+
+At their Public Hearing on November 19, 2024, the Planning Board recommended approval (7-0) with conditions of the Major Planned Development Amendment to the City Commission after determining it complies with the amendment standards found in Section 94-32 and Section 94-35(c) of the City of West Palm Beach Zoning and Land Development Regulations (ZLDRs).
+
+#### NOTICE
+
+Individual notices were mailed to all property owners within 500 feet of the
+
+
+City Commission - Jan 06 2025
+
+area covered by the Major Amendment. Signs for the Major Amendment were posted on the property on October 24, 2024.
+
+#### Commission District
+
+4: Commissioner Joseph Peduzzi.
+
+
+<a id="item-9-2"></a>
+### 9.2. Public Hearing of Resolution No. 1-25 regarding a request by Joe Verdone of Carlton Fields, on behalf of Flagler Residential, LLC, for the approval of a Major Planned Development Amendment to the 1309 South Flagler Drive Residential Planned Development (RPD) to modify waivers, development regulations, and to update various plan sheets based on the build-out of the site, and approving various easements and maintenance agreements.
+
+#### Originating Department
+
+Development Services
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 1-25: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING A MAJOR PLANNED DEVELOPMENT AMENDMENT TO THE 1309 SOUTH FLAGLER DRIVE RESIDENTIAL PLANNED DEVELOPMENT TO MODIFY WAIVERS, DEVELOPMENT REGULATIONS, AND TO UPDATE VARIOUS PLAN SHEETS BASED ON THE BUILD OUT OF THE SITE; DECLARING THIS RESOLUTION CONSISTENT WITH THE COMPREHENSIVE PLAN OF THE CITY; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+I move to continueconsideration of Resolution No. 1-25 to the commission meeting scheduled to begin at 5:00 p.m. on February 3, 2025, at the City of West Palm Beach City Hall Commission Chambers, 401 Clematis Street, West Palm Beach, Florida 33401.
+
+<a id="item-10"></a>
+## 10. COMMENTS FROM THE PUBLIC
+
+Public comments are limited to three (3) minutes. Anyone wishing to address the Commission should complete a "Comments by the Public" card and present it to the City Clerk prior to the Public Comments. When you are called to speak, please go to the podium and state your name and address for the record prior to addressing Commission. The Commission will not discuss the matter nor respond to the comment this evening. Comments made will become part of the record and may be addressed at a later date.
+
+<a id="item-11"></a>
+## 11. COMMENTS BY THE MAYOR AND CITY COMMISSIONERS
+
+
+<a id="item-12"></a>
+## 12. ADJOURNMENT- 6:22 P.M.
+
+*Pursuant to Resolution No. 179-95, adopted according to the provisions of Section 286.0115, Florida Statutes, members of the Commission shall disclose on the record: 1) ex-parte communications verbal or written; 2.) written communications shall be placed in the record; and 3) site visits, investigations, etc. shall be disclosed.
+
+
+City Commission - Jan 06 2025
+
+NOTICE: If any person decides to appeal any decision made by the City Commission at this meeting, that person will need a record of the proceedings, and that, for such purposes, may need to ensure that a verbatim records of the proceedings be made, which record includes the testimony and evidence upon which the appeal is based. The City of West Palm Beach does not prepare or provide such record.
