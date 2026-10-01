@@ -1,34 +1,44 @@
 # West Palm Beach civic wiki
 
-Small markdown wiki for **cross-linking** City Commission agenda items, ordinances, and projects across meeting dates. Source extracts live under `content/meetings/YYYY-MM-DD/`. Official PDFs stay on [wpb.org](https://www.wpb.org/Our-City/Meetings-Agendas).
+Cross-linked topic pages for City Commission ordinances, projects, and hearings. Source extracts live under `content/meetings/YYYY-MM-DD/`. Official PDFs stay on [wpb.org](https://www.wpb.org/Our-City/Meetings-Agendas).
 
-## How to use
+## Categories
 
-1. Prefer one topic page per enduring subject (ordinance family, capital project, recurring contract).
-2. On each topic page, list **Appearances** with relative links to meeting `agenda.md` / `summary.md` (and minutes when filed).
-3. Say what the agenda *scheduled* vs what minutes *recorded*. If you only have an agenda extract, label it clearly — do not invent decisions.
-4. Cite the official PDF URL on every factual claim that came from the city.
+| Tag | Meaning |
+|-----|---------|
+| `housing` | Housing |
+| `mobility` | Mobility |
+| `utilities` | Utilities |
+| `land-use` | Land use & zoning |
+| `budget` | Budget & taxes |
+| `public-safety` | Public safety |
+| `arts` | Arts & culture |
+| `education` | Schools & education |
+| `parks` | Parks & open space |
 
 ## Topic index
 
-| Topic | Page | Latest appearance |
-|-------|------|-------------------|
-| 2050 Mobility Plan & mobility fees | [topics/mobility-plan-2050.md](topics/mobility-plan-2050.md) | 2026-09-28 agenda (Ord. 5182-26, 2nd reading) |
-| Affordable housing inventory & surplus conveyances | [topics/affordable-housing-inventory.md](topics/affordable-housing-inventory.md) | 2026-03-30 Res. 75-26; 2026-04-13 Res. 77-26; 2026-05-26 Res. 123-26; 2026-09-28 agenda (Res. 205-26, 214-26) |
-| Forest Hill High / Winters Street vacation | [topics/forest-hill-winters-street.md](topics/forest-hill-winters-street.md) | 2026-09-28 agenda (Res. 208-26) |
-| Axon / police tech contracts | [topics/axon-police-tech.md](topics/axon-police-tech.md) | 2026-09-28 agenda (Res. 228-26) |
-| FY2027 budget & millage | [topics/fy2027-budget-millage.md](topics/fy2027-budget-millage.md) | 2026-07-16 NTE + 2026-09-08 tentative + 2026-09-23 final special agendas |
-| Commercial solid-waste franchises | [topics/commercial-solid-waste-franchises.md](topics/commercial-solid-waste-franchises.md) | 2026-09-28 agenda (Ord. 5184-26, 2nd reading) |
-| FPU natural-gas franchise (Ord. 5148-25) | [topics/fpu-natural-gas-franchise.md](topics/fpu-natural-gas-franchise.md) | 2026-03-30 1st reading; 2026-04-13 not approved; 2026-06-08 postponed; 2026-08-03 approved |
-| CityPlace CPD / Convention Center District (Ord. 5179-26) | [topics/cityplace-convention-center-district.md](topics/cityplace-convention-center-district.md) | 2026-08-31 pass/fail (2nd reading approved) |
-| Sign regulations rewrite (Ord. 5180-26) | [topics/sign-code-rewrite.md](topics/sign-code-rewrite.md) | 2026-08-31 pass/fail (2nd reading approved) |
+| Topic | Categories | Page |
+|-------|------------|------|
+| 2050 Mobility Plan & citywide mobility fees | `mobility`, `land-use` | [topics/mobility-plan-2050.md](topics/mobility-plan-2050.md) |
+| 5710 N. Haverhill annexation / Kolter | `land-use`, `housing` | [topics/haverhill-5710-annexation.md](topics/haverhill-5710-annexation.md) |
+| Affordable housing inventory & surplus conveyances | `housing`, `land-use` | [topics/affordable-housing-inventory.md](topics/affordable-housing-inventory.md) |
+| Axon Enterprise — police technology contracts | `public-safety`, `budget` | [topics/axon-police-tech.md](topics/axon-police-tech.md) |
+| CityPlace CPD — Convention Center District & Hotel II (Ord. 5179-26) | `land-use` | [topics/cityplace-convention-center-district.md](topics/cityplace-convention-center-district.md) |
+| Commercial solid-waste collection franchises | `utilities` | [topics/commercial-solid-waste-franchises.md](topics/commercial-solid-waste-franchises.md) |
+| Forest Hill High — Winters Street vacation | `land-use`, `education` | [topics/forest-hill-winters-street.md](topics/forest-hill-winters-street.md) |
+| FPU natural-gas franchise (Ord. 5148-25) | `utilities` | [topics/fpu-natural-gas-franchise.md](topics/fpu-natural-gas-franchise.md) |
+| FY2027 budget & millage | `budget` | [topics/fy2027-budget-millage.md](topics/fy2027-budget-millage.md) |
+| Greene School CPD (Ord. 5169-26 / Res. 103-26) | `education`, `land-use` | [topics/greene-school-cpd.md](topics/greene-school-cpd.md) |
+| Norton / Pioneer Park lease (Ord. 5167-26) | `parks`, `arts` | [topics/norton-park-lease.md](topics/norton-park-lease.md) |
+| Pine Crest school land Term Sheet (Res. 161-26) | `education`, `land-use` | [topics/pine-crest-school-land.md](topics/pine-crest-school-land.md) |
+| Public art program — Chapter 43 (Ord. 5172-26) | `arts` | [topics/public-art-chapter-43.md](topics/public-art-chapter-43.md) |
+| Publix Sapodilla sale (Ord. 5166-26) | `land-use` | [topics/publix-sapodilla-sale.md](topics/publix-sapodilla-sale.md) |
+| Sign regulations rewrite (Ord. 5180-26) | `land-use` | [topics/sign-code-rewrite.md](topics/sign-code-rewrite.md) |
 
-| Public art Chapter 43 (Ord. 5172-26) | [topics/public-art-chapter-43.md](topics/public-art-chapter-43.md) | 2026-06-22 1st reading + Master Plan; 2026-07-06 2nd reading approved |
-| 5710 N. Haverhill annexation / Kolter | [topics/haverhill-5710-annexation.md](topics/haverhill-5710-annexation.md) | 2026-07-20 pass/fail (2nd reading + site plan approved) |
-| Pine Crest school land Term Sheet | [topics/pine-crest-school-land.md](topics/pine-crest-school-land.md) | 2026-07-20 pass/fail (Res. 161-26 approved) |
+## How to expand a topic
 
-| Greene School CPD (Ord. 5169-26 / Res. 103-26) | [topics/greene-school-cpd.md](topics/greene-school-cpd.md) | 2026-05-26 1st reading; 2026-06-08 approved |
-| Norton / Pioneer Park lease (Ord. 5167-26) | [topics/norton-park-lease.md](topics/norton-park-lease.md) | 2026-04-13 1st reading; 2026-04-27 2nd reading approved |
-| Publix Sapodilla sale (Ord. 5166-26) | [topics/publix-sapodilla-sale.md](topics/publix-sapodilla-sale.md) | 2026-03-02 1st reading; 2026-03-16 2nd reading approved |
-
-Add a row when you create a new topic page.
+1. Prefer one page per enduring subject.
+2. Sections: **What this is**, **Why it matters for residents**, **Commission timeline** (with `#item-*` links), **Status notes**, **Sources**.
+3. Say what the agenda *scheduled* vs what pass/fail/minutes *recorded*. Never invent decisions.
+4. Tag `categories` in frontmatter; keep the site index grouped by those tags.
