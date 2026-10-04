@@ -7,32 +7,32 @@ X-WR-CALNAME:West Palm Beach City
 X-WR-CALDESC:Civic calendar for West Palm Beach — maintained by Aaron's WPB team
 BEGIN:VEVENT
 UID:wpb-cc-worksession-2026-10-05@awormus.github.io
-DTSTAMP:20260930T193000Z
+DTSTAMP:20261004T215914Z
 DTSTART;TZID=America/New_York:20261005T100000
 DTEND;TZID=America/New_York:20261005T120000
 SUMMARY:Mayor/Commission Work Session
 LOCATION:City Hall - Flagler Gallery\, 401 Clematis Street\, West Palm Beach\, FL 33401
-DESCRIPTION:Source: City Meetings & Agendas page (retrieved 2026-09-30). Agenda PDFs: https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/MayorCommission-Work-Session-Agendas/2026-MayorCommission-Workshop-Agendas
-URL:https://www.wpb.org/Events-Folder/2026/MayorCommission-Work-Session-2026
+DESCRIPTION:Source: Weekly Meeting List Final PDF WML_2026-1005-1009 (retrieved 2026-10-04): https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/wml-weekly-meeting-lists/2026-wml/10-october-2026/wml_2026-1005-1009_final.pdf Work-session agenda PDF is listed: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/work-session-agendas/2026-mc-ws-agendas/2026-1005-mc-ws.pdf Workshop folder (secondary): https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/MayorCommission-Work-Session-Agendas/2026-MayorCommission-Workshop-Agendas/October-2026
+URL:https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/work-session-agendas/2026-mc-ws-agendas/2026-1005-mc-ws.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:wpb-cc-agenda-review-2026-10-08@awormus.github.io
-DTSTAMP:20260930T193000Z
+DTSTAMP:20261004T215914Z
 DTSTART;TZID=America/New_York:20261008T110000
 DTEND;TZID=America/New_York:20261008T120000
 SUMMARY:City Commission Agenda Review
-LOCATION:West Palm Beach\, FL
-DESCRIPTION:Source: City Meetings & Agendas (retrieved 2026-09-30). Meeting list hub: https://www.wpb.org/Our-City/Meetings-Agendas
-URL:https://www.wpb.org/Events-Folder/2026/City-Commission-Agenda-Review-2026
+LOCATION:Zoom
+DESCRIPTION:Source: Weekly Meeting List Final PDF WML_2026-1005-1009 (retrieved 2026-10-04): https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/wml-weekly-meeting-lists/2026-wml/10-october-2026/wml_2026-1005-1009_final.pdf Zoom join link as listed on the WML: http://us06web.zoom.us/j/89960741484 Meetings hub: https://www.wpb.org/Our-City/Meetings-Agendas
+URL:http://us06web.zoom.us/j/89960741484
 END:VEVENT
 BEGIN:VEVENT
 UID:wpb-cc-meeting-2026-10-13@awormus.github.io
-DTSTAMP:20260930T193000Z
+DTSTAMP:20261004T215914Z
 DTSTART;TZID=America/New_York:20261013T170000
 DTEND;TZID=America/New_York:20261013T210000
-SUMMARY:City Commission Meeting
+SUMMARY:City Commission Meeting — Draft agenda available
 LOCATION:Commission Chambers\, 401 Clematis Street\, West Palm Beach\, FL 33401
-DESCRIPTION:Regular City Commission meeting. Agenda PDF not yet listed under October 2026 as of 2026-09-30 — check https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/October-2026 when published. Hub: https://www.wpb.org/Our-City/Meetings-Agendas
-URL:https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/October-2026
+DESCRIPTION:DRAFT agenda now posted (not final\; subject to change). Draft agenda available: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-draft-city-commission-agendas/10-oct-2026-draft-cca/10_13_26_draft-city-commission-agenda.pdf October agendas folder: https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/October-2026 Meetings hub: https://www.wpb.org/Our-City/Meetings-Agendas Meeting date and time are the known Oct 13 City Commission meeting\; the Oct 5-9 WML does not list this date.
+URL:https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-draft-city-commission-agendas/10-oct-2026-draft-cca/10_13_26_draft-city-commission-agenda.pdf
 END:VEVENT
 END:VCALENDAR
