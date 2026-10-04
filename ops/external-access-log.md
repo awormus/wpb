@@ -8,6 +8,9 @@ Add a new row (newest first) for each fetch:
 
 | Date (ET) | Agent / person | URL or portal | Purpose | Notes |
 |-----------|----------------|---------------|---------|-------|
+| 2026-10-04 ~6:00 PM ET | Dana (CEO) | `https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/MayorCommission-Work-Session-Agendas/2026-MayorCommission-Workshop-Agendas` | Weekly-process check for a published Oct 5 work-session agenda | Read-only page fetch; no PDF link in the returned page; no download |
+| 2026-10-04 ~6:00 PM ET | Dana (CEO) | `https://www.wpb.org/Our-City/Meetings-Agendas` | Weekly-process check for future meetings and the current weekly meeting list | Read-only page fetch; saw WML_2026-0928-1002_Final.pdf and WML_2026-1005-1009_Final.pdf listed; PDFs not downloaded |
+| 2026-10-04 ~6:00 PM ET | Dana (CEO) | `https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/October-2026` | Check whether an Oct 13 commission agenda is posted | Read-only page fetch; page lists 10_13_26_DRAFT-City-Commission-Agenda.pdf (177KB); PDF not downloaded |
 | 2026-09-30 18:23 ET | Riley (WPB Data) | `https://www.wpb.org/files/.../08_03_26_final-city-commission-agenda.pdf` | Re-ingest Aug 3 after orphan-bullet merge fix | Read-only GET; HTTP 200; plain pdftotext; PDF deleted |
 | 2026-09-30 18:23 ET | Riley (WPB Data) | `https://www.wpb.org/files/.../09_14_26_final-city-commission-agenda.pdf` | Re-ingest Sep 14 after orphan-bullet merge fix | Read-only GET; HTTP 200; plain pdftotext; PDF deleted |
 | 2026-09-30 18:17 ET | Riley (WPB Data) | `https://www.wpb.org/files/.../08_03_26_final-city-commission-agenda.pdf` | Re-ingest Aug 3 agenda with current civic-pdf cleanup (QC sample) | Read-only GET; HTTP 200; plain pdftotext; PDF deleted |
