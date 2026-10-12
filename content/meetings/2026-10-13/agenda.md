@@ -1,21 +1,20 @@
 ---
 date: 2026-10-13
 doc_type: agenda
-status: draft
-title: Draft City Commission Agenda
+title: Final City Commission Agenda
 meeting: Regular City Commission Meeting
-official_pdf: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-draft-city-commission-agendas/10-oct-2026-draft-cca/10_13_26_draft-city-commission-agenda.pdf
-retrieved: 2026-10-04
+official_pdf: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/10-oct-2026-final-cca/10_13_26_final-city-commission-agenda.pdf
+retrieved: 2026-10-12
 extractor: pdftotext + civic-pdf-cleanup
 notes: >
   Plain-text extract of the official PDF. Binary PDF not stored in this repo.
 ---
 
-# Draft City Commission Agenda — 2026-10-13
+# Final City Commission Agenda — 2026-10-13
 
-**Official PDF (wpb.org):** [10_13_26_draft-city-commission-agenda.pdf](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-draft-city-commission-agendas/10-oct-2026-draft-cca/10_13_26_draft-city-commission-agenda.pdf)
+**Official PDF (wpb.org):** [10_13_26_final-city-commission-agenda.pdf](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/10-oct-2026-final-cca/10_13_26_final-city-commission-agenda.pdf)
 
-**This is a DRAFT agenda** posted by the City — not the final packet. Text extract below is for search and deep-linking. The official PDF is authoritative.
+Text extract below is for search and deep-linking. The official PDF is authoritative.
 
 ---
 
@@ -23,7 +22,7 @@ notes: >
 
 City Administrator Faye W. Johnson City Attorney Kimberly Rothenburg City Clerk Shaquita Edwards
 
-City of West Palm Beach City Commission DRAFT Agenda In accordance with the provisions of the Americans with Disabilities Act (ADA), persons in need of a special accommodation to participate in this proceeding shall, within three days prior to any proceeding, contact the City Clerk's Office, 401 Clematis Street, West Palm Beach, FL 33401, (561) 822-1210.
+City of West Palm Beach City Commission Agenda Tuesday, October 13, 2026 5:00 PM In accordance with the provisions of the Americans with Disabilities Act (ADA), persons in need of a special accommodation to participate in this proceeding shall, within three days prior to any proceeding, contact the City Clerk's Office, 401 Clematis Street, West Palm Beach, FL 33401, (561) 822-1210.
 
 <a id="item-1"></a>
 ## 1. CALL TO ORDER
@@ -179,8 +178,23 @@ Engineering
 
 #### Ordinance/Resolution
 
+Resolution No. 232-26(F): A RESOLUTION OF THE CITY COMMISSION
 
-> RESOLUTION NO. 232-26(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF FUNDS IN FISCAL YEAR 2026/2027 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE GRANT CAPITAL PROJECT FUND BUDGET TO RE-ESTABLISH PARKER AVENUE REHABILITATION PROJECT CAPITAL GRANT FUND BUDGET; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+#### OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE
+
+#### APPROPRIATION OR TRANSFER OF FUNDS IN FISCAL YEAR
+
+#### 2026/2027 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY
+
+#### CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE
+
+#### PURPOSE OF AMENDING THE GRANT CAPITAL PROJECT FUND
+
+#### BUDGET TO RE-ESTABLISH PARKER AVENUE REHABILITATION
+
+#### PROJECT CAPITAL GRANT FUND BUDGET; PROVIDING AN
+
+#### EFFECTIVE DATE; AND FOR OTHER PURPOSES.
 
 #### Background Information
 
@@ -188,9 +202,7 @@ This item requests City Commission approval of a resolution authorizing a Fiscal
 
 #### PROJECT DETAILS
 
-The Parker Avenue Rehabilitation project spans from Forest Hill Boulevard to Nottingham Boulevard, located approximately 1.3 miles in the southern part of the City of West Palm Beach. The existing right-of-way varies between 70’ to 80’ with broken sidewalks, ADA non-compliant curb ramps, and old signage, amongst other improvements needed. Located in the Dreher Park Neighborhood Association, Parker Avenue is primarily a safe route to school for many children. The project will complete a multimodal network connection from Forest Hill Boulevard to Nottingham Boulevard, providing complete streets. The typical sections will include two (2) multiuse paths, roadway reconstruction, pavement markings, irrigation, landscaping, signal improvements, drainage improvements, and pedestrian lighting.
-
-All these improvements are within the recommendations from the City’s current Bicycle Master Plan and is part of the City’s current Capital Improvement Plan. The project will also connect Forest Hill Community High School, Dreher Park, Hillcrest Memorial Park, Palmetto Elementary School, and local businesses located at the north end of the project at the intersection of Nottingham Boulevard and Parker Avenue.
+The Parker Avenue Rehabilitation project spans from Forest Hill Boulevard to Nottingham Boulevard, located approximately 1.3 miles in the southern part of the City of West Palm Beach. The existing right-of-way varies between 70’ to 80’ with broken sidewalks, ADA non-compliant curb ramps, and old signage, amongst other improvements needed. Located in the Dreher Park Neighborhood Association, Parker Avenue is primarily a safe route to school for many children. The project will complete a multimodal network connection from Forest Hill Boulevard to Nottingham Boulevard providing complete streets. The typical sections will include two (2) multiuse paths, roadway reconstruction, pavement markings, irrigation, landscaping, signal improvements, drainage improvements and pedestrian lighting. All these improvements are within the recommendations from the City’s current Bicycle Master Plan and is part of the City’s current Capital Improvement Plan. The project will also connect Forest Hill Community High School, Dreher Park, Hillcrest Memorial Park, Palmetto Elementary School, and local businesses located at the north end of the project at the intersection of Nottingham Boulevard and Parker Avenue.
 
 By Resolution No. 98-18, the City Commission authorized submittal of an application for a Local Agency Program (LAP) grant to the Florida Department of Transportation (FDOT) through the Palm Beach Transportation Planning Agency (TPA) for the Parker Avenue Rehabilitation Project.
 
@@ -200,7 +212,7 @@ The total estimated current construction cost of the project is $9,061,747.47. T
 
 The City will be required to maintain the roadway improvements and traffic signals funded by the grant.
 
-The Project is planned to go out to bid by November 2026, and construction is estimated to be completed on or before December 31, 2028.
+The Project is planned to go out to bid by November 2026 and construction is estimated to be completed on or before December 31, 2028.
 
 Resolution No. 10-23(F) previously provided for the appropriation of the funding in accordance with the LAP Agreement.
 
@@ -212,7 +224,7 @@ Resolution No.232-26(F) re-establishes the grant funding allocation of $5,110,00
 
 #### Fiscal Note
 
-FDOT grant funding will cover $5,110,000, and the City's funding match is already allocated in the One Cent Sales Surtax funds of $3,951,747
+FDOT grant funding will cover $5,110,000 and the City's funding match is already allocated in the One Cent Sales Surtax funds of $3,951,747.
 
 <a id="item-8-6"></a>
 ### 8.6. Resolution No. 237-26 authorizing the assessment of City liens in the total amount of $22,031.47 for unpaid water service, sewer service, and stormwater charges for the month of July 2026.
@@ -275,7 +287,7 @@ By Resolution No. 240-26, the City Commission reauthorizes participation and app
 Fiscal impact of $1 will be amended at a later date once the Agency issues an amended Letter of Agreement (LOA). It is estimated that the final payment amount will be approximately $250,000 reimbursement to the City.
 
 <a id="item-8-8"></a>
-### 8.8. Resolution No. 241-26 relating to the ratification of a successor collective bargaining agreement between the City of West Palm Beach (City) and the Service Employees International Union (SEIU), Florida Public Services Union (FPSU), CTW, CLC Certified Unit No. 401, for the period of October 1, 2026, through September 30, 2029.
+### 8.8. Resolution No. 241-26 ratifying a successor collective bargaining agreement between the City and the Service Employees International Union (SEIU) for the period of October 1, 2026, through September 30, 2029.
 
 #### Originating Department
 
@@ -284,7 +296,7 @@ Human Resources
 #### Ordinance/Resolution
 
 
-> RESOLUTION NO. 241-26: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, RATIFYING A COLLECTIVE BARGAINING AGREEMENT BETWEEN THE CITY OF WEST PALM BEACH AND THE SERVICE EMPLOYEES INTERNATIONAL UNION ("SEIU"), FLORIDA PUBLIC SERVICES UNION, CTW, CLC, CERTIFIED UNIT NO. 401 FOR THE PERIOD OCTOBER 1, 2026, TO SEPTEMBER 30, 2029; AND FOR OTHER PURPOSES.
+> RESOLUTION NO. 241-26: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA RATIFYING A COLLECTIVE BARGAINING AGREEMENT BETWEEN THE CITY OF WEST PALM BEACH AND THE SERVICE EMPLOYEES INTERNATIONAL UNION ("SEIU"), FLORIDA PUBLIC SERVICES UNION, CTW, CLC, CERTIFIED UNIT NO. 401 FOR THE PERIOD OF OCTOBER 1, 2026 to SEPTEMBER 30, 2029; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
 
 #### Background Information
 
@@ -311,16 +323,64 @@ Costs associated with financial provisions taking effect in FY20277 are included
 Costs associated with financial provisions taking effect in FY2027 are included in the approved FY2027 balanced budget.
 
 <a id="item-9"></a>
-## 9. COMMENTS FROM THE PUBLIC
+## 9. RESOLUTIONS
+
+<a id="item-9-1"></a>
+### 9.1. Resolution No. 216-26 authorizing the lease/purchase of three (3) Fire equipment apparatus in an aggregate principal amount not to exceed $6,381,628; and Resolution No. 225-26(F) recognizing and appropriating funds for the acquisition of three (3) fire trucks.
+
+#### Originating Department
+
+Finance
+
+#### Ordinance/Resolution
+
+
+> RESOLUTION NO. 216-26: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE LEASE AND PURCHASE OF THREE (3) FIRE APPARATUS; AUTHORIZING AN EQUIPMENT LEASE PURCHASE FINANCING IN AN AGGREGATE PRINCIPAL AMOUNT NOT TO EXCEED $6,381,628; AUTHORIZING THE EXECUTION OF AN EQUIPMENT LEASE PURCHASE AGREEMENT; AUTHORIZING THE EXECUTION OF LEASE SCHEDULES AND AN ESCROW AGREEMENT; AUTHORIZING THE EXECUTION OF SUCH OTHER RELATED DOCUMENTS AS MAY BE NECESSARY TO COMPLETE THE TRANSACTION; PROVIDING FOR AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+
+> RESOLUTION NO. 225-26(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2026/2027 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE FLEET REPLACEMENT FUND BUDGET TO RECOGNIZE PROCEEDS FROM LEASE FUNDING FOR THE PURCHASE OF FIRE EQUIPMENT; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
+#### Staff Recommended Motion
+
+Approve Resolution No. 216-26 and Resolution No. 225-26(F).
+
+#### Background Information
+
+The Fire Department has identified the need to acquire three (3) new fire apparatus to support the City's emergency response and public safety operations. The apparatus are intended to replace aging equipment and provide the Fire Department with reliable and operationally necessary equipment to deliver fire suppression, rescue, and other emergency services to the community.
+
+The equipment to be acquired consists of one (1) Sutphen SPH 100 Platform, one (1) KME Severe Service 101’ Tractor-Drawn Aerial Ladder, and one (1) KME Severe Service 103’ Aerial Ladder “Tuff” Truck. The equipment will be utilized by the Fire Department and garaged at the City's facility located at 500 N. Dixie Highway, West Palm Beach, Florida. The current Equipment Schedule identifies South Florida Emergency Vehicles as the vendor representing KME and Sutphen Corporation.
+
+The City intends to finance the acquisition through an Equipment Lease Purchase Agreement with Leasing 2, Inc., pursuant to the terms of the financing proposal accepted by the City. The aggregate principal amount of the financing will not exceed $6,381,628.
+
+The proposed financing carries an interest rate of 4.69% on a 30/360 basis and provides for seven (7) annual rental payments beginning December 15, 2027. The annual rental payment is $1,103,621.07 for the first six (6) payment dates, with a final payment of $1,096,412.50 on December 15, 2033. Total rental payments over the term are $7,718,138.92, including $1,336,510.92 of interest.
+
+The Equipment Lease Purchase Agreement provides the City with an option to purchase the equipment beginning December 15, 2030, and provides that title to the equipment will vest in the City upon payment in full of the applicable purchase price and all other amounts due under the Agreement.
+
+The proposed transaction also includes an Escrow Agreement and Federal Tax Agreement and requires the execution of related closing documents necessary to complete the financing. The current financing documents contemplate the use of an escrow account for the acquisition proceeds and establish procedures for maintaining the federal income tax-exempt treatment of the interest component of the rental payments.
+
+The proposed lease-purchase structure provides the City with a mechanism to acquire the apparatus while spreading the cost of the equipment over its useful life and maintaining annual budgetary control over future rental payments, subject to annual appropriation and the terms of the Agreement.
+
+The first annual payment of $1,103,621.07 will be included in the Fire Assessment Fee Fund's FY2028 Adopted Budget.
+
+Resolution No. 216-26 authorizes the execution of the Equipment Lease Purchase Agreement, the Lease Schedule, the Escrow Agreement and all other agreements, documents, tax compliance certificates, certificates and forms that are necessary, or reasonably be required by Leasing 2, Inc., to effectuate the vehicle lease/purchase.
+
+Resolution No. 225-26(F) recognizes and appropriates funds for the acquisition of three (3) Fire apparatus.
+
+#### Fiscal Note
+
+Approval of this item will authorize the City to enter into an Equipment Lease Purchase Agreement and provide appropriations for the acquisition of three (3) Fire apparatus.
+
+<a id="item-10"></a>
+## 10. COMMENTS FROM THE PUBLIC
 
 Public comments are limited to three (3) minutes. Anyone wishing to address the Commission should complete a "Comments by the Public" card and present it to the City Clerk prior to the Public Comments. When you are called to speak, please go to the podium and state your name and address for the record prior to addressing Commission. The Commission will not discuss the matter nor respond to the comment this evening. Comments made will become part of the record and may be addressed at a later date.
 
-<a id="item-10"></a>
-## 10. COMMENTS BY THE MAYOR AND CITY COMMISSIONERS
-
-
 <a id="item-11"></a>
-## 11. ADJOURNMENT
+## 11. COMMENTS BY THE MAYOR AND CITY COMMISSIONERS
+
+
+<a id="item-12"></a>
+## 12. ADJOURNMENT
 
 *Pursuant to Resolution No. 179-95, adopted according to the provisions of Section 286.0115, Florida Statutes, members of the Commission shall disclose on the record: 1) ex-parte communications - verbal or written; 2.) written communications shall be placed in the record; and 3) site visits, investigations, etc. shall be disclosed.
 

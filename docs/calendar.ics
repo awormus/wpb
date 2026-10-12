@@ -27,13 +27,13 @@ URL:http://us06web.zoom.us/j/89960741484
 END:VEVENT
 BEGIN:VEVENT
 UID:wpb-cc-meeting-2026-10-13@awormus.github.io
-DTSTAMP:20261004T215914Z
+DTSTAMP:20261012T131800Z
 DTSTART;TZID=America/New_York:20261013T170000
 DTEND;TZID=America/New_York:20261013T210000
-SUMMARY:City Commission Meeting — Draft agenda available
+SUMMARY:City Commission Meeting — Final agenda available
 LOCATION:Commission Chambers\, 401 Clematis Street\, West Palm Beach\, FL 33401
-DESCRIPTION:DRAFT agenda now posted (not final\; subject to change). Draft agenda available: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-draft-city-commission-agendas/10-oct-2026-draft-cca/10_13_26_draft-city-commission-agenda.pdf October agendas folder: https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/October-2026 Meetings hub: https://www.wpb.org/Our-City/Meetings-Agendas Meeting date and time are the known Oct 13 City Commission meeting\; the Oct 5-9 WML does not list this date.
-URL:https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-draft-city-commission-agendas/10-oct-2026-draft-cca/10_13_26_draft-city-commission-agenda.pdf
+DESCRIPTION:Final agenda posted: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/10-oct-2026-final-cca/10_13_26_final-city-commission-agenda.pdf October agendas folder: https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/October-2026 Listed on the Weekly Meeting List Final PDF WML_2026-1012-1016 (retrieved 2026-10-12): https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/wml-weekly-meeting-lists/2026-wml/10-october-2026/wml_2026-1012-1016_final.pdf
+URL:https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/10-oct-2026-final-cca/10_13_26_final-city-commission-agenda.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:wpb-cc-agenda-review-2026-10-22@awormus.github.io

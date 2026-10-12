@@ -1,31 +1,29 @@
 ---
 date: 2026-10-13
-title: Regular City Commission Meeting (DRAFT agenda)
+title: Regular City Commission Meeting
 kind: regular
 time: "17:00"
 location: "Commission Chambers, 401 Clematis Street, West Palm Beach, FL 33401"
 summary_basis: agenda
 agenda_text: ./agenda.md
-status: draft
-notes: "DRAFT agenda only — not the final packet and subject to change. Agenda-based summary only. No votes are recorded here; do not treat items below as adopted outcomes."
+notes: "Agenda-based summary only. Official minutes / pass-fail sheet not used for vote outcomes; do not treat items below as adopted outcomes."
 sources:
-  - title: DRAFT City Commission Agenda — October 13, 2026
-    url: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-draft-city-commission-agendas/10-oct-2026-draft-cca/10_13_26_draft-city-commission-agenda.pdf
-    retrieved: 2026-10-04
+  - title: Final City Commission Agenda — October 13, 2026
+    url: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/10-oct-2026-final-cca/10_13_26_final-city-commission-agenda.pdf
+    retrieved: 2026-10-12
   - title: October 2026 City Commission Agendas (index)
     url: https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/October-2026
-    retrieved: 2026-10-04
+    retrieved: 2026-10-12
   - title: Meetings & Agendas
     url: https://www.wpb.org/Our-City/Meetings-Agendas
-    retrieved: 2026-10-04
+    retrieved: 2026-10-12
 ---
 
-# DRAFT — Regular City Commission Meeting — October 13, 2026
+# Regular City Commission Meeting — October 13, 2026
 
 **When:** October 13, 2026, 5:00 PM  
 **Where:** Commission Chambers, 401 Clematis Street  
-**Status:** **DRAFT** agenda posted by the City — not final; subject to change. No votes are recorded on this page.  
-**Source:** Official draft agenda PDF on wpb.org (linked below). This page summarizes **what is scheduled on the draft**, not vote outcomes.
+**Source:** Official agenda PDF on wpb.org (linked below). This page summarizes **what was scheduled**, not vote outcomes.
 
 ## Opening
 
@@ -48,17 +46,17 @@ Call to order, moment of silence, pledge, civility/decorum, and any agenda addit
 - **[8.5](./agenda.md#item-8-5):** Resolution No. 232-26(F) authorizing the appropriation or transfer of funds in the amount of $5,110,000 in Fiscal Year 2026-2027 for the purpose of amending the grant capital pr…
 - **[8.6](./agenda.md#item-8-6):** Resolution No. 237-26 authorizing the assessment of City liens in the total amount of $22,031.47 for unpaid water service, sewer service, and stormwater charges for the month of…
 - **[8.7](./agenda.md#item-8-7):** Resolution No. 240-26 authorizing the City's participation in the Medicaid Managed Care Organization Supplemental Payment Program and approving agreements with the Agency for He…
-- **[8.8](./agenda.md#item-8-8):** Resolution No. 241-26 relating to the ratification of a successor collective bargaining agreement between the City of West Palm Beach (City) and the Service Employees Internatio…
+- **[8.8](./agenda.md#item-8-8):** Resolution No. 241-26 ratifying a successor collective bargaining agreement between the City and the Service Employees International Union (SEIU) for the period of October 1, 20…
 
-## Comments From The Public ([9](./agenda.md#item-9))
+## Resolutions ([9](./agenda.md#item-9))
 
-See [9. Comments From The Public](./agenda.md#item-9) in the full agenda text.
+- **[9.1](./agenda.md#item-9-1):** Resolution No. 216-26 authorizing the lease/purchase of three (3) Fire equipment apparatus in an aggregate principal amount not to exceed $6,381,628; and Resolution No. 225-26(F…
 
-## Comments By The Mayor And City Commissioners ([10](./agenda.md#item-10))
+## Comments From The Public ([10](./agenda.md#item-10))
 
-See [10. Comments By The Mayor And City Commissioners](./agenda.md#item-10) in the full agenda text. Adjournment is [11](./agenda.md#item-11).
+See [10. Comments From The Public](./agenda.md#item-10) in the full agenda text.
 
 ## Official documents (on wpb.org — not stored here)
 
-- [DRAFT agenda PDF (October 13, 2026)](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-draft-city-commission-agendas/10-oct-2026-draft-cca/10_13_26_draft-city-commission-agenda.pdf)
+- [Agenda PDF (October 13, 2026)](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/10-oct-2026-final-cca/10_13_26_final-city-commission-agenda.pdf)
 - [Month agendas folder](https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/October-2026)
