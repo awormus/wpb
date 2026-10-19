@@ -14,6 +14,9 @@ sources:
   - title: October 2026 City Commission Agendas (index)
     url: https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/October-2026
     retrieved: 2026-10-12
+  - title: Pass/Fail City Commission Agenda — October 13, 2026
+    url: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-pass-fail-agendas-pfa/2026-10-oct-pfa/pf-10_13_26_city-commission-agenda.pdf
+    retrieved: 2026-10-19
   - title: Meetings & Agendas
     url: https://www.wpb.org/Our-City/Meetings-Agendas
     retrieved: 2026-10-12
@@ -56,7 +59,12 @@ Call to order, moment of silence, pledge, civility/decorum, and any agenda addit
 
 See [10. Comments From The Public](./agenda.md#item-10) in the full agenda text.
 
+## Pass/fail sheet
+
+A normalized pass/fail extract is available at [`pass-fail.md`](./pass-fail.md). Use that file (and the official PDF) for recorded outcomes — this summary does not invent votes.
+
 ## Official documents (on wpb.org — not stored here)
 
 - [Agenda PDF (October 13, 2026)](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/10-oct-2026-final-cca/10_13_26_final-city-commission-agenda.pdf)
 - [Month agendas folder](https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/October-2026)
+- [Pass/fail agenda PDF (October 13, 2026)](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-pass-fail-agendas-pfa/2026-10-oct-pfa/pf-10_13_26_city-commission-agenda.pdf)
