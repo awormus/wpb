@@ -1,21 +1,20 @@
 ---
 date: 2026-10-26
 doc_type: agenda
-status: draft
-title: Draft City Commission Agenda
+title: Final City Commission Agenda
 meeting: Regular City Commission Meeting
-official_pdf: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-draft-city-commission-agendas/10-oct-2026-draft-cca/10_26_26_draft-city-commission-agenda.pdf
-retrieved: 2026-10-19
+official_pdf: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/10-oct-2026-final-cca/10_26_26_final-city-commission-agenda.pdf
+retrieved: 2026-10-26
 extractor: pdftotext + civic-pdf-cleanup
 notes: >
   Plain-text extract of the official PDF. Binary PDF not stored in this repo.
 ---
 
-# Draft City Commission Agenda — 2026-10-26
+# Final City Commission Agenda — 2026-10-26
 
-**Official PDF (wpb.org):** [10_26_26_draft-city-commission-agenda.pdf](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-draft-city-commission-agendas/10-oct-2026-draft-cca/10_26_26_draft-city-commission-agenda.pdf)
+**Official PDF (wpb.org):** [10_26_26_final-city-commission-agenda.pdf](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/10-oct-2026-final-cca/10_26_26_final-city-commission-agenda.pdf)
 
-**This is a DRAFT agenda** posted by the City — not the final packet. Text extract below is for search and deep-linking. The official PDF is authoritative.
+Text extract below is for search and deep-linking. The official PDF is authoritative.
 
 ---
 
@@ -23,7 +22,7 @@ notes: >
 
 City Administrator Faye W. Johnson City Attorney Kimberly Rothenburg City Clerk Shaquita Edwards
 
-City of West Palm Beach City Commission DRAFT Agenda In accordance with the provisions of the Americans with Disabilities Act (ADA), persons in need of a special accommodation to participate in this proceeding shall, within three days prior to any proceeding, contact the City Clerk's Office, 401 Clematis Street, West Palm Beach, FL 33401, (561) 822-1210.
+City of West Palm Beach City Commission Agenda Monday, October 26, 2026 5:00 PM In accordance with the provisions of the Americans with Disabilities Act (ADA), persons in need of a special accommodation to participate in this proceeding shall, within three days prior to any proceeding, contact the City Clerk's Office, 401 Clematis Street, West Palm Beach, FL 33401, (561) 822-1210.
 
 <a id="item-1"></a>
 ## 1. CALL TO ORDER
@@ -219,6 +218,8 @@ The proposed amendments to the Downtown Master Plan Element reflect changes to n
 
 In addition, the proposed amendment expands the downtown master plan boundary to incorporate the property located at 915 S Dixie Highway/420 Okeechobee Boulevard. The property is bounded by a mix of uses such as an office project (West Palm Point), the Woodland Cemetery to the south, the Palm Beach Atlantic University to the east, and a residential building (CityPlace South Tower) to the west, separated by the FEC Railroad tracks and Alabama Avenue. The site is suitable to be integrated into the Downtown Master Plan, so that any future redevelopment aligns with the regulatory framework that enables a vibrant, mixed-use, walkable, and attractive downtown.
 
+#### (FULL DETAILS ARE PROVIDED IN THE STAFF REPORT.)
+
 Since February 2025, the City of West Palm Beach, together with the consulting firm Zyscovich Inc., has been preparing a comprehensive update to the Downtown Master Plan (DMPU). This update sets a forwardlooking vision for Downtown, ensuring its sustainability and success for future generations while carefully considering and evaluating past planning efforts and studies. The DMPU establishes a 25-year vision for Downtown West Palm Beach, where residents live in vibrant neighborhoods, actively participate in economic growth, and where significant resources can thrive.
 
 The City, along with Zyscovich, Inc., performed a robust public engagement process incorporating civic leadership, community input, interagency coordination, and technical expertise, resulting in more than fifty (50) meetings, which included four (4) visioning discussions, five (5) neighborhood associations meetings, one (1) Mayor and Commissioner workshop, and one (1) Community Open House.
@@ -241,7 +242,9 @@ Amendments to Article IV will be brought forward to the City Commission followin
 Disclosure of ex-parte communications, if any* Swearing-in of witnesses.
 
 <a id="item-8-1"></a>
-### 8.1. Public Hearing and First Reading of Ordinance No. 5183-26 regarding a request by Roger Ramdeen, of Shutts & Bowen, LLP, on behalf of CityPlace Retail, LLC, for an amendment to the CityPlace Development of Regional Impact (DRI) to change the Small Business Enterprise language contained in Section 3.29 of Ordinance No. 5038-23, which governs the CityPlace DRI.
+### 8.1. CONTINUATION OF ORDINANCE NO. 5183-26 TO THE NOVEMBER 9, 2026, CITY COMMISSION MEETING.
+
+Public Hearing and First Reading of Ordinance No. 5183-26 regarding a request by Roger Ramdeen, of Shutts & Bowen, LLP, on behalf of CityPlace Retail, LLC, for an amendment to the CityPlace Development of Regional Impact (DRI) to change the Small Business Enterprise language contained in Section 3.29 of Ordinance No. 5038-23, which governs the CityPlace DRI.
 
 #### Originating Department
 
@@ -256,65 +259,12 @@ Development Services
 
 #### Staff Recommended Motion
 
-Approve Ordinance No. 5183-26 on First Reading and schedule Second Reading for November 9, 2026.
-
-This motion is based upon the application submitted, the staff report, factual testimony, the recommendation of the Planning Board, and the findings that the request complies with the Comprehensive Plan and with the standards in Section 94-32 of the City’s Zoning and Land Development Regulations.
-
-#### Background Information
-
-The CityPlace Development of Regional Impact (DRI) was originally the Downtown Uptown DRI, a private redevelopment project approved by Ordinance No. 2268-89, which, other than the Kravis Center, was not constructed. The City’s Community Redevelopment Agency (CRA) acquired the majority of the unbuilt development and pursued a new redevelopment plan which included a new mixed-use development as well as the Palm Beach County Convention Center.
-
-The proposed redevelopment required an amendment to create the current CityPlace DRI by the approval of Ordinance No. 3098-97. The CityPlace DRI has been amended and restated a few times, with the current DRI development regulations contained in Ordinance No. 5038-23.
-
-The original Downtown Uptown DRI, approved in 1989, included language that required minority and women’s business enterprise participation. The CityPlace DRI amended this language in Section 3.29 to state that the Developer needed to comply with the City’s Minority and Women’s Business Enterprise Ordinance and added that Palm Beach County needed to comply with its own minority and women’s business participation requirements for the convention center. In 2012, the Section 3.29 language was amended to its current version, which references the City’s
-Small Business Enterprise Ordinance as follows:
-
-#### MINORITY BUSINESS PARTICIPATION
-
-29.The Developer shall comply with the provisions of the City's Small Business Enterprise Ordinance. However, in the case of the Convention Center Project, the County shall adhere to its own applicable standards relating to the minority and women's business participation in that Project.
-
-In 1997, the CityPlace DRI development was controlled by four (4) entities, the CRA, Palm Beach County, the Kravis Center and Badcock, which would be subject to Section 3.29 requirements, and the Kravis Center site was already constructed at the time. The majority of the DRI was developed by CityPlace Retail, LLC, under a lease from the CRA while Palm Beach County constructed the convention center. Once the CRA owned Tent Site started construction, only the Badcock site, now known as Opera Place, remains vacant; however, it does have an active, approved site plan.
-
-The proposed changes to Section 3.29 are provided below (deleted language is struck and added language is underlined) and is followed by the rational for the proposed change.
-
-#### MINORITYSMALL BUSINESS ENTERPRISE PARTICIPATION
-
-29.The Developer shall comply with the provisions of the City's Small Business Enterprise Ordinancerequirements as established in the CityPlace Commercial Planned Development Regulations. However, in the case of the Convention Center Project, the County shall adhere to its own applicable standards relating to the minority and women's business participation in that Project.
-
-Both when the original Downtown Uptown DRI was established in 1989 and when it became the CityPlace DRI in 1997, there were few owners that would be responsible for developing the vacant sites, so the City’s goal was to have minority and women-owned businesses be able to participate in the development. By 2017, only the Tent Site, owned by the CRA, and the Badcock site, now known as Opera Place, remained vacant, with Opera Place having an approved site plan. Additionally, since over 900 fee simple and condominium residential units were constructed, there were no longer just four owners within the CityPlace DRI.
-
-In 2019, CityPlace Retail, LLC, proposed demolishing the Macy’s building and redeveloping the site as a mixed-use building, which required changes to the CityPlace CPD. As part of the development regulations established for the new redevelopment subarea, specific Small Business Enterprise standards were included in order to reinforce the DRI requirement in the CPD regulations. As CityPlace Retail, LLC, proceeded with additional redevelopment subareas, the Small Business Enterprise language was included as part of the development regulations, and also expanded to include Women and Minority Businesses as well. Staff supported the addition of the language to the CPD subareas to reinforce the intent of using Small Business Enterprise firms for the redevelopment projects.
-
-The only property that is now vacant and not under construction is the Opera Place site. While this has an approved site plan, staff does not anticipate that it will be developed in accordance with that site plan; thus, the site will need to establish new development regulations as part of a new subarea, which will include the Small Business Enterprise requirement.
-
-Any other sites that wish to redevelop will include Small Business Enterprise requirements in their subarea development regulations. The amended language allows Palm Beach County to continue to follow its own requirements. The proposed amendment to move the Small Business Enterprise language from the CityPlace DRI to the CityPlace CPD ensures that any redevelopment will include small business participation. The change is also in compliance with City Executive Order 2025-01, which requires that the City remove Minority and Women Business Enterprise requirements.
-
-The changes to Section 3.29 do not approve a specific project. Any specific project will be reviewed for compliance with the development regulations in the CityPlace DRI and the specific subarea requirements as a Level III Site Plan Review. The Level III Site Plan Review will require public hearings before the Planning Board and City Commission.
-
-#### STANDARDS
-
-The Planning Division has determined that the Major Planned Development Amendment to the CityPlace DRI meets all eight (8) of the amendment standards found in Section 94-32 of the City of West Palm Beach Zoning and Land Development Regulations.
-
-Compliance with the above referenced standards is detailed in the Planning Board Staff Report (Attachment I).
-
-#### PLANNING BOARD
-
-At the Public Hearing on September 15, 2026, the Planning Board recommended approval (7-0) of the Major Planned Development Amendment to the City Commission after determining it complies with the amendment standards found in Section 94-32 of the City of West Palm Beach Zoning and Land Development Regulations.
-
-#### NOTICE
-
-Individual notices were mailed to all property owners within 500 feet of the area covered by the Major Amendment. Signs for the Major Amendment were posted on the property on August 31, 2026.
-
-#### Commission District
-
-3: Commissioner Christy Fox.
-
-#### Fiscal Note
-
-No fiscal impact.
+I move to continue consideration of Ordinance No. 5183-26 to the commission meeting scheduled to begin at 5:00 p.m. on November 9, 2026, at the City of West Palm Beach City Hall Commission Chambers, 401 Clematis Street, West Palm Beach, Florida 33401.
 
 <a id="item-8-2"></a>
-### 8.2. Public Hearing of Resolution No. 217-26 regarding a request by Roger Ramdeen of Shutts & Bowen LLP, on behalf of CityPlace Retail, L.L.C., for a Major Planned Development Amendment to the CityPlace Commercial Planned Development (CPD) to amend the CityPlace Core Development Regulations to update the Small Business Enterprise requirement language, to add provisions for the Helipad/Veristop use in the Hibiscus Garage Subarea and for other miscellaneous text updates.
+### 8.2. CONTINUATION OF RESOLUTION NO. 217-26 TO THE NOVEMBER 9, 2026 CITY COMMISSION MEETING.
+
+Public Hearing of Resolution No. 217-26 regarding a request by Roger Ramdeen of Shutts & Bowen LLP, on behalf of CityPlace Retail, L.L.C., for a Major Planned Development Amendment to the CityPlace Commercial Planned Development (CPD) to amend the CityPlace Core Development Regulations to update the Small Business Enterprise requirement language, to add provisions for the Helipad/Veristop use in the Hibiscus Garage Subarea and for other miscellaneous text updates.
 
 #### Originating Department
 
@@ -327,55 +277,7 @@ Development Services
 
 #### Staff Recommended Motion
 
-Approve Resolution No. 217-26.
-
-This motion is based upon the application submitted, the staff report, factual testimony, the recommendation of the Planning Board, and the findings that the request complies with the Comprehensive Plan and with the standards in Section 94-32 of the City’s Zoning and Land Development Regulations.
-
-#### Background Information
-
-The CityPlace Core Development Regulations govern the permitted uses and the development regulations for what is known as CityPlace, generally the commercial portion of the CPD located north of Okeechobee Boulevard. The CityPlace Core must adhere to the overall development capacity established in the CityPlace DRI.
-
-Resolution No. 115-25 created the Hibiscus Garage Subarea to provide additional levels to the “B” Block Hibiscus Garage located at 530 Hibiscus Street to provide additional parking for the two (2) office towers currently under construction at 550 South Rosemary Avenue. Construction of the additional parking levels has begun. At the time of the original Hibiscus Garage Subarea application, the applicant had discussions with staff regarding the installation of a facility to accommodate electric Vertical Takeoff and Landing aircraft on top of the Hibiscus Garage. At the time, there were insufficient details to include this in the Hibiscus Garage Subarea amendment. Since Resolution No. 11525 was approved, the applicant refined the vertistop use and its requirements, which led to the basis for amendment to the CityPlace Core regulations. As part of the Major Planned Development Amendment, the applicant proposed other amendments and updates to the CityPlace Core Development Regulations as well. Based on discussions with staff, some of the proposed changes are not moving forward. These dealt primarily with items that overlap with items that are included with the updates to the Downtown Master Plan. In addition to the new vertistop allowance within the Hibiscus Garage Subarea and the associated changes to the Hibiscus Garage Subarea Building Envelope, the Small Business Enterprise language is being updated, and miscellaneous text changes are being proposed. The proposed changes are discussed in depth below.
-
-#### VERTISTOP
-
-Electric Vertical Takeoff and Landing (eVTOL) aircraft are small flying vehicles (Figure 1), that provide an aerial connection between fixed locations. The applicant has requested that the top of the Hibiscus Garage include a landing deck that would allow eVTOL aircraft to provide on-demand service to CityPlace. The applicant has stated that this alternative mode of transportation could help reduce trips on the City’s roadway network. The landing deck, passenger lounge, and electric chargers are collectively known as a vertistop. The Zoning and Land Development Regulations do not include a specific “vertistop” use; however, a vertistop would fall within the Helipads, helistops, w/out permanent mooring and service facilities use (Helipad/Vertistop).
-
-The Helipad/Vertistop use is not specifically called out as a permitted use within the CityPlace CPD, so this amendment would add it as an allowed use within the Hibiscus Garage Subarea, subject to the approval of a Level III Site Plan by the City Commission for the design of the actual vertistop deck and lounge. It is important to note that for the CityPlace CPD, the Helipad/Vertistop use is limited to electric vehicles only. Traditional aviation fuel helicopters may not utilize the Helipad/Vertistop.
-
-Figure 1 eVTOL Aircraft
-
-#### SMALL BUSINESS ENTERPRISE
-
-The original Downtown Uptown DRI and later the CityPlace DRI included language that required minority and women’s business enterprise participation and was later amended that development in the DRI follow the City’s Small Business Enterprise Ordinance. As development regulations to redevelop various subareas within the CityPlace Core were approved, the requirement to provide a minimum of 15% Small Business Enterprise (SBE) firm participation was codified within the subarea requirements. As redevelopment construction started, the applicant approached staff with concerns that there were insufficient SBE firms for them to achieve the 15% minimum requirement. Therefore, the development regulations were expanded to allow Minority and Women Business Enterprise (MWBE) firms to be used to meet the 15% participation minimum. While the construction within CityPlace is not a City project, the City’s Office of Small Business reviewed the information provided for the CityPlace redevelopment to ensure that a minimum 15% participation was achieved.
-
-Due to Federal and State executive orders, the City may no longer accept MWBE firms as a unique entity to satisfy participation minimums. It is worth noting that this does not exclude minority or women-owned SBE firms from satisfying the SBE minimum requirement. The applicant has again raised the concern that they will not be able to meet the 15% minimum requirement exclusively using SBE firms and thus requested to lower the 15% minimum requirement. After discussion with the applicant, the Office of Small Business recommended that the 15% minimum participation be kept as a goal. If the Developer makes a good faith effort but cannot fulfill the 15% SBE participation minimum, the Developer must submit evidence to the Office of Small Business to verify the good faith efforts in meeting the minimum. If, after reviewing the submitted information, the Office of Small Business determines that, after making a good faith effort, the Developer was unable to meet the 15% minimum, then the lesser percentage will be accepted. The Small Business Enterprise Inclusion language is Section X of the attached Amended CityPlace Core Development Regulations and mirrors the language approved by the City Commission as part of the Hotel II Subarea, south of Okeechobee Boulevard.
-
-#### MISCELLANEOUS TEXT UPDATES
-
-This amendment to the CityPlace Core Development Regulations includes updates to standardize nomenclature and numerical references throughout the text. Text was also added to clarify provisions dealing with car share, green building programs, and additional outdoor activities in the Himmel Hall and CityPlace Plaza subarea. The car share language primarily clarifies that if there is no car share provider in the City, the “car share” parking spaces may not be converted to general parking spaces but rather must remain for shared mobility or carpool use. The green building change provides an alternative green building certification organization in addition to the current LEED reference. The added outdoor activities include the allowance of a stage and outdoor seating for viewing live events. These would be reviewed as part of a Special Use Permit.
-
-#### STANDARDS
-
-The Planning Division has determined that the Major Planned Development Amendment to the CityPlace Core Development Regulations meets all eight (8) of the amendment standards found in Section 94-32 of the City of West Palm Beach Zoning and Land Development Regulations.
-
-Compliance with the above-referenced standards is detailed in the Planning Board Staff Report (Attachment I).
-
-#### PLANNING BOARD
-
-At the Public Hearing on September 15, 2026, the Planning Board recommended approval (7-0) of the Major Planned Development Amendment to the City Commission after determining it complies with the amendment standards found in Section 94-32 of the City of West Palm Beach Zoning and Land Development Regulations.
-
-#### NOTICE
-
-Individual notices were mailed to all property owners within 500 feet of the area covered by the Major Amendment. Signs for the Major Amendment were posted on the property on August 31, 2026.
-
-#### Commission District
-
-3: Commissioner Christy Fox.
-
-#### Fiscal Note
-
-No fiscal impact.
+I move to continue consideration of Resolution No. 217-26 to the commission meeting scheduled to begin at 5:00 p.m. on November 9, 2026, at the City of West Palm Beach City Hall Commission Chambers, 401 Clematis Street, West Palm Beach, Florida 33401.
 
 <a id="item-9"></a>
 ## 9. COMMENTS FROM THE PUBLIC

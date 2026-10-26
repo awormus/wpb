@@ -1,31 +1,34 @@
 ---
 date: 2026-10-26
-title: Regular City Commission Meeting (DRAFT agenda)
+title: Regular City Commission Meeting
 kind: regular
 time: "17:00"
 location: "Commission Chambers, 401 Clematis Street, West Palm Beach, FL 33401"
 summary_basis: agenda
 agenda_text: ./agenda.md
-status: draft
-notes: "DRAFT agenda only — not the final packet and subject to change. Agenda-based summary only. No votes are recorded here; do not treat items below as adopted outcomes."
+notes: "Agenda-based summary only. Official minutes / pass-fail sheet not used for vote outcomes; do not treat items below as adopted outcomes."
 sources:
-  - title: DRAFT City Commission Agenda — October 26, 2026
-    url: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-draft-city-commission-agendas/10-oct-2026-draft-cca/10_26_26_draft-city-commission-agenda.pdf
-    retrieved: 2026-10-19
+  - title: Final City Commission Agenda — October 26, 2026
+    url: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/10-oct-2026-final-cca/10_26_26_final-city-commission-agenda.pdf
+    retrieved: 2026-10-26
   - title: October 2026 City Commission Agendas (index)
     url: https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/October-2026
-    retrieved: 2026-10-19
+    retrieved: 2026-10-26
   - title: Meetings & Agendas
     url: https://www.wpb.org/Our-City/Meetings-Agendas
-    retrieved: 2026-10-19
+    retrieved: 2026-10-26
+  - title: Weekly Meeting List Final, October 26–30, 2026 (WML_2026-1026-1030)
+    url: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/wml-weekly-meeting-lists/2026-wml/10-october-2026/wml_2026-1026-1030_final.pdf
+    retrieved: 2026-10-26
 ---
 
-# DRAFT — Regular City Commission Meeting — October 26, 2026
+# Regular City Commission Meeting — October 26, 2026
 
 **When:** October 26, 2026, 5:00 PM  
 **Where:** Commission Chambers, 401 Clematis Street  
-**Status:** **DRAFT** agenda posted by the City — not final; subject to change. No votes are recorded on this page.  
-**Source:** Official draft agenda PDF on wpb.org (linked below). This page summarizes **what is scheduled on the draft**, not vote outcomes.
+**Source:** Official agenda PDF on wpb.org (linked below). This page summarizes **what was scheduled**, not vote outcomes.
+
+**Final agenda replaces the October 19 draft.** On the final agenda, items 8.1 (Ordinance No. 5183-26) and 8.2 (Resolution No. 217-26) are listed as continuations to the November 9, 2026, City Commission meeting; the staff recommended motion for each is to continue consideration to that date. Other item numbers and titles match the draft.
 
 ## Opening
 
@@ -47,8 +50,8 @@ Call to order, moment of silence, pledge, civility/decorum, and any agenda addit
 
 ## Public Hearing - Quasi-Judicial ([8](./agenda.md#item-8))
 
-- **[8.1](./agenda.md#item-8-1):** Public Hearing and First Reading of Ordinance No. 5183-26 regarding a request by Roger Ramdeen, of Shutts & Bowen, LLP, on behalf of CityPlace Retail, LLC, for an amendment to t…
-- **[8.2](./agenda.md#item-8-2):** Public Hearing of Resolution No. 217-26 regarding a request by Roger Ramdeen of Shutts & Bowen LLP, on behalf of CityPlace Retail, L.L.C., for a Major Planned Development Amendm…
+- **[8.1](./agenda.md#item-8-1):** CONTINUATION OF ORDINANCE NO. 5183-26 TO THE NOVEMBER 9, 2026, CITY COMMISSION MEETING.
+- **[8.2](./agenda.md#item-8-2):** CONTINUATION OF RESOLUTION NO. 217-26 TO THE NOVEMBER 9, 2026 CITY COMMISSION MEETING.
 
 ## Comments From The Public ([9](./agenda.md#item-9))
 
@@ -56,5 +59,5 @@ See [9. Comments From The Public](./agenda.md#item-9) in the full agenda text.
 
 ## Official documents (on wpb.org — not stored here)
 
-- [DRAFT agenda PDF (October 26, 2026)](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-draft-city-commission-agendas/10-oct-2026-draft-cca/10_26_26_draft-city-commission-agenda.pdf)
+- [Agenda PDF (October 26, 2026)](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/10-oct-2026-final-cca/10_26_26_final-city-commission-agenda.pdf)
 - [Month agendas folder](https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/October-2026)
