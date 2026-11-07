@@ -275,3 +275,10 @@ Add a new row (newest first) for each fetch:
 | 2026-11-02 09:00 ET | Dana (WPB weekly update) | `https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-draft-city-commission-agendas/11-nov-2026-draft-cca/11_09_26_draft-city-commission-agenda.pdf` | Ingest Nov 9 DRAFT commission agenda | Read-only GET; HTTP 200; 468775 bytes; plain pdftotext; PDF deleted |
 
 - 2026-10-29 19:36 EDT (Riley): WebSearch "Moonfest West Palm Beach Halloween ended why canceled" (read-only; results from cbs12.com, wpbf.com, wptv.com, weekendbroward.com). Nothing stored, nothing written to any city system.
+
+- 2026-11-02 09:06 EST (Riley): GET https://awormus.github.io/wpb/commission/2026-11-09/ and /wpb/commission/ (own GitHub Pages site, read-only) to verify rebuild after 4e3c530.
+- 2026-11-02 09:07 EST (Riley): re-GET own site Nov 9 page; gh api read of awormus/wpb Pages build status (read-only).
+- 2026-11-02 09:09 EST (Riley): re-GET own site Nov 9 page + gh Pages build status (read-only).
+
+| 2026-11-07 14:55 ET | Grok Bot (periodic proactive) | `https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/November-2026` | Check November Commission agendas | Read-only GET; HTTP 200; FINAL Nov 9 agenda now listed alongside draft |
+| 2026-11-07 14:55 ET | Grok Bot (periodic proactive) | `https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/11-nov-2026-final-cca/11_09_26_final-city-commission-agenda.pdf` | Ingest Nov 9 FINAL commission agenda (replaces draft) | Read-only GET; HTTP 200; 449625 bytes; plain pdftotext; PDF deleted; draft→final delta: removed 8.2 Breakwater/Currie Park Ord. 5190-26 |

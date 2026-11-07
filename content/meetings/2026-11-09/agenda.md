@@ -1,21 +1,20 @@
 ---
 date: 2026-11-09
 doc_type: agenda
-status: draft
-title: Draft City Commission Agenda
+title: Final City Commission Agenda
 meeting: Regular City Commission Meeting
-official_pdf: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-draft-city-commission-agendas/11-nov-2026-draft-cca/11_09_26_draft-city-commission-agenda.pdf
-retrieved: 2026-11-02
+official_pdf: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/11-nov-2026-final-cca/11_09_26_final-city-commission-agenda.pdf
+retrieved: 2026-11-07
 extractor: pdftotext + civic-pdf-cleanup
 notes: >
   Plain-text extract of the official PDF. Binary PDF not stored in this repo.
 ---
 
-# Draft City Commission Agenda — 2026-11-09
+# Final City Commission Agenda — 2026-11-09
 
-**Official PDF (wpb.org):** [11_09_26_draft-city-commission-agenda.pdf](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-draft-city-commission-agendas/11-nov-2026-draft-cca/11_09_26_draft-city-commission-agenda.pdf)
+**Official PDF (wpb.org):** [11_09_26_final-city-commission-agenda.pdf](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/11-nov-2026-final-cca/11_09_26_final-city-commission-agenda.pdf)
 
-**This is a DRAFT agenda** posted by the City — not the final packet. Text extract below is for search and deep-linking. The official PDF is authoritative.
+Text extract below is for search and deep-linking. The official PDF is authoritative.
 
 ---
 
@@ -23,16 +22,19 @@ notes: >
 
 City Administrator Faye W. Johnson City Attorney Kimberly Rothenburg City Clerk Shaquita Edwards
 
-City of West Palm Beach City Commission DRAFT Agenda In accordance with the provisions of the Americans with Disabilities Act (ADA), persons in need of a special accommodation to participate in this proceeding shall, within three days prior to any proceeding, contact the City Clerk's Office, 401 Clematis Street, West Palm Beach, FL 33401, (561) 822-1210.
+City of West Palm Beach City Commission Agenda Monday, November 9, 2026 5:00 PM In accordance with the provisions of the Americans with Disabilities Act (ADA), persons in need of a special accommodation to participate in this proceeding shall, within three days prior to any proceeding, contact the City Clerk's Office, 401 Clematis Street, West Palm Beach, FL 33401, (561) 822-1210.
 
 <a id="item-1"></a>
 ## 1. CALL TO ORDER
 
+
 <a id="item-2"></a>
 ## 2. MOMENT OF SILENCE
 
+
 <a id="item-3"></a>
 ## 3. PLEDGE OF ALLEGIANCE
+
 
 <a id="item-4"></a>
 ## 4. CIVILITY AND DECORUM
@@ -48,6 +50,7 @@ The City of West Palm Beach is committed to civility and decorum by its official
 <a id="item-5"></a>
 ## 5. ADDITIONS / DELETIONS / REORGANIZATION OF AGENDA
 
+
 <a id="item-6"></a>
 ## 6. CONSENT CALENDAR
 
@@ -60,12 +63,14 @@ All items listed under the consent calendar are considered routine and will be e
 
 Mayor's Office
 
+
 <a id="item-6-2"></a>
 ### 6.2. Minutes of the September 14, 2026, City Commission Meeting.
 
 #### Originating Department
 
 Mayor's Office
+
 
 <a id="item-6-3"></a>
 ### 6.3. Resolution No. 239-26 accepting a grant from the Florida Department of Transportation in the amount of $15,000 for litter prevention education through the Keep West Palm Beach Beautiful program; and Resolution No. 238-26(F) recognizing and appropriating the grant funds in the Grant Programs Special Revenue Fund.
@@ -76,7 +81,9 @@ Public Works & Support Services
 
 #### Ordinance/Resolution
 
+
 > RESOLUTION NO. 239-26: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, ACCEPTING A LITTER CONTROL AND PREVENTION GRANT FROM THE FLORIDA DEPARTMENT OF TRANSPORTATION IN THE AMOUNT OF $15,000 TO CONDUCT KEEP WEST PALM BEACH BEAUTIFUL ACTIVITIES; AUTHORIZING EXECUTION OF THE GRANT AGREEMENT; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+
 
 > RESOLUTION NO. 238-26(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2026/2027 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE GRANT PROGRAMS SPECIAL REVENUE FUND BUDGET TO RECOGNIZE A GRANT FROM THE FLORIDA DEPARTMENT OF TRANSPORTATION FOR LITTER PREVENTION AND CONTROL PROGRAMS AND TO PROVIDE APPROPRIATIONS FOR THE KEEP WEST PALM BEACH BEAUTIFUL PROGRAM; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
 
@@ -107,6 +114,7 @@ Police
 
 #### Ordinance/Resolution
 
+
 > RESOLUTION NO. 248-26(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2026/2027 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE MISCELLANEOUS TRUST FUND BUDGET TO PROVIDE APPROPRIATIONS FROM THE FEDERAL LAW ENFORCEMENT FORFEITURE RECEIPTS FOR LAW ENFORCEMENT INVESTIGATIVE EXPENSES OF THE WEST PALM BEACH POLICE DEPARTMENT; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
 
 #### Background Information
@@ -116,12 +124,9 @@ The Federal Law Enforcement Trust Fund expenditure of $146,000 will be used to a
 Agencies must contact MLARS prior to using the Department of Justice equitable sharing funds for all improvement and expansion projects. For example, the construction of a new facility or minor renovations, including drywall, electrical, HVAC replacements, and internal modifications to an existing facility.
 
 The West Palm Beach Police Department continues to need additional space for investigative personnel. The requested amount of $146,000 will cover the payments required for continuing operational expenses. The breakdown of the covered expenses is:
-- $3,000 Repair and Maintenance Service Agreements
-- $8,500 Electric Services
-- $11,500 Contractual Services
-- $123,000 Other Building Expenses
+- $3,000 $8,500 $11,500 $123,000
 
-Resolution No. 248-26(F) appropriates $146,000 of Federal Law Enforcement Forfeiture Receipts for investigative operating expenses.
+Repair and Maintenance Service Agreements Electric Services Contractual Services Other Building Expenses Resolution No. 248-26(F) appropriates $146,000 of Federal Law Enforcement Forfeiture Receipts for investigative operating expenses.
 
 #### Fiscal Note
 
@@ -135,6 +140,7 @@ Approval of this item will cover the payments required for the leasing of space 
 Public Utilities
 
 #### Ordinance/Resolution
+
 
 > RESOLUTION NO. 249-26: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING A UTILITY WORK BY HIGHWAY CONTRACTOR AGREEMENT BETWEEN THE CITY OF WEST PALM BEACH AND THE FLORIDA DEPARTMENT OF TRANSPORTATION RELATING TO FDOT’S WORK ON STATE ROAD NO. NO. 9 / I-95 INTERCHANGE MODIFICATION AT PALM BEACH LAKES BOULEVARD; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
 
@@ -171,6 +177,7 @@ Finance
 
 #### Ordinance/Resolution
 
+
 > RESOLUTION NO. 254-26(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2025/2026 IN ACCORDANCE WITH SECTION 4-03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE COMMUNITY DEVELOPMENT FUND AND VARIOUS OTHER FUNDS BUDGETS TO PROVIDE APPROPRIATIONS FOR CHANGES IN ESTIMATES FOR REVENUES AND EXPENDITURES; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
 
 #### Background Information
@@ -181,11 +188,13 @@ It states: "The adopted budget may be amended at any time during the fiscal year
 
 This is an annual resolution that authorizes changes to budget appropriations within the fiscal year to recognize additional budget allocations from revenues received, additional expenditures that have occurred, and for any transfers for accounting purposes.
 
-#### GRANT CAPITAL PROJECT FUND & COMMUNITY DEVELOPMENT FUND
+#### GRANT CAPITAL PROJECT FUND & COMMUNITY DEVELOPMENT
 
-Executing the approved transfer from Resolution No. 24-22(F) to the Grant Capital Project Fund from the Community Development Fund.
+FUND Executing the approved transfer from Resolution No. 24-22(F) to the Grant Capital Project Fund from the Community Development Fund.
 
-#### LAND ACQUISITION FUND & NEIGHBORHOOD STABILIZATION PROGRAM FUND
+#### LAND ACQUISITION FUND & NEIGHBORHOOD STABILIZATION
+
+#### PROGRAM FUND
 
 Reporting transfer of property ownership from the Neighborhood Stabilization Fund to the Land Acquisition Fund.
 
@@ -206,6 +215,7 @@ Approval of this item will provide appropriations for changes in estimated reven
 Mayor's Office
 
 #### Ordinance/Resolution
+
 
 > RESOLUTION NO. 250-26: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING THE PROPOSED PUBLIC ART ARTWORK POINTS OF VIEW BY TONY CRAGG FOR 10 & 15 CITY PLACE COMMISSIONED BY C BLOCK DEVELOPMENT, LLC IN COMPLIANCE WITH THE PUBLIC ART ORDINANCE; PROVIDING AN EFFECTIVE DATE; AND OTHER PURPOSES.
 
@@ -236,10 +246,7 @@ Among his many major solo shows Cragg has exhibited extensively in museums world
 #### ABOUT THE ARTWORK
 
 Point of View comprises two (2) stainless steel cast metal structures:
-- Column 1: 25ft3in x 5ft8in x 7ft5in (770 x 173 x 226cm)
-- Column 2: 25ft3in x 6ft2in x 7ft4in (770 x 188 x 224cm)
-- Each column weighs approximately 4480 lbs.
-- The distance between sculptures will be kept at 4’ 2” (127cm).
+- Column 1: 25ft3in x 5ft8in x 7ft5in (770 x 173 x 226cm) Column 2: 25ft3in x 6ft2in x 7ft4in (770 x 188 x 224cm) Each column weighs approximately 4480 lbs. The distance between sculptures will be kept at 4’ 2” (127cm).
 
 In fine art and public art, EN 1.4409 cast stainless steel (316L/CF3M) is highly valued by fine art foundries and sculptors. While many large, geometric steel sculptures are custom-fabricated by hand-forging or welding sheet metal together, 1.4409 is used specifically for cast metal sculptures to create complex, three-dimensional design.
 
@@ -263,6 +270,7 @@ No fiscal impact.
 Development Services
 
 #### Ordinance/Resolution
+
 
 > RESOLUTION NO. 251-26: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, ADOPTING THE 2026 WATERSHED MASTER PLAN; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
 
@@ -300,6 +308,7 @@ City Attorney's Office
 
 #### Ordinance/Resolution
 
+
 > ORDINANCE NO. 5188-26: AN ORDINANCE OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, GRANTING AN EXTENSION OF THE OUTSIDE CLOSING DATE FOR THE SALE OF CITY-OWNED PROPERTY LOCATED AT 202 – 206 NORTH SAPODILLA AVENUE TO PUBLIX SUPERMARKETS, INC., FOR DEVELOPMENT AS A SUPERMARKET; APPROVING AN AMENDMENT TO THE PURCHASE AND SALE AGREEMENT; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
 
 #### Staff Recommended Motion
@@ -328,78 +337,6 @@ Ordinance No. 5188-26 approves the extension of the Outside Closing Date, confir
 
 No fiscal impact.
 
-<a id="item-8-2"></a>
-### 8.2. Public Hearing and First Reading of Ordinance No. 5190-26 approving a Ground Lease, Development and Operating Agreement with Breakwater Hospitality Group, LLC, for the restaurant to be developed within Currie Park.
-
-#### Originating Department
-
-Community Redevelopment Agency
-
-#### Ordinance/Resolution
-
-> ORDINANCE NO. 5190-26: AN ORDINANCE OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING A GROUND LEASE, DEVELOPMENT AND OPERATING AGREEMENT WITH BREAKWATER HOSPITALITY GROUP, LLC, FOR THE RESTAURANT TO BE DEVELOPED WITHIN CURRIE PARK; AUTHORIZING THE EXECUTION OF THE LEASE; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
-
-#### Staff Recommended Motion
-
-Approve Ordinance No. 5190-26 on First Reading and schedule Second Reading on November 23, 2026.
-
-#### Background Information
-
-In 2025, the City took proactive steps to redesign Currie Park, a 13-acre site directly on the Intracoastal Waterway. A portion of Currie Park has been set aside for the design, build, and operation of a restaurant with indoor and outdoor seating to accommodate park users. This resulted in Request for Proposal, RFP No. 25.26.205, seeking proposals to develop and operate a restaurant at Currie Park.
-
-Breakwater Hospitality Group, LLC was selected to negotiate an agreement to design, construct, and operate the restaurant in Currie Park.
-
-The consulting firm of Jones Lang LaSalle was retained to negotiate the agreement terms.
-The significant terms of the Lease include the following:
-- Leased Premises: The Land subject to this Lease is a portion of Currie Park, located at 2400 N. Flagler Drive, West Palm Beach, within the northern third of the Park. Tenant is authorized to construct a two-story building with a ground floor indoor building footprint of no greater than 8,432 square feet in size, along with a covered Outdoor Seating Area of approximately 1,400 square feet in size; provided that in no event shall the total ground floor area of the Premises exceed 9,832 square feet.
-
-- Use of Property: The permitted use of the premises is for operation of a restaurant and event venue with indoor and outdoor seating, with waiter service together with take-away, grab-and-go, with a second floor private event space. In no event may the premises be used, in whole or in part (including the second floor event space) as a discotheque or nightclub.
-
-- Concept Plan: Tenant shall obtain approval by the City Commission, in its propriety role as Landlord, of the concept plan for the building and improvements on the premises.
-
-- Term: The Lease term is twenty (20) years with the option to extend the term for one additional period of ten (10) years.
-
-- Rent: The Base Rent is $150,000; which shall increase by 3% each year. The tenant will also pay Percentage Rent, which will be calculated as 3% of that portion of the Gross Revenue in excess of the Ten Million Dollar breakpoint, which breakpoint shall increase by 3% each year.
-
-- Commencement Conditions: Prior to commencement of construction, each of the following conditions shall have been met:
-- Regulatory Approvals: Tenant shall have obtained all required Governmental Approvals.
-
-- Required Permits: Tenant shall have obtained all required permits, including Building Permits.
-
-- Payment Bond(s): Tenant shall have provided the Landlord with copies of the recorded performance bonds and payment bonds.
-
-- Construction Contract: Tenant shall have provided Landlord with a copy of its construction contract.
-
-- Insurance: Tenant shall have delivered to the Landlord the certificates of insurance for the required coverage.
-
-- Small Business Participation: Tenant shall have obtained written approval from the City’s Office of Small Business Programs.
-
-- Emergency Plan: Tenant shall have delivered its contractor’s hurricane/emergency plan.
-
-- Funding: Tenant shall have secured financing for the construction of the building and improvements that is satisfactory to Landlord and which shall be in an amount no less than $18,766,770.
-
-- Required Opening Date: will be the latest of (a) the date that is thirtysix (36) months following the date on which Landlord approves the Concept Plan; (b) the date that is twenty-four (24) months following the later of (i) the Delivery Date and (ii) the date on which Tenant receives Landlord’s approval of Tenant’s Construction Plans; and (c) the date that is twelve (12) months following the date on which Tenant receives the Master Building Permit.
-
-- City’s Obligation: The City will clear, grub, rough grade, and compact the land and provide a condition suitable for commencement of construction, with all utilities stubbed out to the building pad.
-
-- Maintenance: All maintenance obligations will be the responsibility of the Tenant, including the building, building service equipment, the outdoor seating area, and all other improvements.
-
-- Taxes: Tenant will be responsible for payment of all taxes.
-
-- Insurance: Tenant to be responsible for insuring the leased premises.
-
-- Small Business Access Program: Tenant shall make the event space portion of the premises available to the City’s Office of Small Business up to twice monthly, free of charge, for City-sponsored small business programming of not more than three (3) hours per use. This obligation shall be limited to weekdays between 9:00 a.m. and 4:00 p.m., and shall be subject to availability.
-
-- Assignment: Tenant may assign the Lease subject to the City’s approval, provided the assignee meets all transfer criteria. Such criteria include experience, a strong financial standing and track record, consistency in concept, price point alignment with current operations, and no existing default under the Lease. However, for five (5) years after the opening date, any assignment may only be to an entity that remains under the ultimate control and direction of Alex Mantecon and/or Emi Guerra, the principals of Breakwater Hospitality Group.
-
-Section 2-31(27) of the Code Ordinance provides for approval of a lease of City property with a term of five (5) years or longer by ordinance approved by four-fifths of the membership of the City Commission.
-
-Ordinance No. 5190-26 approves the Ground Lease with Breakwater Hospitality Group.
-
-#### Fiscal Note
-
-The Base Rent is $150,000; which shall increase by 3% annually. The tenant will also pay Percentage Rent; 3% of that portion of the Gross Revenue in excess of the $10M Dollar breakpoint, which breakpoint shall increase by 3% each year.
-
 <a id="item-9"></a>
 ## 9. PUBLIC HEARING - QUASI-JUDICIAL
 
@@ -413,6 +350,7 @@ Disclosure of ex-parte communications, if any* Swearing-in of witnesses.
 Development Services
 
 #### Ordinance/Resolution
+
 
 > ORDINANCE NO. 5183-26: AN ORDINANCE OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, RELATING TO A DEVELOPMENT OF REGIONAL IMPACT NOW KNOWN AS THE CITYPLACE DEVELOPMENT OF REGIONAL IMPACT; AMENDING SECTION 3.29 “MINORITY BUSINESS PARTICIPATION” OF
 
@@ -486,6 +424,7 @@ Development Services
 
 #### Ordinance/Resolution
 
+
 > RESOLUTION NO. 217-26: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, APPROVING A MAJOR PLANNED DEVELOPMENT AMENDMENT TO THE CITYPLACE COMMERCIAL PLANNED DEVELOPMENT TO AMEND THE CITYPLACE CORE DEVELOPMENT REGULATIONS TO UPDATE THE SMALL BUSINESS ENTERPRISE REQUIREMENT LANGUAGE, TO ADD PROVISIONS FOR THE HELIPAD/VERTISTOP USE IN THE HIBISCUS GARAGE SUBAREA AND FOR OTHER MISCELLANEOUS TEXT UPDATES; DECLARING THIS RESOLUTION CONSISTENT WITH THE COMPREHENSIVE PLAN OF THE CITY; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
 
 #### Staff Recommended Motion
@@ -540,6 +479,7 @@ Individual notices were mailed to all property owners within 500 feet of the are
 
 No fiscal impact.
 
+
 <a id="item-10"></a>
 ## 10. COMMENTS FROM THE PUBLIC
 
@@ -547,6 +487,7 @@ Public comments are limited to three (3) minutes. Anyone wishing to address the 
 
 <a id="item-11"></a>
 ## 11. COMMENTS BY THE MAYOR AND CITY COMMISSIONERS
+
 
 <a id="item-12"></a>
 ## 12. ADJOURNMENT
