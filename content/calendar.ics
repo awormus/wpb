@@ -153,4 +153,81 @@ LOCATION:Zoom
 DESCRIPTION:Agenda not published yet. Date and time as listed on the City's City Commission Agenda Review 2026 event page (retrieved 2026-10-05): https://www.wpb.org/Events-Folder/2026/City-Commission-Agenda-Review-2026 The City lists no end time for this date. Zoom link as listed there: https://us06web.zoom.us/j/89960741484 Meetings hub: https://www.wpb.org/Our-City/Meetings-Agendas
 URL:https://www.wpb.org/Events-Folder/2026/City-Commission-Agenda-Review-2026
 END:VEVENT
+BEGIN:VEVENT
+UID:wpb-hip-nights-northwood-2026-11-27@awormus.github.io
+DTSTAMP:20261109T184500Z
+DTSTART;TZID=America/New_York:20261127T180000
+DTEND;TZID=America/New_York:20261127T210000
+SUMMARY:Nights in Northwood — Holiday Edition (Jam-X The Band) — FREE
+LOCATION:Northwood Road\, West Palm Beach\, FL
+CATEGORIES:City events,Holiday in Paradise
+DESCRIPTION:Holiday in Paradise signature event. Live music from Jam-X The Band (Top 40\, R&B\, Pop) on the NewDay USA stage. Open-air night market with more than 50 vendors (art\, fashion\, handmade goods\, vintage\, local food). Held on Black Friday\, the day before Small Business Saturday. Source: City of West Palm Beach news release "City Kicks Off the Holiday Season with Holiday in Paradise" (published 2026-11-09\, retrieved 2026-11-09): https://www.wpb.org/News-Folder/News-2026/110926-HiP-kickoff Holiday in Paradise Presented by FPL runs Nov 27–Dec 31\, 2026 ("The Art of Holidays"). All signature events are free to attend. Sandi music and light shows nightly on the quarter hour 6–10 p.m. Dec 3–30 (adjusted during special events\; through midnight on New Year's Eve). Ferris wheel rides $5 per person during Sandi's show hours. More info: https://wpb.org/holiday
+URL:https://www.wpb.org/News-Folder/News-2026/110926-HiP-kickoff
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-hip-tree-lighting-2026-12-03@awormus.github.io
+DTSTAMP:20261109T184500Z
+DTSTART;TZID=America/New_York:20261203T180000
+DTEND;TZID=America/New_York:20261203T220000
+SUMMARY:Clematis by Night Holiday Tree Lighting (Sandi debut) — FREE
+LOCATION:Great Lawn\, 100 N. Clematis Street\, West Palm Beach\, FL
+CATEGORIES:City events,Holiday in Paradise
+DESCRIPTION:Holiday in Paradise signature event. Season debut of Sandi's synchronized music and light shows. Live music: Phoenix5 (Soul/Funk/Rock/Reggae) and Officers & Gentlemen with the Rhythm Chicks (Holiday\, '60s\, '70s) on the NewDay USA Stage. Live painting by Laura Serna 6–9 p.m. Santa and Mrs. Claus\, face painters\, stilt walkers\, holiday gift boutique. Music\, activities\, and boutique end at 9 p.m.\; Sandi's shows and Ferris rides continue until 10 p.m. Source: City of West Palm Beach news release "City Kicks Off the Holiday Season with Holiday in Paradise" (published 2026-11-09\, retrieved 2026-11-09): https://www.wpb.org/News-Folder/News-2026/110926-HiP-kickoff Holiday in Paradise Presented by FPL runs Nov 27–Dec 31\, 2026 ("The Art of Holidays"). All signature events are free to attend. Sandi music and light shows nightly on the quarter hour 6–10 p.m. Dec 3–30 (adjusted during special events\; through midnight on New Year's Eve). Ferris wheel rides $5 per person during Sandi's show hours. More info: https://wpb.org/holiday
+URL:https://www.wpb.org/News-Folder/News-2026/110926-HiP-kickoff
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-hip-rhythm-rosemary-2026-12-04@awormus.github.io
+DTSTAMP:20261109T184500Z
+DTSTART;TZID=America/New_York:20261204T170000
+DTEND;TZID=America/New_York:20261204T210000
+SUMMARY:Winter in Paradise — Rhythm on Rosemary (ReaXtion Band with DJ Scoobz) — FREE
+LOCATION:Heart & Soul Park\, 825 N. Rosemary Avenue\, West Palm Beach\, FL
+CATEGORIES:City events,Holiday in Paradise
+DESCRIPTION:Holiday in Paradise signature event. 10th Annual Winter in Paradise — Rhythm on Rosemary in the Historic Northwest Neighborhood. Live music by ReaXtion Band and DJ Scoobz\, interactive games\, family-friendly activities. West Palm Beach Fire Rescue free hamburgers and hot dogs\; Police Department free popcorn (while supplies last). Source: City of West Palm Beach news release "City Kicks Off the Holiday Season with Holiday in Paradise" (published 2026-11-09\, retrieved 2026-11-09): https://www.wpb.org/News-Folder/News-2026/110926-HiP-kickoff Holiday in Paradise Presented by FPL runs Nov 27–Dec 31\, 2026 ("The Art of Holidays"). All signature events are free to attend. Sandi music and light shows nightly on the quarter hour 6–10 p.m. Dec 3–30 (adjusted during special events\; through midnight on New Year's Eve). Ferris wheel rides $5 per person during Sandi's show hours. More info: https://wpb.org/holiday
+URL:https://www.wpb.org/News-Folder/News-2026/110926-HiP-kickoff
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-hip-cbn-friday-five-2026-12-10@awormus.github.io
+DTSTAMP:20261109T184500Z
+DTSTART;TZID=America/New_York:20261210T180000
+DTEND;TZID=America/New_York:20261210T210000
+SUMMARY:Clematis by Night featuring Friday @Five — FREE
+LOCATION:Great Lawn\, 100 N. Clematis Street\, West Palm Beach\, FL
+CATEGORIES:City events,Holiday in Paradise
+DESCRIPTION:Holiday in Paradise signature event. Friday @Five (Party Rock\, Pop\, Country) on the NewDay USA Stage at Clematis by Night. Source: City of West Palm Beach news release "City Kicks Off the Holiday Season with Holiday in Paradise" (published 2026-11-09\, retrieved 2026-11-09): https://www.wpb.org/News-Folder/News-2026/110926-HiP-kickoff Holiday in Paradise Presented by FPL runs Nov 27–Dec 31\, 2026 ("The Art of Holidays"). All signature events are free to attend. Sandi music and light shows nightly on the quarter hour 6–10 p.m. Dec 3–30 (adjusted during special events\; through midnight on New Year's Eve). Ferris wheel rides $5 per person during Sandi's show hours. More info: https://wpb.org/holiday
+URL:https://www.wpb.org/News-Folder/News-2026/110926-HiP-kickoff
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-hip-aloha-islanders-2026-12-17@awormus.github.io
+DTSTAMP:20261109T184500Z
+DTSTART;TZID=America/New_York:20261217T180000
+DTEND;TZID=America/New_York:20261217T210000
+SUMMARY:Aloha Islanders' Holiday Spectacular at Clematis by Night — FREE
+LOCATION:Great Lawn\, 100 N. Clematis Street\, West Palm Beach\, FL
+CATEGORIES:City events,Holiday in Paradise
+DESCRIPTION:Holiday in Paradise signature event. Polynesian holiday show (Hawaii\, Tahiti\, Samoa\, New Zealand) with drums\, hula\, Samoan fire knife dancers\, tropical Santa\, and annual conch-blowing contest on the NewDay USA Stage. Source: City of West Palm Beach news release "City Kicks Off the Holiday Season with Holiday in Paradise" (published 2026-11-09\, retrieved 2026-11-09): https://www.wpb.org/News-Folder/News-2026/110926-HiP-kickoff Holiday in Paradise Presented by FPL runs Nov 27–Dec 31\, 2026 ("The Art of Holidays"). All signature events are free to attend. Sandi music and light shows nightly on the quarter hour 6–10 p.m. Dec 3–30 (adjusted during special events\; through midnight on New Year's Eve). Ferris wheel rides $5 per person during Sandi's show hours. More info: https://wpb.org/holiday
+URL:https://www.wpb.org/News-Folder/News-2026/110926-HiP-kickoff
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-hip-sandi-ice-cream-2026-12-27@awormus.github.io
+DTSTAMP:20261109T184500Z
+DTSTART;TZID=America/New_York:20261227T180000
+DTEND;TZID=America/New_York:20261227T210000
+SUMMARY:Sandi's Ice Cream Social — FREE to attend
+LOCATION:Waterfront / Lake Pavilion\, West Palm Beach\, FL
+CATEGORIES:City events,Holiday in Paradise
+DESCRIPTION:Holiday in Paradise signature event. Free to attend\; ice cream available for purchase in the Lake Pavilion. Silent disco in Centennial Square (free\, first-come first-served)\, inflatables\, Ferris wheel\, bubble artist\, and more. Source: City of West Palm Beach news release "City Kicks Off the Holiday Season with Holiday in Paradise" (published 2026-11-09\, retrieved 2026-11-09): https://www.wpb.org/News-Folder/News-2026/110926-HiP-kickoff Holiday in Paradise Presented by FPL runs Nov 27–Dec 31\, 2026 ("The Art of Holidays"). All signature events are free to attend. Sandi music and light shows nightly on the quarter hour 6–10 p.m. Dec 3–30 (adjusted during special events\; through midnight on New Year's Eve). Ferris wheel rides $5 per person during Sandi's show hours. More info: https://wpb.org/holiday
+URL:https://www.wpb.org/News-Folder/News-2026/110926-HiP-kickoff
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-hip-nye-2026-12-31@awormus.github.io
+DTSTAMP:20261109T184500Z
+DTSTART;TZID=America/New_York:20261231T180000
+DTEND;TZID=America/New_York:20270101T000000
+SUMMARY:Sandi's New Year's Eve (DJ Reflex & Wonderama) — FREE
+LOCATION:Great Lawn\, 100 N. Clematis Street\, West Palm Beach\, FL
+CATEGORIES:City events,Holiday in Paradise
+DESCRIPTION:Holiday in Paradise season finale. Sandi shows 6 p.m.–midnight\; party 8 p.m.–midnight featuring DJ Reflex and Wonderama on the NewDay USA Stage. Food vendors on site. Fireworks from Flagler Museum at midnight. Source: City of West Palm Beach news release "City Kicks Off the Holiday Season with Holiday in Paradise" (published 2026-11-09\, retrieved 2026-11-09): https://www.wpb.org/News-Folder/News-2026/110926-HiP-kickoff Holiday in Paradise Presented by FPL runs Nov 27–Dec 31\, 2026 ("The Art of Holidays"). All signature events are free to attend. Sandi music and light shows nightly on the quarter hour 6–10 p.m. Dec 3–30 (adjusted during special events\; through midnight on New Year's Eve). Ferris wheel rides $5 per person during Sandi's show hours. More info: https://wpb.org/holiday
+URL:https://www.wpb.org/News-Folder/News-2026/110926-HiP-kickoff
+END:VEVENT
 END:VCALENDAR

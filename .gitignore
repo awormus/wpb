@@ -23,3 +23,8 @@ Desktop.ini
 !.env.example
 *.log
 .cache/
+
+# Python
+__pycache__/
+*.py[cod]
+ops/__pycache__/

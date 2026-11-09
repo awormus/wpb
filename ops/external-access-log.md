@@ -288,3 +288,5 @@ Add a new row (newest first) for each fetch:
 | 2026-11-09 09:06 ET | Dana (WPB weekly update) | `https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/December-2026` | Check Dec agendas | Read-only GET; HTTP 200; 109926 bytes; no new PDFs of interest |
 | 2026-11-09 09:06 ET | Dana (WPB weekly update) | `https://www.wpb.org/Events-Folder/2026/City-Commission-Meeting-2026` | Future Commission dates | Read-only GET; HTTP 200; 122928 bytes; dates unchanged |
 | 2026-11-09 09:06 ET | Dana (WPB weekly update) | `https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/wml-weekly-meeting-lists/2026-wml/11-november-2026/wml_2026-1109-1113_final.pdf` | WML Nov 9–13 | Read-only GET; HTTP 200; plain pdftotext; PDF deleted; no commission/work-session/agenda-review items beyond Nov 9 CC and CRA |
+
+- 2026-11-09 13:45 EST (Riley): WebFetch GET https://www.wpb.org/News-Folder/News-2026/110926-HiP-kickoff (read-only, 200) — Holiday in Paradise 2026 kickoff news release for calendar ingest. Nothing stored beyond calendar citations; nothing written to any city system.
