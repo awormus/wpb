@@ -230,4 +230,125 @@ CATEGORIES:City events,Holiday in Paradise
 DESCRIPTION:Holiday in Paradise season finale. Sandi shows 6 p.m.–midnight\; party 8 p.m.–midnight featuring DJ Reflex and Wonderama on the NewDay USA Stage. Food vendors on site. Fireworks from Flagler Museum at midnight. Source: City of West Palm Beach news release "City Kicks Off the Holiday Season with Holiday in Paradise" (published 2026-11-09\, retrieved 2026-11-09): https://www.wpb.org/News-Folder/News-2026/110926-HiP-kickoff Holiday in Paradise Presented by FPL runs Nov 27–Dec 31\, 2026 ("The Art of Holidays"). All signature events are free to attend. Sandi music and light shows nightly on the quarter hour 6–10 p.m. Dec 3–30 (adjusted during special events\; through midnight on New Year's Eve). Ferris wheel rides $5 per person during Sandi's show hours. More info: https://wpb.org/holiday
 URL:https://www.wpb.org/News-Folder/News-2026/110926-HiP-kickoff
 END:VEVENT
+BEGIN:VEVENT
+UID:wpb-aipp-new-wave-panel-2026-11-19@awormus.github.io
+DTSTAMP:20261113T142600Z
+DTSTART;TZID=America/New_York:20261119T113000
+DTEND;TZID=America/New_York:20261119T140000
+SUMMARY:New Wave Artist Residency panel discussion (Art in Public Places)
+LOCATION:Auditorium\, 3rd floor\, Mandel Public Library of West Palm Beach\, 411 Clematis Street\, West Palm Beach\, FL 33401
+CATEGORIES:City events,Arts
+DESCRIPTION:The City of West Palm Beach's Art in Public Places (AiPP) program hosts a panel discussion presented by New Wave Artist Residency: "Art in Public Places: How Public Art Commissions Transform Artistic Practice." Designed as a lunch-and-learn for artists\, art advocates\, and community members. Panelists: artist José Alvarez (D.O.P.A.)\, whose installation Surround Me with Your Love (May All Beings Be Happy and Free)\, 2026 was commissioned by AiPP and is on exhibit at The Urban\; South Florida artists Lauren Shapiro and Laura Tanner Graham. Moderator: Amanda Sanfilippo Long\, Curator and Artist Manager for Miami-Dade County's Art in Public Places program. Schedule: 11:30 a.m. arrivals\, coffee and light bites\; noon introductory remarks and panel discussion\; 1 p.m. artist-led art tour and boxed to-go lunch\, including a walkthrough of The Urban with José Alvarez\; 2 p.m. event concludes. Registration listed on the news release: https://www.eventcreate.com/e/new-wave-art-in-public-places-panel-discussion Source: City email "Update: 111226 AiPP Hosts Season Kick-Off for New Wave Artist Residency" (Nov 12\, 2026)\; City of West Palm Beach news release "City Art in Public Places Hosts Kick-Off for New Wave Artist Residency" (published 2026-11-12\, retrieved 2026-11-13): https://www.wpb.org/News-Folder/News-2026/111226-AiPP-Hosts-Season-Kick-Off-for-New-Wave-Artist-Residency
+URL:https://www.wpb.org/News-Folder/News-2026/111226-AiPP-Hosts-Season-Kick-Off-for-New-Wave-Artist-Residency
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-lib-capoeira-2026-11-13@awormus.github.io
+DTSTAMP:20261113T142600Z
+DTSTART;TZID=America/New_York:20261113T140000
+DTEND;TZID=America/New_York:20261113T150000
+SUMMARY:Capoeira with Mayling Pao
+LOCATION:Auditorium\, 3rd floor\, Mandel Public Library of West Palm Beach\, 411 Clematis Street\, West Palm Beach\, FL 33401
+CATEGORIES:Library
+DESCRIPTION:Capoeira is an Afro-Brazilian practice that fuses martial art and dance. Join Mayling Pao to learn the basics and improve your flexibility and strength. No experience necessary. Please wear comfortable clothes and bring water. Meets every second and fourth Friday of the month\, generally. Source: Mandel Public Library newsletter "It's National Native American Heritage Month" (Nov 12\, 2026)\; event page (retrieved 2026-11-13): https://mandel-fl.whofi.com/calendar/event/352583
+URL:https://mandel-fl.whofi.com/calendar/event/352583
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-lib-craft-club-2026-11-14@awormus.github.io
+DTSTAMP:20261113T142600Z
+DTSTART;TZID=America/New_York:20261114T140000
+DTEND;TZID=America/New_York:20261114T150000
+SUMMARY:Craft Club (grades K-5)
+LOCATION:KidSpace Homework Center\, Mandel Public Library of West Palm Beach\, 411 Clematis Street\, West Palm Beach\, FL 33401
+CATEGORIES:Library,Kids
+DESCRIPTION:For kids in grades K-5. Join Ms. Camila for a fun craft. Dress to get messy! Space is limited\, and in-person sign-up begins in KidSpace at 1:30 p.m. Source: Mandel Public Library newsletter "It's National Native American Heritage Month" (Nov 12\, 2026)\; event page (retrieved 2026-11-13): https://mandel-fl.whofi.com/calendar/event/353754
+URL:https://mandel-fl.whofi.com/calendar/event/353754
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-lib-piano-mystic-world-2026-11-15@awormus.github.io
+DTSTAMP:20261113T142600Z
+DTSTART;TZID=America/New_York:20261115T140000
+DTEND;TZID=America/New_York:20261115T153000
+SUMMARY:Piano Music from the Mystic World: Music Inspired by the Supernatural (Yoko Sata Kothari)
+LOCATION:Auditorium\, 3rd floor\, Mandel Public Library of West Palm Beach\, 411 Clematis Street\, West Palm Beach\, FL 33401
+CATEGORIES:Library,Music
+DESCRIPTION:Classical pianist Yoko Sata Kothari will offer a delightful and inspiring program of piano music from the mystic world. You will be sure to recognize some pieces while also experiencing something new. Source: Mandel Public Library newsletter "It's National Native American Heritage Month" (Nov 12\, 2026)\; event page (retrieved 2026-11-13): https://mandel-fl.whofi.com/calendar/event/352470
+URL:https://mandel-fl.whofi.com/calendar/event/352470
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-lib-teen-writers-workshop-2026-11-18@awormus.github.io
+DTSTAMP:20261113T142600Z
+DTSTART;TZID=America/New_York:20261118T160000
+DTEND;TZID=America/New_York:20261118T170000
+SUMMARY:Teen Writer's Workshop: Gratitude and Thankfulness (grades 6-12)
+LOCATION:TeenSource\, 2nd floor\, Mandel Public Library of West Palm Beach\, 411 Clematis Street\, West Palm Beach\, FL 33401
+CATEGORIES:Library,Kids
+DESCRIPTION:For teens and tweens in grades 6-12. Express yourself with a new writing project that focuses on gratitude. Build your craft by using creative prompts to generate imaginative stories. Beginners are welcome. In-person sign-up begins at 3:30 p.m. Source: Mandel Public Library newsletter "It's National Native American Heritage Month" (Nov 12\, 2026)\; event page (retrieved 2026-11-13): https://mandel-fl.whofi.com/calendar/event/354977
+URL:https://mandel-fl.whofi.com/calendar/event/354977
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-lib-ai-agents-2026-11-18@awormus.github.io
+DTSTAMP:20261113T142600Z
+DTSTART;TZID=America/New_York:20261118T183000
+DTEND;TZID=America/New_York:20261118T193000
+SUMMARY:Get More Done With AI Agents
+LOCATION:Clematis Room\, 3rd floor\, Mandel Public Library of West Palm Beach\, 411 Clematis Street\, West Palm Beach\, FL 33401
+CATEGORIES:Library
+DESCRIPTION:Can an AI agent cancel your subscriptions\, book your travel\, and cut your work week? Discover how new tools like Meta's Muse\, Grok\, and others take tedious chores off your plate. Join us for a live demo where we test real tasks - no coding\, no jargon\, just practical ways to put AI to work for your wallet. Organizer listed on the event page: Career and Technology Programs. Source: Mandel Public Library newsletter "It's National Native American Heritage Month" (Nov 12\, 2026)\; event page (retrieved 2026-11-13): https://mandel-fl.whofi.com/calendar/event/352587
+URL:https://mandel-fl.whofi.com/calendar/event/352587
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-lib-jane-austen-2026-11-21@awormus.github.io
+DTSTAMP:20261113T142600Z
+DTSTART;TZID=America/New_York:20261121T150000
+DTEND;TZID=America/New_York:20261121T160000
+SUMMARY:Jane Austen Society of North America talk with Lauren Gilbert
+LOCATION:Clematis Room\, 3rd floor\, Mandel Public Library of West Palm Beach\, 411 Clematis Street\, West Palm Beach\, FL 33401
+CATEGORIES:Library,Arts
+DESCRIPTION:What might respectable folk have done for amusement in London? Join speaker Lauren Gilbert to discover and learn. Source: Mandel Public Library newsletter "It's National Native American Heritage Month" (Nov 12\, 2026)\; event page (retrieved 2026-11-13): https://mandel-fl.whofi.com/calendar/event/352586
+URL:https://mandel-fl.whofi.com/calendar/event/352586
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-lib-pb-opera-hansel-gretel-2026-11-23@awormus.github.io
+DTSTAMP:20261113T142600Z
+DTSTART;TZID=America/New_York:20261123T163000
+DTEND;TZID=America/New_York:20261123T173000
+SUMMARY:Palm Beach Opera Story Time Series: Hansel and Gretel (family sing-along)
+LOCATION:Kids Programming Space\, Mandel Public Library of West Palm Beach\, 411 Clematis Street\, West Palm Beach\, FL 33401
+CATEGORIES:Library,Kids,Music
+DESCRIPTION:For families with kids of all ages. In this sing-along storytelling experience\, children learn about opera and meet some of opera's most beloved characters. Join Palm Beach Opera for a reading of Hansel and Gretel. Experience an operatic retelling of the classic fairy tale\, featuring the whimsical characters of the Sandman and the Dew Fairy. Palm Beach Opera's Story Time Series is part of the Douglas and Delphine Daft Education & Engagement Programs\, with additional support from the Palm Beach Opera Guild. Space is limited\, and in-person sign-up begins in KidSpace at 4 p.m. Source: Mandel Public Library newsletter "It's National Native American Heritage Month" (Nov 12\, 2026)\; event page (retrieved 2026-11-13): https://mandel-fl.whofi.com/calendar/event/353753
+URL:https://mandel-fl.whofi.com/calendar/event/353753
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-lib-winter-reading-kickoff-2026-11-23@awormus.github.io
+DTSTAMP:20261113T142600Z
+DTSTART;TZID=America/New_York:20261123T130000
+DTEND;TZID=America/New_York:20261123T150000
+SUMMARY:Winter Reading Kickoff Party
+LOCATION:KidSpace\, 3rd floor\, Mandel Public Library of West Palm Beach\, 411 Clematis Street\, West Palm Beach\, FL 33401
+CATEGORIES:Library,Kids
+DESCRIPTION:For kids of all ages. It's almost time for Winter Reading! Join us for an afternoon of fun at our Winter Reading Kickoff Party. Play games\, do crafts\, sign up for Winter Reading\, and more! Featuring special appearances by our community partners. Source: Mandel Public Library newsletter "It's National Native American Heritage Month" (Nov 12\, 2026)\; event page (retrieved 2026-11-13): https://mandel-fl.whofi.com/calendar/event/353655
+URL:https://mandel-fl.whofi.com/calendar/event/353655
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-lib-native-american-heritage-month-2026-11@awormus.github.io
+DTSTAMP:20261113T142600Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261201
+SUMMARY:National Native American Heritage Month programs (Mandel Public Library)
+LOCATION:Mandel Public Library of West Palm Beach\, 411 Clematis Street\, West Palm Beach\, FL 33401
+CATEGORIES:Library
+DESCRIPTION:Mandel Public Library of West Palm Beach programs tagged National Native American Heritage Month run through November 2026. They include seed packets to add plants traditionally used in Native American cooking (one per household\, available while supplies last) and other Heritage Month programs listed on the library calendar. This calendar entry is an all-day span for the month\; individual program dates and times are on the library calendar. Source: Mandel Public Library newsletter "It's National Native American Heritage Month" (Nov 12\, 2026)\; tagged program list (retrieved 2026-11-13): https://mandel-fl.whofi.com/calendar?search_events=Search&keyword_search=&tag_search%5B%5D=National+Native+American+Heritage+Month
+URL:https://mandel-fl.whofi.com/calendar?search_events=Search&keyword_search=&tag_search%5B%5D=National+Native+American+Heritage+Month
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-lib-winter-reading-program-2026-12-01@awormus.github.io
+DTSTAMP:20261113T142600Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20270201
+SUMMARY:Winter Reading Program: Starry Nights and Reading Lights
+LOCATION:Mandel Public Library of West Palm Beach\, 411 Clematis Street\, West Palm Beach\, FL 33401
+CATEGORIES:Library,Kids
+DESCRIPTION:Teens can earn free books by reading this winter. Log your reading into the Beanstack app or website to be eligible for free books and prize drawings. Listed as all day\, December 1\, 2026 through January 31\, 2027. The event page also lists the audience as All Ages. Source: Mandel Public Library newsletter "It's National Native American Heritage Month" (Nov 12\, 2026)\; event page (retrieved 2026-11-13): https://mandel-fl.whofi.com/calendar/event/356219
+URL:https://mandel-fl.whofi.com/calendar/event/356219
+END:VEVENT
 END:VCALENDAR
