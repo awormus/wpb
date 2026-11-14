@@ -159,9 +159,9 @@ DTSTAMP:20261109T184500Z
 DTSTART;TZID=America/New_York:20261127T180000
 DTEND;TZID=America/New_York:20261127T210000
 SUMMARY:Nights in Northwood — Holiday Edition (Jam-X The Band) — FREE
-LOCATION:Northwood Road\, West Palm Beach\, FL
+LOCATION:Northwood Road\, West Palm Beach\, FL 33406
 CATEGORIES:City events,Holiday in Paradise
-DESCRIPTION:Holiday in Paradise signature event. Live music from Jam-X The Band (Top 40\, R&B\, Pop) on the NewDay USA stage. Open-air night market with more than 50 vendors (art\, fashion\, handmade goods\, vintage\, local food). Held on Black Friday\, the day before Small Business Saturday. Source: City of West Palm Beach news release "City Kicks Off the Holiday Season with Holiday in Paradise" (published 2026-11-09\, retrieved 2026-11-09): https://www.wpb.org/News-Folder/News-2026/110926-HiP-kickoff Holiday in Paradise Presented by FPL runs Nov 27–Dec 31\, 2026 ("The Art of Holidays"). All signature events are free to attend. Sandi music and light shows nightly on the quarter hour 6–10 p.m. Dec 3–30 (adjusted during special events\; through midnight on New Year's Eve). Ferris wheel rides $5 per person during Sandi's show hours. More info: https://wpb.org/holiday
+DESCRIPTION:Holiday in Paradise signature event. Live music from Jam-X The Band (Top 40\, R&B\, Pop) on the NewDay USA stage. Open-air night market with more than 50 vendors (art\, fashion\, handmade goods\, vintage\, local food). Held on Black Friday\, the day before Small Business Saturday. Source: City of West Palm Beach news release "City Kicks Off the Holiday Season with Holiday in Paradise" (published 2026-11-09\, retrieved 2026-11-09): https://www.wpb.org/News-Folder/News-2026/110926-HiP-kickoff Holiday in Paradise Presented by FPL runs Nov 27–Dec 31\, 2026 ("The Art of Holidays"). All signature events are free to attend. Sandi music and light shows nightly on the quarter hour 6–10 p.m. Dec 3–30 (adjusted during special events\; through midnight on New Year's Eve). Ferris wheel rides $5 per person during Sandi's show hours. More info: https://wpb.org/holiday Also listed as a 4th Friday quarterly event on the City's Nights in Northwood Village page (6-9 p.m., Northwood Road, West Palm Beach, FL 33406). The Mayor's Insider Newsletter describes it as a FREE event and says Jam-X The Band, emerging from West Palm Beach, blends pop, neo soul, funk, reggae, rock, country, and jazz. More info: https://wpb.org/NIN (canonical page, retrieved 2026-11-14): https://www.wpb.org/Residents/Community-Events/Events/Nights-in-Northwood-Village Additional source: City email "News & Events in the City of West Palm Beach" (Nov 13, 2026); Mayor's Insider Newsletter (published 2026-11-13, retrieved 2026-11-14): https://www.wpb.org/News-Folder/News-2026/111226-Mayrs-Insider-Newsletter
 URL:https://www.wpb.org/News-Folder/News-2026/110926-HiP-kickoff
 END:VEVENT
 BEGIN:VEVENT
@@ -350,5 +350,79 @@ LOCATION:Mandel Public Library of West Palm Beach\, 411 Clematis Street\, West P
 CATEGORIES:Library,Kids
 DESCRIPTION:Teens can earn free books by reading this winter. Log your reading into the Beanstack app or website to be eligible for free books and prize drawings. Listed as all day\, December 1\, 2026 through January 31\, 2027. The event page also lists the audience as All Ages. Source: Mandel Public Library newsletter "It's National Native American Heritage Month" (Nov 12\, 2026)\; event page (retrieved 2026-11-13): https://mandel-fl.whofi.com/calendar/event/356219
 URL:https://mandel-fl.whofi.com/calendar/event/356219
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-pb-meeting-2026-11-17@awormus.github.io
+DTSTAMP:20261114T142600Z
+DTSTART;TZID=America/New_York:20261117T180000
+SUMMARY:Planning Board Meeting
+LOCATION:City Hall\, City Commission Chambers\, 401 Clematis Street\, West Palm Beach\, FL 33401
+CATEGORIES:Boards
+DESCRIPTION:City of West Palm Beach Planning Board meeting. The event page lists Tuesday\, November 17\, 2026\, at 6:00 p.m. in City Hall\, City Commission Chambers\, 401 Clematis St. No end time is listed. Agenda PDF: https://www.wpb.org/files/assets/city/v/1/development-services/documents/planning-board/2026-pb-agendas/pb-agenda-2026.11.17.pdf Final packet: https://www.wpb.org/files/assets/city/v/1/development-services/documents/planning-board/2026-pb-agendas/final-packet-pb-11.17.26.pdf Source: City email "Planning Board | November Staff Reports" (Nov 13\, 2026)\; event page (retrieved 2026-11-14): https://www.wpb.org/Events-Folder/2026/111726-PB
+URL:https://www.wpb.org/Events-Folder/2026/111726-PB
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-gwp-wild-neighbors-2026-11-15@awormus.github.io
+DTSTAMP:20261114T142600Z
+DTSTART;TZID=America/New_York:20261115T140000
+DTEND;TZID=America/New_York:20261115T150000
+SUMMARY:Living with Wild Neighbors (Grassy Waters Preserve)
+LOCATION:Grassy Waters Nature Center\, 8264 Northlake Boulevard\, West Palm Beach\, FL 33412
+CATEGORIES:City events
+DESCRIPTION:A talk on backyard wildlife: learn about some of the most common native backyard visitors and how to best engage in respectful human-wildlife interactions. Reservations required: call the Nature Center at 561-804-4985. Address as listed on the City's Grassy Waters Preserve page (retrieved 2026-11-14): Grassy Waters Nature Center\, 8264 Northlake Boulevard\, West Palm Beach\, FL 33412. Source: City email "Upcoming Speakers and Film Screening!" (Nov 13\, 2026)\; Grassy Waters Preserve bulletin (sent 2026-11-13\, retrieved 2026-11-14): https://content.govdelivery.com/accounts/FLWPB/bulletins/432ad0e
+URL:https://content.govdelivery.com/accounts/FLWPB/bulletins/432ad0e
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-gwp-tracking-kites-2026-11-21@awormus.github.io
+DTSTAMP:20261114T142600Z
+DTSTART;TZID=America/New_York:20261121T100000
+DTEND;TZID=America/New_York:20261121T110000
+SUMMARY:Tracking Kites film screening and Q&A with Benji Studt (Grassy Waters Preserve)
+LOCATION:Grassy Waters Nature Center\, 8264 Northlake Boulevard\, West Palm Beach\, FL 33412
+CATEGORIES:City events
+DESCRIPTION:Film on Swallow-Tailed Kites\, following ERM and the Avian Research and Conservation Institute's joint work to better understand the Swallow-Tailed Kites that call PBC Natural Areas home. Film followed by Q&A with executive producer Benji Studt. Reservations required: call the Nature Center at 561-804-4985. Address as listed on the City's Grassy Waters Preserve page (retrieved 2026-11-14): Grassy Waters Nature Center\, 8264 Northlake Boulevard\, West Palm Beach\, FL 33412. Source: City email "Upcoming Speakers and Film Screening!" (Nov 13\, 2026)\; Grassy Waters Preserve bulletin (sent 2026-11-13\, retrieved 2026-11-14): https://content.govdelivery.com/accounts/FLWPB/bulletins/432ad0e
+URL:https://content.govdelivery.com/accounts/FLWPB/bulletins/432ad0e
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-svc-bulk-yard-waste-resume-2026-11-17@awormus.github.io
+DTSTAMP:20261114T142600Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Bulk and yard waste collection resumes (Briar Bay / Hamilton Bay)
+LOCATION:Briar Bay\, Hamilton Bay\, and surrounding communities\, West Palm Beach\, FL
+CATEGORIES:City services
+DESCRIPTION:The City's Nov 12\, 2026 flood-response news release says bulk and yard waste collection will resume Tuesday\, November 17. Residents will not be charged for excess bulk or yard waste accumulated during the flooding-related service interruption. The Mayor's Insider Newsletter (published 2026-11-13) specifies that collection will resume Tuesday\, November 17 in these communities\, referring to Briar Bay\, Hamilton Bay\, and neighboring areas. Regular residential garbage and recycling already resumed November 11\, with another round of collections November 12. Source: City email "News & Events in the City of West Palm Beach" (Nov 13\, 2026)\; Mayor's Insider Newsletter (published 2026-11-13\, retrieved 2026-11-14): https://www.wpb.org/News-Folder/News-2026/111226-Mayrs-Insider-Newsletter\; City news release "West Palm Beach Provides Update on Ongoing Flood Response Efforts" (published 2026-11-12\, retrieved 2026-11-14): https://www.wpb.org/News-Folder/News-2026/111226-Flooding-Update
+URL:https://www.wpb.org/News-Folder/News-2026/111226-Flooding-Update
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-svc-business-survey-deadline-2026-11-20@awormus.github.io
+DTSTAMP:20261114T142600Z
+DTSTART;TZID=America/New_York:20261120T170000
+SUMMARY:West Palm Beach Business Survey deadline (TIP Strategies)
+CATEGORIES:City services
+DESCRIPTION:The City of West Palm Beach invites the City's business establishments to participate in a brief survey to help inform policies intended to guide the City's economic growth and resilience. The survey is being conducted on behalf of the City by TIP Strategies\, an Austin-based economic strategy firm. The newsletter states the survey is completely confidential\; no identifying information will be published\, and results will be provided in aggregate only. All survey responses must be completed by Friday\, November 20\, 2026\, at 5 p.m. This calendar entry marks that deadline\; it is not a public meeting. Take the survey: https://survey.zohopublic.com/zs/NhC5wV (title on the public survey page\, retrieved 2026-11-14: "West Palm Beach Business Survey"). Source: City email "News & Events in the City of West Palm Beach" (Nov 13\, 2026)\; Mayor's Insider Newsletter (published 2026-11-13\, retrieved 2026-11-14): https://www.wpb.org/News-Folder/News-2026/111226-Mayrs-Insider-Newsletter
+URL:https://survey.zohopublic.com/zs/NhC5wV
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-tmrw-city-usa-2027-04-13@awormus.github.io
+DTSTAMP:20261114T142600Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270415
+SUMMARY:Tomorrow.City USA (Smart City Expo World Congress)
+LOCATION:West Palm Beach\, FL
+CATEGORIES:City events
+DESCRIPTION:Tomorrow.City USA is the American flagship of Smart City Expo World Congress by Fira Barcelona. The event website title and body list April 13-14\, 2027\, in West Palm Beach. The Mayor's Insider Newsletter states the City will host the expo for the second consecutive year on those dates. The official visit page (retrieved 2026-11-14) describes a downtown conference and refers to "the venue" and "the convention center" but does not give a formal venue name or street address. Event site: https://tomorrowcity.us/ Source: City email "News & Events in the City of West Palm Beach" (Nov 13\, 2026)\; Mayor's Insider Newsletter (published 2026-11-13\, retrieved 2026-11-14): https://www.wpb.org/News-Folder/News-2026/111226-Mayrs-Insider-Newsletter\; event website (retrieved 2026-11-14): https://tomorrowcity.us/
+URL:https://tomorrowcity.us/
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-pr-winter-junior-soccer-2027@awormus.github.io
+DTSTAMP:20261114T142600Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270221
+SUMMARY:Youth Winter / Spring Soccer League (Winter Junior Soccer 2027)
+LOCATION:Howard Park Community Center\, 1302 Parker Avenue\, West Palm Beach\, FL 33401
+CATEGORIES:Parks,Kids
+DESCRIPTION:Registration for 2027 Winter Junior Soccer is open\, as stated in the Mayor's Insider Newsletter. On parks.wpb.org the program is listed as Youth Winter / Spring Soccer League (activity 211103). No registration deadline was listed on the parks activity pages retrieved 2026-11-14. Confirmed winter-session dates for Coed Soccer Ages 4 through 6 (211103-H1): January 9 through February 20\, 2027\, Saturdays 9:00-10:00 a.m.\, at Howard Park Community Center\, 1302 Parker Ave\, West Palm Beach\, FL 33401. Fees listed: $60 resident / $75 non-resident. The activity page asks participants to bring water\, a size 3 ball\, and cleats\, and notes volunteer coaches are needed. The same league also lists spring sections for ages 7-8\, 9-10 (Tue/Thu 6:00-7:00 p.m.) and ages 11-14 (Tue/Thu 7:00-8:30 p.m.) from March 9 through May 13\, 2027\, also at Howard Park Community Center. The newsletter also says you can register in person at any City of West Palm Beach Community Center or by calling (561) 804-4900 (TTY: 800-955-8771). Register online: https://parks.wpb.org/wbwsc/webtrac.wsc/search.html?module=AR&type=10 Source: City email "News & Events in the City of West Palm Beach" (Nov 13\, 2026)\; Mayor's Insider Newsletter (published 2026-11-13\, retrieved 2026-11-14): https://www.wpb.org/News-Folder/News-2026/111226-Mayrs-Insider-Newsletter\; parks activity listing (retrieved 2026-11-14): https://parks.wpb.org/wbwsc/webtrac.wsc/search.html?module=AR&type=10
+URL:https://parks.wpb.org/wbwsc/webtrac.wsc/search.html?module=AR&type=10
 END:VEVENT
 END:VCALENDAR
