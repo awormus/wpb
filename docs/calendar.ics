@@ -99,9 +99,9 @@ UID:wpb-cc-meeting-2026-11-23@awormus.github.io
 DTSTAMP:20261005T130445Z
 DTSTART;TZID=America/New_York:20261123T170000
 DTEND;TZID=America/New_York:20261123T235900
-SUMMARY:City Commission Meeting — Agenda not published yet
+SUMMARY:City Commission Meeting — DRAFT agenda listed
 LOCATION:Commission Chambers\, 401 Clematis Street\, West Palm Beach\, FL 33401
-DESCRIPTION:Agenda not published yet. Date\, time\, and location as listed on the City's City Commission Meeting 2026 event page (retrieved 2026-10-05): https://www.wpb.org/Events-Folder/2026/City-Commission-Meeting-2026 End time 11:59 PM is the City's listed placeholder\, not an expected end. Agendas folder: https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/November-2026 Meetings hub: https://www.wpb.org/Our-City/Meetings-Agendas
+DESCRIPTION:DRAFT agenda listed (retrieved 2026-11-16); final agenda not published yet. The DRAFT (11_23_26_DRAFT-City-Commission-Agenda.pdf) is listed on the City's November agendas page; its text is not yet ingested on this site. Date\, time\, and location as listed on the City's City Commission Meeting 2026 event page (retrieved 2026-10-05): https://www.wpb.org/Events-Folder/2026/City-Commission-Meeting-2026 End time 11:59 PM is the City's listed placeholder\, not an expected end. Agendas folder: https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/November-2026 Meetings hub: https://www.wpb.org/Our-City/Meetings-Agendas
 URL:https://www.wpb.org/Events-Folder/2026/City-Commission-Meeting-2026
 END:VEVENT
 BEGIN:VEVENT
