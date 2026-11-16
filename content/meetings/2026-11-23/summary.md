@@ -1,0 +1,62 @@
+---
+date: 2026-11-23
+title: Regular City Commission Meeting
+kind: regular
+time: "17:00"
+location: "Commission Chambers, 401 Clematis Street, West Palm Beach, FL 33401"
+summary_basis: agenda
+agenda_text: ./agenda.md
+notes: "DRAFT agenda-based summary only. Official minutes / pass-fail sheet not used for vote outcomes; do not treat items below as adopted outcomes."
+sources:
+  - title: Draft City Commission Agenda — November 23, 2026
+    url: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-draft-city-commission-agendas/11-nov-2026-draft-cca/11_23_26_draft_city-commission-agenda.pdf
+    retrieved: 2026-11-16
+  - title: November 2026 City Commission Agendas (index)
+    url: https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/November-2026
+    retrieved: 2026-11-16
+  - title: Meetings & Agendas
+    url: https://www.wpb.org/Our-City/Meetings-Agendas
+    retrieved: 2026-11-16
+---
+
+# Regular City Commission Meeting — November 23, 2026
+
+**When:** November 23, 2026, 5:00 PM  
+**Where:** Commission Chambers, 401 Clematis Street  
+**Source:** Official DRAFT agenda PDF on wpb.org (linked below). This page summarizes **what is scheduled on the draft**, not vote outcomes. A final agenda has not been used for this extract.
+
+**This is a DRAFT agenda** (retrieved 2026-11-16). It includes second reading of Ordinance No. 5188-26 (Publix Outside Closing Date; first reading was approved November 9) and second reading of Ordinance No. 5183-26 (CityPlace DRI Small Business Enterprise language; first reading was approved November 9). Resolution No. 217-26, approved November 9, is not on this draft. Ordinance No. 5190-26 (Breakwater Hospitality Group ground lease), which was on the November 2 draft for the November 9 meeting but not on that meeting’s final agenda or pass/fail sheet, is also not on this draft.
+
+## Opening
+
+Call to order, moment of silence, pledge, civility/decorum, and any agenda additions/deletions/reorganization (see full text for exact wording).
+
+## Consent Calendar ([6](./agenda.md#item-6))
+
+- **[6.1](./agenda.md#item-6-1):** Minutes of the September 23, 2026, Special City Commission Meeting.
+- **[6.2](./agenda.md#item-6-2):** Minutes of the September 28, 2026, City Commission Meeting.
+- **[6.3](./agenda.md#item-6-3):** Resolution No. 222-26 approving an agreement with the Palm Beach County Food Bank to provide healthy snacks for after-school programs at South Olive and Pleasant City Community Centers.
+- **[6.4](./agenda.md#item-6-4):** Resolution No. 255-26 accepting the 2026-2027 Florida Firefighter Cancer Decontamination Equipment Grant Award from the Florida Department of Financial Services in the amount of $35,490 for 350 firefighter hoods; Resolution No. 256-26(F) recognizing receipt of funds and providing appropriations. (The formal title of Resolution No. 255-26 as printed also states a grant “in the amount of $47,320, with a required 25% match of $11,830.” The background states a grant award of $35,490 and a required 25% City match of $11,830, funded with Fire Assessment Fee funds.)
+- **[6.5](./agenda.md#item-6-5):** Resolution No. 259-26 authorizing assessment of City liens totaling $15,866.44 for unpaid water, sewer, and stormwater charges for August 2026.
+- **[6.6](./agenda.md#item-6-6):** Resolution No. 244-26 approving a Landscape Maintenance Memorandum of Agreement with FDOT and a Right-of-Way Maintenance Agreement with Palm Beach Atlantic University for improvements in the State Road 5/S. Dixie Highway right-of-way between Gruber Place and Acacia Road (MMOA No. 2025-L-496-00003).
+- **[6.7](./agenda.md#item-6-7):** Resolution No. 260-26 approving landscape encroachments by Neighborhood Renaissance, Inc. for its Coleman Park Renaissance Project on four scattered sites on N. Tamarind Avenue, and a landscape maintenance agreement.
+
+## Public Hearing ([7](./agenda.md#item-7))
+
+- **[7.1](./agenda.md#item-7-1):** Public Hearing and Second Reading of Ordinance No. 5188-26 approving an amendment to the Agreement for Sale and Purchase of Real Property with Publix Supermarkets to extend the Outside Closing Date (the draft’s background states an extension from December 1, 2026, to May 26, 2027).
+- **[7.2](./agenda.md#item-7-2):** Public Hearing and First Reading of Ordinance No. 5187-26, a City-initiated amendment to Chapter 78, Article XI, Communication Facilities in the Public Right-of-Way, to reflect Florida Statutes, Section 337.401(7)(d)5.
+- **[7.3](./agenda.md#item-7-3):** Public Hearing and First Reading of Ordinance No. 5189-26, a privately initiated text amendment to Chapter 94 — Zoning and Land Development Regulations and Article IV — Downtown Master Plan Urban Regulations for full-service supermarket use regulations and to modify curb-cut permissions.
+
+## Public Hearing - Quasi-Judicial ([8](./agenda.md#item-8))
+
+- **[8.1](./agenda.md#item-8-1):** Public Hearing and Second Reading of Ordinance No. 5183-26 regarding a request by Roger Ramdeen, of Shutts & Bowen, LLP, on behalf of CityPlace Retail, LLC, to amend CityPlace DRI Section 3.29 Small Business Enterprise language in Ordinance No. 5038-23.
+- **[8.2](./agenda.md#item-8-2):** Public Hearing of Resolution No. 242-26, a request by Jordan Sperling and Jon Schmidt of Schmidt Nichols, on behalf of 2500 N. Florida Mango LLC, for a Major Amendment to the Tropicana Self Storage Commercial Planned Development (CPD), proposed to be renamed the PB Vaults CPD, including a 113,071-square-foot, two-story mixed-use building as stated in the item heading. (The background narrative also refers to a 113,095-square-foot building; both figures are as printed.)
+
+## Comments From The Public ([9](./agenda.md#item-9))
+
+See [9. Comments From The Public](./agenda.md#item-9) in the full agenda text.
+
+## Official documents (on wpb.org — not stored here)
+
+- [DRAFT agenda PDF (November 23, 2026)](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-draft-city-commission-agendas/11-nov-2026-draft-cca/11_23_26_draft_city-commission-agenda.pdf)
+- [Month agendas folder](https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/November-2026)

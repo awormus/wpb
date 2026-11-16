@@ -28,3 +28,6 @@ Desktop.ini
 __pycache__/
 *.py[cod]
 ops/__pycache__/
+
+# Local PDF downloads (never commit binary PDFs)
+tmp/

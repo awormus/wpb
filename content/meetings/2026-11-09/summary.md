@@ -6,14 +6,17 @@ time: "17:00"
 location: "Commission Chambers, 401 Clematis Street, West Palm Beach, FL 33401"
 summary_basis: agenda
 agenda_text: ./agenda.md
-notes: "Agenda-based summary only. Official minutes / pass-fail sheet not used for vote outcomes; do not treat items below as adopted outcomes."
+notes: "Scheduled items below follow the final agenda. Outcomes in the Outcomes section are taken from the official pass/fail sheet (retrieved 2026-11-16)."
 sources:
   - title: Final City Commission Agenda — November 9, 2026
     url: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/11-nov-2026-final-cca/11_09_26_final-city-commission-agenda.pdf
     retrieved: 2026-11-07
   - title: November 2026 City Commission Agendas (index)
     url: https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/November-2026
-    retrieved: 2026-11-07
+    retrieved: 2026-11-16
+  - title: Pass/Fail City Commission Agenda — November 9, 2026
+    url: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-pass-fail-agendas-pfa/2026-11-nov-pfa/pf-11_9_26_city-commission-agenda.pdf
+    retrieved: 2026-11-16
   - title: Meetings & Agendas
     url: https://www.wpb.org/Our-City/Meetings-Agendas
     retrieved: 2026-11-07
@@ -23,9 +26,9 @@ sources:
 
 **When:** November 9, 2026, 5:00 PM  
 **Where:** Commission Chambers, 401 Clematis Street  
-**Source:** Official final agenda PDF on wpb.org (linked below). This page summarizes **what is scheduled**, not vote outcomes.
+**Source:** Official final agenda PDF and official pass/fail agenda PDF on wpb.org (linked below). The item list below is what was **scheduled** on the final agenda; recorded outcomes are in the Outcomes section.
 
-**Final agenda replaces the November 2 draft.** Versus the draft, public hearing item 8.2 (Ordinance No. 5190-26, Breakwater Hospitality Group ground lease for a Currie Park restaurant) is **not on the final agenda**. Other numbered items and titles match the draft. Items 9.1 (Ordinance No. 5183-26) and 9.2 (Resolution No. 217-26), the CityPlace requests, remain the two quasi-judicial items the October 26, 2026 pass/fail agenda listed as continued to this meeting ([Oct 26 pass/fail](../2026-10-26/pass-fail.md#item-8)).
+**Final agenda replaces the November 2 draft.** Versus the draft, public hearing item 8.2 (Ordinance No. 5190-26, Breakwater Hospitality Group ground lease for a Currie Park restaurant) is **not on the final agenda**. Other numbered items and titles match the draft. Items 9.1 (Ordinance No. 5183-26) and 9.2 (Resolution No. 217-26), the CityPlace requests, remain the two quasi-judicial items the October 26, 2026 pass/fail agenda listed as continued to this meeting ([Oct 26 pass/fail](https://github.com/awormus/wpb/blob/main/content/meetings/2026-10-26/pass-fail.md#item-8)).
 
 ## Opening
 
@@ -58,7 +61,25 @@ Call to order, moment of silence, pledge, civility/decorum, and any agenda addit
 
 See [10. Comments From The Public](./agenda.md#item-10) in the full agenda text.
 
+## Outcomes (from the official pass/fail agenda)
+
+The official pass/fail agenda ([pass-fail.md](./pass-fail.md); official PDF linked below) records the following. No item on that sheet is marked failed, continued, or pulled.
+
+- **Consent Calendar ([6](./pass-fail.md#item-6)):** “ALL ITEMS WERE APPROVED.” (items 6.1–6.6, including Resolution No. 239-26 / 238-26(F), Resolution No. 248-26(F), Resolution No. 249-26, and Resolution No. 254-26(F)).
+- **Resolutions ([7](./pass-fail.md#item-7)):** “ALL ITEMS WERE APPROVED.”
+  - **[7.1](./pass-fail.md#item-7-1):** Resolution No. 250-26 (Tony Cragg “Points of View” for 10 & 15 City Place) — approved.
+  - **[7.2](./pass-fail.md#item-7-2):** Resolution No. 251-26 (2026 Watershed Master Plan) — approved.
+- **Public Hearing ([8](./pass-fail.md#item-8)):** “PUBLIC HEARING- APPROVED.”
+  - **[8.1](./pass-fail.md#item-8-1):** First Reading of Ordinance No. 5188-26 (Publix sale amendment / Outside Closing Date) — approved.
+- **Public Hearing - Quasi-Judicial ([9](./pass-fail.md#item-9)):** “ALL ITEMS WERE APPROVED.”
+  - **[9.1](./pass-fail.md#item-9-1):** First Reading of Ordinance No. 5183-26 (CityPlace DRI Section 3.29 Small Business Enterprise language) — approved.
+  - **[9.2](./pass-fail.md#item-9-2):** Resolution No. 217-26 (Major PD Amendment, CityPlace CPD) — approved.
+- **Adjournment ([12](./pass-fail.md#item-12)):** “ADJOURNMENT- 8:28 P.M.”
+
+Ordinance No. 5190-26 (Breakwater Hospitality Group ground lease) does not appear on the November 9 final agenda or on this pass/fail sheet (it was item 8.2 on the November 2 draft). The pass/fail sheet does not record it as failed, continued, or pulled.
+
 ## Official documents (on wpb.org — not stored here)
 
 - [FINAL agenda PDF (November 9, 2026)](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/11-nov-2026-final-cca/11_09_26_final-city-commission-agenda.pdf)
+- [Pass/fail agenda PDF (November 9, 2026)](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-pass-fail-agendas-pfa/2026-11-nov-pfa/pf-11_9_26_city-commission-agenda.pdf)
 - [Month agendas folder](https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/November-2026)
