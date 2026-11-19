@@ -5,7 +5,7 @@
  "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20260901/20260901.htm",
  "agenda_pages": 51,
  "items_source": "table of contents",
- "item_count": 49,
+ "item_count": 66,
  "backup_pdf_count": 48,
  "items": [
   {
@@ -15,6 +15,9 @@
    "department": "Administration",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3A1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -24,6 +27,9 @@
    "department": "Administration",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3A2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -40,6 +46,9 @@
    "department": "Clerk & Comptroller",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3B2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -49,6 +58,9 @@
    "department": "Clerk & Comptroller",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3B3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -58,6 +70,9 @@
    "department": "Clerk & Comptroller",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3B4.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -67,6 +82,9 @@
    "department": "Clerk & Comptroller",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3B5.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -76,6 +94,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3C1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -85,6 +106,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3C2.pdf"
+   ],
+   "districts": [
+    "6"
    ]
   },
   {
@@ -94,6 +118,9 @@
    "department": "Community Services",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3E1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -103,6 +130,12 @@
    "department": "Community Services",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3E2.pdf"
+   ],
+   "districts": [
+    "2",
+    "4",
+    "5",
+    "Countywide"
    ]
   },
   {
@@ -112,6 +145,12 @@
    "department": "Community Services",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3E3.pdf"
+   ],
+   "districts": [
+    "2",
+    "4",
+    "5",
+    "Countywide"
    ]
   },
   {
@@ -121,6 +160,38 @@
    "department": "Community Services",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3E4.pdf"
+   ],
+   "named": [
+    {
+     "surname": "Woodward",
+     "title": "Vice Mayor",
+     "context": "nominated"
+    },
+    {
+     "surname": "Marino",
+     "title": "Commissioner",
+     "context": "nominated"
+    },
+    {
+     "surname": "Weiss",
+     "title": "Commissioner",
+     "context": "nominated"
+    },
+    {
+     "surname": "Marino",
+     "title": "Commissioner",
+     "context": "named"
+    },
+    {
+     "surname": "Weiss",
+     "title": "Commissioner",
+     "context": "named"
+    },
+    {
+     "surname": "Woodward",
+     "title": "Vice Mayor",
+     "context": "named"
+    }
    ]
   },
   {
@@ -130,6 +201,9 @@
    "department": "Airports",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3F1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -139,6 +213,9 @@
    "department": "Airports",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3F2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -148,6 +225,9 @@
    "department": "Airports",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3F3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -157,6 +237,9 @@
    "department": "Office Of Financial Management & Budget",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3G1.pdf"
+   ],
+   "districts": [
+    "5"
    ]
   },
   {
@@ -166,6 +249,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3H1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -175,6 +261,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3H2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -184,6 +273,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3H3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -193,6 +285,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3H4.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -202,6 +297,10 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3H5.pdf"
+   ],
+   "districts": [
+    "2",
+    "Countywide"
    ]
   },
   {
@@ -211,6 +310,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3H6.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -229,6 +331,9 @@
    "department": "Planning, Zoning & Building",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3J1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -238,6 +343,9 @@
    "department": "Environmental Resources Management",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3L1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -247,6 +355,10 @@
    "department": "Environmental Resources Management",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3L2.pdf"
+   ],
+   "districts": [
+    "2",
+    "3"
    ]
   },
   {
@@ -256,6 +368,9 @@
    "department": "Cooperative Extension Service",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3P1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -265,6 +380,9 @@
    "department": "Fire Rescue",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3S1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -274,6 +392,9 @@
    "department": "Fire Rescue",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3S2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -283,6 +404,9 @@
    "department": "Public Safety",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3X1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -292,6 +416,9 @@
    "department": "Public Safety",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3X2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -301,6 +428,9 @@
    "department": "Palm Tran",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3AA1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -310,6 +440,9 @@
    "department": "Sheriff",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3CC1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -319,6 +452,9 @@
    "department": "Sheriff",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3CC2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -328,6 +464,9 @@
    "department": "Sheriff",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3CC3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -337,6 +476,9 @@
    "department": "Tourist Development Council",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3DD1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -346,6 +488,9 @@
    "department": "Tourist Development Council",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3DD2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -355,6 +500,9 @@
    "department": "Careersource",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3EE1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -364,6 +512,9 @@
    "department": "Careersource",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3EE2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -373,6 +524,181 @@
    "department": "Internal Auditor",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/3FF1.pdf"
+   ],
+   "districts": [
+    "Countywide"
+   ]
+  },
+  {
+   "number": "4A",
+   "title": "National Preparedness Month (D6)",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "6"
+   ]
+  },
+  {
+   "number": "4B",
+   "title": "Domestic Violence Awareness Month (D7)",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "7"
+   ]
+  },
+  {
+   "number": "4C",
+   "title": "Big Brothers and Big Sisters Month (D6)",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "6"
+   ]
+  },
+  {
+   "number": "4D",
+   "title": "Glow Foundation Alliance Day (D7)",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "7"
+   ]
+  },
+  {
+   "number": "4E",
+   "title": "Carnaval Palm Beaches Weekend (D6)",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "6"
+   ]
+  },
+  {
+   "number": "4F",
+   "title": "2-1-1 Suicide Awareness & Prevention Month (D3)",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "3"
+   ]
+  },
+  {
+   "number": "4G",
+   "title": "Chen Moore Day (D2)",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "2"
+   ]
+  },
+  {
+   "number": "4H",
+   "title": "Hispanic Heritage Month (D3)",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "3"
+   ]
+  },
+  {
+   "number": "4I",
+   "title": "National Voter Registration Month (D1)",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "1"
+   ]
+  },
+  {
+   "number": "4J",
+   "title": "National Hunger Action Month (D5 D1)",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "1",
+    "5"
+   ]
+  },
+  {
+   "number": "4K",
+   "title": "Constitution Week (D1)",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "1"
+   ]
+  },
+  {
+   "number": "4L",
+   "title": "Dr. Lindsay Butzer Day (D5)",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "5"
+   ]
+  },
+  {
+   "number": "4M",
+   "title": "55 Years of Countywide Public Transit Services (D1)",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "1",
+    "Countywide"
+   ]
+  },
+  {
+   "number": "4N",
+   "title": "Recovery Month (D2)",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "2"
+   ]
+  },
+  {
+   "number": "4O",
+   "title": "Pollinator & Honey Month (D5)",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "5"
+   ]
+  },
+  {
+   "number": "4P",
+   "title": "Boca Raton Achievement Center Month (D5)",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "5"
+   ]
+  },
+  {
+   "number": "4Q",
+   "title": "Feeding Palm Beach County Month (D5)",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "5"
    ]
   },
   {
@@ -382,6 +708,9 @@
    "department": "Environmental Resources Management",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/5A1.pdf"
+   ],
+   "districts": [
+    "1"
    ]
   },
   {
@@ -398,7 +727,10 @@
    "title": "First Amendment with the Friends of Mounts Botanical Garden, Inc. to continued funding of display gardens horticulturist position.",
    "section": "Regular",
    "department": "Cooperative Extension Service",
-   "backup": []
+   "backup": [],
+   "districts": [
+    "2"
+   ]
   },
   {
    "number": "5D-1",
@@ -416,6 +748,9 @@
    "department": "Public Safety",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/5D2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -425,6 +760,9 @@
    "department": "Public Safety",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/5D3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -434,6 +772,9 @@
    "department": "Administration",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/5E1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -443,8 +784,12 @@
    "department": "County Attorney",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260901/5F1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   }
  ],
- "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas.",
+ "item_details_note": "districts and named come from the item text in the agenda body (district tag at the end of each item; commissioners named with their title). Automated extraction; see the agenda PDF."
 }

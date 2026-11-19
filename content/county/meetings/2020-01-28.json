@@ -32,8 +32,12 @@
    "numbering": "from agenda body",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20200128/3A2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   }
  ],
- "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas.",
+ "item_details_note": "districts and named come from the item text in the agenda body (district tag at the end of each item; commissioners named with their title). Automated extraction; see the agenda PDF."
 }

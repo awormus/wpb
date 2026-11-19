@@ -5,7 +5,7 @@
  "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20250107/20250107.htm",
  "agenda_pages": 64,
  "items_source": "table of contents",
- "item_count": 63,
+ "item_count": 75,
  "backup_pdf_count": 63,
  "items": [
   {
@@ -15,6 +15,9 @@
    "department": "Administration",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3A1.pdf"
+   ],
+   "districts": [
+    "6"
    ]
   },
   {
@@ -24,6 +27,9 @@
    "department": "Administration",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3A2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -49,6 +55,9 @@
    "department": "Clerk & Comptroller",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3B3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -58,6 +67,9 @@
    "department": "Clerk & Comptroller",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3B4.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -67,6 +79,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3C1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -76,6 +91,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3C2.pdf"
+   ],
+   "districts": [
+    "6"
    ]
   },
   {
@@ -85,6 +103,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3C3.pdf"
+   ],
+   "districts": [
+    "6"
    ]
   },
   {
@@ -94,6 +115,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3C4.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -103,6 +127,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3C5.pdf"
+   ],
+   "districts": [
+    "1"
    ]
   },
   {
@@ -112,6 +139,9 @@
    "department": "County Attorney",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3D1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -130,6 +160,9 @@
    "department": "Airports",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3F1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -139,6 +172,9 @@
    "department": "Airports",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3F2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -148,6 +184,9 @@
    "department": "Airports",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3F3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -157,6 +196,9 @@
    "department": "Airports",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3F4.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -166,6 +208,9 @@
    "department": "Airports",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3F5.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -175,6 +220,9 @@
    "department": "Office Of Financial Management & Budget",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3G1.pdf"
+   ],
+   "districts": [
+    "6"
    ]
   },
   {
@@ -184,6 +232,9 @@
    "department": "Office Of Financial Management & Budget",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3G2.pdf"
+   ],
+   "districts": [
+    "1"
    ]
   },
   {
@@ -193,6 +244,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3H1.pdf"
+   ],
+   "districts": [
+    "5"
    ]
   },
   {
@@ -202,6 +256,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3H2.pdf"
+   ],
+   "districts": [
+    "2"
    ]
   },
   {
@@ -211,6 +268,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3H3.pdf"
+   ],
+   "districts": [
+    "7"
    ]
   },
   {
@@ -220,6 +280,9 @@
    "department": "Environmental Resources Management",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3L1.pdf"
+   ],
+   "districts": [
+    "4"
    ]
   },
   {
@@ -229,6 +292,12 @@
    "department": "Environmental Resources Management",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3L2.pdf"
+   ],
+   "districts": [
+    "1",
+    "2",
+    "4",
+    "7"
    ]
   },
   {
@@ -247,6 +316,9 @@
    "department": "Environmental Resources Management",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3L4.pdf"
+   ],
+   "districts": [
+    "1"
    ]
   },
   {
@@ -256,6 +328,10 @@
    "department": "Parks & Recreation",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3M1.pdf"
+   ],
+   "districts": [
+    "1",
+    "5"
    ]
   },
   {
@@ -265,6 +341,9 @@
    "department": "Parks & Recreation",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3M2.pdf"
+   ],
+   "districts": [
+    "1"
    ]
   },
   {
@@ -274,6 +353,9 @@
    "department": "Parks & Recreation",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3M3.pdf"
+   ],
+   "districts": [
+    "5"
    ]
   },
   {
@@ -283,6 +365,9 @@
    "department": "Parks & Recreation",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3M4.pdf"
+   ],
+   "districts": [
+    "5"
    ]
   },
   {
@@ -292,6 +377,9 @@
    "department": "Parks & Recreation",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3M5.pdf"
+   ],
+   "districts": [
+    "1"
    ]
   },
   {
@@ -301,6 +389,10 @@
    "department": "Parks & Recreation",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3M6.pdf"
+   ],
+   "districts": [
+    "1",
+    "7"
    ]
   },
   {
@@ -310,6 +402,9 @@
    "department": "Parks & Recreation",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3M7.pdf"
+   ],
+   "districts": [
+    "1"
    ]
   },
   {
@@ -319,6 +414,17 @@
    "department": "Parks & Recreation",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3M8.pdf"
+   ],
+   "districts": [
+    "1",
+    "7"
+   ],
+   "named": [
+    {
+     "surname": "Powell",
+     "title": "Commissioner",
+     "context": "named"
+    }
    ]
   },
   {
@@ -328,6 +434,9 @@
    "department": "Criminal Justice Commission",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3Q1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -337,6 +446,9 @@
    "department": "Information Systems Services",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3U1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -346,6 +458,9 @@
    "department": "Information Systems Services",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3U2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -355,6 +470,9 @@
    "department": "Information Systems Services",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3U3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -362,7 +480,10 @@
    "title": "First Amendment with Dr. Marc Kramer, DVM for relief veterinary services.",
    "section": "Consent",
    "department": "Public Safety",
-   "backup": []
+   "backup": [],
+   "districts": [
+    "Countywide"
+   ]
   },
   {
    "number": "3X-2",
@@ -371,6 +492,9 @@
    "department": "Public Safety",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3X2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -380,6 +504,9 @@
    "department": "Public Safety",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3X3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -389,6 +516,9 @@
    "department": "Public Safety",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3X4.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -398,6 +528,9 @@
    "department": "Public Safety",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3X5.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -416,6 +549,9 @@
    "department": "Sheriff",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3CC1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -425,6 +561,9 @@
    "department": "Sheriff",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3CC2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -434,6 +573,9 @@
    "department": "Sheriff",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3CC3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -443,6 +585,9 @@
    "department": "Sheriff",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3CC4.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -452,6 +597,9 @@
    "department": "Sheriff",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3CC5.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -461,6 +609,9 @@
    "department": "Sheriff",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3CC6.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -470,6 +621,9 @@
    "department": "Office Of Resilience",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3DD1.pdf"
+   ],
+   "districts": [
+    "6"
    ]
   },
   {
@@ -479,6 +633,9 @@
    "department": "Internal Auditor",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3EE1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -488,6 +645,9 @@
    "department": "Tourist Development Council",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3FF1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -497,6 +657,130 @@
    "department": "Supervisor Of Elections",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/3GG1.pdf"
+   ],
+   "districts": [
+    "Countywide"
+   ]
+  },
+  {
+   "number": "4A",
+   "title": "Battle of Loxahatchee",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "1"
+   ]
+  },
+  {
+   "number": "4B",
+   "title": "Museums of Art Month",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "2"
+   ]
+  },
+  {
+   "number": "4C",
+   "title": "24-Hour Homeless Point-In-Time Count Day",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "1"
+   ]
+  },
+  {
+   "number": "4D",
+   "title": "National Crime Stoppers Prevention Month - - - - - - - - - -FPL ---",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "2"
+   ]
+  },
+  {
+   "number": "4F",
+   "title": "Susan G. Komen More Than Pink Walk Day",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "3"
+   ]
+  },
+  {
+   "number": "4G",
+   "title": "Coastal Star's Sweet 16",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "4"
+   ]
+  },
+  {
+   "number": "4H",
+   "title": "Florida Arbor Day",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "6"
+   ]
+  },
+  {
+   "number": "4I",
+   "title": "Disability Employment Awareness Month",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "5"
+   ]
+  },
+  {
+   "number": "4J",
+   "title": "Edith Bush Day",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "7"
+   ]
+  },
+  {
+   "number": "4K",
+   "title": "National Human Trafficking Prevention Awareness Month",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "3",
+    "6"
+   ]
+  },
+  {
+   "number": "4L",
+   "title": "Martin Luther King Jr. Day",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "7"
+   ]
+  },
+  {
+   "number": "4M",
+   "title": "Mentoring Month",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "4"
    ]
   },
   {
@@ -506,6 +790,9 @@
    "department": "Administration",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/5A1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -515,6 +802,9 @@
    "department": "Administration",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/5A2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -533,6 +823,9 @@
    "department": "Airports",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/5B2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -542,6 +835,9 @@
    "department": "Environmental Resources Management",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/5C1.pdf"
+   ],
+   "districts": [
+    "7"
    ]
   },
   {
@@ -551,6 +847,9 @@
    "department": "Legislative Affairs",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/5D1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -560,6 +859,9 @@
    "department": "Office Of Financial Management & Budget",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/5E1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -569,8 +871,12 @@
    "department": "Administration",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250107/5F1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   }
  ],
- "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas.",
+ "item_details_note": "districts and named come from the item text in the agenda body (district tag at the end of each item; commissioners named with their title). Automated extraction; see the agenda PDF."
 }

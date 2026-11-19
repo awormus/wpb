@@ -22,6 +22,9 @@
    "department": "Clerk & Comptroller",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3B2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -31,6 +34,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3C1.pdf"
+   ],
+   "districts": [
+    "2"
    ]
   },
   {
@@ -40,6 +46,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3C2.pdf"
+   ],
+   "districts": [
+    "4"
    ]
   },
   {
@@ -49,6 +58,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3C3.pdf"
+   ],
+   "districts": [
+    "6"
    ]
   },
   {
@@ -58,6 +70,10 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3C4.pdf"
+   ],
+   "districts": [
+    "4",
+    "7"
    ]
   },
   {
@@ -67,6 +83,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3C5.pdf"
+   ],
+   "districts": [
+    "1"
    ]
   },
   {
@@ -76,6 +95,9 @@
    "department": "Airports",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3F1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -85,6 +107,9 @@
    "department": "Office Of Financial Management & Budget",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3G1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -94,6 +119,10 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3H1.pdf"
+   ],
+   "districts": [
+    "1",
+    "Countywide"
    ]
   },
   {
@@ -103,6 +132,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3H2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -112,6 +144,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3H3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -121,6 +156,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3H4.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -130,6 +168,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3H5.pdf"
+   ],
+   "districts": [
+    "3"
    ]
   },
   {
@@ -157,6 +198,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3H8.pdf"
+   ],
+   "districts": [
+    "6"
    ]
   },
   {
@@ -166,6 +210,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3H9.pdf"
+   ],
+   "districts": [
+    "7"
    ]
   },
   {
@@ -184,6 +231,9 @@
    "department": "Housing & Economic Development",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3I1.pdf"
+   ],
+   "districts": [
+    "2"
    ]
   },
   {
@@ -193,6 +243,9 @@
    "department": "Housing & Economic Development",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3I2.pdf"
+   ],
+   "districts": [
+    "6"
    ]
   },
   {
@@ -202,6 +255,9 @@
    "department": "Housing & Economic Development",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3I3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -211,6 +267,9 @@
    "department": "Housing & Economic Development",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3I4.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -220,6 +279,9 @@
    "department": "Water Utilities",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3K1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -229,6 +291,9 @@
    "department": "Water Utilities",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3K2.pdf"
+   ],
+   "districts": [
+    "2"
    ]
   },
   {
@@ -238,6 +303,10 @@
    "department": "Water Utilities",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3K3.pdf"
+   ],
+   "districts": [
+    "3",
+    "5"
    ]
   },
   {
@@ -247,6 +316,9 @@
    "department": "Water Utilities",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3K4.pdf"
+   ],
+   "districts": [
+    "6"
    ]
   },
   {
@@ -256,6 +328,9 @@
    "department": "Parks & Recreation",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3M1.pdf"
+   ],
+   "districts": [
+    "3"
    ]
   },
   {
@@ -265,6 +340,9 @@
    "department": "Cooperative Extension Service",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3P1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -274,6 +352,9 @@
    "department": "Information Systems Services",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3U1.pdf"
+   ],
+   "districts": [
+    "1"
    ]
   },
   {
@@ -283,6 +364,9 @@
    "department": "Information Systems Services",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3U2.pdf"
+   ],
+   "districts": [
+    "1"
    ]
   },
   {
@@ -292,6 +376,9 @@
    "department": "Public Safety",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3X1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -301,6 +388,9 @@
    "department": "Public Safety",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3X2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -310,6 +400,9 @@
    "department": "Palm Tran",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3AA1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -319,6 +412,9 @@
    "department": "Tourist Development Council",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/3CC1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -328,6 +424,9 @@
    "department": "Office Of Financial Management & Budget",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/4A1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -337,6 +436,9 @@
    "department": "Palm Tran",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/4B1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -355,6 +457,9 @@
    "department": "Administration",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/5A1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -364,6 +469,9 @@
    "department": "Administration",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/5A2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -373,6 +481,9 @@
    "department": "Administration",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/5A3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -382,6 +493,9 @@
    "department": "Administration",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/5A4.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -391,6 +505,9 @@
    "department": "Administration",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/5A5.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -400,6 +517,9 @@
    "department": "Administration",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/5A6.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -427,6 +547,9 @@
    "department": "Housing & Economic Development",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/5C1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -443,6 +566,9 @@
    "department": "Housing & Economic Development",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/5C3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -461,6 +587,9 @@
    "department": "Facilities Develoment & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/5E1.pdf"
+   ],
+   "districts": [
+    "3"
    ]
   },
   {
@@ -470,8 +599,12 @@
    "department": "Intergovernmental Affairs",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20250408/5F1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   }
  ],
- "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas.",
+ "item_details_note": "districts and named come from the item text in the agenda body (district tag at the end of each item; commissioners named with their title). Automated extraction; see the agenda PDF."
 }

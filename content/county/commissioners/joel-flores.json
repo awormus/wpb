@@ -1,0 +1,455 @@
+{
+ "slug": "joel-flores",
+ "name": "Joel G. Flores",
+ "district": 3,
+ "seat": {
+  "start": "2024-11-19",
+  "start_note": null,
+  "end": null,
+  "end_note": null
+ },
+ "took_seat": "Elected (2024)",
+ "party": {
+  "code": "DEM",
+  "source": "Palm Beach County Supervisor of Elections — 2024 General Election Results",
+  "url": "https://enr.electionsfl.org/PAL/Summary/3703/",
+  "note": "Party as printed on Supervisor of Elections results (race label or candidate suffix)."
+ },
+ "status": "Serving",
+ "left_office": [],
+ "after_office": [],
+ "mayor_terms": [
+  {
+   "term": "2026–27",
+   "role": "Vice Mayor",
+   "status": "verified",
+   "evidence": [
+    "County District 4 page contact block: \"Mayor / Marci Woodward\" (https://discover.pbc.gov/countycommissioners/district4/Pages/Biography.aspx, retrieved 2026-11-19)",
+    "County District 3 page contact block: \"Vice Mayor / Joel G. Flores\" (https://discover.pbc.gov/countycommissioners/district3/Pages/Biography.aspx, retrieved 2026-11-19)",
+    "Palm Beach Post, Nov 17, 2026 (reorganizational meeting coverage). No BCC agenda after Nov 17, 2026 was available yet."
+   ]
+  }
+ ],
+ "elections": [
+  {
+   "election": "2024 General Election Results",
+   "year": 2024,
+   "kind": "general",
+   "race": "Board of County Commissioners, District 3",
+   "result": "won",
+   "candidate_as_listed": "Joel Flores (DEM)",
+   "votes": "36,208",
+   "pct": "54.63%",
+   "total_votes": "66,279",
+   "all_candidates": [
+    {
+     "name": "Mike Barnett (REP)",
+     "pct": "45.37%",
+     "votes": "30,071"
+    },
+    {
+     "name": "Joel Flores (DEM)",
+     "pct": "54.63%",
+     "votes": "36,208"
+    }
+   ],
+   "source": "Palm Beach County Supervisor of Elections — 2024 General Election Results",
+   "url": "https://enr.electionsfl.org/PAL/Summary/3703/"
+  }
+ ],
+ "officer_term_ending_nov_2018": null,
+ "bio": [
+  "Army combat veteran of Operation Enduring Freedom in Afghanistan (Combat Action Badge, Army Commendation Medal, Army Achievement Medal).",
+  "Mayor of the City of Greenacres from 2017 to 2024.",
+  "Bachelor’s in Business, Lyndon State College; MBA, Southern New Hampshire University.",
+  "Serves on the Criminal Justice Commission, Public Safety Coordinating Council, Transportation Planning Agency, Treasure Coast Regional Planning Council, Value Adjustment Board and Circuit 15 Juvenile Justice Advisory Board (per the page)."
+ ],
+ "bio_source": {
+  "label": "Joel G. Flores biography (official County district Biography page, retrieved 2026-11-19)",
+  "url": "https://discover.pbc.gov/countycommissioners/district3/Pages/Biography.aspx"
+ },
+ "activity": {
+  "window": {
+   "from": "2024-11-19",
+   "to": null
+  },
+  "meetings_with_agenda": 55,
+  "first_meeting": "2024-11-19",
+  "last_meeting": "2026-11-17",
+  "agendas_listing_in_commissioner_comments": 38,
+  "items_naming": {
+   "requested": 1,
+   "nominated": 5
+  },
+  "items_naming_total": 6,
+  "district_tagged_items": 131,
+  "district_tagged_by_section": {
+   "Consent": 119,
+   "Regular": 12
+  },
+  "district_only_items": 99,
+  "special_presentations_tagged_district": 41,
+  "named_items": {
+   "requested": [
+    {
+     "date": "2025-06-10",
+     "number": "3A-1",
+     "title": "Naming of the County Complex Verdenia C. Baker Vista Complex.",
+     "section": "Consent",
+     "link": "../../meetings/2025-06-10/#item-3A-1",
+     "as_title": "Commissioner"
+    }
+   ],
+   "nominated": [
+    {
+     "date": "2025-09-16",
+     "number": "3A-3",
+     "title": "Appointment of one (1) member to the Health Council of Southeast Florida, Inc.",
+     "section": "Consent",
+     "link": "../../meetings/2025-09-16/#item-3A-3",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2025-10-07",
+     "number": "3AA-4",
+     "title": "Appointment of two (2) members to the Palm Tran Service Board (PTSB); and reappointment of three (3) members to PTSB.",
+     "section": "Consent",
+     "link": "../../meetings/2025-10-07/#item-3AA-4",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2025-11-04",
+     "number": "3E-3",
+     "title": "Appointment of one (1) applicant to the Citizens Advisory Committee on Health and Human Services.",
+     "section": "Consent",
+     "link": "../../meetings/2025-11-04/#item-3E-3",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2025-11-04",
+     "number": "3J-1",
+     "title": "Reappointment of one (1) member to the Construction Industry Licensing Board.",
+     "section": "Consent",
+     "link": "../../meetings/2025-11-04/#item-3J-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2026-03-10",
+     "number": "7A-1",
+     "title": "Appointment of two (2) members to the Community Action Advisory Board.",
+     "section": "Board appointments",
+     "link": "../../meetings/2026-03-10/#item-7A-1",
+     "as_title": "Commissioner"
+    }
+   ]
+  },
+  "special_presentations": [
+   {
+    "date": "2025-01-07",
+    "number": "4F",
+    "title": "Susan G. Komen More Than Pink Walk Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-01-07/#item-4F"
+   },
+   {
+    "date": "2025-01-07",
+    "number": "4K",
+    "title": "National Human Trafficking Prevention Awareness Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-01-07/#item-4K"
+   },
+   {
+    "date": "2025-02-04",
+    "number": "4A",
+    "title": "Heart Health Awareness Day at Liberty Park Elementary School",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-02-04/#item-4A"
+   },
+   {
+    "date": "2025-02-04",
+    "number": "4C",
+    "title": "National Engineers Week",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-02-04/#item-4C"
+   },
+   {
+    "date": "2025-03-11",
+    "number": "4F",
+    "title": "Grant Professionals Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-03-11/#item-4F"
+   },
+   {
+    "date": "2025-03-11",
+    "number": "4H",
+    "title": "Women's Art Week",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-03-11/#item-4H"
+   },
+   {
+    "date": "2025-04-01",
+    "number": "4E",
+    "title": "Earth Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-04-01/#item-4E"
+   },
+   {
+    "date": "2025-04-01",
+    "number": "4G",
+    "title": "National Libraries Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-04-01/#item-4G"
+   },
+   {
+    "date": "2025-06-03",
+    "number": "4B",
+    "title": "National Caribbean American Heritage Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-06-03/#item-4B"
+   },
+   {
+    "date": "2025-06-03",
+    "number": "4D",
+    "title": "Pride Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-06-03/#item-4D"
+   },
+   {
+    "date": "2025-07-08",
+    "number": "4F",
+    "title": "National Zookeeper Week",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-07-08/#item-4F"
+   },
+   {
+    "date": "2025-07-08",
+    "number": "4H",
+    "title": "33rd Anniversary of the Guatemalan-Maya Center",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-07-08/#item-4H"
+   },
+   {
+    "date": "2025-08-19",
+    "number": "4B",
+    "title": "National Women's Equality Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-08-19/#item-4B"
+   },
+   {
+    "date": "2025-08-19",
+    "number": "4D",
+    "title": "National Veterans and First Responders Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-08-19/#item-4D"
+   },
+   {
+    "date": "2025-09-09",
+    "number": "4B",
+    "title": "Hispanic Heritage Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-09-09/#item-4B"
+   },
+   {
+    "date": "2025-09-09",
+    "number": "4D",
+    "title": "Palm Beach County Thank a Police Officer Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-09-09/#item-4D"
+   },
+   {
+    "date": "2025-10-07",
+    "number": "4B",
+    "title": "Breast Cancer Awareness Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-10-07/#item-4B"
+   },
+   {
+    "date": "2025-10-07",
+    "number": "4D",
+    "title": "International Artist Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-10-07/#item-4D"
+   },
+   {
+    "date": "2025-11-04",
+    "number": "4D",
+    "title": "National Adoption Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-11-04/#item-4D"
+   },
+   {
+    "date": "2025-11-04",
+    "number": "4F",
+    "title": "National Hunger and Homelessness Awareness Week",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-11-04/#item-4F"
+   },
+   {
+    "date": "2025-12-02",
+    "number": "4A",
+    "title": "National Impaired Driving Prevention Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-12-02/#item-4A"
+   },
+   {
+    "date": "2025-12-02",
+    "number": "4C",
+    "title": "National Pearl Harbor Remembrance Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-12-02/#item-4C"
+   },
+   {
+    "date": "2026-01-06",
+    "number": "4A",
+    "title": "Rediscover Reading Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-01-06/#item-4A"
+   },
+   {
+    "date": "2026-01-06",
+    "number": "4C",
+    "title": "Mentoring Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-01-06/#item-4C"
+   },
+   {
+    "date": "2026-02-03",
+    "number": "4D",
+    "title": "School Counseling Week",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-02-03/#item-4D"
+   },
+   {
+    "date": "2026-02-03",
+    "number": "4F",
+    "title": "Government Communicators Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-02-03/#item-4F"
+   },
+   {
+    "date": "2026-03-03",
+    "number": "4K",
+    "title": "Get Over the Gainline Rugby Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-03-03/#item-4K"
+   },
+   {
+    "date": "2026-03-03",
+    "number": "4M",
+    "title": "Ethics Awareness Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-03-03/#item-4M"
+   },
+   {
+    "date": "2026-04-14",
+    "number": "4C",
+    "title": "Adopt a Shelter Pet Day 4O Sexual Assault Awareness Month.",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-04-14/#item-4C"
+   },
+   {
+    "date": "2026-05-05",
+    "number": "4B",
+    "title": "Haitian American Heritage Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-05-05/#item-4B"
+   },
+   {
+    "date": "2026-05-05",
+    "number": "4D",
+    "title": "100th Anniversary of the City of Greenacres",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-05-05/#item-4D"
+   },
+   {
+    "date": "2026-05-05",
+    "number": "4F",
+    "title": "Mental Health Awareness and Trauma-Informed Care Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-05-05/#item-4F"
+   },
+   {
+    "date": "2026-06-02",
+    "number": "4A",
+    "title": "PTSD Awareness Month (D3)",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-06-02/#item-4A"
+   },
+   {
+    "date": "2026-06-02",
+    "number": "4C",
+    "title": "National Homeownership Month (D3)",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-06-02/#item-4C"
+   },
+   {
+    "date": "2026-07-07",
+    "number": "4A",
+    "title": "National Intern Day (D3)",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-07-07/#item-4A"
+   },
+   {
+    "date": "2026-07-07",
+    "number": "4C",
+    "title": "United States 250-th-Birthday ------------- - - - - - - 250th Anniversary of the United States (D3) 5 Anniversary of Rhonda's Promise, Inc. (D7)",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-07-07/#item-4C"
+   },
+   {
+    "date": "2026-08-25",
+    "number": "4I",
+    "title": "Back to School Month (D3)",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-08-25/#item-4I"
+   },
+   {
+    "date": "2026-09-01",
+    "number": "4F",
+    "title": "2-1-1 Suicide Awareness & Prevention Month (D3)",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-09-01/#item-4F"
+   },
+   {
+    "date": "2026-09-01",
+    "number": "4H",
+    "title": "Hispanic Heritage Month (D3)",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-09-01/#item-4H"
+   },
+   {
+    "date": "2026-11-10",
+    "number": "4B",
+    "title": "Veteran Appreciation Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-11-10/#item-4B"
+   },
+   {
+    "date": "2026-11-10",
+    "number": "4D",
+    "title": "National Entrepreneurship Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-11-10/#item-4D"
+   }
+  ]
+ },
+ "roster_status": "verified",
+ "roster_evidence": [
+  "Listed as District 3 commissioner in the BCC comments section of 38 BCC agendas, 2024-11-19 through 2026-11-17."
+ ],
+ "sources_extra": {
+  "charter": {
+   "label": "Palm Beach County Charter, Sec. 2.2 (no reelection on the ballot after eight consecutive years)",
+   "url": "https://discover.pbc.gov/PDF/Publications/Charter.pdf"
+  },
+  "flgov": {
+   "label": "Executive Office of the Governor press release, Jan 2023",
+   "url": "https://flgov.com/eog/news/press/2023/governor-ron-desantis-nominates-dave-kerner-executive-director-florida-department"
+  },
+  "flhsmv": {
+   "label": "FLHSMV news release, Jan 17, 2023",
+   "url": "https://www.flhsmv.gov/2023/01/17/dave-kerner-approved-by-governor-desantis-and-the-cabinet-as-executive-director-of-florida-department-of-highway-safety-and-motor-vehicles/"
+  }
+ },
+ "generated": "2026-11-19"
+}

@@ -5,7 +5,7 @@
  "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20210608/20210608.htm",
  "agenda_pages": 40,
  "items_source": "table of contents",
- "item_count": 40,
+ "item_count": 41,
  "backup_pdf_count": 40,
  "items": [
   {
@@ -31,6 +31,9 @@
    "department": "Clerk Of The Circuit Court & Comptroller",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3B3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -40,6 +43,9 @@
    "department": "Clerk Of The Circuit Court & Comptroller",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3B4.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -49,6 +55,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3C1.pdf"
+   ],
+   "districts": [
+    "1"
    ]
   },
   {
@@ -58,6 +67,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3C2.pdf"
+   ],
+   "districts": [
+    "5"
    ]
   },
   {
@@ -67,6 +79,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3C3.pdf"
+   ],
+   "districts": [
+    "2"
    ]
   },
   {
@@ -76,6 +91,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3C4.pdf"
+   ],
+   "districts": [
+    "6"
    ]
   },
   {
@@ -85,6 +103,9 @@
    "department": "Airports",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3F1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -94,6 +115,9 @@
    "department": "Airports",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3F2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -103,6 +127,9 @@
    "department": "Airports",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3F3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -112,6 +139,9 @@
    "department": "Airports",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3F4.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -121,6 +151,9 @@
    "department": "Airports",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3F5.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -130,6 +163,9 @@
    "department": "Airports",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3F6.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -139,6 +175,9 @@
    "department": "Airports",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3F7.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -148,6 +187,9 @@
    "department": null,
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3F8.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -157,6 +199,9 @@
    "department": "Office Of Financial Management & Budget",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3G1.pdf"
+   ],
+   "districts": [
+    "6"
    ]
   },
   {
@@ -166,6 +211,9 @@
    "department": "Office Of Financial Management & Budget",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3G2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -175,6 +223,9 @@
    "department": "Office Of Financial Management & Budget",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3G3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -184,6 +235,10 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3H1.pdf"
+   ],
+   "districts": [
+    "2",
+    "Countywide"
    ]
   },
   {
@@ -193,6 +248,10 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3H2.pdf"
+   ],
+   "districts": [
+    "2",
+    "Countywide"
    ]
   },
   {
@@ -202,6 +261,9 @@
    "department": "Water Utilities",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3K1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -211,6 +273,10 @@
    "department": "Water Utilities",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3K2.pdf"
+   ],
+   "districts": [
+    "2",
+    "5"
    ]
   },
   {
@@ -220,6 +286,9 @@
    "department": "Water Utilities",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3K3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -229,6 +298,9 @@
    "department": "Water Utilities",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3K4.pdf"
+   ],
+   "districts": [
+    "5"
    ]
   },
   {
@@ -238,6 +310,9 @@
    "department": "Water Utilities",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3K5.pdf"
+   ],
+   "districts": [
+    "6"
    ]
   },
   {
@@ -247,6 +322,9 @@
    "department": "Water Utilities",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3K6.pdf"
+   ],
+   "districts": [
+    "2"
    ]
   },
   {
@@ -256,6 +334,9 @@
    "department": "Environmental Resources Management",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3L1.pdf"
+   ],
+   "districts": [
+    "1"
    ]
   },
   {
@@ -265,6 +346,11 @@
    "department": "Environmental Resources Management",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3L2.pdf"
+   ],
+   "districts": [
+    "1",
+    "4",
+    "7"
    ]
   },
   {
@@ -274,6 +360,11 @@
    "department": "Environmental Resources Management",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3L3.pdf"
+   ],
+   "districts": [
+    "1",
+    "4",
+    "7"
    ]
   },
   {
@@ -283,6 +374,61 @@
    "department": "Environmental Resources Management",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3L4.pdf"
+   ],
+   "districts": [
+    "Countywide"
+   ],
+   "named": [
+    {
+     "surname": "Kerner",
+     "title": "Mayor",
+     "context": "nominated"
+    },
+    {
+     "surname": "Weinroth",
+     "title": "Vice Mayor",
+     "context": "nominated"
+    },
+    {
+     "surname": "Marino",
+     "title": "Commissioner",
+     "context": "nominated"
+    },
+    {
+     "surname": "Weiss",
+     "title": "Commissioner",
+     "context": "nominated"
+    },
+    {
+     "surname": "McKinlay",
+     "title": "Commissioner",
+     "context": "nominated"
+    },
+    {
+     "surname": "Bernard",
+     "title": "Commissioner",
+     "context": "nominated"
+    },
+    {
+     "surname": "Marino",
+     "title": "Commissioner",
+     "context": "named"
+    },
+    {
+     "surname": "Weiss",
+     "title": "Commissioner",
+     "context": "named"
+    },
+    {
+     "surname": "McKinlay",
+     "title": "Commissioner",
+     "context": "named"
+    },
+    {
+     "surname": "Bernard",
+     "title": "Commissioner",
+     "context": "named"
+    }
    ]
   },
   {
@@ -292,6 +438,9 @@
    "department": "Fire Rescue",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3S1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -301,6 +450,9 @@
    "department": "Fire Rescue",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3S2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -310,6 +462,9 @@
    "department": "Sheriff",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3CC1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -319,6 +474,18 @@
    "department": "Medical Examiner",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/3DD1.pdf"
+   ],
+   "districts": [
+    "Countywide"
+   ]
+  },
+  {
+   "number": "4A",
+   "title": "COVID-19 Update by Dr. Alonso and County Staff",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210608/4A.pdf"
    ]
   },
   {
@@ -328,6 +495,9 @@
    "department": "Office Of Financial Management And Budget",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/5A1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -337,6 +507,9 @@
    "department": "Administration",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/5B1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -346,6 +519,9 @@
    "department": "Administration",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/5B2.pdf"
+   ],
+   "districts": [
+    "1"
    ]
   },
   {
@@ -355,6 +531,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/5C1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -364,8 +543,12 @@
    "department": null,
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20210608/7A1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   }
  ],
- "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas.",
+ "item_details_note": "districts and named come from the item text in the agenda body (district tag at the end of each item; commissioners named with their title). Automated extraction; see the agenda PDF."
 }

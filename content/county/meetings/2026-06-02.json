@@ -5,7 +5,7 @@
  "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20260602/20260602.htm",
  "agenda_pages": 52,
  "items_source": "table of contents",
- "item_count": 48,
+ "item_count": 56,
  "backup_pdf_count": 49,
  "items": [
   {
@@ -15,6 +15,9 @@
    "department": "Administration",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3A1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -40,6 +43,9 @@
    "department": "Clerk & Comptroller",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3B3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -49,6 +55,9 @@
    "department": "Clerk & Comptroller",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3B4.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -58,6 +67,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3C1.pdf"
+   ],
+   "districts": [
+    "2"
    ]
   },
   {
@@ -67,6 +79,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3C2.pdf"
+   ],
+   "districts": [
+    "7"
    ]
   },
   {
@@ -76,6 +91,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3C3d.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -85,6 +103,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3C4d.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -94,6 +115,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3C5.pdf"
+   ],
+   "districts": [
+    "1"
    ]
   },
   {
@@ -103,6 +127,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3C6.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -112,6 +139,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3C7.pdf"
+   ],
+   "districts": [
+    "1"
    ]
   },
   {
@@ -121,6 +151,9 @@
    "department": "Community Services",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3E1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -130,6 +163,9 @@
    "department": "Airports",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3F1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -139,6 +175,9 @@
    "department": "Office Of Financial Management & Budget",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3G1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -148,6 +187,9 @@
    "department": "Office Of Financial Management & Budget",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3G2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -157,6 +199,9 @@
    "department": "Office Of Financial Management & Budget",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3G3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -166,6 +211,9 @@
    "department": "Office Of Financial Management & Budget",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3G4.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -175,6 +223,9 @@
    "department": "Office Of Financial Management & Budget",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3G5.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -184,6 +235,9 @@
    "department": "Office Of Financial Management & Budget",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3G6.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -193,6 +247,9 @@
    "department": "Office Of Financial Management & Budget",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3G7.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -202,6 +259,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3H1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -220,6 +280,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3H3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -283,6 +346,9 @@
    "department": "Housing & Economic Development",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3I7.pdf"
+   ],
+   "districts": [
+    "6"
    ]
   },
   {
@@ -292,6 +358,9 @@
    "department": "Water Utilities",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3K1.pdf"
+   ],
+   "districts": [
+    "5"
    ]
   },
   {
@@ -301,6 +370,11 @@
    "department": "Water Utilities",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3K2.pdf"
+   ],
+   "districts": [
+    "2",
+    "3",
+    "4"
    ]
   },
   {
@@ -310,6 +384,9 @@
    "department": "Water Utilities",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3K3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -319,6 +396,9 @@
    "department": "Environmental Resources Management",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3L1.pdf"
+   ],
+   "districts": [
+    "1"
    ]
   },
   {
@@ -328,6 +408,9 @@
    "department": "Risk Management",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3Z1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -337,6 +420,9 @@
    "department": "Sheriff",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3CC1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -346,6 +432,9 @@
    "department": "Sheriff",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3CC2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -355,6 +444,9 @@
    "department": "Sheriff",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3CC3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -364,6 +456,9 @@
    "department": "Office Of Emergency Management",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3DD1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -373,6 +468,9 @@
    "department": "Office Of Emergency Management",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3DD2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -382,6 +480,9 @@
    "department": "Office Of Equal Opportunity",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3EE1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -391,6 +492,89 @@
    "department": "Supervisor Of Elections",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/3FF1.pdf"
+   ],
+   "districts": [
+    "Countywide"
+   ]
+  },
+  {
+   "number": "4A",
+   "title": "PTSD Awareness Month (D3)",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "3"
+   ]
+  },
+  {
+   "number": "4B",
+   "title": "New Leaders Council Class of 2026 (D7)",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "7"
+   ]
+  },
+  {
+   "number": "4C",
+   "title": "National Homeownership Month (D3)",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "3"
+   ]
+  },
+  {
+   "number": "4D",
+   "title": "75th Anniversary of PBC Chapter of The Charmettes, Inc. (D7)",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "7"
+   ]
+  },
+  {
+   "number": "4E",
+   "title": "25th Anniversary of BAPS Shri Swaminarayan Mandir (D4)",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "4"
+   ]
+  },
+  {
+   "number": "4F",
+   "title": "Hom Ha'Atzmaut Independence Day",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "5"
+   ]
+  },
+  {
+   "number": "4G",
+   "title": "15th Anniversary of the PinkBall Foundation (D4)",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "4"
+   ]
+  },
+  {
+   "number": "4H",
+   "title": "Youth Entrepreneurship Month (D2)",
+   "section": "Special presentation",
+   "department": null,
+   "backup": [],
+   "districts": [
+    "2"
    ]
   },
   {
@@ -400,6 +584,9 @@
    "department": "Airports",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/5A1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -409,6 +596,9 @@
    "department": "Office Of Financial Management & Budget",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/5B1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -418,6 +608,9 @@
    "department": "Housing & Economic Development",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/5C1.pdf"
+   ],
+   "districts": [
+    "5"
    ]
   },
   {
@@ -427,6 +620,9 @@
    "department": "Human Resources",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/5D1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -436,8 +632,12 @@
    "department": "County Attorney",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20260602/5E1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   }
  ],
- "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas.",
+ "item_details_note": "districts and named come from the item text in the agenda body (district tag at the end of each item; commissioners named with their title). Automated extraction; see the agenda PDF."
 }

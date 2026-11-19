@@ -1,0 +1,149 @@
+# Robert S. Weinroth — District 4
+
+_Generated 2026-11-19 from official sources; see links. Votes are not included (Clerk final minutes, by request: https://www.mypalmbeachclerk.com/records/minutes)._
+
+## Basics
+- Seat: 2018-11-20 – 2022-11-22
+- Took seat: Elected (2018)
+- Party (SOE): DEM — https://enr.electionsfl.org/PAL/Summary/3278/
+- Status: Left office
+  - Lost the 2022 District 4 general election to Marci Woodward; Woodward took the seat on Nov 22, 2022. [soe]
+- Vice Mayor 2019–20 (verified)
+- Vice Mayor 2020–21 (verified)
+- Mayor 2021–22 (verified)
+
+## Background
+- Elected to represent District 4 in 2018; longtime Boca Raton resident.
+- Elected to the Boca Raton City Council in 2014 and served four years, including as deputy mayor and CRA vice chair.
+- Background as an executive and general counsel in insurance, finance and health care; president and general counsel of Freedom Medical Services Inc. for 16 years.
+- Source: Robert S. Weinroth biography (official County district Biography page, archived 2021-06-13) — https://web.archive.org/web/20210613090851/https://discover.pbcgov.org/countycommissioners/district4/pages/biography.aspx
+
+## Elections
+- 2018 General Election Official Results — County Commission 4: won, 51,052 votes (54.27%). Candidates: William ''Billy'' Vale 43,014 (45.73%); Robert S. Weinroth 51,052 (54.27%) — https://enr.electionsfl.org/PAL/2486/Summary/
+- 2022 General Election Official Results — Board of County Commissioners - District 4: lost, 45,740 votes (48.18%). Candidates: Marci Woodward (REP) 49,198 (51.82%); Robert S. Weinroth (DEM) 45,740 (48.18%) — https://enr.electionsfl.org/PAL/Summary/3278/
+
+## On the agendas
+- Meetings during tenure: 113
+- Commissioner Comments roster listings: 76
+- Items naming them: 116 {'nominated': 95, 'sponsored': 17, 'named': 4}
+- District-tagged items: 220 (only this district: 97)
+- Special presentations tagged their district: 11
+### nominated (95)
+- 2022-11-15 3J-1: Appointments to the Construction Industry Licensing Board
+- 2022-11-15 3CC-1: Appointments to the Internal Audit Committee
+- 2022-11-01 3K-2: Appointment to the Water Utilities Department Advisory Board
+- 2022-10-18 3K-2: Appointment to the Water Utilities Department Advisory Board
+- 2022-10-18 7A-1: Appointment to the Commission on Women Advisory Board
+- 2022-10-04 3N-1: Appointment to the Library Advisory Board
+- 2022-10-04 3EE-1: Appointments to the Equal Business Opportunity Advisory Committee
+- 2022-09-13 3E-2: Reappointments to the Citizens Advisory Committee on Health and Human Services
+- 2022-09-13 3J-1: Reappointments to the Historic Resources Review Board
+- 2022-09-13 3X-6: Reappointment to the Consumer Affairs Hearing Board
+- 2022-09-13 3AA-1: Reappointments to the Palm Tran Service Board
+- 2022-09-13 7A-1: Appointments to the Child Care Advisory Council
+- 2022-08-23 7A-1: Appointments to the Investment Policy Committee
+- 2022-07-12 3A-1: Appointment to the Health Facilities Authority
+- 2022-07-12 3EE-1: Appointments to the Equal Business Opportunity Advisory Committee
+- 2022-06-14 3J-1: Appointment to the Planning Commission
+- 2022-04-12 3L-2: Appointment to the Natural Areas Management Advisory Committee
+- 2022-03-08 3A-2: Appointment to the Florida Atlantic Research & Development Authority
+- 2022-03-08 3E-1: Appointments to the Farmworker Program Advisory Board
+- 2022-03-08 3L-1: Appointments to the Groundwater and Natural Resources Protection Board
+- 2022-02-08 3A-1: Appointments to the Water Resources Task Force
+- 2022-02-08 3I-3: Appointments to the Treasure Coast Regional Planning Council Comprehensive Economic Development Strategy Committee
+- 2022-01-04 7B-1: Appointment to the Advisory Commission on Women
+- 2021-12-07 3G-2: Appointment to the Contract Review Committee
+- 2021-12-07 3J-1: Appointment to the Historic Resources Review Board
+- 2021-12-07 3X-11: Appointment to the Consumer Affairs Hearing Board
+- 2021-11-02 3F-1: Appointments to the Aviation and Airports Advisory Board
+- 2021-11-02 3J-1: Appointments to the Construction Industry Licensing Board
+- 2021-10-19 3DD-1: Appointments to the Internal Audit Committee
+- 2021-10-05 3J-1: Reappointments to the Historic Resources Review Board
+- 2021-10-05 3L-1: Reappointment to the Natural Areas Management Advisory Committee
+- 2021-10-05 3CC-1: Reappointments to the Equal Business Opportunity Advisory Committee
+- 2021-09-14 3E-3: Reappointments to the Citizens Advisory Committee on Health and Human Services
+- 2021-09-14 3AA-3: Reappointments to the Palm Tran Service Board
+- 2021-08-17 3L-7: Appointments to the Natural Areas Management Advisory Committee
+- 2021-08-17 3X-1: Reappointments to the Consumer Affairs Hearing Board
+- 2021-08-17 7A-1: Appointment to the Environmental Control Hearing Board
+- 2021-07-13 3J-1: Appointments to the Historic Resources Review Board
+- 2021-06-15 6A-1: Appointments to the Commission on Affordable Housing
+- 2021-06-08 3L-4: Appointments to the Natural Areas Management Advisory Committee
+- 2021-05-18 3G-4: Appointments to the Impact Fee Review Committee
+- 2021-04-06 3J-1: Appointments to the Construction Industry Licensing Board
+- 2021-04-06 3L-2: Appointment to the Groundwater and Natural Resources Protection Board
+- 2021-04-06 3FF-1: Appointment to the Equal Business Opportunity Advisory Committee
+- 2021-02-09 7A-1: Appointments to the Commission on Affordable Housing
+- 2021-01-12 7A-1: Appointment to the Child Care Advisory Council
+- 2020-12-15 7A-1: Appointments to the Commission on Ethics Review Committee
+- 2020-12-08 3A-2: Appointment to the South Florida Regional Transportation Authority
+- 2020-12-08 3J-1: Appointments to the Construction Industry Licensing Board
+- 2020-12-08 6A-1: Appointments to the Commission on Ethics Review Committee
+- 2020-11-17 3A-1: Appointments to the Health Facilities Authority
+- 2020-11-17 3A-3: Reappointment to the Health Care District of Palm Beach County District Board
+- 2020-11-17 3E-9: Reappointments to the Community Action Advisory Board
+- 2020-10-20 3E-2: Appointments to the Farmworker Program Advisory Board
+- 2020-10-20 3K-5: Reappointment to the Water Utilities Department Advisory Board
+- 2020-10-06 3DD-1: Appointments to the Internal Audit Committee
+- 2020-10-06 6A-2: Reappointments to the Child Care Advisory Council
+- 2020-09-15 3A-1: Appointment to the Florida Atlantic Research & Development Authority
+- 2020-09-15 3E-1: Appointments to the Citizens Advisory Committee of Health and Human Services
+- 2020-09-15 3AA-1: Reappointments to the Palm Tran Service Board
+- 2020-09-01 3X-2: Reappointments to the Consumer Affairs Hearing Board
+- 2020-09-01 3DD-1: Reappointment to the Equal Business Opportunity Advisory Committee
+- 2020-08-25 3S-3: Appointment to the Fire Code Board of Appeals and Adjustments
+- 2020-06-02 3G-5: Appointment to the County Financing Committee
+- 2020-04-07 3E-2: Appointment to the Farmworker Program Advisory Board
+- 2020-04-07 3CC-1: Reappointment to the Equal Business Opportunity Advisory Committee
+- 2020-02-11 3X-2: Reappointment to the Consumer Affairs Hearing Board
+- 2020-01-07 7A-1: Reappointments to the Environmental Control Hearing Board
+- 2019-12-17 3I-3: Appointments to the Treasure Coast Regional Planning Council's Comprehensive Economic Development Strategy Committee
+- 2019-12-17 3EE-1: Reappointment to the Internal Audit Committee
+- 2019-11-05 3G-3: Reappointments to the Investment Policy Committee
+- 2019-11-05 3DD-1: Appointment to the Equal Business Opportunity Advisory Committee
+- 2019-10-22 6A-1: Appointments to the Commission on Affordable Housing
+- 2019-10-08 3A-1: Appointment to the Health Care District of Palm Beach County
+- 2019-10-08 3E-3: Appointments to the Citizens Advisory Committee on Health and Human Services
+- 2019-09-10 3K-2: Reappointment to the Water Utilities Department Advisory Board
+- 2019-09-10 3N-3: Reappointment to the Library Advisory Board
+- 2019-09-10 3AA-5: Appointments to the Palm Tran Service Board
+- 2019-08-20 3A-1: Appointments to the Health Council of Southeast Florida, Inc.
+- 2019-08-20 3A-5: Reappointment to the South Florida Regional Transportation Authority
+- 2019-08-20 3FF-1: Reappointments to the Equal Business Opportunity Advisory Committee
+- 2019-07-02 3DD-2: Appointments to the Westgate CRA Board
+- 2019-07-02 6A-1: Appointment to the Planning Commission
+- 2019-06-04 3J-1: Appointment to the Land Development Regulation Advisory Board
+- 2019-06-04 3J-3: Reappointments and appointment to the Historic Resources Review Board
+- 2019-06-04 3EE-1: Reappointments to the Equal Business Opportunity Advisory Committee
+- 2019-06-04 5A-1: Appointment to the Planning Commission
+- 2019-04-16 3A-4: Reappointments to the Florida Atlantic Research & Development Authority
+- 2019-03-12 3L-4: Appointments to the Groundwater and Natural Resources Protection Board
+- 2019-03-12 3S-1: Appointment to the Fire Code Board of Appeals and Adjustments
+- 2019-01-15 3A-2: Appointment to the Health Council of Southeast Florida, Inc.
+- 2019-01-15 3E-2: Appointment to the Community Action Advisory Board
+- 2019-01-15 3K-7: Reappointment to the Water Utilities Advisory Board
+- 2019-01-15 6A-1: Reappointment and appointment to the Health Facilities Authority
+- 2018-12-18 3I-4: Appointment/reappointments to the Treasure Coast Regional Planning Council's Comprehensive Economic Development Strategy (CEDS) Committee
+### sponsored (17)
+- 2020-03-10 4H: National Farmworker Awareness Week
+- 2020-03-10 4J: Transit Operator Appreciation Day
+- 2020-02-04 4B: 10th Anniversary of the Boca West Children's Foundation
+- 2020-02-04 4D: Transportation Disadvantaged Day
+- 2019-11-05 2C-1: 25th Anniversary of the Unicorn Children's Foundation, Inc.
+- 2019-11-05 2C-3: National Family Caregivers Month
+- 2019-10-08 2C-5: Day of Action to Combat Antisemitism
+- 2019-10-08 2C-7: Mobility Week
+- 2019-06-04 2C-6: 104th Anniversary of the 1915 Armenian Genocide
+- 2019-05-07 2C-2: Ethics Awareness Month
+- 2019-05-07 2C-4: National Association of Letter Carriers' Stamp Out Hunger Food Drive Day
+- 2019-04-02 2C-3: Women of Tomorrow Day
+- 2019-04-02 2C-5: Palm Beach County Public Safety Telecommunicators Week
+- 2019-03-12 2C-3: National Farmworker Awareness Week
+- 2019-03-12 2C-5: Crohn's and Colitis Awareness Day
+- 2019-02-05 2C-4: Boating & Beach Bash for People with Disabilities Day
+- 2019-02-05 2C-6: School-Based Mental Health Care Awareness Month
+### named (4)
+- 2022-05-03 3M-3: Ratify the Mayor's signature on a Waterways Assistance Program grant application to the Florida Inland Navigation District for the redevelopment of the southern portion of Bert Winters Park
+- 2022-05-03 3M-4: Ratify the Mayor's signature on a Waterways Assistance Program grant application to the Florida Inland Navigation District for the renovation of the Peanut Island Park Dock
+- 2021-01-12 3J-2: Appointments to the Land Development Regulation Advisory Board
+- 2020-12-08 6A-2: Commissioner appointments to the Treasure Coast Regional Planning Council

@@ -1,0 +1,494 @@
+{
+ "slug": "hal-valeche",
+ "name": "Hal R. Valeche",
+ "district": 1,
+ "seat": {
+  "start": null,
+  "start_note": "In office before Nov 2018 (start of this record); first elected 2012, re-elected 2016 (County biography; 2016 SOE results)",
+  "end": "2020-11-17",
+  "end_note": "Successor sworn in at the Nov 17, 2020 reorganizational meeting"
+ },
+ "took_seat": "Elected (2012; re-elected 2016)",
+ "party": {
+  "code": "REP",
+  "source": "Palm Beach County Supervisor of Elections — 2016 General Election Official Results",
+  "url": "https://enr.electionsfl.org/PAL/2460/Summary/",
+  "note": "Party as printed on Supervisor of Elections results (race label or candidate suffix)."
+ },
+ "status": "Left office",
+ "left_office": [
+  {
+   "text": "Elected 2012 and re-elected 2016; the County Charter bars a commissioner from the ballot after eight consecutive years. Did not appear on the 2020 District 1 ballot; Maria G. Marino took the seat on Nov 17, 2020.",
+   "source": "charter"
+  }
+ ],
+ "after_office": [],
+ "mayor_terms": [],
+ "elections": [
+  {
+   "election": "2016 General Election Official Results",
+   "year": 2016,
+   "kind": "general",
+   "race": "County Commission 1",
+   "result": "won",
+   "candidate_as_listed": "Hal R. Valeche (REP)",
+   "votes": "59,853",
+   "pct": "57.30%",
+   "total_votes": "104,460",
+   "all_candidates": [
+    {
+     "name": "Hal R. Valeche (REP)",
+     "pct": "57.30%",
+     "votes": "59,853"
+    },
+    {
+     "name": "Tony Bennett (DEM)",
+     "pct": "42.70%",
+     "votes": "44,607"
+    }
+   ],
+   "source": "Palm Beach County Supervisor of Elections — 2016 General Election Official Results",
+   "url": "https://enr.electionsfl.org/PAL/2460/Summary/"
+  }
+ ],
+ "officer_term_ending_nov_2018": null,
+ "bio": [
+  "Yale graduate (B.A., American Studies) and former U.S. Navy fighter pilot who flew 85 combat missions in Vietnam; later earned an MBA from Wharton and worked about ten years as an investment banker in New York.",
+  "Moved to Palm Beach Gardens in 1993 and ran several businesses; served on the Northern Palm Beach County Improvement District board and two terms on the Palm Beach Gardens City Council.",
+  "Appointed by the Governor to the Enterprise Florida board in November 2009.",
+  "Elected to the District 1 seat in 2012 and re-elected in 2016."
+ ],
+ "bio_source": {
+  "label": "Hal R. Valeche biography (official County district Biography page, archived 2019-08-09)",
+  "url": "https://web.archive.org/web/20190809144928/http://discover.pbcgov.org/countycommissioners/district1/Pages/Biography.aspx"
+ },
+ "activity": {
+  "window": {
+   "from": "2018-11-01",
+   "to": "2020-11-17"
+  },
+  "meetings_with_agenda": 56,
+  "first_meeting": "2018-11-20",
+  "last_meeting": "2020-11-17",
+  "agendas_listing_in_commissioner_comments": 36,
+  "items_naming": {
+   "nominated": 32,
+   "sponsored": 11,
+   "named": 4
+  },
+  "items_naming_total": 47,
+  "district_tagged_items": 209,
+  "district_tagged_by_section": {
+   "Consent": 190,
+   "Public hearing": 6,
+   "Regular": 13
+  },
+  "district_only_items": 141,
+  "special_presentations_tagged_district": 0,
+  "named_items": {
+   "nominated": [
+    {
+     "date": "2018-11-20",
+     "number": "3J-2",
+     "title": "Reappointments to the Historic Resources Review Board",
+     "section": "Consent",
+     "link": "../../meetings/2018-11-20/#item-3J-2",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2018-12-18",
+     "number": "3A-2",
+     "title": "Appointment to the Small Business Assistance Advisory Committee",
+     "section": "Consent",
+     "link": "../../meetings/2018-12-18/#item-3A-2",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2018-12-18",
+     "number": "3I-4",
+     "title": "Appointment/reappointments to the Treasure Coast Regional Planning Council's Comprehensive Economic Development Strategy (CEDS) Committee",
+     "section": "Consent",
+     "link": "../../meetings/2018-12-18/#item-3I-4",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2018-12-18",
+     "number": "3J-1",
+     "title": "Appointment to the Construction Board of Adjustment and Appeals",
+     "section": "Consent",
+     "link": "../../meetings/2018-12-18/#item-3J-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-01-15",
+     "number": "3A-2",
+     "title": "Appointment to the Health Council of Southeast Florida, Inc.",
+     "section": "Consent",
+     "link": "../../meetings/2019-01-15/#item-3A-2",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-01-15",
+     "number": "3E-2",
+     "title": "Appointment to the Community Action Advisory Board",
+     "section": "Consent",
+     "link": "../../meetings/2019-01-15/#item-3E-2",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-01-15",
+     "number": "6A-1",
+     "title": "Reappointment and appointment to the Health Facilities Authority",
+     "section": "Board appointments",
+     "link": "../../meetings/2019-01-15/#item-6A-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-03-12",
+     "number": "3A-1",
+     "title": "Reappointments to the Health Facilities Authority",
+     "section": "Consent",
+     "link": "../../meetings/2019-03-12/#item-3A-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-03-12",
+     "number": "3L-4",
+     "title": "Appointments to the Groundwater and Natural Resources Protection Board",
+     "section": "Consent",
+     "link": "../../meetings/2019-03-12/#item-3L-4",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-03-12",
+     "number": "3S-1",
+     "title": "Appointment to the Fire Code Board of Appeals and Adjustments",
+     "section": "Consent",
+     "link": "../../meetings/2019-03-12/#item-3S-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-06-04",
+     "number": "3J-3",
+     "title": "Reappointments and appointment to the Historic Resources Review Board",
+     "section": "Consent",
+     "link": "../../meetings/2019-06-04/#item-3J-3",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-06-04",
+     "number": "3EE-1",
+     "title": "Reappointments to the Equal Business Opportunity Advisory Committee",
+     "section": "Consent",
+     "link": "../../meetings/2019-06-04/#item-3EE-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-07-02",
+     "number": "3DD-2",
+     "title": "Appointments to the Westgate CRA Board",
+     "section": "Consent",
+     "link": "../../meetings/2019-07-02/#item-3DD-2",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-08-20",
+     "number": "3A-5",
+     "title": "Reappointment to the South Florida Regional Transportation Authority",
+     "section": "Consent",
+     "link": "../../meetings/2019-08-20/#item-3A-5",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-08-20",
+     "number": "3E-10",
+     "title": "Appointment to the Citizens Advisory Committee on Health and Human Services",
+     "section": "Consent",
+     "link": "../../meetings/2019-08-20/#item-3E-10",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-08-20",
+     "number": "3FF-1",
+     "title": "Reappointments to the Equal Business Opportunity Advisory Committee",
+     "section": "Consent",
+     "link": "../../meetings/2019-08-20/#item-3FF-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-09-10",
+     "number": "3AA-5",
+     "title": "Appointments to the Palm Tran Service Board",
+     "section": "Consent",
+     "link": "../../meetings/2019-09-10/#item-3AA-5",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-10-08",
+     "number": "3A-1",
+     "title": "Appointment to the Health Care District of Palm Beach County",
+     "section": "Consent",
+     "link": "../../meetings/2019-10-08/#item-3A-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-10-08",
+     "number": "3E-3",
+     "title": "Appointments to the Citizens Advisory Committee on Health and Human Services",
+     "section": "Consent",
+     "link": "../../meetings/2019-10-08/#item-3E-3",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-11-05",
+     "number": "3DD-1",
+     "title": "Appointment to the Equal Business Opportunity Advisory Committee",
+     "section": "Consent",
+     "link": "../../meetings/2019-11-05/#item-3DD-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-12-17",
+     "number": "3I-3",
+     "title": "Appointments to the Treasure Coast Regional Planning Council's Comprehensive Economic Development Strategy Committee",
+     "section": "Consent",
+     "link": "../../meetings/2019-12-17/#item-3I-3",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-12-17",
+     "number": "3EE-1",
+     "title": "Reappointment to the Internal Audit Committee",
+     "section": "Consent",
+     "link": "../../meetings/2019-12-17/#item-3EE-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2020-01-07",
+     "number": "8A-1",
+     "title": "Appointment to the Child Care Advisory Council",
+     "section": "Regular",
+     "link": "../../meetings/2020-01-07/#item-8A-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2020-02-11",
+     "number": "3X-2",
+     "title": "Reappointment to the Consumer Affairs Hearing Board",
+     "section": "Consent",
+     "link": "../../meetings/2020-02-11/#item-3X-2",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2020-08-25",
+     "number": "3S-3",
+     "title": "Appointment to the Fire Code Board of Appeals and Adjustments",
+     "section": "Consent",
+     "link": "../../meetings/2020-08-25/#item-3S-3",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2020-09-01",
+     "number": "3X-2",
+     "title": "Reappointments to the Consumer Affairs Hearing Board",
+     "section": "Consent",
+     "link": "../../meetings/2020-09-01/#item-3X-2",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2020-09-15",
+     "number": "3A-1",
+     "title": "Appointment to the Florida Atlantic Research & Development Authority",
+     "section": "Consent",
+     "link": "../../meetings/2020-09-15/#item-3A-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2020-09-15",
+     "number": "3E-1",
+     "title": "Appointments to the Citizens Advisory Committee of Health and Human Services",
+     "section": "Consent",
+     "link": "../../meetings/2020-09-15/#item-3E-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2020-09-15",
+     "number": "3AA-1",
+     "title": "Reappointments to the Palm Tran Service Board",
+     "section": "Consent",
+     "link": "../../meetings/2020-09-15/#item-3AA-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2020-10-06",
+     "number": "3DD-1",
+     "title": "Appointments to the Internal Audit Committee",
+     "section": "Consent",
+     "link": "../../meetings/2020-10-06/#item-3DD-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2020-10-20",
+     "number": "3K-5",
+     "title": "Reappointment to the Water Utilities Department Advisory Board",
+     "section": "Consent",
+     "link": "../../meetings/2020-10-20/#item-3K-5",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2020-10-20",
+     "number": "3DD-1",
+     "title": "Appointment to the Westgate CRA Board",
+     "section": "Consent",
+     "link": "../../meetings/2020-10-20/#item-3DD-1",
+     "as_title": "Commissioner"
+    }
+   ],
+   "sponsored": [
+    {
+     "date": "2019-02-05",
+     "number": "2C-3",
+     "title": "211 Awareness Week",
+     "section": "Special presentation",
+     "link": "../../meetings/2019-02-05/#item-2C-3",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-03-12",
+     "number": "2C-2",
+     "title": "Florida Bicycle Month",
+     "section": "Special presentation",
+     "link": "../../meetings/2019-03-12/#item-2C-2",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-04-02",
+     "number": "2C-2",
+     "title": "National Library Week 2019",
+     "section": "Special presentation",
+     "link": "../../meetings/2019-04-02/#item-2C-2",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-04-02",
+     "number": "2C-4",
+     "title": "Building Safety Month",
+     "section": "Special presentation",
+     "link": "../../meetings/2019-04-02/#item-2C-4",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-05-07",
+     "number": "2C-9",
+     "title": "National Nurses Week",
+     "section": "Special presentation",
+     "link": "../../meetings/2019-05-07/#item-2C-9",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-05-07",
+     "number": "2C-11",
+     "title": "Older Americans Month",
+     "section": "Special presentation",
+     "link": "../../meetings/2019-05-07/#item-2C-11",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-05-07",
+     "number": "2C-15",
+     "title": "Foster Care Awareness Month",
+     "section": "Special presentation",
+     "link": "../../meetings/2019-05-07/#item-2C-15",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-11-05",
+     "number": "2C-5",
+     "title": "National Nurse Practitioner Week",
+     "section": "Special presentation",
+     "link": "../../meetings/2019-11-05/#item-2C-5",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-11-05",
+     "number": "2C-7",
+     "title": "National American Indian Heritage Month",
+     "section": "Special presentation",
+     "link": "../../meetings/2019-11-05/#item-2C-7",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2020-03-10",
+     "number": "4A",
+     "title": "National Surveyors Week",
+     "section": "Special presentation",
+     "link": "../../meetings/2020-03-10/#item-4A",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2020-03-10",
+     "number": "4C",
+     "title": "Florida Bicycle Month",
+     "section": "Special presentation",
+     "link": "../../meetings/2020-03-10/#item-4C",
+     "as_title": "Commissioner"
+    }
+   ],
+   "named": [
+    {
+     "date": "2019-11-05",
+     "number": "3G-3",
+     "title": "Reappointments to the Investment Policy Committee",
+     "section": "Consent",
+     "link": "../../meetings/2019-11-05/#item-3G-3",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2020-07-07",
+     "number": "3M-1",
+     "title": "Amendment to the Infrastructure Surtax Project Plan to redirect funds to the Riverbend/Loxahatchee River Battlefield Park",
+     "section": "Consent",
+     "link": "../../meetings/2020-07-07/#item-3M-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2020-07-14",
+     "number": "3G-1",
+     "title": "Appointment to the Investment Policy Committee",
+     "section": "Consent",
+     "link": "../../meetings/2020-07-14/#item-3G-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2020-08-25",
+     "number": "6E-1",
+     "title": "Resolution supporting the construction of bridge markers on SR A1A/Jack Nicklaus Drive in designating the bridge as “Gold Star Family Memorial 44, dedicated to Army Captain Joseph M. Berkson",
+     "section": "Regular",
+     "link": "../../meetings/2020-08-25/#item-6E-1",
+     "as_title": "Commissioner"
+    }
+   ]
+  },
+  "special_presentations": []
+ },
+ "roster_status": "verified-partial",
+ "roster_evidence": [
+  "Listed as District 1 commissioner in the BCC comments section of 36 BCC agendas, 2018-11-20 through 2020-10-20 (later agendas in this record list Maria G. Marino).",
+  "Did not appear in the 2020 District 1 primary or general (SOE); Maria G. Marino won the seat."
+ ],
+ "sources_extra": {
+  "charter": {
+   "label": "Palm Beach County Charter, Sec. 2.2 (no reelection on the ballot after eight consecutive years)",
+   "url": "https://discover.pbc.gov/PDF/Publications/Charter.pdf"
+  },
+  "flgov": {
+   "label": "Executive Office of the Governor press release, Jan 2023",
+   "url": "https://flgov.com/eog/news/press/2023/governor-ron-desantis-nominates-dave-kerner-executive-director-florida-department"
+  },
+  "flhsmv": {
+   "label": "FLHSMV news release, Jan 17, 2023",
+   "url": "https://www.flhsmv.gov/2023/01/17/dave-kerner-approved-by-governor-desantis-and-the-cabinet-as-executive-director-of-florida-department-of-highway-safety-and-motor-vehicles/"
+  }
+ },
+ "generated": "2026-11-19"
+}

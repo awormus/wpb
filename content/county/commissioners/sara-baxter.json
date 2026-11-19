@@ -1,0 +1,737 @@
+{
+ "slug": "sara-baxter",
+ "name": "Sara Baxter",
+ "district": 6,
+ "seat": {
+  "start": "2022-11-22",
+  "start_note": null,
+  "end": "2026-11-17",
+  "end_note": "Lost the 2026 general election; successor sworn in Nov 17, 2026"
+ },
+ "took_seat": "Elected (2022)",
+ "party": {
+  "code": "REP",
+  "source": "Palm Beach County Supervisor of Elections — 2026 General Election Results",
+  "url": "https://enr.electionsfl.org/PAL/4131/Summary/",
+  "note": "Party as printed on Supervisor of Elections results (race label or candidate suffix)."
+ },
+ "status": "Left office",
+ "left_office": [
+  {
+   "text": "Won the 2026 Republican primary but lost the 2026 District 6 general election to Katherine M. Waldron; Waldron took the seat on Nov 17, 2026.",
+   "source": "soe"
+  }
+ ],
+ "after_office": [],
+ "mayor_terms": [
+  {
+   "term": "2024–25",
+   "role": "Vice Mayor",
+   "status": "verified",
+   "evidence": [
+    "BCC agenda 2024-12-10: \"Nominated by: 12/11/2024 Vice Mayor Baxter\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20241210.pdf)",
+    "BCC agenda 2025-03-11: \"Mayor Maria G. Marino\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20250311.pdf)"
+   ]
+  },
+  {
+   "term": "2025–26",
+   "role": "Mayor",
+   "status": "verified",
+   "evidence": [
+    "BCC agenda 2026-01-06: \"Vice Mayor Marci Woodward\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20260106.pdf)",
+    "BCC agenda 2026-02-03: \"Mayor Baxter\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20260203.pdf)",
+    "BCC agenda 2026-11-10: \"SARA BAXTER, Mayor ... MARCI WOODWARD, Vice Mayor\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20261110.pdf)"
+   ]
+  }
+ ],
+ "elections": [
+  {
+   "election": "2022 General Election Official Results",
+   "year": 2022,
+   "kind": "general",
+   "race": "Board of County Commissioners - District 6",
+   "result": "won",
+   "candidate_as_listed": "Sara Baxter (REP)",
+   "votes": "41,127",
+   "pct": "52.52%",
+   "total_votes": "78,305",
+   "all_candidates": [
+    {
+     "name": "Sara Baxter (REP)",
+     "pct": "52.52%",
+     "votes": "41,127"
+    },
+    {
+     "name": "Michelle Oyola McGovern (DEM)",
+     "pct": "47.48%",
+     "votes": "37,178"
+    }
+   ],
+   "source": "Palm Beach County Supervisor of Elections — 2022 General Election Official Results",
+   "url": "https://enr.electionsfl.org/PAL/Summary/3278/"
+  },
+  {
+   "election": "2026 Primary Election Results",
+   "year": 2026,
+   "kind": "primary",
+   "race": "Board of County Commissioners, District 6 - REP",
+   "result": "won primary",
+   "candidate_as_listed": "Sara Baxter (REP)",
+   "votes": "7,725",
+   "pct": "59.42%",
+   "total_votes": "13,000",
+   "all_candidates": [
+    {
+     "name": "Elizabeth Accomando (REP)",
+     "pct": "40.58%",
+     "votes": "5,275"
+    },
+    {
+     "name": "Sara Baxter (REP)",
+     "pct": "59.42%",
+     "votes": "7,725"
+    }
+   ],
+   "source": "Palm Beach County Supervisor of Elections — 2026 Primary Election Results",
+   "url": "https://enr.electionsfl.org/PAL/4035/Summary/"
+  },
+  {
+   "election": "2026 General Election Results",
+   "year": 2026,
+   "kind": "general",
+   "race": "Board of County Commissioners, District 6",
+   "result": "lost",
+   "candidate_as_listed": "Sara Baxter (REP)",
+   "votes": "36,542",
+   "pct": "41.78%",
+   "total_votes": "87,455",
+   "all_candidates": [
+    {
+     "name": "Sara Baxter (REP)",
+     "pct": "41.78%",
+     "votes": "36,542"
+    },
+    {
+     "name": "Katherine Waldron (DEM)",
+     "pct": "58.22%",
+     "votes": "50,913"
+    }
+   ],
+   "source": "Palm Beach County Supervisor of Elections — 2026 General Election Results",
+   "url": "https://enr.electionsfl.org/PAL/4131/Summary/"
+  }
+ ],
+ "officer_term_ending_nov_2018": null,
+ "bio": [
+  "Born at Good Samaritan Hospital; a second-generation local who lives in The Acreage.",
+  "Worked as a Certified Retinal Angiographer at the Bascom Palmer Eye Institute; in 2011 co-founded an auto repair business, Foreign Auto Specialists, with her husband.",
+  "Bachelor’s degree in Business Administration, Palm Beach State College."
+ ],
+ "bio_source": {
+  "label": "Sara Baxter biography (official County district Biography page, archived 2025-06-22)",
+  "url": "https://web.archive.org/web/20250622102248/https://discover.pbcgov.org/countycommissioners/district6/Pages/Biography.aspx"
+ },
+ "activity": {
+  "window": {
+   "from": "2022-11-22",
+   "to": "2026-11-17"
+  },
+  "meetings_with_agenda": 113,
+  "first_meeting": "2022-11-22",
+  "last_meeting": "2026-11-17",
+  "agendas_listing_in_commissioner_comments": 76,
+  "items_naming": {
+   "named": 4,
+   "nominated": 24
+  },
+  "items_naming_total": 28,
+  "district_tagged_items": 350,
+  "district_tagged_by_section": {
+   "Consent": 318,
+   "Public hearing": 4,
+   "Regular": 28
+  },
+  "district_only_items": 298,
+  "special_presentations_tagged_district": 47,
+  "named_items": {
+   "named": [
+    {
+     "date": "2022-12-20",
+     "number": "3A-1",
+     "title": "Appointments to the Treasure Coast Regional Planning Council",
+     "section": "Consent",
+     "link": "../../meetings/2022-12-20/#item-3A-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2023-12-19",
+     "number": "3A-1",
+     "title": "Board appointments for the Treasure Coast Regional Planning Council.",
+     "section": "Consent",
+     "link": "../../meetings/2023-12-19/#item-3A-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2026-05-05",
+     "number": "4E",
+     "title": "Building Safety Month",
+     "section": "Special presentation",
+     "link": "../../meetings/2026-05-05/#item-4E",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2026-11-10",
+     "number": "3P-1",
+     "title": "Appointment of 2 new At-large members to the Agricultural Enhancement Council (AEC).",
+     "section": "Consent",
+     "link": "../../meetings/2026-11-10/#item-3P-1",
+     "as_title": "Mayor"
+    }
+   ],
+   "nominated": [
+    {
+     "date": "2023-08-22",
+     "number": "3FF-2",
+     "title": "Approve the appointment of two members to the Westgate/CRA Board.",
+     "section": "Consent",
+     "link": "../../meetings/2023-08-22/#item-3FF-2",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2023-09-19",
+     "number": "7A-1",
+     "title": "Approval of Board Appointment to the Value Adjustment Board.",
+     "section": "Board appointments",
+     "link": "../../meetings/2023-09-19/#item-7A-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2023-11-21",
+     "number": "3K-7",
+     "title": "Board reappointment of two (2) to the Water Utilities Department Advisory Board.",
+     "section": "Consent",
+     "link": "../../meetings/2023-11-21/#item-3K-7",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2024-01-23",
+     "number": "3E-6",
+     "title": "Appointments of four (4) members to the Veteran Services Advisory Board.",
+     "section": "Consent",
+     "link": "../../meetings/2024-01-23/#item-3E-6",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2024-01-23",
+     "number": "7A-1",
+     "title": "Appointment of one member to the Health Care District of Palm Beach County Board of Commissioners Board to complete an unexpired term.",
+     "section": "Board appointments",
+     "link": "../../meetings/2024-01-23/#item-7A-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2024-03-12",
+     "number": "6A-1",
+     "title": "Appointment of two (2) members to the Zoning Commission.",
+     "section": "Board appointments",
+     "link": "../../meetings/2024-03-12/#item-6A-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2024-05-07",
+     "number": "3AA-5",
+     "title": "Board appointment of one member to the Palm Tran Service Board.",
+     "section": "Consent",
+     "link": "../../meetings/2024-05-07/#item-3AA-5",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2024-11-19",
+     "number": "6A-1",
+     "title": "Community Services – appoint one (1) member to the Citizens Advisory Committee on Health and Human Services.",
+     "section": "Board appointments",
+     "link": "../../meetings/2024-11-19/#item-6A-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2024-12-10",
+     "number": "3FF-1",
+     "title": "Appointment of one to the Internal Audit Committee.",
+     "section": "Consent",
+     "link": "../../meetings/2024-12-10/#item-3FF-1",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2025-03-11",
+     "number": "3GG-1",
+     "title": "Reappointment of five (5) members to the Health Facilities Authority.",
+     "section": "Consent",
+     "link": "../../meetings/2025-03-11/#item-3GG-1",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2025-03-11",
+     "number": "7A-1",
+     "title": "Appointment of one (1) member to the Groundwater and Natural Resources Protection Board.",
+     "section": "Board appointments",
+     "link": "../../meetings/2025-03-11/#item-7A-1",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2025-06-03",
+     "number": "3J-1",
+     "title": "Appointment of one (1) member to the At-large seat on the Planning Commission.",
+     "section": "Consent",
+     "link": "../../meetings/2025-06-03/#item-3J-1",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2025-09-16",
+     "number": "3J-1",
+     "title": "Reappointment of three (3) members to the Historic Resources Review Board.",
+     "section": "Consent",
+     "link": "../../meetings/2025-09-16/#item-3J-1",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2025-09-16",
+     "number": "6A-1",
+     "title": "Appointment of one (1) member to the Public Art Committee.",
+     "section": "Board appointments",
+     "link": "../../meetings/2025-09-16/#item-6A-1",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2025-10-07",
+     "number": "3G-2",
+     "title": "Reappointment of two (2) members to the Investment Policy Committee.",
+     "section": "Consent",
+     "link": "../../meetings/2025-10-07/#item-3G-2",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2025-10-21",
+     "number": "3F-4",
+     "title": "Appointment of one (1) member to the Aviation and Airports Advisory Board.",
+     "section": "Consent",
+     "link": "../../meetings/2025-10-21/#item-3F-4",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2025-11-18",
+     "number": "3F-7",
+     "title": "Appointment of one (1) individual to the Citizens' Committee on Airport Noise.",
+     "section": "Consent",
+     "link": "../../meetings/2025-11-18/#item-3F-7",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2025-11-18",
+     "number": "3EE-1",
+     "title": "Appointment of two (2) individuals to the Internal Audit Committee.",
+     "section": "Consent",
+     "link": "../../meetings/2025-11-18/#item-3EE-1",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2026-02-03",
+     "number": "3EE-1",
+     "title": "Appointment of one (1) applicant to the Internal Audit Committee.",
+     "section": "Consent",
+     "link": "../../meetings/2026-02-03/#item-3EE-1",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2026-03-03",
+     "number": "3I-2",
+     "title": "Appointment of four (4) to the Small Business Development Advisory Committee.",
+     "section": "Consent",
+     "link": "../../meetings/2026-03-03/#item-3I-2",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2026-03-10",
+     "number": "3G-2",
+     "title": "Appointment and reappointment of members to the Impact Fee Review Committee.",
+     "section": "Consent",
+     "link": "../../meetings/2026-03-10/#item-3G-2",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2026-03-10",
+     "number": "7A-1",
+     "title": "Appointment of two (2) members to the Community Action Advisory Board.",
+     "section": "Board appointments",
+     "link": "../../meetings/2026-03-10/#item-7A-1",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2026-05-05",
+     "number": "3J-1",
+     "title": "Appointment of one (1) member and reappointment of one (1) member to the Construction Industry Licensing Board.",
+     "section": "Consent",
+     "link": "../../meetings/2026-05-05/#item-3J-1",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2026-06-09",
+     "number": "3J-2",
+     "title": "Board Appointment for the Planning Commission.",
+     "section": "Consent",
+     "link": "../../meetings/2026-06-09/#item-3J-2",
+     "as_title": "Mayor"
+    }
+   ]
+  },
+  "special_presentations": [
+   {
+    "date": "2023-01-10",
+    "number": "4B",
+    "title": "Human Trafficking Prevention Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2023-01-10/#item-4B"
+   },
+   {
+    "date": "2023-01-10",
+    "number": "4G",
+    "title": "24-Hour Homeless Point-In-Time Count Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2023-01-10/#item-4G"
+   },
+   {
+    "date": "2023-03-14",
+    "number": "4J",
+    "title": "Women's History Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2023-03-14/#item-4J"
+   },
+   {
+    "date": "2023-03-14",
+    "number": "4L",
+    "title": "National Agricultural Week",
+    "section": "Special presentation",
+    "link": "../../meetings/2023-03-14/#item-4L"
+   },
+   {
+    "date": "2023-05-02",
+    "number": "4A",
+    "title": "PBC Small Business Week",
+    "section": "Special presentation",
+    "link": "../../meetings/2023-05-02/#item-4A"
+   },
+   {
+    "date": "2023-05-02",
+    "number": "4C",
+    "title": "Economic Development Week",
+    "section": "Special presentation",
+    "link": "../../meetings/2023-05-02/#item-4C"
+   },
+   {
+    "date": "2023-06-06",
+    "number": "4H",
+    "title": "Certificate of Recognition Marsha Solomon",
+    "section": "Special presentation",
+    "link": "../../meetings/2023-06-06/#item-4H"
+   },
+   {
+    "date": "2023-10-03",
+    "number": "4D",
+    "title": "Recognizing Dr. Heidi Schaeffer",
+    "section": "Special presentation",
+    "link": "../../meetings/2023-10-03/#item-4D"
+   },
+   {
+    "date": "2023-10-03",
+    "number": "4F",
+    "title": "National 4-H Week",
+    "section": "Special presentation",
+    "link": "../../meetings/2023-10-03/#item-4F"
+   },
+   {
+    "date": "2023-10-03",
+    "number": "4H",
+    "title": "Wellington Chamber of Commerce Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2023-10-03/#item-4H"
+   },
+   {
+    "date": "2023-11-07",
+    "number": "4B",
+    "title": "Wellington Chamber of Commerce Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2023-11-07/#item-4B"
+   },
+   {
+    "date": "2024-01-23",
+    "number": "4F",
+    "title": "January 2024 as Florida Jewish History Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-01-23/#item-4F"
+   },
+   {
+    "date": "2024-01-23",
+    "number": "4H",
+    "title": "January 2024 Human Trafficking Prevention Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-01-23/#item-4H"
+   },
+   {
+    "date": "2024-03-05",
+    "number": "4K",
+    "title": "National Women and Girls HIV/AIDS Awareness Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-03-05/#item-4K"
+   },
+   {
+    "date": "2024-03-05",
+    "number": "4M",
+    "title": "Women's History Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-03-05/#item-4M"
+   },
+   {
+    "date": "2024-04-02",
+    "number": "4B",
+    "title": "Small Business Week",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-04-02/#item-4B"
+   },
+   {
+    "date": "2024-04-02",
+    "number": "4D",
+    "title": "Christ Fellowship Church 40 Years of Dedicated Service",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-04-02/#item-4D"
+   },
+   {
+    "date": "2024-05-07",
+    "number": "4L",
+    "title": "Nurses Week",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-05-07/#item-4L"
+   },
+   {
+    "date": "2024-05-07",
+    "number": "4N",
+    "title": "National Water Safety Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-05-07/#item-4N"
+   },
+   {
+    "date": "2024-05-07",
+    "number": "4P",
+    "title": "Spelling Bee Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-05-07/#item-4P"
+   },
+   {
+    "date": "2024-05-07",
+    "number": "4R",
+    "title": "Palm Beach County Senior Health & Fitness Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-05-07/#item-4R"
+   },
+   {
+    "date": "2024-10-08",
+    "number": "4G",
+    "title": "National 4-H Week",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-10-08/#item-4G"
+   },
+   {
+    "date": "2024-10-08",
+    "number": "4I",
+    "title": "Mayor Fred Pinto Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-10-08/#item-4I"
+   },
+   {
+    "date": "2024-10-08",
+    "number": "4K",
+    "title": "PBSO Street Crimes Unit Agents",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-10-08/#item-4K"
+   },
+   {
+    "date": "2024-12-10",
+    "number": "4D",
+    "title": "Palm Beach County Disability Employment Awareness",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-12-10/#item-4D"
+   },
+   {
+    "date": "2025-01-07",
+    "number": "4H",
+    "title": "Florida Arbor Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-01-07/#item-4H"
+   },
+   {
+    "date": "2025-01-07",
+    "number": "4K",
+    "title": "National Human Trafficking Prevention Awareness Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-01-07/#item-4K"
+   },
+   {
+    "date": "2025-03-11",
+    "number": "4J",
+    "title": "Women's History Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-03-11/#item-4J"
+   },
+   {
+    "date": "2025-03-11",
+    "number": "4L",
+    "title": "National Agriculture Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-03-11/#item-4L"
+   },
+   {
+    "date": "2025-04-01",
+    "number": "4F",
+    "title": "Sexual Assault Awareness Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-04-01/#item-4F"
+   },
+   {
+    "date": "2025-08-19",
+    "number": "4G",
+    "title": "Florida Water Professionals Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-08-19/#item-4G"
+   },
+   {
+    "date": "2025-09-09",
+    "number": "4K",
+    "title": "Caribbean American for Community Involvement Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-09-09/#item-4K"
+   },
+   {
+    "date": "2025-09-09",
+    "number": "4L",
+    "title": "National Day of Service and Remembrance",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-09-09/#item-4L"
+   },
+   {
+    "date": "2025-10-07",
+    "number": "4I",
+    "title": "October Weekends Oktoberfest",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-10-07/#item-4I"
+   },
+   {
+    "date": "2025-10-07",
+    "number": "4K",
+    "title": "Nancy G. Brinker during Breast Cancer Awareness Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-10-07/#item-4K"
+   },
+   {
+    "date": "2025-12-02",
+    "number": "4I",
+    "title": "Steve Weagle Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-12-02/#item-4I"
+   },
+   {
+    "date": "2026-01-06",
+    "number": "4B",
+    "title": "National Certified Registered Nurse Anesthetists Week",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-01-06/#item-4B"
+   },
+   {
+    "date": "2026-03-03",
+    "number": "4B",
+    "title": "Women's History Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-03-03/#item-4B"
+   },
+   {
+    "date": "2026-03-03",
+    "number": "4D",
+    "title": "Women's Art Week",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-03-03/#item-4D"
+   },
+   {
+    "date": "2026-04-14",
+    "number": "4A",
+    "title": "National Work Zone Awareness Week 4M Agriculture: Together We Grow Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-04-14/#item-4A"
+   },
+   {
+    "date": "2026-05-05",
+    "number": "4A",
+    "title": "National Travel and Tourism Week",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-05-05/#item-4A"
+   },
+   {
+    "date": "2026-05-05",
+    "number": "4O",
+    "title": "National Apprenticeship Week",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-05-05/#item-4O"
+   },
+   {
+    "date": "2026-07-07",
+    "number": "4B",
+    "title": "Park and Recreation Month (D6)",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-07-07/#item-4B"
+   },
+   {
+    "date": "2026-08-25",
+    "number": "4K",
+    "title": "International Overdose Awareness Day (D6)",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-08-25/#item-4K"
+   },
+   {
+    "date": "2026-09-01",
+    "number": "4A",
+    "title": "National Preparedness Month (D6)",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-09-01/#item-4A"
+   },
+   {
+    "date": "2026-09-01",
+    "number": "4C",
+    "title": "Big Brothers and Big Sisters Month (D6)",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-09-01/#item-4C"
+   },
+   {
+    "date": "2026-09-01",
+    "number": "4E",
+    "title": "Carnaval Palm Beaches Weekend (D6)",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-09-01/#item-4E"
+   }
+  ]
+ },
+ "roster_status": "verified",
+ "roster_evidence": [
+  "Listed as District 6 commissioner in the BCC comments section of 76 BCC agendas, 2022-12-06 through 2026-11-10."
+ ],
+ "sources_extra": {
+  "charter": {
+   "label": "Palm Beach County Charter, Sec. 2.2 (no reelection on the ballot after eight consecutive years)",
+   "url": "https://discover.pbc.gov/PDF/Publications/Charter.pdf"
+  },
+  "flgov": {
+   "label": "Executive Office of the Governor press release, Jan 2023",
+   "url": "https://flgov.com/eog/news/press/2023/governor-ron-desantis-nominates-dave-kerner-executive-director-florida-department"
+  },
+  "flhsmv": {
+   "label": "FLHSMV news release, Jan 17, 2023",
+   "url": "https://www.flhsmv.gov/2023/01/17/dave-kerner-approved-by-governor-desantis-and-the-cabinet-as-executive-director-of-florida-department-of-highway-safety-and-motor-vehicles/"
+  }
+ },
+ "generated": "2026-11-19"
+}

@@ -20,7 +20,7 @@ def e(key, race, result):
     return {'source': SOE[key][0], 'url': SOE[key][1], 'race': race, 'result': result}
 
 COMMISSIONERS = [
- dict(slug='hal-valeche', name='Hal R. Valeche', district=1, start=None, start_note='In office before Nov 2018 (start of this record)',
+ dict(slug='hal-valeche', name='Hal R. Valeche', district=1, start=None, start_note='In office before Nov 2018 (start of this record); first elected 2012, re-elected 2016 (County biography; 2016 SOE results)',
       end='2020-11-17', end_note='Successor sworn in at the Nov 17, 2020 reorganizational meeting',
       elections=[], status='verified-partial',
       evidence=['Listed as District 1 commissioner in the BCC comments section of 36 BCC agendas, 2018-11-20 through 2020-10-20 (later agendas in this record list Maria G. Marino).',
@@ -49,9 +49,9 @@ COMMISSIONERS = [
  dict(slug='michael-barnett', name='Michael A. Barnett', district=3, start='2023-01-10', start_note='Appointed by the Governor; the Jan 10, 2023 BCC agenda lists an add-on oath of office to a newly appointed county commissioner',
       end='2024-11-19', end_note='Lost the 2024 general election; successor sworn in Nov 19, 2024',
       elections=[e('2024G','Board of County Commissioners, District 3','Lost, 45.37% (30,071 votes)')],
-      status='verified-partial',
+      status='verified',
       evidence=['Listed as District 3 commissioner in the BCC comments section of 36 BCC agendas, 2023-01-24 through 2024-11-05.',
-                'Jan 10, 2023 BCC agenda: "ADD-ON: Oath of Office to Newly Appointed County Commissioner (To be administered by Judge Artau)" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20230110.pdf).', 'Appointment by the Governor: press reports (Palm Beach Post, WPTV, Jan 2023).']),
+                'Jan 10, 2023 BCC agenda: "ADD-ON: Oath of Office to Newly Appointed County Commissioner (To be administered by Judge Artau)" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20230110.pdf).', 'Appointment: County District 3 Biography page (archived 2024-02-28, https://web.archive.org/web/20240228172139/https://discover.pbcgov.org/countycommissioners/district3/Pages/Biography.aspx) says he was appointed by Governor Ron DeSantis on January 5, 2023; Governor\'s press release (https://flgov.com/eog/news/press/2023/governor-ron-desantis-nominates-dave-kerner-executive-director-florida-department).']),
  dict(slug='joel-flores', name='Joel G. Flores', district=3, start='2024-11-19', end=None,
       elections=[e('2024G','Board of County Commissioners, District 3','Won, 54.63% (36,208 votes)')],
       status='verified', evidence=['Listed as District 3 commissioner in the BCC comments section of 38 BCC agendas, 2024-11-19 through 2026-11-17.']),
@@ -122,6 +122,8 @@ MAYORS = [
       evidence=[ag('20241210', 'Nominated by: 12/11/2024 Vice Mayor Baxter'), ag('20250311', 'Mayor Maria G. Marino')]),
  dict(term='2025–26', start='2025-11-18', mayor='Sara Baxter', vice='Marci Woodward', mayor_slug='sara-baxter', vice_slug='marci-woodward', status='verified',
       evidence=[ag('20260106', 'Vice Mayor Marci Woodward'), ag('20260203', 'Mayor Baxter'), ag('20261110', 'SARA BAXTER, Mayor ... MARCI WOODWARD, Vice Mayor')]),
- dict(term='2026–27', start='2026-11-17', mayor='Marci Woodward', vice='Joel G. Flores', mayor_slug='marci-woodward', vice_slug='joel-flores', status='press report — pending official record',
-      evidence=['Palm Beach Post, Nov 17, 2026 (reorganizational meeting coverage: Woodward to serve as mayor, Joel Flores vice mayor). No County agenda after Nov 17, 2026 was available to confirm this.']),
+ dict(term='2026–27', start='2026-11-17', mayor='Marci Woodward', vice='Joel G. Flores', mayor_slug='marci-woodward', vice_slug='joel-flores', status='verified',
+      evidence=['County District 4 page contact block: "Mayor / Marci Woodward" (https://discover.pbc.gov/countycommissioners/district4/Pages/Biography.aspx, retrieved 2026-11-19)',
+                'County District 3 page contact block: "Vice Mayor / Joel G. Flores" (https://discover.pbc.gov/countycommissioners/district3/Pages/Biography.aspx, retrieved 2026-11-19)',
+                'Palm Beach Post, Nov 17, 2026 (reorganizational meeting coverage). No BCC agenda after Nov 17, 2026 was available yet.']),
 ]

@@ -1,0 +1,302 @@
+{
+ "slug": "mary-lou-berger",
+ "name": "Mary Lou Berger",
+ "district": 5,
+ "seat": {
+  "start": null,
+  "start_note": "In office before Nov 2018 (start of this record)",
+  "end": "2020-11-17",
+  "end_note": "Successor sworn in at the Nov 17, 2020 reorganizational meeting"
+ },
+ "took_seat": "Elected (2012; re-elected 2016)",
+ "party": {
+  "code": "DEM",
+  "source": "Palm Beach County Supervisor of Elections — 2016 General Election Official Results",
+  "url": "https://enr.electionsfl.org/PAL/2460/Summary/",
+  "note": "Party as printed on Supervisor of Elections results (race label or candidate suffix)."
+ },
+ "status": "Left office",
+ "left_office": [
+  {
+   "text": "Elected 2012 and re-elected 2016; the County Charter bars a commissioner from the ballot after eight consecutive years. Maria Sachs took the District 5 seat on Nov 17, 2020.",
+   "source": "charter"
+  }
+ ],
+ "after_office": [],
+ "mayor_terms": [],
+ "elections": [
+  {
+   "election": "2016 General Election Official Results",
+   "year": 2016,
+   "kind": "general",
+   "race": "County Commission 5",
+   "result": "won",
+   "candidate_as_listed": "Mary Lou Berger (DEM)",
+   "votes": "65,725",
+   "pct": "64.02%",
+   "total_votes": "102,660",
+   "all_candidates": [
+    {
+     "name": "Taniel Shant (REP)",
+     "pct": "35.98%",
+     "votes": "36,935"
+    },
+    {
+     "name": "Mary Lou Berger (DEM)",
+     "pct": "64.02%",
+     "votes": "65,725"
+    }
+   ],
+   "source": "Palm Beach County Supervisor of Elections — 2016 General Election Official Results",
+   "url": "https://enr.electionsfl.org/PAL/2460/Summary/"
+  }
+ ],
+ "officer_term_ending_nov_2018": null,
+ "bio": [
+  "New York native; moved to Palm Beach County in 1989.",
+  "Worked for the Palm Beach County Clerk of Court (Minutes Department supervisor) from 1989 to 1994, then as senior administrative assistant to County Commissioner Burt Aaronson in District 5 from 1994 to 2012.",
+  "Elected to the District 5 seat in November 2012 and re-elected in November 2016; the page lists past service as County Mayor and Vice Mayor.",
+  "Described District 5 as encompassing West Boynton, Boca and Delray Beach (per the page)."
+ ],
+ "bio_source": {
+  "label": "Mary Lou Berger biography (official County district Biography page, archived 2019-08-09)",
+  "url": "https://web.archive.org/web/20190809144954/http://discover.pbcgov.org/countycommissioners/District5/Pages/Biography.aspx"
+ },
+ "activity": {
+  "window": {
+   "from": "2018-11-01",
+   "to": "2020-11-17"
+  },
+  "meetings_with_agenda": 56,
+  "first_meeting": "2018-11-20",
+  "last_meeting": "2020-11-17",
+  "agendas_listing_in_commissioner_comments": 36,
+  "items_naming": {
+   "sponsored": 14,
+   "nominated": 8,
+   "named": 1
+  },
+  "items_naming_total": 23,
+  "district_tagged_items": 205,
+  "district_tagged_by_section": {
+   "Consent": 184,
+   "Public hearing": 8,
+   "Regular": 13
+  },
+  "district_only_items": 128,
+  "special_presentations_tagged_district": 0,
+  "named_items": {
+   "sponsored": [
+    {
+     "date": "2018-12-04",
+     "number": "2C-1",
+     "title": "Three Wise Men Month",
+     "section": "Special presentation",
+     "link": "../../meetings/2018-12-04/#item-2C-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-04-02",
+     "number": "2C-7",
+     "title": "Water Conservation Month",
+     "section": "Special presentation",
+     "link": "../../meetings/2019-04-02/#item-2C-7",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-04-02",
+     "number": "2C-12",
+     "title": "The Lord's Place SleepOut/SleepIn to End Homelessness Month",
+     "section": "Special presentation",
+     "link": "../../meetings/2019-04-02/#item-2C-12",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-05-07",
+     "number": "2C-12",
+     "title": "National Travel and Tourism Week",
+     "section": "Special presentation",
+     "link": "../../meetings/2019-05-07/#item-2C-12",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-05-07",
+     "number": "2C-14",
+     "title": "Emergency Medical Services Week",
+     "section": "Special presentation",
+     "link": "../../meetings/2019-05-07/#item-2C-14",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-06-04",
+     "number": "2C-3",
+     "title": "Summer Reading Month",
+     "section": "Special presentation",
+     "link": "../../meetings/2019-06-04/#item-2C-3",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-06-04",
+     "number": "2C-5",
+     "title": "Certificate of Appreciation",
+     "section": "Special presentation",
+     "link": "../../meetings/2019-06-04/#item-2C-5",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-09-10",
+     "number": "2C-7",
+     "title": "Goliath Grouper Scuba Diving Awareness Month",
+     "section": "Special presentation",
+     "link": "../../meetings/2019-09-10/#item-2C-7",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-10-08",
+     "number": "2C-8",
+     "title": "ADHD Awareness Month",
+     "section": "Special presentation",
+     "link": "../../meetings/2019-10-08/#item-2C-8",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-10-08",
+     "number": "2C-10",
+     "title": "National 4-H Week",
+     "section": "Special presentation",
+     "link": "../../meetings/2019-10-08/#item-2C-10",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-11-05",
+     "number": "2C-8",
+     "title": "Diabetes Month",
+     "section": "Special presentation",
+     "link": "../../meetings/2019-11-05/#item-2C-8",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-11-05",
+     "number": "2C-10",
+     "title": "World AIDS Day",
+     "section": "Special presentation",
+     "link": "../../meetings/2019-11-05/#item-2C-10",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2020-01-07",
+     "number": "4E",
+     "title": "Super Bowl LIV Celebration Week",
+     "section": "Special presentation",
+     "link": "../../meetings/2020-01-07/#item-4E",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2020-03-10",
+     "number": "4F",
+     "title": "National Vietnam War Veterans Day",
+     "section": "Special presentation",
+     "link": "../../meetings/2020-03-10/#item-4F",
+     "as_title": "Commissioner"
+    }
+   ],
+   "nominated": [
+    {
+     "date": "2019-04-16",
+     "number": "3A-4",
+     "title": "Reappointments to the Florida Atlantic Research & Development Authority",
+     "section": "Consent",
+     "link": "../../meetings/2019-04-16/#item-3A-4",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-06-04",
+     "number": "5A-1",
+     "title": "Appointment to the Planning Commission",
+     "section": "Board appointments",
+     "link": "../../meetings/2019-06-04/#item-5A-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-09-10",
+     "number": "3K-2",
+     "title": "Reappointment to the Water Utilities Department Advisory Board",
+     "section": "Consent",
+     "link": "../../meetings/2019-09-10/#item-3K-2",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-09-10",
+     "number": "3N-3",
+     "title": "Reappointment to the Library Advisory Board",
+     "section": "Consent",
+     "link": "../../meetings/2019-09-10/#item-3N-3",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-12-17",
+     "number": "3EE-1",
+     "title": "Reappointment to the Internal Audit Committee",
+     "section": "Consent",
+     "link": "../../meetings/2019-12-17/#item-3EE-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2020-07-14",
+     "number": "3G-1",
+     "title": "Appointment to the Investment Policy Committee",
+     "section": "Consent",
+     "link": "../../meetings/2020-07-14/#item-3G-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2020-07-14",
+     "number": "3CC-1",
+     "title": "Reappointment to the Fair Housing/Equal Employment Board",
+     "section": "Consent",
+     "link": "../../meetings/2020-07-14/#item-3CC-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2020-09-15",
+     "number": "3E-1",
+     "title": "Appointments to the Citizens Advisory Committee of Health and Human Services",
+     "section": "Consent",
+     "link": "../../meetings/2020-09-15/#item-3E-1",
+     "as_title": "Commissioner"
+    }
+   ],
+   "named": [
+    {
+     "date": "2019-09-10",
+     "number": "3A-4",
+     "title": "Appointment to the Elections Canvassing Board",
+     "section": "Consent",
+     "link": "../../meetings/2019-09-10/#item-3A-4",
+     "as_title": "Commissioner"
+    }
+   ]
+  },
+  "special_presentations": []
+ },
+ "roster_status": "verified-partial",
+ "roster_evidence": [
+  "Listed as District 5 commissioner in the BCC comments section of 36 BCC agendas, 2018-11-20 through 2020-10-20.",
+  "Did not appear in the 2020 District 5 general (SOE); Maria Sachs won the seat."
+ ],
+ "sources_extra": {
+  "charter": {
+   "label": "Palm Beach County Charter, Sec. 2.2 (no reelection on the ballot after eight consecutive years)",
+   "url": "https://discover.pbc.gov/PDF/Publications/Charter.pdf"
+  },
+  "flgov": {
+   "label": "Executive Office of the Governor press release, Jan 2023",
+   "url": "https://flgov.com/eog/news/press/2023/governor-ron-desantis-nominates-dave-kerner-executive-director-florida-department"
+  },
+  "flhsmv": {
+   "label": "FLHSMV news release, Jan 17, 2023",
+   "url": "https://www.flhsmv.gov/2023/01/17/dave-kerner-approved-by-governor-desantis-and-the-cabinet-as-executive-director-of-florida-department-of-highway-safety-and-motor-vehicles/"
+  }
+ },
+ "generated": "2026-11-19"
+}

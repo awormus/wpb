@@ -20,42 +20,84 @@
    "title": "Green Dot Action Month",
    "section": "Special presentation",
    "department": null,
-   "backup": []
+   "backup": [],
+   "named": [
+    {
+     "surname": "Bernard",
+     "title": "Mayor",
+     "context": "sponsored"
+    }
+   ]
   },
   {
    "number": "2C-3",
    "title": "Summer Reading Month",
    "section": "Special presentation",
    "department": null,
-   "backup": []
+   "backup": [],
+   "named": [
+    {
+     "surname": "Berger",
+     "title": "Commissioner",
+     "context": "sponsored"
+    }
+   ]
   },
   {
    "number": "2C-4",
    "title": "Suits for Seniors Month",
    "section": "Special presentation",
    "department": null,
-   "backup": []
+   "backup": [],
+   "named": [
+    {
+     "surname": "Bernard",
+     "title": "Mayor",
+     "context": "sponsored"
+    }
+   ]
   },
   {
    "number": "2C-5",
    "title": "Certificate of Appreciation",
    "section": "Special presentation",
    "department": null,
-   "backup": []
+   "backup": [],
+   "named": [
+    {
+     "surname": "Berger",
+     "title": "Commissioner",
+     "context": "sponsored"
+    }
+   ]
   },
   {
    "number": "2C-6",
    "title": "104th Anniversary of the 1915 Armenian Genocide",
    "section": "Special presentation",
    "department": null,
-   "backup": []
+   "backup": [],
+   "named": [
+    {
+     "surname": "Weinroth",
+     "title": "Commissioner",
+     "context": "sponsored"
+    }
+   ]
   },
   {
    "number": "2C-7",
    "title": "National HIV Testing Day",
    "section": "Special presentation",
    "department": null,
-   "backup": []
+   "backup": [],
+   "named": [
+    {
+     "surname": "McKinlay",
+     "title": "Commissioner",
+     "context": "sponsored"
+    }
+   ]
   },
   {
    "number": "2D-1",
@@ -64,6 +106,9 @@
    "department": null,
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/2D1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -73,6 +118,9 @@
    "department": "Administration",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3A1.pdf"
+   ],
+   "districts": [
+    "2"
    ]
   },
   {
@@ -82,6 +130,9 @@
    "department": "Administration",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3A2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -107,6 +158,9 @@
    "department": "Clerk & Comptroller",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3B3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -116,6 +170,9 @@
    "department": "Clerk & Comptroller",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3B4.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -125,6 +182,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3C1.pdf"
+   ],
+   "districts": [
+    "6"
    ]
   },
   {
@@ -134,6 +194,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3C2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -143,6 +206,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3C3.pdf"
+   ],
+   "districts": [
+    "1"
    ]
   },
   {
@@ -152,6 +218,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3C4.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -161,6 +230,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3C5.pdf"
+   ],
+   "districts": [
+    "2"
    ]
   },
   {
@@ -170,6 +242,10 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3C6.pdf"
+   ],
+   "districts": [
+    "3",
+    "5"
    ]
   },
   {
@@ -179,6 +255,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3C7.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -188,6 +267,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3C8.pdf"
+   ],
+   "districts": [
+    "5"
    ]
   },
   {
@@ -197,6 +279,9 @@
    "department": "Community Services",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3E1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -206,6 +291,12 @@
    "department": "Community Services",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3E2.pdf"
+   ],
+   "districts": [
+    "3",
+    "4",
+    "5",
+    "Countywide"
    ]
   },
   {
@@ -215,6 +306,9 @@
    "department": "Office Of Financial Management & Budget",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3G1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -224,6 +318,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3H1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -233,6 +330,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3H2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -242,6 +342,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3H3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -251,6 +354,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3H4.pdf"
+   ],
+   "districts": [
+    "7"
    ]
   },
   {
@@ -260,6 +366,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3H5.pdf"
+   ],
+   "districts": [
+    "5"
    ]
   },
   {
@@ -269,6 +378,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3H6.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -278,6 +390,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3H7.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -287,6 +402,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3H8.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -296,6 +414,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3H9.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -305,6 +426,10 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3H10.pdf"
+   ],
+   "districts": [
+    "2",
+    "6"
    ]
   },
   {
@@ -314,6 +439,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3H11.pdf"
+   ],
+   "districts": [
+    "5"
    ]
   },
   {
@@ -323,6 +451,10 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3H12.pdf"
+   ],
+   "districts": [
+    "7",
+    "Countywide"
    ]
   },
   {
@@ -332,6 +464,11 @@
    "department": "Housing And Economic Sustainability",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3I1.pdf"
+   ],
+   "districts": [
+    "2",
+    "6",
+    "7"
    ]
   },
   {
@@ -341,6 +478,9 @@
    "department": "Housing And Economic Sustainability",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3I2.pdf"
+   ],
+   "districts": [
+    "4"
    ]
   },
   {
@@ -350,6 +490,9 @@
    "department": "Housing And Economic Sustainability",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3I3.pdf"
+   ],
+   "districts": [
+    "3"
    ]
   },
   {
@@ -359,6 +502,13 @@
    "department": "Planning, Zoning & Building",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3J1.pdf"
+   ],
+   "named": [
+    {
+     "surname": "Weinroth",
+     "title": "Commissioner",
+     "context": "nominated"
+    }
    ]
   },
   {
@@ -368,6 +518,9 @@
    "department": "Planning, Zoning & Building",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3J2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -377,6 +530,33 @@
    "department": "Planning, Zoning & Building",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3J3.pdf"
+   ],
+   "named": [
+    {
+     "surname": "Weiss",
+     "title": "Commissioner",
+     "context": "nominated"
+    },
+    {
+     "surname": "Valeche",
+     "title": "Commissioner",
+     "context": "nominated"
+    },
+    {
+     "surname": "Kerner",
+     "title": "Vice Mayor",
+     "context": "nominated"
+    },
+    {
+     "surname": "Weinroth",
+     "title": "Commissioner",
+     "context": "nominated"
+    },
+    {
+     "surname": "McKinlay",
+     "title": "Commissioner",
+     "context": "nominated"
+    }
    ]
   },
   {
@@ -386,6 +566,9 @@
    "department": "Environmental Resources Management",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3L1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -395,6 +578,9 @@
    "department": "Environmental Resources Management",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3L2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -404,6 +590,10 @@
    "department": "Environmental Resources Management",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3L3.pdf"
+   ],
+   "districts": [
+    "1",
+    "4"
    ]
   },
   {
@@ -413,6 +603,9 @@
    "department": "Environmental Resources Management",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3L4.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -422,6 +615,10 @@
    "department": "Parks & Recreation",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3M1.pdf"
+   ],
+   "districts": [
+    "1",
+    "5"
    ]
   },
   {
@@ -431,6 +628,9 @@
    "department": "Parks & Recreation",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3M2.pdf"
+   ],
+   "districts": [
+    "1"
    ]
   },
   {
@@ -440,6 +640,9 @@
    "department": "Parks & Recreation",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3M3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -449,6 +652,9 @@
    "department": "Parks & Recreation",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3M4.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -458,6 +664,9 @@
    "department": "Criminal Justice Commission",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3Q1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -467,6 +676,9 @@
    "department": "Information Systems Services",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3U1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -476,6 +688,9 @@
    "department": "Information Systems Services",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3U2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -485,6 +700,9 @@
    "department": "Information Systems Services",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3U3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -494,6 +712,9 @@
    "department": "Public Safety",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3X1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -503,6 +724,9 @@
    "department": "Youth Services",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3BB1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -512,6 +736,9 @@
    "department": "Sheriff",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3CC1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -521,6 +748,9 @@
    "department": "Sheriff",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3CC2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -530,6 +760,9 @@
    "department": "Sheriff",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3CC3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -539,6 +772,9 @@
    "department": "Medical Examiner",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3DD1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -548,6 +784,36 @@
    "department": "Office Of Equal Business Opportunity",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3EE1.pdf"
+   ],
+   "districts": [
+    "Countywide"
+   ],
+   "named": [
+    {
+     "surname": "Valeche",
+     "title": "Commissioner",
+     "context": "nominated"
+    },
+    {
+     "surname": "Weinroth",
+     "title": "Commissioner",
+     "context": "nominated"
+    },
+    {
+     "surname": "Bernard",
+     "title": "Mayor",
+     "context": "nominated"
+    },
+    {
+     "surname": "Weiss",
+     "title": "Commissioner",
+     "context": "nominated"
+    },
+    {
+     "surname": "McKinlay",
+     "title": "Commissioner",
+     "context": "nominated"
+    }
    ]
   },
   {
@@ -557,6 +823,9 @@
    "department": "Tourist Development Council",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/3FF1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -566,6 +835,9 @@
    "department": "County Attorney",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/4A1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -575,6 +847,9 @@
    "department": "Facilities Development And Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/4B1.pdf"
+   ],
+   "districts": [
+    "1"
    ]
   },
   {
@@ -584,6 +859,9 @@
    "department": "Facilities Development And Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/4B2.pdf"
+   ],
+   "districts": [
+    "2"
    ]
   },
   {
@@ -593,6 +871,9 @@
    "department": "Facilities Development And Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/4B3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -602,6 +883,9 @@
    "department": "Housing And Economic Sustainability",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/4C1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -611,6 +895,9 @@
    "department": "Housing And Economic Sustainability",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/4C2.pdf"
+   ],
+   "districts": [
+    "6"
    ]
   },
   {
@@ -620,6 +907,9 @@
    "department": "Housing And Economic Sustainability",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/4C3.pdf"
+   ],
+   "districts": [
+    "3"
    ]
   },
   {
@@ -629,6 +919,9 @@
    "department": "Housing And Economic Sustainability",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/4C4.pdf"
+   ],
+   "districts": [
+    "4"
    ]
   },
   {
@@ -638,6 +931,9 @@
    "department": "Housing And Economic Sustainability",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/4C5.pdf"
+   ],
+   "districts": [
+    "4"
    ]
   },
   {
@@ -647,6 +943,9 @@
    "department": "Housing And Economic Sustainability",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/4C6.pdf"
+   ],
+   "districts": [
+    "7"
    ]
   },
   {
@@ -656,6 +955,9 @@
    "department": "Planning, Zoning & Building",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/4D1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -665,6 +967,9 @@
    "department": "Administration",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/4E1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -674,6 +979,9 @@
    "department": "Administration",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190604/4E2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -681,8 +989,31 @@
    "title": "Appointment to the Planning Commission",
    "section": "Board appointments",
    "department": null,
-   "backup": []
+   "backup": [],
+   "named": [
+    {
+     "surname": "Weiss",
+     "title": "Commissioner",
+     "context": "nominated"
+    },
+    {
+     "surname": "Berger",
+     "title": "Commissioner",
+     "context": "nominated"
+    },
+    {
+     "surname": "McKinlay",
+     "title": "Commissioner",
+     "context": "nominated"
+    },
+    {
+     "surname": "Weinroth",
+     "title": "Commissioner",
+     "context": "nominated"
+    }
+   ]
   }
  ],
- "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas.",
+ "item_details_note": "districts and named come from the item text in the agenda body (district tag at the end of each item; commissioners named with their title). Automated extraction; see the agenda PDF."
 }

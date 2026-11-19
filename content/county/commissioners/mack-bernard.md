@@ -1,0 +1,158 @@
+# Mack Bernard — District 7
+
+_Generated 2026-11-19 from official sources; see links. Votes are not included (Clerk final minutes, by request: https://www.mypalmbeachclerk.com/records/minutes)._
+
+## Basics
+- Seat: before 2018-11 – 2024-11-19
+- Took seat: Elected (2016; re-elected 2020)
+- Party (SOE): DEM — https://enr.electionsfl.org/PAL/2801/Summary/
+- Status: Left office
+  - Elected 2016 and re-elected 2020; the County Charter bars a commissioner from the ballot after eight consecutive years. Bobby Powell Jr. took the District 7 seat on Nov 19, 2024. [charter]
+- Mayor 2018–19 (verified)
+
+## Background
+- Elected to the District 7 seat in November 2016.
+- Served as a Delray Beach City Commissioner and Deputy Vice-Mayor (2008) and was elected to the Florida House of Representatives in 2009.
+- Real estate and tax attorney; graduate of Florida State University (political science and criminal justice) and the University of Florida Levin College of Law; product of Palm Beach County public schools.
+- Source: Mack Bernard biography (official County district Biography page, archived 2023-12-05) — https://web.archive.org/web/20231205022330/https://discover.pbc.gov/countycommissioners/district7/Pages/Biography.aspx
+
+## Elections
+- 2016 Primary Election Official Results — DEM - County Commission 7: won primary, 7,430 votes (41.95%). Candidates: Mack Bernard 7,430 (41.95%); Lawrence Gordon 2,422 (13.68%); Robbie T. Littles 949 (5.36%); Priscilla Ann Taylor 6,909 (39.01%) — https://enr.electionsfl.org/PAL/2461/Summary/
+- 2020 General Election Official Results — Board of County Commissioners, District 7: won, 66,614 votes (83.21%). Candidates: Mack Bernard (DEM) 66,614 (83.21%); Leonard L. Serratore (NPA) 10,184 (12.72%); Caneste Succe (NPA) 2,956 (3.69%); WRITE-IN (NON) 301 (0.38%) — https://enr.electionsfl.org/PAL/2801/Summary/
+
+## On the agendas
+- Meetings during tenure: 171
+- Commissioner Comments roster listings: 114
+- Items naming them: 127 {'nominated': 93, 'sponsored': 26, 'named': 8}
+- District-tagged items: 689 (only this district: 427)
+- Special presentations tagged their district: 46
+### nominated (93)
+- 2024-10-22 3J-1: Reappointment of two members to the Historic Resources Review Board.
+- 2024-09-17 3E-10: Reappointment of two (2) members to the Advisory Committee on Behavioral Health Substance Use and Co-Occurring Disorders.
+- 2024-09-17 3E-11: Appointment of new (1) new member to the Citizens Advisory Committee on Health and Human Services.
+- 2024-09-17 3X-3: Reappointment of one (1) member and appointment of one (1) new member to the Consumer Affairs Hearing Board.
+- 2024-09-17 3HH-1: Reappointment of one (1) member to the Westgate/Belvedere CRA.
+- 2024-09-10 3L-1: Reappointments of 3 members, and appointment of one new member to the Natural Areas Management Advisory Committee.
+- 2024-08-20 3J-1: Reappointment of one (1) member to the Historic Resources Review Board.
+- 2024-07-02 3I-6: Reappointment of five nominees and appointment of two nominees to the Commission on Affordable Housing.
+- 2024-07-02 7A-1: Commission on Affordable Housing
+- 2024-05-14 3X-1: Appointment of two (2) seats to the Consumer Affairs Hearing Board.
+- 2024-03-12 6A-1: Appointment of two (2) members to the Zoning Commission.
+- 2024-02-06 3AA-1: Board reappointments for two members to the Palm Tran Service Board.
+- 2024-01-23 3E-6: Appointments of four (4) members to the Veteran Services Advisory Board.
+- 2024-01-23 3J-1: Appointment of three (3) new members to the Construction Industry Licensing Board.
+- 2024-01-23 7A-1: Appointment of one member to the Health Care District of Palm Beach County Board of Commissioners Board to complete an unexpired term.
+- 2023-12-19 3L-1: Board appointment to the Natural Areas Management Advisory Committee.
+- 2023-11-21 3EE-2: Appointment of one (1) member to the Fair Housing/Equal Employment Board.
+- 2023-10-03 3L-1: Appointment of two members to the Natural Areas Management Advisory Committee.
+- 2023-09-19 3A-1: Reappointment of one member to the Health Care District Advisory Board.
+- 2023-09-19 3X-2: Reappointment of two members to the Consumer Affairs Hearing Board.
+- 2023-09-12 3E-1: Reappointment of one Board Member to the Citizens Advisory Committee on Health and Human Services.
+- 2023-08-22 3DD-1: Approve the appointment and reappointment of members to the Equal Business Opportunity Advisory Committee.
+- 2023-08-22 3FF-2: Approve the appointment of two members to the Westgate/CRA Board.
+- 2023-03-14 3DD-1: Appointment of one At-Large member to the Fair Housing/Equal Employment Board.
+- 2023-01-10 3E-2: Appointments to the Citizens Advisory Committee on Health and Human Services
+- 2022-11-15 3J-1: Appointments to the Construction Industry Licensing Board
+- 2022-10-04 3EE-1: Appointments to the Equal Business Opportunity Advisory Committee
+- 2022-09-13 3E-2: Reappointments to the Citizens Advisory Committee on Health and Human Services
+- 2022-09-13 3J-1: Reappointments to the Historic Resources Review Board
+- 2022-09-13 3X-6: Reappointment to the Consumer Affairs Hearing Board
+- 2022-09-13 3AA-1: Reappointments to the Palm Tran Service Board
+- 2022-07-12 3A-1: Appointment to the Health Facilities Authority
+- 2022-07-12 3EE-1: Appointments to the Equal Business Opportunity Advisory Committee
+- 2022-04-12 3L-2: Appointment to the Natural Areas Management Advisory Committee
+- 2022-03-08 3E-1: Appointments to the Farmworker Program Advisory Board
+- 2022-03-08 3L-1: Appointments to the Groundwater and Natural Resources Protection Board
+- 2022-02-08 3I-3: Appointments to the Treasure Coast Regional Planning Council Comprehensive Economic Development Strategy Committee
+- 2022-01-04 7B-1: Appointment to the Advisory Commission on Women
+- 2021-12-07 3E-4: Appointments to the Community Action Advisory Board
+- 2021-12-07 3G-2: Appointment to the Contract Review Committee
+- 2021-12-07 3J-1: Appointment to the Historic Resources Review Board
+- 2021-12-07 3X-11: Appointment to the Consumer Affairs Hearing Board
+- 2021-11-02 3J-1: Appointments to the Construction Industry Licensing Board
+- 2021-10-19 3DD-1: Appointments to the Internal Audit Committee
+- 2021-10-05 3J-1: Reappointments to the Historic Resources Review Board
+- 2021-10-05 3L-1: Reappointment to the Natural Areas Management Advisory Committee
+- 2021-10-05 3CC-1: Reappointments to the Equal Business Opportunity Advisory Committee
+- 2021-09-14 3AA-3: Reappointments to the Palm Tran Service Board
+- 2021-08-17 3X-1: Reappointments to the Consumer Affairs Hearing Board
+- 2021-08-17 3FF-2: Appointments to the Westgate/Belvedere Homes Community Redevelopment Agency
+- 2021-07-13 3J-1: Appointments to the Historic Resources Review Board
+- 2021-06-15 6A-1: Appointments to the Commission on Affordable Housing
+- 2021-06-08 3L-4: Appointments to the Natural Areas Management Advisory Committee
+- 2021-05-18 3G-4: Appointments to the Impact Fee Review Committee
+- 2021-04-06 3J-1: Appointments to the Construction Industry Licensing Board
+- 2021-04-06 3L-2: Appointment to the Groundwater and Natural Resources Protection Board
+- 2020-12-08 3J-1: Appointments to the Construction Industry Licensing Board
+- 2020-10-20 3K-5: Reappointment to the Water Utilities Department Advisory Board
+- 2020-10-20 3DD-1: Appointment to the Westgate CRA Board
+- 2020-10-06 3DD-1: Appointments to the Internal Audit Committee
+- 2020-09-15 3A-1: Appointment to the Florida Atlantic Research & Development Authority
+- 2020-09-15 3E-1: Appointments to the Citizens Advisory Committee of Health and Human Services
+- 2020-09-15 3AA-1: Reappointments to the Palm Tran Service Board
+- 2020-09-01 3X-2: Reappointments to the Consumer Affairs Hearing Board
+- 2020-09-01 3CC-1: Appointment to the Advisory Commission on Women
+- 2020-09-01 3DD-1: Reappointment to the Equal Business Opportunity Advisory Committee
+- 2020-08-25 3S-3: Appointment to the Fire Code Board of Appeals and Adjustments
+- 2020-07-14 3G-1: Appointment to the Investment Policy Committee
+- 2020-07-14 3CC-1: Reappointment to the Fair Housing/Equal Employment Board
+- 2020-04-07 3E-2: Appointment to the Farmworker Program Advisory Board
+- 2020-01-07 7A-1: Reappointments to the Environmental Control Hearing Board
+- 2019-12-17 3I-3: Appointments to the Treasure Coast Regional Planning Council's Comprehensive Economic Development Strategy Committee
+- 2019-12-17 3EE-1: Reappointment to the Internal Audit Committee
+- 2019-11-05 3G-3: Reappointments to the Investment Policy Committee
+- 2019-10-22 6A-1: Appointments to the Commission on Affordable Housing
+- 2019-10-08 3E-1: Appointments to the Farmworker Program Advisory Board
+- 2019-10-08 3E-3: Appointments to the Citizens Advisory Committee on Health and Human Services
+- 2019-09-10 3AA-5: Appointments to the Palm Tran Service Board
+- 2019-08-20 3A-1: Appointments to the Health Council of Southeast Florida, Inc.
+- 2019-08-20 3E-10: Appointment to the Citizens Advisory Committee on Health and Human Services
+- 2019-08-20 3FF-1: Reappointments to the Equal Business Opportunity Advisory Committee
+- 2019-07-02 3DD-2: Appointments to the Westgate CRA Board
+- 2019-06-04 3EE-1: Reappointments to the Equal Business Opportunity Advisory Committee
+- 2019-03-12 3A-1: Reappointments to the Health Facilities Authority
+- 2019-03-12 3L-4: Appointments to the Groundwater and Natural Resources Protection Board
+- 2019-01-15 3A-2: Appointment to the Health Council of Southeast Florida, Inc.
+- 2019-01-15 3E-2: Appointment to the Community Action Advisory Board
+- 2019-01-15 3K-7: Reappointment to the Water Utilities Advisory Board
+- 2019-01-15 6A-1: Reappointment and appointment to the Health Facilities Authority
+- 2018-12-18 3A-2: Appointment to the Small Business Assistance Advisory Committee
+- 2018-12-18 3I-4: Appointment/reappointments to the Treasure Coast Regional Planning Council's Comprehensive Economic Development Strategy (CEDS) Committee
+- 2018-11-20 3F-14: Reappointments to the Aviation and Airports Advisory Board
+- 2018-11-20 3J-2: Reappointments to the Historic Resources Review Board
+### sponsored (26)
+- 2020-02-04 4F: Black History Month
+- 2020-01-07 4A: 100th Anniversary of Zeta Phi Beta Sorority, Inc.
+- 2020-01-07 4C: Martin Luther King Jr. Day of Service
+- 2019-11-05 2C-2: National Hunger and Homelessness Awareness Week
+- 2019-11-05 2C-4: Joey Bergsma Retinoblastoma Awareness Month
+- 2019-11-05 2C-6: Prime Time Palm Beach County, Inc.
+- 2019-10-08 2C-6: Mediation Week
+- 2019-10-08 2C-9: Poverty Awareness Month
+- 2019-10-08 2C-11: Certificate in Memoriam for Sean Chavis
+- 2019-10-08 2C-12: 108th National Day of the Republic of China (Taiwan)
+- 2019-09-10 2C-6: Diaper Need Awareness Week
+- 2019-09-10 2C-8: Palm Beach Partners Business Matchmaker Conference and Expo Day
+- 2019-08-20 2C-1: Breastfeeding Month
+- 2019-08-20 2C-3: LIHEAP Awareness Month
+- 2019-07-02 2C-1: Park and Recreation Month
+- 2019-06-04 2C-2: Green Dot Action Month
+- 2019-06-04 2C-4: Suits for Seniors Month
+- 2019-05-07 2C-6: Certification of Appreciation by Office of Equal Opportunity
+- 2019-05-07 2C-8: Seneca L. Wilson Month
+- 2019-05-07 2C-16: ADD-ON: Haitian Heritage Month
+- 2019-04-02 2C-6: Palm Beach County Sheriff's Office Volunteer Day
+- 2019-04-02 2C-9: Second Chance Month
+- 2019-02-05 2C-1: Black History Month
+- 2019-01-15 2C-1: Mentoring Awareness Month
+- 2019-01-15 2C-3: Susan G. Komen Race for the Cure Day
+- 2019-01-15 2C-6: Recognizing Volunteers Who Helped Pass Florida Amendment 4
+### named (8)
+- 2023-12-19 3A-1: Board appointments for the Treasure Coast Regional Planning Council.
+- 2022-12-20 3A-1: Appointments to the Treasure Coast Regional Planning Council
+- 2021-12-07 3A-2: Board of County Commissioners appointments to the Treasure Coast Regional Planning Council
+- 2021-02-09 7A-1: Appointments to the Commission on Affordable Housing
+- 2021-01-12 3J-2: Appointments to the Land Development Regulation Advisory Board
+- 2020-12-08 6A-2: Commissioner appointments to the Treasure Coast Regional Planning Council
+- 2019-10-08 3X-9: Ratify the Mayor's signature on the Volunteer & Employee Criminal History System Application for Qualified Entities
+- 2019-09-10 3L-1: Ratify the Mayor's signature on Cooperation Agreements with the United States of American Department of the Army for beach renourishment projects during the passage of Hurricane Irma

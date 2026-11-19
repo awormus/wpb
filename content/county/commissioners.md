@@ -4,12 +4,12 @@ Generated 2026-11-19 from `ops/county/roster_data.py`. Status: **verified** = se
 
 | District | Commissioner | Seat start | Seat end | Status |
 |---|---|---|---|---|
-| 1 | Hal R. Valeche | In office before Nov 2018 (start of this record) | November 17, 2020 | verified-partial |
+| 1 | Hal R. Valeche | In office before Nov 2018 (start of this record); first elected 2012, re-elected 2016 (County biography; 2016 SOE results) | November 17, 2020 | verified-partial |
 | 1 | Maria G. Marino | November 17, 2020 | in office | verified |
 | 2 | Gregg K. Weiss | November 20, 2018 | November 17, 2026 | verified |
 | 2 | Erica Whitfield | November 17, 2026 | in office | verified |
 | 3 | Dave Kerner | In office before Nov 2018 (start of this record); re-elected 2020 | January 2023 | verified-partial |
-| 3 | Michael A. Barnett | January 10, 2023 | November 19, 2024 | verified-partial |
+| 3 | Michael A. Barnett | January 10, 2023 | November 19, 2024 | verified |
 | 3 | Joel G. Flores | November 19, 2024 | in office | verified |
 | 4 | Robert S. Weinroth | November 20, 2018 | November 22, 2022 | verified |
 | 4 | Marci Woodward | November 22, 2022 | in office | verified |
@@ -33,6 +33,6 @@ Generated 2026-11-19 from `ops/county/roster_data.py`. Status: **verified** = se
 | 2023–24 | Maria Sachs | Maria G. Marino | verified | BCC agenda 2023-12-19: "Mayor Maria Sachs" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20231219.pdf); BCC agenda 2023-12-19: "Vice Mayor Maria G. Marino" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20231219.pdf) |
 | 2024–25 | Maria G. Marino | Sara Baxter | verified | BCC agenda 2024-12-10: "Nominated by: 12/11/2024 Vice Mayor Baxter" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20241210.pdf); BCC agenda 2025-03-11: "Mayor Maria G. Marino" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20250311.pdf) |
 | 2025–26 | Sara Baxter | Marci Woodward | verified | BCC agenda 2026-01-06: "Vice Mayor Marci Woodward" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20260106.pdf); BCC agenda 2026-02-03: "Mayor Baxter" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20260203.pdf); BCC agenda 2026-11-10: "SARA BAXTER, Mayor ... MARCI WOODWARD, Vice Mayor" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20261110.pdf) |
-| 2026–27 | Marci Woodward | Joel G. Flores | press report — pending official record | Palm Beach Post, Nov 17, 2026 (reorganizational meeting coverage: Woodward to serve as mayor, Joel Flores vice mayor). No County agenda after Nov 17, 2026 was available to confirm this. |
+| 2026–27 | Marci Woodward | Joel G. Flores | verified | County District 4 page contact block: "Mayor / Marci Woodward" (https://discover.pbc.gov/countycommissioners/district4/Pages/Biography.aspx, retrieved 2026-11-19); County District 3 page contact block: "Vice Mayor / Joel G. Flores" (https://discover.pbc.gov/countycommissioners/district3/Pages/Biography.aspx, retrieved 2026-11-19); Palm Beach Post, Nov 17, 2026 (reorganizational meeting coverage). No BCC agenda after Nov 17, 2026 was available yet. |
 
 Election results: Palm Beach County Supervisor of Elections (https://www.votepalmbeach.gov/224/Election-Results).

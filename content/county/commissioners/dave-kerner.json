@@ -1,0 +1,968 @@
+{
+ "slug": "dave-kerner",
+ "name": "Dave Kerner",
+ "district": 3,
+ "seat": {
+  "start": null,
+  "start_note": "In office before Nov 2018 (start of this record); re-elected 2020",
+  "end": "2023-01",
+  "end_note": "Left for a state appointment in January 2023 (exact last day not confirmed from an official County record)"
+ },
+ "took_seat": "Elected (2016; re-elected 2020)",
+ "party": {
+  "code": "DEM",
+  "source": "Palm Beach County Supervisor of Elections — 2020 General Election Official Results",
+  "url": "https://enr.electionsfl.org/PAL/2801/Summary/",
+  "note": "Party as printed on Supervisor of Elections results (race label or candidate suffix)."
+ },
+ "status": "Left office",
+ "left_office": [
+  {
+   "text": "Left the Commission in January 2023 when the Governor named him to lead a state agency; the Governor appointed Michael A. Barnett to the vacancy.",
+   "source": "flgov"
+  }
+ ],
+ "after_office": [
+  {
+   "text": "Named Interim Executive Director of the Florida Department of Highway Safety and Motor Vehicles on Jan 6, 2023; approved by the Governor and Cabinet as Executive Director on Jan 17, 2023.",
+   "source": "flhsmv"
+  }
+ ],
+ "mayor_terms": [
+  {
+   "term": "2018–19",
+   "role": "Vice Mayor",
+   "status": "verified",
+   "evidence": [
+    "BCC agenda 2018-12-04: \"COMMISSIONER MACK BERNARD, MAYOR\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20181204.pdf)",
+    "BCC agenda 2018-12-04: \"COMMISSIONER DAVE KERNER, VICE MAYOR\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20181204.pdf)"
+   ]
+  },
+  {
+   "term": "2019–20",
+   "role": "Mayor",
+   "status": "verified",
+   "evidence": [
+    "BCC agenda 2019-12-03: \"(Sponsored by Vice Mayor Weinroth)\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20191203.pdf)",
+    "BCC agenda 2020-01-07: \"(Sponsored by Mayor Kerner)\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20200107.pdf)",
+    "BCC agenda 2020-09-01: \"Mayor Kerner Vice Mayor Weinroth\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20200901.pdf)"
+   ]
+  },
+  {
+   "term": "2020–21",
+   "role": "Mayor",
+   "status": "verified",
+   "evidence": [
+    "BCC agenda 2020-12-08: \"Nominated By Mayor Kerner ... Vice-Mayor Weinroth\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20201208.pdf)",
+    "BCC agenda 2021-04-06: \"Nominated by Mayor Kerner Vice Mayor Weinroth\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20210406.pdf)"
+   ]
+  }
+ ],
+ "elections": [
+  {
+   "election": "2016 Primary Election Official Results",
+   "year": 2016,
+   "kind": "primary",
+   "race": "DEM - County Commission 3",
+   "result": "won primary",
+   "candidate_as_listed": "Dave Kerner",
+   "votes": "7,018",
+   "pct": "68.93%",
+   "total_votes": "10,181",
+   "all_candidates": [
+    {
+     "name": "Dave Kerner",
+     "pct": "68.93%",
+     "votes": "7,018"
+    },
+    {
+     "name": "Drew A. Martin",
+     "pct": "31.07%",
+     "votes": "3,163"
+    }
+   ],
+   "source": "Palm Beach County Supervisor of Elections — 2016 Primary Election Official Results",
+   "url": "https://enr.electionsfl.org/PAL/2461/Summary/"
+  },
+  {
+   "election": "2016 General Election Official Results",
+   "year": 2016,
+   "kind": "general",
+   "race": "County Commission 3",
+   "result": "won",
+   "candidate_as_listed": "Dave Kerner (DEM)",
+   "votes": "49,714",
+   "pct": "69.79%",
+   "total_votes": "71,229",
+   "all_candidates": [
+    {
+     "name": "Dave Kerner (DEM)",
+     "pct": "69.79%",
+     "votes": "49,714"
+    },
+    {
+     "name": "Sean C. Hogan (NPA)",
+     "pct": "30.21%",
+     "votes": "21,515"
+    }
+   ],
+   "source": "Palm Beach County Supervisor of Elections — 2016 General Election Official Results",
+   "url": "https://enr.electionsfl.org/PAL/2460/Summary/"
+  },
+  {
+   "election": "2020 General Election Official Results",
+   "year": 2020,
+   "kind": "general",
+   "race": "Board of County Commissioners, District 3",
+   "result": "won",
+   "candidate_as_listed": "Dave Kerner (DEM)",
+   "votes": "56,723",
+   "pct": "60.24%",
+   "total_votes": "94,163",
+   "all_candidates": [
+    {
+     "name": "Jonathan Maurice Maples (REP)",
+     "pct": "39.61%",
+     "votes": "37,299"
+    },
+    {
+     "name": "Dave Kerner (DEM)",
+     "pct": "60.24%",
+     "votes": "56,723"
+    },
+    {
+     "name": "WRITE-IN (NON)",
+     "pct": "0.15%",
+     "votes": "141"
+    }
+   ],
+   "source": "Palm Beach County Supervisor of Elections — 2020 General Election Official Results",
+   "url": "https://enr.electionsfl.org/PAL/2801/Summary/"
+  }
+ ],
+ "officer_term_ending_nov_2018": null,
+ "bio": [
+  "Elected to the Board of County Commissioners in November 2016; a Palm Beach County native raised in unincorporated District 3.",
+  "Before the Commission, served two terms in the Florida House of Representatives (ranking member of the Judiciary Committee); earlier a police officer and special prosecutor in Palm Beach County.",
+  "University of Florida graduate (B.A., 2006; J.D., 2010); civil trial attorney since 2010 (per the page)."
+ ],
+ "bio_source": {
+  "label": "Dave Kerner biography (official County district Biography page, archived 2021-01-23)",
+  "url": "https://web.archive.org/web/20210123022344/https://discover.pbcgov.org/countycommissioners/district3/Pages/Biography.aspx"
+ },
+ "activity": {
+  "window": {
+   "from": "2018-11-01",
+   "to": "2023-01-10"
+  },
+  "meetings_with_agenda": 116,
+  "first_meeting": "2018-11-20",
+  "last_meeting": "2023-01-10",
+  "agendas_listing_in_commissioner_comments": 79,
+  "items_naming": {
+   "nominated": 71,
+   "sponsored": 10,
+   "named": 8
+  },
+  "items_naming_total": 89,
+  "district_tagged_items": 322,
+  "district_tagged_by_section": {
+   "Consent": 293,
+   "Regular": 28,
+   "Public hearing": 1
+  },
+  "district_only_items": 169,
+  "special_presentations_tagged_district": 7,
+  "named_items": {
+   "nominated": [
+    {
+     "date": "2018-11-20",
+     "number": "3F-14",
+     "title": "Reappointments to the Aviation and Airports Advisory Board",
+     "section": "Consent",
+     "link": "../../meetings/2018-11-20/#item-3F-14",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2018-11-20",
+     "number": "3J-2",
+     "title": "Reappointments to the Historic Resources Review Board",
+     "section": "Consent",
+     "link": "../../meetings/2018-11-20/#item-3J-2",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2018-12-18",
+     "number": "3A-2",
+     "title": "Appointment to the Small Business Assistance Advisory Committee",
+     "section": "Consent",
+     "link": "../../meetings/2018-12-18/#item-3A-2",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2018-12-18",
+     "number": "3I-4",
+     "title": "Appointment/reappointments to the Treasure Coast Regional Planning Council's Comprehensive Economic Development Strategy (CEDS) Committee",
+     "section": "Consent",
+     "link": "../../meetings/2018-12-18/#item-3I-4",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2018-12-18",
+     "number": "3J-1",
+     "title": "Appointment to the Construction Board of Adjustment and Appeals",
+     "section": "Consent",
+     "link": "../../meetings/2018-12-18/#item-3J-1",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2019-01-15",
+     "number": "3A-2",
+     "title": "Appointment to the Health Council of Southeast Florida, Inc.",
+     "section": "Consent",
+     "link": "../../meetings/2019-01-15/#item-3A-2",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2019-01-15",
+     "number": "3E-2",
+     "title": "Appointment to the Community Action Advisory Board",
+     "section": "Consent",
+     "link": "../../meetings/2019-01-15/#item-3E-2",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2019-01-15",
+     "number": "3G-2",
+     "title": "Appointment to the Contract Review Committee",
+     "section": "Consent",
+     "link": "../../meetings/2019-01-15/#item-3G-2",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2019-01-15",
+     "number": "3K-7",
+     "title": "Reappointment to the Water Utilities Advisory Board",
+     "section": "Consent",
+     "link": "../../meetings/2019-01-15/#item-3K-7",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2019-01-15",
+     "number": "6A-1",
+     "title": "Reappointment and appointment to the Health Facilities Authority",
+     "section": "Board appointments",
+     "link": "../../meetings/2019-01-15/#item-6A-1",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2019-03-12",
+     "number": "3S-1",
+     "title": "Appointment to the Fire Code Board of Appeals and Adjustments",
+     "section": "Consent",
+     "link": "../../meetings/2019-03-12/#item-3S-1",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2019-06-04",
+     "number": "3J-3",
+     "title": "Reappointments and appointment to the Historic Resources Review Board",
+     "section": "Consent",
+     "link": "../../meetings/2019-06-04/#item-3J-3",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2019-08-20",
+     "number": "3FF-1",
+     "title": "Reappointments to the Equal Business Opportunity Advisory Committee",
+     "section": "Consent",
+     "link": "../../meetings/2019-08-20/#item-3FF-1",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2019-09-10",
+     "number": "3N-3",
+     "title": "Reappointment to the Library Advisory Board",
+     "section": "Consent",
+     "link": "../../meetings/2019-09-10/#item-3N-3",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-09-10",
+     "number": "3AA-5",
+     "title": "Appointments to the Palm Tran Service Board",
+     "section": "Consent",
+     "link": "../../meetings/2019-09-10/#item-3AA-5",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2019-10-08",
+     "number": "3E-1",
+     "title": "Appointments to the Farmworker Program Advisory Board",
+     "section": "Consent",
+     "link": "../../meetings/2019-10-08/#item-3E-1",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2019-11-05",
+     "number": "3DD-1",
+     "title": "Appointment to the Equal Business Opportunity Advisory Committee",
+     "section": "Consent",
+     "link": "../../meetings/2019-11-05/#item-3DD-1",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2019-12-17",
+     "number": "3I-3",
+     "title": "Appointments to the Treasure Coast Regional Planning Council's Comprehensive Economic Development Strategy Committee",
+     "section": "Consent",
+     "link": "../../meetings/2019-12-17/#item-3I-3",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2020-01-07",
+     "number": "7A-1",
+     "title": "Reappointments to the Environmental Control Hearing Board",
+     "section": "Regular",
+     "link": "../../meetings/2020-01-07/#item-7A-1",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2020-02-11",
+     "number": "3X-2",
+     "title": "Reappointment to the Consumer Affairs Hearing Board",
+     "section": "Consent",
+     "link": "../../meetings/2020-02-11/#item-3X-2",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2020-04-07",
+     "number": "3E-2",
+     "title": "Appointment to the Farmworker Program Advisory Board",
+     "section": "Consent",
+     "link": "../../meetings/2020-04-07/#item-3E-2",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2020-04-07",
+     "number": "3CC-1",
+     "title": "Reappointment to the Equal Business Opportunity Advisory Committee",
+     "section": "Consent",
+     "link": "../../meetings/2020-04-07/#item-3CC-1",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2020-07-14",
+     "number": "3G-1",
+     "title": "Appointment to the Investment Policy Committee",
+     "section": "Consent",
+     "link": "../../meetings/2020-07-14/#item-3G-1",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2020-08-25",
+     "number": "3S-3",
+     "title": "Appointment to the Fire Code Board of Appeals and Adjustments",
+     "section": "Consent",
+     "link": "../../meetings/2020-08-25/#item-3S-3",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2020-09-01",
+     "number": "3X-2",
+     "title": "Reappointments to the Consumer Affairs Hearing Board",
+     "section": "Consent",
+     "link": "../../meetings/2020-09-01/#item-3X-2",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2020-09-01",
+     "number": "3DD-1",
+     "title": "Reappointment to the Equal Business Opportunity Advisory Committee",
+     "section": "Consent",
+     "link": "../../meetings/2020-09-01/#item-3DD-1",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2020-09-15",
+     "number": "3A-1",
+     "title": "Appointment to the Florida Atlantic Research & Development Authority",
+     "section": "Consent",
+     "link": "../../meetings/2020-09-15/#item-3A-1",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2020-09-15",
+     "number": "3AA-1",
+     "title": "Reappointments to the Palm Tran Service Board",
+     "section": "Consent",
+     "link": "../../meetings/2020-09-15/#item-3AA-1",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2020-10-20",
+     "number": "3K-5",
+     "title": "Reappointment to the Water Utilities Department Advisory Board",
+     "section": "Consent",
+     "link": "../../meetings/2020-10-20/#item-3K-5",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2020-10-20",
+     "number": "3DD-1",
+     "title": "Appointment to the Westgate CRA Board",
+     "section": "Consent",
+     "link": "../../meetings/2020-10-20/#item-3DD-1",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2020-11-17",
+     "number": "3E-9",
+     "title": "Reappointments to the Community Action Advisory Board",
+     "section": "Consent",
+     "link": "../../meetings/2020-11-17/#item-3E-9",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2020-11-17",
+     "number": "3S-1",
+     "title": "Reappointment to the Fire Code Board of Appeals and Adjustments",
+     "section": "Consent",
+     "link": "../../meetings/2020-11-17/#item-3S-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2020-12-08",
+     "number": "3A-2",
+     "title": "Appointment to the South Florida Regional Transportation Authority",
+     "section": "Consent",
+     "link": "../../meetings/2020-12-08/#item-3A-2",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2020-12-08",
+     "number": "3J-1",
+     "title": "Appointments to the Construction Industry Licensing Board",
+     "section": "Consent",
+     "link": "../../meetings/2020-12-08/#item-3J-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2021-02-09",
+     "number": "7A-1",
+     "title": "Appointments to the Commission on Affordable Housing",
+     "section": "Board appointments",
+     "link": "../../meetings/2021-02-09/#item-7A-1",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2021-04-06",
+     "number": "3J-1",
+     "title": "Appointments to the Construction Industry Licensing Board",
+     "section": "Consent",
+     "link": "../../meetings/2021-04-06/#item-3J-1",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2021-04-06",
+     "number": "3L-2",
+     "title": "Appointment to the Groundwater and Natural Resources Protection Board",
+     "section": "Consent",
+     "link": "../../meetings/2021-04-06/#item-3L-2",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2021-04-06",
+     "number": "3FF-1",
+     "title": "Appointment to the Equal Business Opportunity Advisory Committee",
+     "section": "Consent",
+     "link": "../../meetings/2021-04-06/#item-3FF-1",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2021-05-18",
+     "number": "3G-4",
+     "title": "Appointments to the Impact Fee Review Committee",
+     "section": "Consent",
+     "link": "../../meetings/2021-05-18/#item-3G-4",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2021-06-08",
+     "number": "3L-4",
+     "title": "Appointments to the Natural Areas Management Advisory Committee",
+     "section": "Consent",
+     "link": "../../meetings/2021-06-08/#item-3L-4",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2021-06-15",
+     "number": "6A-1",
+     "title": "Appointments to the Commission on Affordable Housing",
+     "section": "Board appointments",
+     "link": "../../meetings/2021-06-15/#item-6A-1",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2021-07-13",
+     "number": "3J-1",
+     "title": "Appointments to the Historic Resources Review Board",
+     "section": "Consent",
+     "link": "../../meetings/2021-07-13/#item-3J-1",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2021-08-17",
+     "number": "3L-7",
+     "title": "Appointments to the Natural Areas Management Advisory Committee",
+     "section": "Consent",
+     "link": "../../meetings/2021-08-17/#item-3L-7",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2021-08-17",
+     "number": "3X-1",
+     "title": "Reappointments to the Consumer Affairs Hearing Board",
+     "section": "Consent",
+     "link": "../../meetings/2021-08-17/#item-3X-1",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2021-08-17",
+     "number": "3FF-2",
+     "title": "Appointments to the Westgate/Belvedere Homes Community Redevelopment Agency",
+     "section": "Consent",
+     "link": "../../meetings/2021-08-17/#item-3FF-2",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2021-09-14",
+     "number": "3E-3",
+     "title": "Reappointments to the Citizens Advisory Committee on Health and Human Services",
+     "section": "Consent",
+     "link": "../../meetings/2021-09-14/#item-3E-3",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2021-09-14",
+     "number": "3AA-3",
+     "title": "Reappointments to the Palm Tran Service Board",
+     "section": "Consent",
+     "link": "../../meetings/2021-09-14/#item-3AA-3",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2021-10-05",
+     "number": "3J-1",
+     "title": "Reappointments to the Historic Resources Review Board",
+     "section": "Consent",
+     "link": "../../meetings/2021-10-05/#item-3J-1",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2021-10-05",
+     "number": "3L-1",
+     "title": "Reappointment to the Natural Areas Management Advisory Committee",
+     "section": "Consent",
+     "link": "../../meetings/2021-10-05/#item-3L-1",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2021-10-05",
+     "number": "3CC-1",
+     "title": "Reappointments to the Equal Business Opportunity Advisory Committee",
+     "section": "Consent",
+     "link": "../../meetings/2021-10-05/#item-3CC-1",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2021-11-02",
+     "number": "3F-1",
+     "title": "Appointments to the Aviation and Airports Advisory Board",
+     "section": "Consent",
+     "link": "../../meetings/2021-11-02/#item-3F-1",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2021-11-02",
+     "number": "3J-1",
+     "title": "Appointments to the Construction Industry Licensing Board",
+     "section": "Consent",
+     "link": "../../meetings/2021-11-02/#item-3J-1",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2021-12-07",
+     "number": "3G-2",
+     "title": "Appointment to the Contract Review Committee",
+     "section": "Consent",
+     "link": "../../meetings/2021-12-07/#item-3G-2",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2021-12-07",
+     "number": "3J-1",
+     "title": "Appointment to the Historic Resources Review Board",
+     "section": "Consent",
+     "link": "../../meetings/2021-12-07/#item-3J-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2021-12-07",
+     "number": "3X-11",
+     "title": "Appointment to the Consumer Affairs Hearing Board",
+     "section": "Consent",
+     "link": "../../meetings/2021-12-07/#item-3X-11",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2022-01-04",
+     "number": "7B-1",
+     "title": "Appointment to the Advisory Commission on Women",
+     "section": "Board appointments",
+     "link": "../../meetings/2022-01-04/#item-7B-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2022-02-08",
+     "number": "3I-3",
+     "title": "Appointments to the Treasure Coast Regional Planning Council Comprehensive Economic Development Strategy Committee",
+     "section": "Consent",
+     "link": "../../meetings/2022-02-08/#item-3I-3",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2022-03-08",
+     "number": "3E-1",
+     "title": "Appointments to the Farmworker Program Advisory Board",
+     "section": "Consent",
+     "link": "../../meetings/2022-03-08/#item-3E-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2022-04-12",
+     "number": "3L-2",
+     "title": "Appointment to the Natural Areas Management Advisory Committee",
+     "section": "Consent",
+     "link": "../../meetings/2022-04-12/#item-3L-2",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2022-07-12",
+     "number": "3A-1",
+     "title": "Appointment to the Health Facilities Authority",
+     "section": "Consent",
+     "link": "../../meetings/2022-07-12/#item-3A-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2022-07-12",
+     "number": "3EE-1",
+     "title": "Appointments to the Equal Business Opportunity Advisory Committee",
+     "section": "Consent",
+     "link": "../../meetings/2022-07-12/#item-3EE-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2022-08-23",
+     "number": "7A-1",
+     "title": "Appointments to the Investment Policy Committee",
+     "section": "Board appointments",
+     "link": "../../meetings/2022-08-23/#item-7A-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2022-09-13",
+     "number": "3E-2",
+     "title": "Reappointments to the Citizens Advisory Committee on Health and Human Services",
+     "section": "Consent",
+     "link": "../../meetings/2022-09-13/#item-3E-2",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2022-09-13",
+     "number": "3J-1",
+     "title": "Reappointments to the Historic Resources Review Board",
+     "section": "Consent",
+     "link": "../../meetings/2022-09-13/#item-3J-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2022-09-13",
+     "number": "3X-6",
+     "title": "Reappointment to the Consumer Affairs Hearing Board",
+     "section": "Consent",
+     "link": "../../meetings/2022-09-13/#item-3X-6",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2022-09-13",
+     "number": "3AA-1",
+     "title": "Reappointments to the Palm Tran Service Board",
+     "section": "Consent",
+     "link": "../../meetings/2022-09-13/#item-3AA-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2022-10-04",
+     "number": "3N-1",
+     "title": "Appointment to the Library Advisory Board",
+     "section": "Consent",
+     "link": "../../meetings/2022-10-04/#item-3N-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2022-10-04",
+     "number": "3EE-1",
+     "title": "Appointments to the Equal Business Opportunity Advisory Committee",
+     "section": "Consent",
+     "link": "../../meetings/2022-10-04/#item-3EE-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2022-11-15",
+     "number": "3J-1",
+     "title": "Appointments to the Construction Industry Licensing Board",
+     "section": "Consent",
+     "link": "../../meetings/2022-11-15/#item-3J-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2022-11-15",
+     "number": "3CC-1",
+     "title": "Appointments to the Internal Audit Committee",
+     "section": "Consent",
+     "link": "../../meetings/2022-11-15/#item-3CC-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2023-01-10",
+     "number": "3E-2",
+     "title": "Appointments to the Citizens Advisory Committee on Health and Human Services",
+     "section": "Consent",
+     "link": "../../meetings/2023-01-10/#item-3E-2",
+     "as_title": "Commissioner"
+    }
+   ],
+   "sponsored": [
+    {
+     "date": "2019-01-15",
+     "number": "2C-4",
+     "title": "Census Day",
+     "section": "Special presentation",
+     "link": "../../meetings/2019-01-15/#item-2C-4",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2019-04-02",
+     "number": "2C-1",
+     "title": "National Correctional Officers and Employees Week",
+     "section": "Special presentation",
+     "link": "../../meetings/2019-04-02/#item-2C-1",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2019-04-02",
+     "number": "2C-11",
+     "title": "Crime Victims' Rights Week",
+     "section": "Special presentation",
+     "link": "../../meetings/2019-04-02/#item-2C-11",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2019-05-07",
+     "number": "2C-1",
+     "title": "National Teacher Day",
+     "section": "Special presentation",
+     "link": "../../meetings/2019-05-07/#item-2C-1",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2019-05-07",
+     "number": "2C-3",
+     "title": "National Peace Officers Day",
+     "section": "Special presentation",
+     "link": "../../meetings/2019-05-07/#item-2C-3",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2019-09-10",
+     "number": "2C-1",
+     "title": "Proclamation honoring Judge Jeffrey Colbath",
+     "section": "Special presentation",
+     "link": "../../meetings/2019-09-10/#item-2C-1",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2020-01-07",
+     "number": "4F",
+     "title": "24-Hour Homeless Point-In-Time Count Day",
+     "section": "Special presentation",
+     "link": "../../meetings/2020-01-07/#item-4F",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2020-02-04",
+     "number": "4G",
+     "title": "Dress for Success Day",
+     "section": "Special presentation",
+     "link": "../../meetings/2020-02-04/#item-4G",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2020-03-10",
+     "number": "4I",
+     "title": "Government Finance Professionals Week",
+     "section": "Special presentation",
+     "link": "../../meetings/2020-03-10/#item-4I",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2020-03-10",
+     "number": "4K",
+     "title": "Advanced Life Support Team Day",
+     "section": "Special presentation",
+     "link": "../../meetings/2020-03-10/#item-4K",
+     "as_title": "Mayor"
+    }
+   ],
+   "named": [
+    {
+     "date": "2019-07-02",
+     "number": "3A-2",
+     "title": "Resolution supporting two markers on the Florida's Turnpike in honor of fallen troopers",
+     "section": "Consent",
+     "link": "../../meetings/2019-07-02/#item-3A-2",
+     "as_title": "Vice Mayor"
+    },
+    {
+     "date": "2020-12-08",
+     "number": "6A-2",
+     "title": "Commissioner appointments to the Treasure Coast Regional Planning Council",
+     "section": "Board appointments",
+     "link": "../../meetings/2020-12-08/#item-6A-2",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2021-04-06",
+     "number": "3M-1",
+     "title": "Ratify the Mayor's signature on a Land and Water Conservation Fund grant application for the John Prince Park Memorial Park Custard Apple Natural Area Renovation and Expansion project",
+     "section": "Consent",
+     "link": "../../meetings/2021-04-06/#item-3M-1",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2021-04-06",
+     "number": "3M-2",
+     "title": "Ratify the Mayor's signature on an Emergency Medical Services grant application for 14 Automated External Defibrillators for Ocean Rescue",
+     "section": "Consent",
+     "link": "../../meetings/2021-04-06/#item-3M-2",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2021-05-04",
+     "number": "3M-1",
+     "title": "Ratify the Mayor's signature on grant application for the redevelopment of the Ocean Inlet Park Marina, Phase IIB",
+     "section": "Consent",
+     "link": "../../meetings/2021-05-04/#item-3M-1",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2021-07-13",
+     "number": "3C-11",
+     "title": "Resolution dedicating the Loxahatchee River Road Bridge to Office Thomas Francis Broedell",
+     "section": "Consent",
+     "link": "../../meetings/2021-07-13/#item-3C-11",
+     "as_title": "Mayor"
+    },
+    {
+     "date": "2021-12-07",
+     "number": "3A-2",
+     "title": "Board of County Commissioners appointments to the Treasure Coast Regional Planning Council",
+     "section": "Consent",
+     "link": "../../meetings/2021-12-07/#item-3A-2",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2022-12-20",
+     "number": "3A-1",
+     "title": "Appointments to the Treasure Coast Regional Planning Council",
+     "section": "Consent",
+     "link": "../../meetings/2022-12-20/#item-3A-1",
+     "as_title": "Commissioner"
+    }
+   ]
+  },
+  "special_presentations": [
+   {
+    "date": "2021-11-02",
+    "number": "4A",
+    "title": "Benjamin Ferencz – Law Not War Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2021-11-02/#item-4A"
+   },
+   {
+    "date": "2022-05-03",
+    "number": "4B",
+    "title": "National Correctional Officers and Employees Week",
+    "section": "Special presentation",
+    "link": "../../meetings/2022-05-03/#item-4B"
+   },
+   {
+    "date": "2022-05-03",
+    "number": "4D",
+    "title": "Peace Officers Memorial Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2022-05-03/#item-4D"
+   },
+   {
+    "date": "2022-08-23",
+    "number": "4E",
+    "title": "K9 Yogi Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2022-08-23/#item-4E"
+   },
+   {
+    "date": "2022-09-13",
+    "number": "4I",
+    "title": "National Firefighter Memorial Weekend",
+    "section": "Special presentation",
+    "link": "../../meetings/2022-09-13/#item-4I"
+   },
+   {
+    "date": "2022-09-13",
+    "number": "4K",
+    "title": "National Preparedness Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2022-09-13/#item-4K"
+   },
+   {
+    "date": "2022-11-01",
+    "number": "4J",
+    "title": "CareerSource Palm Beach County and American Medical Response, Inc. Recognition",
+    "section": "Special presentation",
+    "link": "../../meetings/2022-11-01/#item-4J"
+   }
+  ]
+ },
+ "roster_status": "verified-partial",
+ "roster_evidence": [
+  "Listed as District 3 commissioner in the BCC comments section of 79 BCC agendas, 2018-11-20 through 2023-01-10.",
+  "Departure: Governor's office press release, Jan 2023 (https://flgov.com/eog/news/press/2023/governor-ron-desantis-nominates-dave-kerner-executive-director-florida-department) — not yet confirmed against a County or Clerk record."
+ ],
+ "sources_extra": {
+  "charter": {
+   "label": "Palm Beach County Charter, Sec. 2.2 (no reelection on the ballot after eight consecutive years)",
+   "url": "https://discover.pbc.gov/PDF/Publications/Charter.pdf"
+  },
+  "flgov": {
+   "label": "Executive Office of the Governor press release, Jan 2023",
+   "url": "https://flgov.com/eog/news/press/2023/governor-ron-desantis-nominates-dave-kerner-executive-director-florida-department"
+  },
+  "flhsmv": {
+   "label": "FLHSMV news release, Jan 17, 2023",
+   "url": "https://www.flhsmv.gov/2023/01/17/dave-kerner-approved-by-governor-desantis-and-the-cabinet-as-executive-director-of-florida-department-of-highway-safety-and-motor-vehicles/"
+  }
+ },
+ "generated": "2026-11-19"
+}

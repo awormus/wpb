@@ -1,0 +1,459 @@
+{
+ "slug": "michael-barnett",
+ "name": "Michael A. Barnett",
+ "district": 3,
+ "seat": {
+  "start": "2023-01-10",
+  "start_note": "Appointed by the Governor; the Jan 10, 2023 BCC agenda lists an add-on oath of office to a newly appointed county commissioner",
+  "end": "2024-11-19",
+  "end_note": "Lost the 2024 general election; successor sworn in Nov 19, 2024"
+ },
+ "took_seat": "Appointed by the Governor (Jan 5, 2023) to the vacancy created by Dave Kerner’s departure; oath on the Jan 10, 2023 BCC agenda",
+ "party": {
+  "code": "REP",
+  "source": "Palm Beach County Supervisor of Elections — 2024 General Election Results",
+  "url": "https://enr.electionsfl.org/PAL/Summary/3703/",
+  "note": "Party as printed on Supervisor of Elections results (race label or candidate suffix)."
+ },
+ "status": "Left office",
+ "left_office": [
+  {
+   "text": "Lost the 2024 District 3 general election to Joel G. Flores; Flores took the seat on Nov 19, 2024.",
+   "source": "soe"
+  }
+ ],
+ "after_office": [],
+ "mayor_terms": [],
+ "elections": [
+  {
+   "election": "2024 General Election Results",
+   "year": 2024,
+   "kind": "general",
+   "race": "Board of County Commissioners, District 3",
+   "result": "lost",
+   "candidate_as_listed": "Mike Barnett (REP)",
+   "votes": "30,071",
+   "pct": "45.37%",
+   "total_votes": "66,279",
+   "all_candidates": [
+    {
+     "name": "Mike Barnett (REP)",
+     "pct": "45.37%",
+     "votes": "30,071"
+    },
+    {
+     "name": "Joel Flores (DEM)",
+     "pct": "54.63%",
+     "votes": "36,208"
+    }
+   ],
+   "source": "Palm Beach County Supervisor of Elections — 2024 General Election Results",
+   "url": "https://enr.electionsfl.org/PAL/Summary/3703/"
+  }
+ ],
+ "officer_term_ending_nov_2018": null,
+ "bio": [
+  "Originally from Queens, New York; has lived in Palm Beach County since 1987.",
+  "Appointed by Governor Ron DeSantis to the County Commission on January 5, 2023, representing District 3 (Greenacres, Lake Worth Beach, Lake Clarke Shores, Palm Springs, Cloud Lake, Glen Ridge and parts of unincorporated Palm Beach County).",
+  "Personal injury attorney with the Shiner Law Group since 2017; J.D., University of Miami (2007); B.A., University of South Florida (2004); A.A., Palm Beach State College (2002).",
+  "Appointed by the Governor to the Florida Medical Examiners Commission (per the page)."
+ ],
+ "bio_source": {
+  "label": "Michael A. Barnett biography (official County district Biography page, archived 2024-02-28)",
+  "url": "https://web.archive.org/web/20240228172139/https://discover.pbcgov.org/countycommissioners/district3/Pages/Biography.aspx"
+ },
+ "activity": {
+  "window": {
+   "from": "2023-01-10",
+   "to": "2024-11-19"
+  },
+  "meetings_with_agenda": 56,
+  "first_meeting": "2023-01-10",
+  "last_meeting": "2024-11-19",
+  "agendas_listing_in_commissioner_comments": 36,
+  "items_naming": {
+   "nominated": 20,
+   "named": 1
+  },
+  "items_naming_total": 21,
+  "district_tagged_items": 153,
+  "district_tagged_by_section": {
+   "Consent": 134,
+   "Regular": 19
+  },
+  "district_only_items": 114,
+  "special_presentations_tagged_district": 25,
+  "named_items": {
+   "nominated": [
+    {
+     "date": "2023-04-04",
+     "number": "3S-4",
+     "title": "Approve three board appointments to the Fire Code Board of Appeals and Adjustments.",
+     "section": "Consent",
+     "link": "../../meetings/2023-04-04/#item-3S-4",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2023-07-11",
+     "number": "3S-4",
+     "title": "Appointment of one individual to the Fire Code Board of Appeals and Adjustments Board.",
+     "section": "Consent",
+     "link": "../../meetings/2023-07-11/#item-3S-4",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2023-08-22",
+     "number": "3DD-1",
+     "title": "Approve the appointment and reappointment of members to the Equal Business Opportunity Advisory Committee.",
+     "section": "Consent",
+     "link": "../../meetings/2023-08-22/#item-3DD-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2023-09-19",
+     "number": "3A-1",
+     "title": "Reappointment of one member to the Health Care District Advisory Board.",
+     "section": "Consent",
+     "link": "../../meetings/2023-09-19/#item-3A-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2023-10-03",
+     "number": "3L-1",
+     "title": "Appointment of two members to the Natural Areas Management Advisory Committee.",
+     "section": "Consent",
+     "link": "../../meetings/2023-10-03/#item-3L-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2023-10-17",
+     "number": "3J-2",
+     "title": "Appointment of two new members to the Construction Industry Licensing Board.",
+     "section": "Consent",
+     "link": "../../meetings/2023-10-17/#item-3J-2",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2023-12-05",
+     "number": "3I-4",
+     "title": "Appointment of one to the Commission on Affordable Housing.",
+     "section": "Consent",
+     "link": "../../meetings/2023-12-05/#item-3I-4",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2023-12-19",
+     "number": "3E-6",
+     "title": "Board appointment of two (2) new members to the Citizens Advisory Committee on Health and Human Services.",
+     "section": "Consent",
+     "link": "../../meetings/2023-12-19/#item-3E-6",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2023-12-19",
+     "number": "3L-1",
+     "title": "Board appointment to the Natural Areas Management Advisory Committee.",
+     "section": "Consent",
+     "link": "../../meetings/2023-12-19/#item-3L-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2024-01-23",
+     "number": "7A-1",
+     "title": "Appointment of one member to the Health Care District of Palm Beach County Board of Commissioners Board to complete an unexpired term.",
+     "section": "Board appointments",
+     "link": "../../meetings/2024-01-23/#item-7A-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2024-02-06",
+     "number": "3AA-1",
+     "title": "Board reappointments for two members to the Palm Tran Service Board.",
+     "section": "Consent",
+     "link": "../../meetings/2024-02-06/#item-3AA-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2024-05-07",
+     "number": "3AA-5",
+     "title": "Board appointment of one member to the Palm Tran Service Board.",
+     "section": "Consent",
+     "link": "../../meetings/2024-05-07/#item-3AA-5",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2024-07-02",
+     "number": "3I-6",
+     "title": "Reappointment of five nominees and appointment of two nominees to the Commission on Affordable Housing.",
+     "section": "Consent",
+     "link": "../../meetings/2024-07-02/#item-3I-6",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2024-07-02",
+     "number": "7A-1",
+     "title": "Commission on Affordable Housing",
+     "section": "Board appointments",
+     "link": "../../meetings/2024-07-02/#item-7A-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2024-09-10",
+     "number": "3FF-2",
+     "title": "Reappoinment of two members to the Internal Audit Committee.",
+     "section": "Consent",
+     "link": "../../meetings/2024-09-10/#item-3FF-2",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2024-09-17",
+     "number": "3E-11",
+     "title": "Appointment of new (1) new member to the Citizens Advisory Committee on Health and Human Services.",
+     "section": "Consent",
+     "link": "../../meetings/2024-09-17/#item-3E-11",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2024-09-17",
+     "number": "3X-3",
+     "title": "Reappointment of one (1) member and appointment of one (1) new member to the Consumer Affairs Hearing Board.",
+     "section": "Consent",
+     "link": "../../meetings/2024-09-17/#item-3X-3",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2024-09-17",
+     "number": "3FF-1",
+     "title": "Reappointment of one (1) member and appointment of two (2) new members to the Equal Business Opportunity Advisory Committee.",
+     "section": "Consent",
+     "link": "../../meetings/2024-09-17/#item-3FF-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2024-09-17",
+     "number": "3HH-1",
+     "title": "Reappointment of one (1) member to the Westgate/Belvedere CRA.",
+     "section": "Consent",
+     "link": "../../meetings/2024-09-17/#item-3HH-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2024-10-22",
+     "number": "3E-4",
+     "title": "Reappointment of three (3) members to the Advisory Committee on Behavioral Health Substance Use and Co-Occurring Disorders.",
+     "section": "Consent",
+     "link": "../../meetings/2024-10-22/#item-3E-4",
+     "as_title": "Commissioner"
+    }
+   ],
+   "named": [
+    {
+     "date": "2023-12-19",
+     "number": "3A-1",
+     "title": "Board appointments for the Treasure Coast Regional Planning Council.",
+     "section": "Consent",
+     "link": "../../meetings/2023-12-19/#item-3A-1",
+     "as_title": "Commissioner"
+    }
+   ]
+  },
+  "special_presentations": [
+   {
+    "date": "2023-02-07",
+    "number": "4G",
+    "title": "Palm Beach County and America Saves Week",
+    "section": "Special presentation",
+    "link": "../../meetings/2023-02-07/#item-4G"
+   },
+   {
+    "date": "2023-02-07",
+    "number": "4I",
+    "title": "90th Anniversary of Palm Beach State College",
+    "section": "Special presentation",
+    "link": "../../meetings/2023-02-07/#item-4I"
+   },
+   {
+    "date": "2023-05-02",
+    "number": "4F",
+    "title": "National Correction Officers and Employees Week",
+    "section": "Special presentation",
+    "link": "../../meetings/2023-05-02/#item-4F"
+   },
+   {
+    "date": "2023-05-02",
+    "number": "4H",
+    "title": "Peace Officers Memorial Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2023-05-02/#item-4H"
+   },
+   {
+    "date": "2023-06-06",
+    "number": "4F",
+    "title": "Juneteenth Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2023-06-06/#item-4F"
+   },
+   {
+    "date": "2023-08-22",
+    "number": "4E",
+    "title": "Palm Beach Partners Business Matchmaker Conference",
+    "section": "Special presentation",
+    "link": "../../meetings/2023-08-22/#item-4E"
+   },
+   {
+    "date": "2023-09-12",
+    "number": "4E",
+    "title": "Senior Center Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2023-09-12/#item-4E"
+   },
+   {
+    "date": "2023-11-07",
+    "number": "4A",
+    "title": "La Tuna of Okeechobee Middle School",
+    "section": "Special presentation",
+    "link": "../../meetings/2023-11-07/#item-4A"
+   },
+   {
+    "date": "2023-11-07",
+    "number": "4C",
+    "title": "Recognition of Kristen Smethurst and Rosemary Paulino",
+    "section": "Special presentation",
+    "link": "../../meetings/2023-11-07/#item-4C"
+   },
+   {
+    "date": "2023-12-05",
+    "number": "4B",
+    "title": "60th Anniversary American Hungarian Club",
+    "section": "Special presentation",
+    "link": "../../meetings/2023-12-05/#item-4B"
+   },
+   {
+    "date": "2024-01-23",
+    "number": "4I",
+    "title": "100th Anniversary of Jones Foster",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-01-23/#item-4I"
+   },
+   {
+    "date": "2024-02-06",
+    "number": "4B",
+    "title": "211 Awareness Week",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-02-06/#item-4B"
+   },
+   {
+    "date": "2024-03-05",
+    "number": "4H",
+    "title": "Frank DeMario for 25 Years at PBSO",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-03-05/#item-4H"
+   },
+   {
+    "date": "2024-03-05",
+    "number": "4J",
+    "title": "Recognizing Alexandria Ayala and Susy Diaz",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-03-05/#item-4J"
+   },
+   {
+    "date": "2024-04-02",
+    "number": "4G",
+    "title": "National Community Development Week",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-04-02/#item-4G"
+   },
+   {
+    "date": "2024-04-02",
+    "number": "4I",
+    "title": "Financial Literacy Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-04-02/#item-4I"
+   },
+   {
+    "date": "2024-05-07",
+    "number": "4B",
+    "title": "Nancy G. Brinker Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-05-07/#item-4B"
+   },
+   {
+    "date": "2024-05-07",
+    "number": "4D",
+    "title": "Hispanic Education Coalition of Palm Beach County Inc.",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-05-07/#item-4D"
+   },
+   {
+    "date": "2024-05-07",
+    "number": "4F",
+    "title": "Mental Health Awareness & Trauma-Informed Care Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-05-07/#item-4F"
+   },
+   {
+    "date": "2024-05-07",
+    "number": "4I",
+    "title": "Restoration Bridge International",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-05-07/#item-4I"
+   },
+   {
+    "date": "2024-06-04",
+    "number": "4C",
+    "title": "Friends of Fisher House Inc. Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-06-04/#item-4C"
+   },
+   {
+    "date": "2024-07-02",
+    "number": "4D",
+    "title": "Puerto Rican Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-07-02/#item-4D"
+   },
+   {
+    "date": "2024-08-20",
+    "number": "4H",
+    "title": "60th Anniversary of the War on Poverty",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-08-20/#item-4H"
+   },
+   {
+    "date": "2024-10-08",
+    "number": "4J",
+    "title": "Oktoberfest",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-10-08/#item-4J"
+   },
+   {
+    "date": "2024-11-05",
+    "number": "4E",
+    "title": "World Aids Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2024-11-05/#item-4E"
+   }
+  ]
+ },
+ "roster_status": "verified",
+ "roster_evidence": [
+  "Listed as District 3 commissioner in the BCC comments section of 36 BCC agendas, 2023-01-24 through 2024-11-05.",
+  "Jan 10, 2023 BCC agenda: \"ADD-ON: Oath of Office to Newly Appointed County Commissioner (To be administered by Judge Artau)\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20230110.pdf).",
+  "Appointment: County District 3 Biography page (archived 2024-02-28, https://web.archive.org/web/20240228172139/https://discover.pbcgov.org/countycommissioners/district3/Pages/Biography.aspx) says he was appointed by Governor Ron DeSantis on January 5, 2023; Governor's press release (https://flgov.com/eog/news/press/2023/governor-ron-desantis-nominates-dave-kerner-executive-director-florida-department)."
+ ],
+ "sources_extra": {
+  "charter": {
+   "label": "Palm Beach County Charter, Sec. 2.2 (no reelection on the ballot after eight consecutive years)",
+   "url": "https://discover.pbc.gov/PDF/Publications/Charter.pdf"
+  },
+  "flgov": {
+   "label": "Executive Office of the Governor press release, Jan 2023",
+   "url": "https://flgov.com/eog/news/press/2023/governor-ron-desantis-nominates-dave-kerner-executive-director-florida-department"
+  },
+  "flhsmv": {
+   "label": "FLHSMV news release, Jan 17, 2023",
+   "url": "https://www.flhsmv.gov/2023/01/17/dave-kerner-approved-by-governor-desantis-and-the-cabinet-as-executive-director-of-florida-department-of-highway-safety-and-motor-vehicles/"
+  }
+ },
+ "generated": "2026-11-19"
+}

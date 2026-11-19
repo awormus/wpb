@@ -1,0 +1,162 @@
+# Maria G. Marino — District 1
+
+_Generated 2026-11-19 from official sources; see links. Votes are not included (Clerk final minutes, by request: https://www.mypalmbeachclerk.com/records/minutes)._
+
+## Basics
+- Seat: 2020-11-17 – present
+- Took seat: Elected (2020; again in 2024 per County biography — no contested District 1 race on the 2024 SOE summaries)
+- Party (SOE): REP — https://enr.electionsfl.org/PAL/2801/Summary/
+- Status: Serving
+- Vice Mayor 2023–24 (verified)
+- Mayor 2024–25 (verified)
+
+## Background
+- Elected to the County Commission in 2020 and again in 2024; served as County Mayor from November 2024 to November 2025.
+- Previously served on the Palm Beach Gardens City Council from 2016 to 2020, including two terms as mayor.
+- Former broker/owner of Marino Realty Group and executive director of the Jupiter Children’s Foundation; a longtime LPGA member and former professional golfer; University of Connecticut graduate.
+- Chairs the Treasure Coast Regional Planning Council, the Homeless Advisory Board and the Pal Mar Water Control District (per the page).
+- Source: Maria G. Marino biography (official County district Biography page, retrieved 2026-11-19) — https://discover.pbc.gov/countycommissioners/district1/Pages/Biography.aspx
+
+## Elections
+- 2020 Primary Election Official Results — Board of County Commissioners, District 1 (REP): won primary, 12,207 votes (56.35%). Candidates: Karen Marcus (REP) 7,663 (35.37%); Maria G. Marino (REP) 12,207 (56.35%); Calvin D. Turnquest (REP) 1,793 (8.28%) — https://enr.electionsfl.org/PAL/2697/Summary/
+- 2020 General Election Official Results — Board of County Commissioners, District 1: won, 95,603 votes (95.81%). Candidates: Maria G. Marino (REP) 95,603 (95.81%); WRITE-IN (NON) 4,186 (4.19%) — https://enr.electionsfl.org/PAL/2801/Summary/
+
+## On the agendas
+- Meetings during tenure: 170
+- Commissioner Comments roster listings: 117
+- Items naming them: 130 {'nominated': 121, 'named': 8, 'requested': 1}
+- District-tagged items: 548 (only this district: 379)
+- Special presentations tagged their district: 76
+### nominated (121)
+- 2026-10-20 3G-1: Reappoint Mark Feldmesser to the Contract Review Committee and waive the consecutive- meeting absence provision.
+- 2026-10-06 3E-7: Reappointments to the Veteran Services Advisory Board.
+- 2026-10-06 3L-1: Appointments to the Natural Areas Management Advisory Committee.
+- 2026-09-15 3S-2: Appointment and reappointment for members to the Fire Code Board of Appeals and Adjustment.
+- 2026-09-01 3E-4: Appointment and reappointment of members to the Citizens Advisory Committee on Health and Human Services.
+- 2026-08-25 3E-3: The Appointments and Reappointments of multiple members to the Behavioral Health, Substance Use and Co-Occurring Disorders Advisory Committee.
+- 2026-08-25 3GG-1: Reappointment of one (1) member to the Internal Audit Committee.
+- 2026-07-07 3G-10: Appointment and reappointment for the Impact Fee Review Committee.
+- 2026-06-09 3J-3: Board Appointment for the Construction Industry Licensing Board.
+- 2026-05-05 3E-3: Reappointment of two (2) applicants and appointment of one (1) applicant to the Veteran Services Advisory Board.
+- 2026-05-05 3J-1: Appointment of one (1) member and reappointment of one (1) member to the Construction Industry Licensing Board.
+- 2026-03-10 3G-2: Appointment and reappointment of members to the Impact Fee Review Committee.
+- 2026-03-03 3I-2: Appointment of four (4) to the Small Business Development Advisory Committee.
+- 2026-02-03 3G-3: Appointment of two (2) members to the Investment Policy Committee.
+- 2026-02-03 3I-6: Apointments and reappointments of members to the Treasure Coast Regional Planning Council Comprehensive Economic Development Strategy Committee.
+- 2026-02-03 3J-1: Appointment of one (1) applicant to the Historic Resources Review Board.
+- 2025-11-18 3EE-1: Appointment of two (2) individuals to the Internal Audit Committee.
+- 2025-11-04 3E-3: Appointment of one (1) applicant to the Citizens Advisory Committee on Health and Human Services.
+- 2025-11-04 3J-1: Reappointment of one (1) member to the Construction Industry Licensing Board.
+- 2025-10-21 3E-5: Reappointment and appointment of members to the Behavioral Health, Substance Use and Co-Occurring Disorders Advisory Committee.
+- 2025-10-21 3F-4: Appointment of one (1) member to the Aviation and Airports Advisory Board.
+- 2025-10-07 3G-2: Reappointment of two (2) members to the Investment Policy Committee.
+- 2025-10-07 3J-1: Reappointment of one (1) member to the Construction Industry Licensing Board.
+- 2025-09-16 3A-3: Appointment of one (1) member to the Health Council of Southeast Florida, Inc.
+- 2025-09-16 3E-5: Reappointment of one (1) member to the Citizens Advisory Committee on Health and Human Services.
+- 2025-09-16 3F-2: Appointment of one (1) member to the Citizen's Committee on Airport Noise.
+- 2025-09-16 3H-11: Reappointment of five (5) members and appointment of two (2) members to the Public Art Committee.
+- 2025-09-16 3H-12: Appointment of one (1) member to the PBC Property Review Committee.
+- 2025-09-16 3J-1: Reappointment of three (3) members to the Historic Resources Review Board.
+- 2025-09-16 3X-1: Appointment of two (2) members to the Consumer Affairs Hearing Board.
+- 2025-09-16 3GG-1: Reappointment of two (2) members to the Westgate CRA.
+- 2025-09-16 6A-1: Appointment of one (1) member to the Public Art Committee.
+- 2025-09-09 3G-2: Appointment of one (1) member to the Contract Review Committee (CRC).
+- 2025-08-19 3F-12: Appointment for one (1) candidate to the Aviation and Airports Advisory Board.
+- 2025-08-19 3N-3: Reappointment of three (3) _one (1) members to the Library Advisory Board.
+- 2025-07-08 3E-3: Appointment of one (1) new member to the Citizens Advisory Committee on Health and Human Services.
+- 2025-06-03 3EE-1: Appointment of one (1) member to the Fair Housing/Equal Employment Board.
+- 2025-05-06 3E-2: Board appointment of two (2) members to the Advisory Committee on Behavioral Health, Substance Use and Co-Occurring Disorders Board.
+- 2025-03-11 3E-5: Board appointment of two (2) members to the Veteran Services Advisory Board.
+- 2025-03-11 3GG-1: Reappointment of five (5) members to the Health Facilities Authority.
+- 2025-02-11 3G-2: Board appointment and one (1) reappoint for the County Finance Committee.
+- 2025-02-04 3J-1: Board Appointment of one new member to the Construction Industry Licensing Board.
+- 2024-12-10 3J-2: Appointment of one member to the Construction Industry Licensing Board.
+- 2024-12-10 3EE-1: Appointment of four to the Equal Business Opportunity Advisory Committee.
+- 2024-11-19 3E-6: Advisory Board Appointments to the Citizens Advisory Committee on Health and Human Services.
+- 2024-11-19 3J-1: Reappointment of three (3) members to the Construction Industry Licensing Board.
+- 2024-11-19 6A-1: Community Services – appoint one (1) member to the Citizens Advisory Committee on Health and Human Services.
+- 2024-11-05 3FF-2: Reappointment of one (1) youth representative to the Advisory Commission on Women.
+- 2024-10-22 3J-1: Reappointment of two members to the Historic Resources Review Board.
+- 2024-09-17 3E-10: Reappointment of two (2) members to the Advisory Committee on Behavioral Health Substance Use and Co-Occurring Disorders.
+- 2024-09-17 3E-11: Appointment of new (1) new member to the Citizens Advisory Committee on Health and Human Services.
+- 2024-09-17 3FF-1: Reappointment of one (1) member and appointment of two (2) new members to the Equal Business Opportunity Advisory Committee.
+- 2024-09-10 3L-1: Reappointments of 3 members, and appointment of one new member to the Natural Areas Management Advisory Committee.
+- 2024-08-20 3J-1: Reappointment of one (1) member to the Historic Resources Review Board.
+- 2024-05-14 3L-1: Appointment of one (1) at-large member to the Groundwater and Natural Resources Protection Board for a three-year term beginning May 14, 2024 to May 14, 2027.
+- 2024-05-07 3AA-5: Board appointment of one member to the Palm Tran Service Board.
+- 2024-04-02 3J-1: Board Appointment for the Historic Resources Review Board.
+- 2024-03-12 6A-1: Appointment of two (2) members to the Zoning Commission.
+- 2024-02-06 3AA-1: Board reappointments for two members to the Palm Tran Service Board.
+- 2024-01-23 3E-6: Appointments of four (4) members to the Veteran Services Advisory Board.
+- 2024-01-23 3J-1: Appointment of three (3) new members to the Construction Industry Licensing Board.
+- 2023-12-19 3E-6: Board appointment of two (2) new members to the Citizens Advisory Committee on Health and Human Services.
+- 2023-12-19 3L-1: Board appointment to the Natural Areas Management Advisory Committee.
+- 2023-12-05 3I-3: Appointment and reappointment of members to the Treasure Coast Regional Planning Council Comprehensive Economic Development Strategy Committee.
+- 2023-12-05 3I-4: Appointment of one to the Commission on Affordable Housing.
+- 2023-11-21 3K-7: Board reappointment of two (2) to the Water Utilities Department Advisory Board.
+- 2023-11-21 3EE-2: Appointment of one (1) member to the Fair Housing/Equal Employment Board.
+- 2023-11-07 3G-1: Reappointment of one member to the Contract Review Committee.
+- 2023-10-17 3E-3: Appointment of six new members to the Veteran Services Advisory Board.
+- 2023-10-17 3J-2: Appointment of two new members to the Construction Industry Licensing Board.
+- 2023-10-03 3L-1: Appointment of two members to the Natural Areas Management Advisory Committee.
+- 2023-09-19 3A-1: Reappointment of one member to the Health Care District Advisory Board.
+- 2023-09-19 3S-5: Appointment for one to the Fire Code Board of Appeals and Adjustments.
+- 2023-09-19 3X-2: Reappointment of two members to the Consumer Affairs Hearing Board.
+- 2023-09-19 3EE-1: Reappointment of one member to the Advisory Commission on Women Board.
+- 2023-08-22 3DD-1: Approve the appointment and reappointment of members to the Equal Business Opportunity Advisory Committee.
+- 2023-08-22 3FF-2: Approve the appointment of two members to the Westgate/CRA Board.
+- 2023-07-11 3S-4: Appointment of one individual to the Fire Code Board of Appeals and Adjustments Board.
+- 2023-04-04 3S-4: Approve three board appointments to the Fire Code Board of Appeals and Adjustments.
+- 2023-02-07 3L-7: Appointment to the Natural Areas Management Advisory Committee
+- 2023-01-24 6A-1: Appointments to the Environmental Control Hearing Board
+- 2023-01-10 3E-2: Appointments to the Citizens Advisory Committee on Health and Human Services
+- 2022-11-15 3J-1: Appointments to the Construction Industry Licensing Board
+- 2022-11-15 3CC-1: Appointments to the Internal Audit Committee
+- 2022-11-01 3K-2: Appointment to the Water Utilities Department Advisory Board
+- 2022-10-18 3K-2: Appointment to the Water Utilities Department Advisory Board
+- 2022-10-04 3N-1: Appointment to the Library Advisory Board
+- 2022-10-04 3EE-1: Appointments to the Equal Business Opportunity Advisory Committee
+- 2022-09-13 3E-2: Reappointments to the Citizens Advisory Committee on Health and Human Services
+- 2022-09-13 3X-6: Reappointment to the Consumer Affairs Hearing Board
+- 2022-09-13 3AA-1: Reappointments to the Palm Tran Service Board
+- 2022-07-12 3A-1: Appointment to the Health Facilities Authority
+- 2022-07-12 3EE-1: Appointments to the Equal Business Opportunity Advisory Committee
+- 2022-04-12 3L-2: Appointment to the Natural Areas Management Advisory Committee
+- 2022-03-08 3E-1: Appointments to the Farmworker Program Advisory Board
+- 2022-03-08 3L-1: Appointments to the Groundwater and Natural Resources Protection Board
+- 2022-02-08 3A-1: Appointments to the Water Resources Task Force
+- 2022-02-08 3I-3: Appointments to the Treasure Coast Regional Planning Council Comprehensive Economic Development Strategy Committee
+- 2022-02-01 6A-1: Appointment to the Child Care Advisory Council
+- 2021-12-07 3G-2: Appointment to the Contract Review Committee
+- 2021-12-07 3J-1: Appointment to the Historic Resources Review Board
+- 2021-12-07 3X-11: Appointment to the Consumer Affairs Hearing Board
+- 2021-11-02 3F-1: Appointments to the Aviation and Airports Advisory Board
+- 2021-11-02 3J-1: Appointments to the Construction Industry Licensing Board
+- 2021-10-05 3J-1: Reappointments to the Historic Resources Review Board
+- 2021-10-05 3L-1: Reappointment to the Natural Areas Management Advisory Committee
+- 2021-10-05 3CC-1: Reappointments to the Equal Business Opportunity Advisory Committee
+- 2021-09-14 3E-3: Reappointments to the Citizens Advisory Committee on Health and Human Services
+- 2021-08-17 3L-7: Appointments to the Natural Areas Management Advisory Committee
+- 2021-08-17 3X-1: Reappointments to the Consumer Affairs Hearing Board
+- 2021-08-17 3FF-2: Appointments to the Westgate/Belvedere Homes Community Redevelopment Agency
+- 2021-07-13 8A-1: Appointment to the Child Care Advisory Council
+- 2021-06-08 3L-4: Appointments to the Natural Areas Management Advisory Committee
+- 2021-05-18 3G-4: Appointments to the Impact Fee Review Committee
+- 2021-04-06 3J-1: Appointments to the Construction Industry Licensing Board
+- 2021-04-06 3L-2: Appointment to the Groundwater and Natural Resources Protection Board
+- 2021-04-06 3FF-1: Appointment to the Equal Business Opportunity Advisory Committee
+- 2020-12-15 7A-1: Appointments to the Commission on Ethics Review Committee
+- 2020-12-08 3A-2: Appointment to the South Florida Regional Transportation Authority
+- 2020-12-08 3J-1: Appointments to the Construction Industry Licensing Board
+- 2020-12-08 6A-1: Appointments to the Commission on Ethics Review Committee
+### named (8)
+- 2024-05-07 3L-1: Continuing proxy appointing Vice Mayor Marino as Palm Beach County's representative for the purpose of voting at the Landowner's Annual Meeting of the Pal-Mar Water Control District.
+- 2024-04-09 3M-7: Ratify the Vice Mayor signature on Land and Water Conservation Fund Grant Application for the construction costs for the Canyon District Park Phase Two project.
+- 2023-12-19 3A-1: Board appointments for the Treasure Coast Regional Planning Council.
+- 2022-12-20 3A-1: Appointments to the Treasure Coast Regional Planning Council
+- 2021-12-07 3A-2: Board of County Commissioners appointments to the Treasure Coast Regional Planning Council
+- 2021-02-09 3L-1: Appointment of Commissioner Maria G. Marino as Palm Beach County's representative for voting at the landowner's meeting of the Palm Mar Water Control District
+- 2021-02-09 7A-1: Appointments to the Commission on Affordable Housing
+- 2020-12-08 6A-2: Commissioner appointments to the Treasure Coast Regional Planning Council
+### requested (1)
+- 2022-01-04 6A-1: Naming The Edna W. Runner Youth Activities Room at the West Jupiter Recreation Center

@@ -246,6 +246,7 @@ f'''        <li>Agenda index: <a href="{AGENDA_PAGE}">discover.pbc.gov BCC Meeti
          '    </ul></section>']
     write(os.path.join(DOCS, 'index.html'), page(1, 'Palm Beach County Commission', 'Palm Beach County BCC agendas since Nov 2018 and commissioner roster, with sources and limits.', '\n'.join(b)))
     print('built', len(meetings), 'meetings', len(roster), 'commissioners')
+    import profiles; profiles.main()   # full commissioner profiles overwrite the basic commissioner pages
 
 if __name__ == '__main__':
     main()

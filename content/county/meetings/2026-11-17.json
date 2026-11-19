@@ -22,6 +22,9 @@
    "department": "Clerk & Comptroller",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20261117/3B2.PDF"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -31,6 +34,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20261117/3C1.PDF"
+   ],
+   "districts": [
+    "1"
    ]
   },
   {
@@ -40,6 +46,9 @@
    "department": "County Attorney",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20261117/3D1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -58,6 +67,9 @@
    "department": "Community Services",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20261117/3E2.PDF"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -67,6 +79,9 @@
    "department": "Community Services",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20261117/3E3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -76,6 +91,12 @@
    "department": "Community Services",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20261117/3E4.PDF"
+   ],
+   "districts": [
+    "2",
+    "4",
+    "5",
+    "Countywide"
    ]
   },
   {
@@ -85,6 +106,9 @@
    "department": "Community Services",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20261117/3E5.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -94,6 +118,9 @@
    "department": "Office Of Financial Management & Budget",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20261117/3G1.PDF"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -103,6 +130,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20261117/3H1.PDF"
+   ],
+   "districts": [
+    "1"
    ]
   },
   {
@@ -121,6 +151,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20261117/3H3.PDF"
+   ],
+   "districts": [
+    "7"
    ]
   },
   {
@@ -130,6 +163,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20261117/3H4.PDF"
+   ],
+   "districts": [
+    "1"
    ]
   },
   {
@@ -137,7 +173,10 @@
    "title": "Indemnity agreement with the Town of Jupiter in order to obtain approval for encroachment",
    "section": "Consent",
    "department": "Facilities Development & Operations",
-   "backup": []
+   "backup": [],
+   "districts": [
+    "1"
+   ]
   },
   {
    "number": "3M-1",
@@ -146,6 +185,9 @@
    "department": "Parks & Recreation",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20261117/3M1.PDF"
+   ],
+   "districts": [
+    "5"
    ]
   },
   {
@@ -155,6 +197,9 @@
    "department": "Parks & Recreation",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20261117/3M2.PDF"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -164,6 +209,9 @@
    "department": "Parks & Recreation",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20261117/3M3.PDF"
+   ],
+   "districts": [
+    "1"
    ]
   },
   {
@@ -173,6 +221,9 @@
    "department": "Office Of Technology & Innovation",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20261117/3U1.PDF"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -182,6 +233,9 @@
    "department": "Office Of Technology & Innovation",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20261117/3U2.PDF"
+   ],
+   "districts": [
+    "2"
    ]
   },
   {
@@ -191,6 +245,9 @@
    "department": "Public Safety",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20261117/3X1.PDF"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -200,6 +257,9 @@
    "department": "Palm Tran",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20261117/3AA1.PDF"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -209,6 +269,9 @@
    "department": "Sheriff",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20261117/3CC1.PDF"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -218,6 +281,9 @@
    "department": "Office Of Equal Opportunity",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20261117/3EE1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -227,6 +293,9 @@
    "department": "Office Of Equal Opportunity",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20261117/3EE2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -245,6 +314,9 @@
    "department": "Office Of Financial Management & Budget",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20261117/4B1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -254,6 +326,9 @@
    "department": "Airports",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20261117/5A1.PDF"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -263,6 +338,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20261117/5B1.PDF"
+   ],
+   "districts": [
+    "4"
    ]
   },
   {
@@ -281,6 +359,9 @@
    "department": "Housing & Economic Development",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20261117/5C1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -288,8 +369,12 @@
    "title": "Private meeting to discuss security plans for County Commissioners on December 8, 2026, at 1:00 p.m.",
    "section": "Regular",
    "department": "County Attorney",
-   "backup": []
+   "backup": [],
+   "districts": [
+    "Countywide"
+   ]
   }
  ],
- "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas.",
+ "item_details_note": "districts and named come from the item text in the agenda body (district tag at the end of each item; commissioners named with their title). Automated extraction; see the agenda PDF."
 }

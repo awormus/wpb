@@ -1,0 +1,98 @@
+{
+ "slug": "erica-whitfield",
+ "name": "Erica Whitfield",
+ "district": 2,
+ "seat": {
+  "start": "2026-11-17",
+  "start_note": null,
+  "end": null,
+  "end_note": null
+ },
+ "took_seat": "Elected (2026; decided in the Democratic universal primary — no District 2 race on the 2026 general summary)",
+ "party": {
+  "code": "DEM",
+  "source": "Palm Beach County Supervisor of Elections — 2026 Primary Election Results",
+  "url": "https://enr.electionsfl.org/PAL/4035/Summary/",
+  "note": "Party as printed on Supervisor of Elections results (race label or candidate suffix)."
+ },
+ "status": "Serving",
+ "left_office": [],
+ "after_office": [],
+ "mayor_terms": [],
+ "elections": [
+  {
+   "election": "2026 Primary Election Results",
+   "year": 2026,
+   "kind": "primary",
+   "race": "Board of County Commissioners, District 2 - DEM (Universal Primary Contest)",
+   "result": "won primary",
+   "candidate_as_listed": "Erica Whitfield (DEM)",
+   "votes": "14,366",
+   "pct": "62.73%",
+   "total_votes": "22,901",
+   "all_candidates": [
+    {
+     "name": "Teresa M. Johnson (DEM)",
+     "pct": "37.27%",
+     "votes": "8,535"
+    },
+    {
+     "name": "Erica Whitfield (DEM)",
+     "pct": "62.73%",
+     "votes": "14,366"
+    }
+   ],
+   "source": "Palm Beach County Supervisor of Elections — 2026 Primary Election Results",
+   "url": "https://enr.electionsfl.org/PAL/4035/Summary/"
+  }
+ ],
+ "officer_term_ending_nov_2018": null,
+ "bio": [
+  "Served 12 years on the Palm Beach County School Board before joining the County Commission.",
+  "Worked at the Palm Beach County Health Department; coordinated the Robert Wood Johnson Foundation Healthy Kids, Healthy Communities grant for the School District and served as a wellness coordinator in School Food Service.",
+  "B.S. in Health Science, University of Florida; Master of Public Health, Emory University. Lives in Lake Worth Beach."
+ ],
+ "bio_source": {
+  "label": "Erica Whitfield biography (official County district Biography page, retrieved 2026-11-19)",
+  "url": "https://discover.pbc.gov/countycommissioners/district2/Pages/Biography.aspx"
+ },
+ "activity": {
+  "window": {
+   "from": "2026-11-17",
+   "to": null
+  },
+  "meetings_with_agenda": 1,
+  "first_meeting": "2026-11-17",
+  "last_meeting": "2026-11-17",
+  "agendas_listing_in_commissioner_comments": 1,
+  "items_naming": {},
+  "items_naming_total": 0,
+  "district_tagged_items": 2,
+  "district_tagged_by_section": {
+   "Consent": 2
+  },
+  "district_only_items": 1,
+  "special_presentations_tagged_district": 0,
+  "named_items": {},
+  "special_presentations": []
+ },
+ "roster_status": "verified",
+ "roster_evidence": [
+  "Nov 17, 2026 agenda BCC comments section lists \"District 2 – Commissioner Whitfield\"; pbc.gov district list (Nov 2026)."
+ ],
+ "sources_extra": {
+  "charter": {
+   "label": "Palm Beach County Charter, Sec. 2.2 (no reelection on the ballot after eight consecutive years)",
+   "url": "https://discover.pbc.gov/PDF/Publications/Charter.pdf"
+  },
+  "flgov": {
+   "label": "Executive Office of the Governor press release, Jan 2023",
+   "url": "https://flgov.com/eog/news/press/2023/governor-ron-desantis-nominates-dave-kerner-executive-director-florida-department"
+  },
+  "flhsmv": {
+   "label": "FLHSMV news release, Jan 17, 2023",
+   "url": "https://www.flhsmv.gov/2023/01/17/dave-kerner-approved-by-governor-desantis-and-the-cabinet-as-executive-director-of-florida-department-of-highway-safety-and-motor-vehicles/"
+  }
+ },
+ "generated": "2026-11-19"
+}

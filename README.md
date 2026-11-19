@@ -30,7 +30,7 @@ This repository is **only** for WPB civic content.
 |------|---------|
 | `content/demographics.json` | Schema stub + empty `metrics` / `sources` |
 | `content/meetings/YYYY-MM-DD/` | Per-meeting folder: `agenda.md` text extract (+ `summary.md`, minutes when available) |
-| `content/county/` | BCC data: `meetings/YYYY-MM-DD.json` (agenda items + backup links), `meetings.json`, `commissioners.json/.md` |
+| `content/county/` | BCC data: `meetings/YYYY-MM-DD.json` (agenda items + backup links), `meetings.json`, `commissioners.json/.md`, `commissioners/<slug>.json|.md` (profiles), `comments_roster.json` |
 | `content/wiki/` | Topic pages that cross-link the same item across meeting dates |
 | `content/calendar.ics` | Working draft copy of the ICS (keep in sync with `docs/calendar.ics`; **Pages serves `docs/calendar.ics`**) |
 
@@ -38,7 +38,7 @@ This repository is **only** for WPB civic content.
 
 - `external-access-log.md` — log **every** external read of city sites/agendas; never write to city systems.
 - `README.md` — team/agent ops notes.
-- `county/` — BCC pipeline: raw PDFs/HTML go to git-ignored `tmp/pbc/`; `parse_agendas.py` → `content/county/`; `roster_data.py` (cited roster) + `build_site.py` → `docs/county/`.
+- `county/` — BCC pipeline: raw PDFs/HTML go to git-ignored `tmp/pbc/`; `parse_agendas.py` → `content/county/`; `item_details.py` (district tags + commissioner names from agenda bodies); `roster_data.py` + `profile_data.py` (cited roster, bios) → `build_site.py` (calls `profiles.py`) → `docs/county/`.
 
 ## How agents update content
 

@@ -21,7 +21,7 @@
    "name": "Hal R. Valeche",
    "district": 1,
    "start": null,
-   "start_note": "In office before Nov 2018 (start of this record)",
+   "start_note": "In office before Nov 2018 (start of this record); first elected 2012, re-elected 2016 (County biography; 2016 SOE results)",
    "end": "2020-11-17",
    "end_note": "Successor sworn in at the Nov 17, 2020 reorganizational meeting",
    "elections": [],
@@ -219,11 +219,11 @@
      "result": "Lost, 45.37% (30,071 votes)"
     }
    ],
-   "status": "verified-partial",
+   "status": "verified",
    "evidence": [
     "Listed as District 3 commissioner in the BCC comments section of 36 BCC agendas, 2023-01-24 through 2024-11-05.",
     "Jan 10, 2023 BCC agenda: \"ADD-ON: Oath of Office to Newly Appointed County Commissioner (To be administered by Judge Artau)\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20230110.pdf).",
-    "Appointment by the Governor: press reports (Palm Beach Post, WPTV, Jan 2023)."
+    "Appointment: County District 3 Biography page (archived 2024-02-28, https://web.archive.org/web/20240228172139/https://discover.pbcgov.org/countycommissioners/district3/Pages/Biography.aspx) says he was appointed by Governor Ron DeSantis on January 5, 2023; Governor's press release (https://flgov.com/eog/news/press/2023/governor-ron-desantis-nominates-dave-kerner-executive-director-florida-department)."
    ],
    "mayor_terms": []
   },
@@ -249,9 +249,11 @@
     {
      "term": "2026–27",
      "role": "Vice Mayor",
-     "verification": "press report — pending official record",
+     "verification": "verified",
      "evidence": [
-      "Palm Beach Post, Nov 17, 2026 (reorganizational meeting coverage: Woodward to serve as mayor, Joel Flores vice mayor). No County agenda after Nov 17, 2026 was available to confirm this."
+      "County District 4 page contact block: \"Mayor / Marci Woodward\" (https://discover.pbc.gov/countycommissioners/district4/Pages/Biography.aspx, retrieved 2026-11-19)",
+      "County District 3 page contact block: \"Vice Mayor / Joel G. Flores\" (https://discover.pbc.gov/countycommissioners/district3/Pages/Biography.aspx, retrieved 2026-11-19)",
+      "Palm Beach Post, Nov 17, 2026 (reorganizational meeting coverage). No BCC agenda after Nov 17, 2026 was available yet."
      ]
     }
    ]
@@ -351,9 +353,11 @@
     {
      "term": "2026–27",
      "role": "Mayor",
-     "verification": "press report — pending official record",
+     "verification": "verified",
      "evidence": [
-      "Palm Beach Post, Nov 17, 2026 (reorganizational meeting coverage: Woodward to serve as mayor, Joel Flores vice mayor). No County agenda after Nov 17, 2026 was available to confirm this."
+      "County District 4 page contact block: \"Mayor / Marci Woodward\" (https://discover.pbc.gov/countycommissioners/district4/Pages/Biography.aspx, retrieved 2026-11-19)",
+      "County District 3 page contact block: \"Vice Mayor / Joel G. Flores\" (https://discover.pbc.gov/countycommissioners/district3/Pages/Biography.aspx, retrieved 2026-11-19)",
+      "Palm Beach Post, Nov 17, 2026 (reorganizational meeting coverage). No BCC agenda after Nov 17, 2026 was available yet."
      ]
     }
    ]
@@ -688,9 +692,11 @@
    "vice": "Joel G. Flores",
    "mayor_slug": "marci-woodward",
    "vice_slug": "joel-flores",
-   "status": "press report — pending official record",
+   "status": "verified",
    "evidence": [
-    "Palm Beach Post, Nov 17, 2026 (reorganizational meeting coverage: Woodward to serve as mayor, Joel Flores vice mayor). No County agenda after Nov 17, 2026 was available to confirm this."
+    "County District 4 page contact block: \"Mayor / Marci Woodward\" (https://discover.pbc.gov/countycommissioners/district4/Pages/Biography.aspx, retrieved 2026-11-19)",
+    "County District 3 page contact block: \"Vice Mayor / Joel G. Flores\" (https://discover.pbc.gov/countycommissioners/district3/Pages/Biography.aspx, retrieved 2026-11-19)",
+    "Palm Beach Post, Nov 17, 2026 (reorganizational meeting coverage). No BCC agenda after Nov 17, 2026 was available yet."
    ]
   }
  ]

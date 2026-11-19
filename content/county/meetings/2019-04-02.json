@@ -13,98 +13,196 @@
    "title": "National Correctional Officers and Employees Week",
    "section": "Special presentation",
    "department": null,
-   "backup": []
+   "backup": [],
+   "named": [
+    {
+     "surname": "Kerner",
+     "title": "Vice Mayor",
+     "context": "sponsored"
+    }
+   ]
   },
   {
    "number": "2C-2",
    "title": "National Library Week 2019",
    "section": "Special presentation",
    "department": null,
-   "backup": []
+   "backup": [],
+   "named": [
+    {
+     "surname": "Valeche",
+     "title": "Commissioner",
+     "context": "sponsored"
+    }
+   ]
   },
   {
    "number": "2C-3",
    "title": "Women of Tomorrow Day",
    "section": "Special presentation",
    "department": null,
-   "backup": []
+   "backup": [],
+   "named": [
+    {
+     "surname": "Weinroth",
+     "title": "Commissioner",
+     "context": "sponsored"
+    }
+   ]
   },
   {
    "number": "2C-4",
    "title": "Building Safety Month",
    "section": "Special presentation",
    "department": null,
-   "backup": []
+   "backup": [],
+   "named": [
+    {
+     "surname": "Valeche",
+     "title": "Commissioner",
+     "context": "sponsored"
+    }
+   ]
   },
   {
    "number": "2C-5",
    "title": "Palm Beach County Public Safety Telecommunicators Week",
    "section": "Special presentation",
    "department": null,
-   "backup": []
+   "backup": [],
+   "named": [
+    {
+     "surname": "Weinroth",
+     "title": "Commissioner",
+     "context": "sponsored"
+    }
+   ]
   },
   {
    "number": "2C-6",
    "title": "Palm Beach County Sheriff's Office Volunteer Day",
    "section": "Special presentation",
    "department": null,
-   "backup": []
+   "backup": [],
+   "named": [
+    {
+     "surname": "Bernard",
+     "title": "Mayor",
+     "context": "sponsored"
+    }
+   ]
   },
   {
    "number": "2C-7",
    "title": "Water Conservation Month",
    "section": "Special presentation",
    "department": null,
-   "backup": []
+   "backup": [],
+   "named": [
+    {
+     "surname": "Berger",
+     "title": "Commissioner",
+     "context": "sponsored"
+    }
+   ]
   },
   {
    "number": "2C-8",
    "title": "Drowning Prevention Awareness Month",
    "section": "Special presentation",
    "department": null,
-   "backup": []
+   "backup": [],
+   "named": [
+    {
+     "surname": "Weiss",
+     "title": "Commissioner",
+     "context": "sponsored"
+    }
+   ]
   },
   {
    "number": "2C-9",
    "title": "Second Chance Month",
    "section": "Special presentation",
    "department": null,
-   "backup": []
+   "backup": [],
+   "named": [
+    {
+     "surname": "Bernard",
+     "title": "Mayor",
+     "context": "sponsored"
+    }
+   ]
   },
   {
    "number": "2C-10",
    "title": "Child Abuse Prevention Month",
    "section": "Special presentation",
    "department": null,
-   "backup": []
+   "backup": [],
+   "named": [
+    {
+     "surname": "McKinlay",
+     "title": "Commissioner",
+     "context": "sponsored"
+    }
+   ]
   },
   {
    "number": "2C-11",
    "title": "Crime Victims' Rights Week",
    "section": "Special presentation",
    "department": null,
-   "backup": []
+   "backup": [],
+   "named": [
+    {
+     "surname": "Kerner",
+     "title": "Vice Mayor",
+     "context": "sponsored"
+    }
+   ]
   },
   {
    "number": "2C-12",
    "title": "The Lord's Place SleepOut/SleepIn to End Homelessness Month",
    "section": "Special presentation",
    "department": null,
-   "backup": []
+   "backup": [],
+   "named": [
+    {
+     "surname": "Berger",
+     "title": "Commissioner",
+     "context": "sponsored"
+    }
+   ]
   },
   {
    "number": "2C-13",
    "title": "Sexual Assault Awareness Month",
    "section": "Special presentation",
    "department": null,
-   "backup": []
+   "backup": [],
+   "named": [
+    {
+     "surname": "McKinlay",
+     "title": "Commissioner",
+     "context": "sponsored"
+    }
+   ]
   },
   {
    "number": "2C-14",
    "title": "Palm Beach County Gopher Tortoise Day",
    "section": "Special presentation",
    "department": null,
-   "backup": []
+   "backup": [],
+   "named": [
+    {
+     "surname": "Weiss",
+     "title": "Commissioner",
+     "context": "sponsored"
+    }
+   ]
   },
   {
    "number": "2D-1",
@@ -113,6 +211,9 @@
    "department": null,
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/2D1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -122,6 +223,9 @@
    "department": "Administration",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3A1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -131,6 +235,9 @@
    "department": "Administration",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3A2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -156,6 +263,9 @@
    "department": "Clerk & Comptroller",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3B3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -165,6 +275,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3C1.pdf"
+   ],
+   "districts": [
+    "5"
    ]
   },
   {
@@ -174,6 +287,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3C2.pdf"
+   ],
+   "districts": [
+    "4"
    ]
   },
   {
@@ -183,6 +299,9 @@
    "department": "Engineering & Public Works",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3C3.pdf"
+   ],
+   "districts": [
+    "6"
    ]
   },
   {
@@ -190,7 +309,10 @@
    "title": "Work order with Ranger Construction Industries, Inc. for resurface of streets within the Sandalfoot subdivision",
    "section": "Consent",
    "department": "Engineering & Public Works",
-   "backup": []
+   "backup": [],
+   "districts": [
+    "5"
+   ]
   },
   {
    "number": "3D-1",
@@ -199,6 +321,9 @@
    "department": "County Attorney",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3D1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -208,6 +333,9 @@
    "department": "Community Services",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3E1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -217,6 +345,9 @@
    "department": "Community Services",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3E2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -226,6 +357,9 @@
    "department": "Airports",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3F1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -235,6 +369,9 @@
    "department": "Airports",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3F2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -244,6 +381,9 @@
    "department": "Airports",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3F3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -253,6 +393,9 @@
    "department": "Airports",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3F4.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -262,6 +405,9 @@
    "department": "Airports",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3F5.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -271,6 +417,11 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3H1.pdf"
+   ],
+   "districts": [
+    "1",
+    "2",
+    "3"
    ]
   },
   {
@@ -280,6 +431,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3H2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -289,6 +443,9 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3H3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -298,6 +455,10 @@
    "department": "Facilities Development & Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3H4.pdf"
+   ],
+   "districts": [
+    "7",
+    "Countywide"
    ]
   },
   {
@@ -307,6 +468,9 @@
    "department": "Planning, Zoning & Building",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3J1.pdf"
+   ],
+   "districts": [
+    "7"
    ]
   },
   {
@@ -316,6 +480,10 @@
    "department": "Water Utilities",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3K1.pdf"
+   ],
+   "districts": [
+    "2",
+    "5"
    ]
   },
   {
@@ -325,6 +493,9 @@
    "department": "Water Utilities",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3K2.pdf"
+   ],
+   "districts": [
+    "6"
    ]
   },
   {
@@ -334,6 +505,9 @@
    "department": "Water Utilities",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3K3.pdf"
+   ],
+   "districts": [
+    "3"
    ]
   },
   {
@@ -343,6 +517,10 @@
    "department": "Water Utilities",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3K4.pdf"
+   ],
+   "districts": [
+    "3",
+    "5"
    ]
   },
   {
@@ -352,6 +530,10 @@
    "department": "Environmental Resources Management",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3L1.pdf"
+   ],
+   "districts": [
+    "1",
+    "7"
    ]
   },
   {
@@ -361,6 +543,13 @@
    "department": "Environmental Resources Management",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3L2.pdf"
+   ],
+   "districts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "7"
    ]
   },
   {
@@ -370,6 +559,10 @@
    "department": "Environmental Resources Management",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3L3.pdf"
+   ],
+   "districts": [
+    "3",
+    "7"
    ]
   },
   {
@@ -379,6 +572,9 @@
    "department": "Environmental Resources Management",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3L4.pdf"
+   ],
+   "districts": [
+    "1"
    ]
   },
   {
@@ -388,6 +584,9 @@
    "department": "Parks & Recreation",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3M1.pdf"
+   ],
+   "districts": [
+    "6"
    ]
   },
   {
@@ -397,6 +596,9 @@
    "department": "Criminal Justice Commission",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3Q1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -406,6 +608,9 @@
    "department": "Information Systems Services",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3U1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -415,6 +620,9 @@
    "department": "Information Systems Services",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3U2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -424,6 +632,9 @@
    "department": "Public Safety",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3X1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -433,6 +644,9 @@
    "department": "Public Safety",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3X2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -442,6 +656,9 @@
    "department": "Public Safety",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3X3.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -451,6 +668,9 @@
    "department": "Public Safety",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3X4.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -460,6 +680,9 @@
    "department": "Public Safety",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3X5.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -469,6 +692,9 @@
    "department": "Sheriff",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3CC1.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -478,6 +704,9 @@
    "department": "Sheriff",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/3CC2.pdf"
+   ],
+   "districts": [
+    "Countywide"
    ]
   },
   {
@@ -487,6 +716,9 @@
    "department": "Facilities Development And Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/4A1.pdf"
+   ],
+   "districts": [
+    "7"
    ]
   },
   {
@@ -496,6 +728,9 @@
    "department": "Facilities Development And Operations",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/4A2.pdf"
+   ],
+   "districts": [
+    "2"
    ]
   },
   {
@@ -512,6 +747,9 @@
    "department": "Housing And Economic Sustainability",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/4C1.pdf"
+   ],
+   "districts": [
+    "2"
    ]
   },
   {
@@ -521,8 +759,12 @@
    "department": "Housing And Economic Sustainability",
    "backup": [
     "https://www.pbcgov.com/pubInf/Agenda/20190402/4C2.pdf"
+   ],
+   "districts": [
+    "1"
    ]
   }
  ],
- "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas.",
+ "item_details_note": "districts and named come from the item text in the agenda body (district tag at the end of each item; commissioners named with their title). Automated extraction; see the agenda PDF."
 }

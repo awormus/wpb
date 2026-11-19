@@ -1,0 +1,535 @@
+{
+ "slug": "bobby-powell-jr",
+ "name": "Bobby Powell Jr.",
+ "district": 7,
+ "seat": {
+  "start": "2024-11-19",
+  "start_note": null,
+  "end": null,
+  "end_note": null
+ },
+ "took_seat": "Elected (2024)",
+ "party": {
+  "code": "DEM",
+  "source": "Palm Beach County Supervisor of Elections — 2024 General Election Results",
+  "url": "https://enr.electionsfl.org/PAL/Summary/3703/",
+  "note": "Party as printed on Supervisor of Elections results (race label or candidate suffix)."
+ },
+ "status": "Serving",
+ "left_office": [],
+ "after_office": [],
+ "mayor_terms": [],
+ "elections": [
+  {
+   "election": "2024 Primary Election Results",
+   "year": 2024,
+   "kind": "primary",
+   "race": "Board of County Commissioners - District 7 - DEM",
+   "result": "won primary",
+   "candidate_as_listed": "Bobby Powell Jr (DEM)",
+   "votes": "10,379",
+   "pct": "65.77%",
+   "total_votes": "15,781",
+   "all_candidates": [
+    {
+     "name": "Bobby Powell Jr (DEM)",
+     "pct": "65.77%",
+     "votes": "10,379"
+    },
+    {
+     "name": "Richard A. Ryles (DEM)",
+     "pct": "34.23%",
+     "votes": "5,402"
+    }
+   ],
+   "source": "Palm Beach County Supervisor of Elections — 2024 Primary Election Results",
+   "url": "https://enr.electionsfl.org/PAL/Summary/3630/"
+  },
+  {
+   "election": "2024 General Election Results",
+   "year": 2024,
+   "kind": "general",
+   "race": "Board of County Commissioners, District 7",
+   "result": "won",
+   "candidate_as_listed": "Bobby Powell Jr (DEM)",
+   "votes": "52,978",
+   "pct": "69.69%",
+   "total_votes": "76,017",
+   "all_candidates": [
+    {
+     "name": "Leonard L. Serratore (REP)",
+     "pct": "30.10%",
+     "votes": "22,881"
+    },
+    {
+     "name": "Bobby Powell Jr (DEM)",
+     "pct": "69.69%",
+     "votes": "52,978"
+    },
+    {
+     "name": "Write-in",
+     "pct": "0.21%",
+     "votes": "158"
+    }
+   ],
+   "source": "Palm Beach County Supervisor of Elections — 2024 General Election Results",
+   "url": "https://enr.electionsfl.org/PAL/Summary/3703/"
+  }
+ ],
+ "officer_term_ending_nov_2018": null,
+ "bio": [
+  "Elected to the County Commission in November 2024 after eight years in the Florida Senate and four years in the Florida House of Representatives; served as Senate Minority Leader Pro Tempore and chaired the Florida Legislative Black Caucus (2020–2022).",
+  "Professional land use planner (AICP); worked more than a decade as a project manager with Urban Design Studio.",
+  "Palm Beach County native and Palm Beach Gardens High School graduate; B.S. in Journalism, Florida A&M University; M.S. in Urban & Regional Planning, Florida State University."
+ ],
+ "bio_source": {
+  "label": "Bobby Powell Jr. biography (official County district Biography page, retrieved 2026-11-19)",
+  "url": "https://discover.pbc.gov/countycommissioners/district7/Pages/Biography.aspx"
+ },
+ "activity": {
+  "window": {
+   "from": "2024-11-19",
+   "to": null
+  },
+  "meetings_with_agenda": 55,
+  "first_meeting": "2024-11-19",
+  "last_meeting": "2026-11-17",
+  "agendas_listing_in_commissioner_comments": 38,
+  "items_naming": {
+   "named": 3,
+   "nominated": 9
+  },
+  "items_naming_total": 12,
+  "district_tagged_items": 164,
+  "district_tagged_by_section": {
+   "Consent": 149,
+   "Regular": 15
+  },
+  "district_only_items": 105,
+  "special_presentations_tagged_district": 43,
+  "named_items": {
+   "named": [
+    {
+     "date": "2025-01-07",
+     "number": "3M-8",
+     "title": "Amendment No. 1 of the FDOC Grant Agreement to extend the end date.",
+     "section": "Consent",
+     "link": "../../meetings/2025-01-07/#item-3M-8",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2026-02-03",
+     "number": "3M-3",
+     "title": "Ratification for Amendment No. 2 with FDOC to extend the end date and increase the overall total funding for the Peanut Island Historic Restoration project.",
+     "section": "Consent",
+     "link": "../../meetings/2026-02-03/#item-3M-3",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2026-05-05",
+     "number": "4C",
+     "title": "Historic Preservation Month",
+     "section": "Special presentation",
+     "link": "../../meetings/2026-05-05/#item-4C",
+     "as_title": "Commissioner"
+    }
+   ],
+   "nominated": [
+    {
+     "date": "2025-03-11",
+     "number": "3GG-1",
+     "title": "Reappointment of five (5) members to the Health Facilities Authority.",
+     "section": "Consent",
+     "link": "../../meetings/2025-03-11/#item-3GG-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2025-05-06",
+     "number": "3E-1",
+     "title": "Board appointment of three (3) new members to the Community Action Advisory Board.",
+     "section": "Consent",
+     "link": "../../meetings/2025-05-06/#item-3E-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2025-09-16",
+     "number": "3E-5",
+     "title": "Reappointment of one (1) member to the Citizens Advisory Committee on Health and Human Services.",
+     "section": "Consent",
+     "link": "../../meetings/2025-09-16/#item-3E-5",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2025-09-16",
+     "number": "3GG-1",
+     "title": "Reappointment of two (2) members to the Westgate CRA.",
+     "section": "Consent",
+     "link": "../../meetings/2025-09-16/#item-3GG-1",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2026-02-03",
+     "number": "3G-3",
+     "title": "Appointment of two (2) members to the Investment Policy Committee.",
+     "section": "Consent",
+     "link": "../../meetings/2026-02-03/#item-3G-3",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2026-03-03",
+     "number": "3I-2",
+     "title": "Appointment of four (4) to the Small Business Development Advisory Committee.",
+     "section": "Consent",
+     "link": "../../meetings/2026-03-03/#item-3I-2",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2026-03-10",
+     "number": "3G-2",
+     "title": "Appointment and reappointment of members to the Impact Fee Review Committee.",
+     "section": "Consent",
+     "link": "../../meetings/2026-03-10/#item-3G-2",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2026-10-06",
+     "number": "3E-7",
+     "title": "Reappointments to the Veteran Services Advisory Board.",
+     "section": "Consent",
+     "link": "../../meetings/2026-10-06/#item-3E-7",
+     "as_title": "Commissioner"
+    },
+    {
+     "date": "2026-10-20",
+     "number": "3G-1",
+     "title": "Reappoint Mark Feldmesser to the Contract Review Committee and waive the consecutive- meeting absence provision.",
+     "section": "Consent",
+     "link": "../../meetings/2026-10-20/#item-3G-1",
+     "as_title": "Commissioner"
+    }
+   ]
+  },
+  "special_presentations": [
+   {
+    "date": "2025-01-07",
+    "number": "4J",
+    "title": "Edith Bush Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-01-07/#item-4J"
+   },
+   {
+    "date": "2025-01-07",
+    "number": "4L",
+    "title": "Martin Luther King Jr. Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-01-07/#item-4L"
+   },
+   {
+    "date": "2025-02-04",
+    "number": "4B",
+    "title": "Black History Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-02-04/#item-4B"
+   },
+   {
+    "date": "2025-02-04",
+    "number": "4D",
+    "title": "Lion Order Gold Health & Wealth Symposium Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-02-04/#item-4D"
+   },
+   {
+    "date": "2025-02-04",
+    "number": "4I",
+    "title": "Honoring Four African American Youth for Eagle Scout Achievements",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-02-04/#item-4I"
+   },
+   {
+    "date": "2025-03-11",
+    "number": "4E",
+    "title": "Social Work Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-03-11/#item-4E"
+   },
+   {
+    "date": "2025-03-11",
+    "number": "4G",
+    "title": "Brain Injury Awareness Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-03-11/#item-4G"
+   },
+   {
+    "date": "2025-04-01",
+    "number": "4A",
+    "title": "Second Chance Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-04-01/#item-4A"
+   },
+   {
+    "date": "2025-04-01",
+    "number": "4C",
+    "title": "Landscape Architecture Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-04-01/#item-4C"
+   },
+   {
+    "date": "2025-06-03",
+    "number": "4E",
+    "title": "Juneteenth Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-06-03/#item-4E"
+   },
+   {
+    "date": "2025-06-03",
+    "number": "4G",
+    "title": "Juneteenth of PBC Inc. for its Cultural Impact on PBC",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-06-03/#item-4G"
+   },
+   {
+    "date": "2025-07-08",
+    "number": "4A",
+    "title": "EmpowHER of the Palm Beaches Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-07-08/#item-4A"
+   },
+   {
+    "date": "2025-07-08",
+    "number": "4C",
+    "title": "14th Annual KidsFit Jamathon",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-07-08/#item-4C"
+   },
+   {
+    "date": "2025-08-19",
+    "number": "4A",
+    "title": "122nd Anniversary of Friendship Missionary Baptist Church of West Palm Beach",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-08-19/#item-4A"
+   },
+   {
+    "date": "2025-08-19",
+    "number": "4C",
+    "title": "Comcast Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-08-19/#item-4C"
+   },
+   {
+    "date": "2025-09-09",
+    "number": "4G",
+    "title": "Building Community Resilience from the Crack Cocaine Epidemic Awareness Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-09-09/#item-4G"
+   },
+   {
+    "date": "2025-09-09",
+    "number": "4I",
+    "title": "Mrs. Janie Brown Lowe Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-09-09/#item-4I"
+   },
+   {
+    "date": "2025-10-07",
+    "number": "4F",
+    "title": "Parianna Previous Hands Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-10-07/#item-4F"
+   },
+   {
+    "date": "2025-10-07",
+    "number": "4H",
+    "title": "Poverty Awareness Week",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-10-07/#item-4H"
+   },
+   {
+    "date": "2025-11-04",
+    "number": "4F",
+    "title": "National Hunger and Homelessness Awareness Week",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-11-04/#item-4F"
+   },
+   {
+    "date": "2025-12-02",
+    "number": "4B",
+    "title": "Mrs. Althea Holmes Hall Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-12-02/#item-4B"
+   },
+   {
+    "date": "2025-12-02",
+    "number": "4E",
+    "title": "35th Anniversary of Omicron Delta Zeta Chapter of Zeta Phi Beta",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-12-02/#item-4E"
+   },
+   {
+    "date": "2025-12-02",
+    "number": "4G",
+    "title": "Zeta Tau Omega Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2025-12-02/#item-4G"
+   },
+   {
+    "date": "2026-01-06",
+    "number": "4I",
+    "title": "Martin Luther King Jr. Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-01-06/#item-4I"
+   },
+   {
+    "date": "2026-01-06",
+    "number": "4J",
+    "title": "National Battle of the Bands Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-01-06/#item-4J"
+   },
+   {
+    "date": "2026-02-03",
+    "number": "4A",
+    "title": "Black History Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-02-03/#item-4A"
+   },
+   {
+    "date": "2026-02-03",
+    "number": "4C",
+    "title": "Frances J. Bright Women's Club Chairtable Foundation, Inc. Dedicated Service",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-02-03/#item-4C"
+   },
+   {
+    "date": "2026-02-03",
+    "number": "4E",
+    "title": "First African American Research Library & Cultural Center",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-02-03/#item-4E"
+   },
+   {
+    "date": "2026-03-03",
+    "number": "4N",
+    "title": "American Red Cross Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-03-03/#item-4N"
+   },
+   {
+    "date": "2026-03-03",
+    "number": "4O",
+    "title": "Highridge Family Center Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-03-03/#item-4O"
+   },
+   {
+    "date": "2026-04-14",
+    "number": "4I",
+    "title": "Landscape Architecture Month",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-04-14/#item-4I"
+   },
+   {
+    "date": "2026-04-14",
+    "number": "4K",
+    "title": "National Library Week",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-04-14/#item-4K"
+   },
+   {
+    "date": "2026-05-05",
+    "number": "4H",
+    "title": "Economic Development Week",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-05-05/#item-4H"
+   },
+   {
+    "date": "2026-05-05",
+    "number": "4J",
+    "title": "ALS Awareness Month Suncoast Boys Basketball Team",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-05-05/#item-4J"
+   },
+   {
+    "date": "2026-06-02",
+    "number": "4B",
+    "title": "New Leaders Council Class of 2026 (D7)",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-06-02/#item-4B"
+   },
+   {
+    "date": "2026-06-02",
+    "number": "4D",
+    "title": "75th Anniversary of PBC Chapter of The Charmettes, Inc. (D7)",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-06-02/#item-4D"
+   },
+   {
+    "date": "2026-07-07",
+    "number": "4F",
+    "title": "National Parents' Day (D7)",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-07-07/#item-4F"
+   },
+   {
+    "date": "2026-08-25",
+    "number": "4B",
+    "title": "National Black Business Month (D7)",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-08-25/#item-4B"
+   },
+   {
+    "date": "2026-08-25",
+    "number": "4D",
+    "title": "City of Riviera Beach as 2026 All-American City Award Winner (D7)",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-08-25/#item-4D"
+   },
+   {
+    "date": "2026-09-01",
+    "number": "4B",
+    "title": "Domestic Violence Awareness Month (D7)",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-09-01/#item-4B"
+   },
+   {
+    "date": "2026-09-01",
+    "number": "4D",
+    "title": "Glow Foundation Alliance Day (D7)",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-09-01/#item-4D"
+   },
+   {
+    "date": "2026-11-10",
+    "number": "4F",
+    "title": "4th Annual Young Men of Distinction Takeover Weekend",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-11-10/#item-4F"
+   },
+   {
+    "date": "2026-11-10",
+    "number": "4H",
+    "title": "GIS Day",
+    "section": "Special presentation",
+    "link": "../../meetings/2026-11-10/#item-4H"
+   }
+  ]
+ },
+ "roster_status": "verified",
+ "roster_evidence": [
+  "Listed as District 7 commissioner in the BCC comments section of 38 BCC agendas, 2024-11-19 through 2026-11-17."
+ ],
+ "sources_extra": {
+  "charter": {
+   "label": "Palm Beach County Charter, Sec. 2.2 (no reelection on the ballot after eight consecutive years)",
+   "url": "https://discover.pbc.gov/PDF/Publications/Charter.pdf"
+  },
+  "flgov": {
+   "label": "Executive Office of the Governor press release, Jan 2023",
+   "url": "https://flgov.com/eog/news/press/2023/governor-ron-desantis-nominates-dave-kerner-executive-director-florida-department"
+  },
+  "flhsmv": {
+   "label": "FLHSMV news release, Jan 17, 2023",
+   "url": "https://www.flhsmv.gov/2023/01/17/dave-kerner-approved-by-governor-desantis-and-the-cabinet-as-executive-director-of-florida-department-of-highway-safety-and-motor-vehicles/"
+  }
+ },
+ "generated": "2026-11-19"
+}

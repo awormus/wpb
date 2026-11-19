@@ -1,0 +1,127 @@
+{
+ "slug": "katherine-waldron",
+ "name": "Katherine M. Waldron",
+ "district": 6,
+ "seat": {
+  "start": "2026-11-17",
+  "start_note": null,
+  "end": null,
+  "end_note": null
+ },
+ "took_seat": "Elected (2026)",
+ "party": {
+  "code": "DEM",
+  "source": "Palm Beach County Supervisor of Elections — 2026 General Election Results",
+  "url": "https://enr.electionsfl.org/PAL/4131/Summary/",
+  "note": "Party as printed on Supervisor of Elections results (race label or candidate suffix)."
+ },
+ "status": "Serving",
+ "left_office": [],
+ "after_office": [],
+ "mayor_terms": [],
+ "elections": [
+  {
+   "election": "2026 Primary Election Results",
+   "year": 2026,
+   "kind": "primary",
+   "race": "Board of County Commissioners, District 6 - DEM",
+   "result": "won primary",
+   "candidate_as_listed": "Katherine Waldron (DEM)",
+   "votes": "7,595",
+   "pct": "53.42%",
+   "total_votes": "14,217",
+   "all_candidates": [
+    {
+     "name": "Mario F. Guzman (DEM)",
+     "pct": "13.41%",
+     "votes": "1,906"
+    },
+    {
+     "name": "Rudolph \"Rudy\" Tinker (DEM)",
+     "pct": "33.17%",
+     "votes": "4,716"
+    },
+    {
+     "name": "Katherine Waldron (DEM)",
+     "pct": "53.42%",
+     "votes": "7,595"
+    }
+   ],
+   "source": "Palm Beach County Supervisor of Elections — 2026 Primary Election Results",
+   "url": "https://enr.electionsfl.org/PAL/4035/Summary/"
+  },
+  {
+   "election": "2026 General Election Results",
+   "year": 2026,
+   "kind": "general",
+   "race": "Board of County Commissioners, District 6",
+   "result": "won",
+   "candidate_as_listed": "Katherine Waldron (DEM)",
+   "votes": "50,913",
+   "pct": "58.22%",
+   "total_votes": "87,455",
+   "all_candidates": [
+    {
+     "name": "Sara Baxter (REP)",
+     "pct": "41.78%",
+     "votes": "36,542"
+    },
+    {
+     "name": "Katherine Waldron (DEM)",
+     "pct": "58.22%",
+     "votes": "50,913"
+    }
+   ],
+   "source": "Palm Beach County Supervisor of Elections — 2026 General Election Results",
+   "url": "https://enr.electionsfl.org/PAL/4131/Summary/"
+  }
+ ],
+ "officer_term_ending_nov_2018": null,
+ "bio": [
+  "Before the County Commission, served as State Representative for District 93 (Wellington, Greenacres and western Lake Worth).",
+  "Earlier elected to two terms on the Port of Palm Beach Commission, including as chair.",
+  "Business executive with Fortune 50 companies and small-business founder; B.A. in Economics, University of Virginia; MBA, Palm Beach Atlantic University. Palm Beach County resident since 2002.",
+  "Co-founded Palm Beach County Cares in 2017 (per the page)."
+ ],
+ "bio_source": {
+  "label": "Katherine M. Waldron biography (official County district Biography page, retrieved 2026-11-19)",
+  "url": "https://discover.pbc.gov/countycommissioners/district6/Pages/Biography.aspx"
+ },
+ "activity": {
+  "window": {
+   "from": "2026-11-17",
+   "to": null
+  },
+  "meetings_with_agenda": 1,
+  "first_meeting": "2026-11-17",
+  "last_meeting": "2026-11-17",
+  "agendas_listing_in_commissioner_comments": 1,
+  "items_naming": {},
+  "items_naming_total": 0,
+  "district_tagged_items": 0,
+  "district_tagged_by_section": {},
+  "district_only_items": 0,
+  "special_presentations_tagged_district": 0,
+  "named_items": {},
+  "special_presentations": []
+ },
+ "roster_status": "verified",
+ "roster_evidence": [
+  "Nov 17, 2026 agenda BCC comments section lists \"District 6 – Commissioner Waldron\"; pbc.gov district list (Nov 2026)."
+ ],
+ "sources_extra": {
+  "charter": {
+   "label": "Palm Beach County Charter, Sec. 2.2 (no reelection on the ballot after eight consecutive years)",
+   "url": "https://discover.pbc.gov/PDF/Publications/Charter.pdf"
+  },
+  "flgov": {
+   "label": "Executive Office of the Governor press release, Jan 2023",
+   "url": "https://flgov.com/eog/news/press/2023/governor-ron-desantis-nominates-dave-kerner-executive-director-florida-department"
+  },
+  "flhsmv": {
+   "label": "FLHSMV news release, Jan 17, 2023",
+   "url": "https://www.flhsmv.gov/2023/01/17/dave-kerner-approved-by-governor-desantis-and-the-cabinet-as-executive-director-of-florida-department-of-highway-safety-and-motor-vehicles/"
+  }
+ },
+ "generated": "2026-11-19"
+}

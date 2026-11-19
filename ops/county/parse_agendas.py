@@ -8,7 +8,7 @@ OUT = os.path.join(ROOT, 'content', 'county', 'meetings')
 PDF_URL = 'https://discover.pbc.gov/countycommissioners/Agenda_Master/{k}.pdf'
 HTM_URL = 'https://www.pbcgov.com/pubInf/Agenda/{k}/{k}.htm'
 CODE = re.compile(r'^\s{0,12}(\d{1,2}[A-Z]{1,3}-\d{1,3})(?=\s|[A-Z*(])\s*[-–]?\s*(.*)$')
-CODE_NODASH = re.compile(r'^\s{0,12}(\d{1,2}[A-Z]{1,2})\s+[-–]\s+(.+)$')   # e.g. "4A - Hunger and Homelessness ..."
+CODE_NODASH = re.compile(r'^\s{0,12}(\d{1,2}[A-Z]{1,2})(?:\s+[-–]\s+|\s{2,})([A-Z0-9“"\'].+)$')   # e.g. "4A - Hunger and Homelessness ..."
 DEPT = re.compile(r"^\s{0,12}([A-Z]{1,2})\.\s+([A-Z][A-Z0-9&,'’/().\- ]{2,})$")
 PAGE = re.compile(r'^\s*Page\s+\d+\s*$')
 SECTION_WORDS = [('CONSENT AGENDA', 'Consent'), ('REGULAR AGENDA', 'Regular'), ('PUBLIC HEARING', 'Public hearing'),
@@ -18,6 +18,7 @@ SECTION_WORDS = [('CONSENT AGENDA', 'Consent'), ('REGULAR AGENDA', 'Regular'), (
 MONTHS = 'JANUARY|FEBRUARY|MARCH|APRIL|MAY|JUNE|JULY|AUGUST|SEPTEMBER|OCTOBER|NOVEMBER|DECEMBER'
 
 def section_of(line):
+    line = re.sub(r'\s*\(Pages?\s[^)]*\)', '', line)
     u = re.sub(r'\s+', ' ', line.strip().upper())
     if len(u) > 70 or re.search(r'[a-z]', line): return None
     for w, s in SECTION_WORDS:
