@@ -1,0 +1,57 @@
+{
+ "date": "2019-08-27",
+ "type": "Workshop",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20190827.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20190827/20190827.htm",
+ "agenda_pages": 3,
+ "items_source": "order of business + agenda body",
+ "item_count": 5,
+ "backup_pdf_count": 4,
+ "items": [
+  {
+   "number": "4.A",
+   "title": "9:30 A.M. 2020 Census Update (Admin/PZB/Public Affairs)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "4.B",
+   "title": "10:30 A.M. Opportunity Zone Overview (HES)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "3A-1",
+   "title": "Staff recommends motion to receive and file: Warrant List – Backup information can be viewed in the Clerk & Comptroller's Office.",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": []
+  },
+  {
+   "number": "3A-2",
+   "title": "Staff recommends motion to approve: Contracts (regular) and claim settlements list as submitted by various departments to the Clerk & Comptroller=s Office. Countywide",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20190827/3A2.pdf"
+   ]
+  },
+  {
+   "number": "3B-1",
+   "title": "Staff recommends motion to authorize: the County Administrator or designee to develop and submit comments to the U.S. Army Corps of Engineers (Corps) on the Draft Environmental Assessment (EA) and Proposed Finding of No Significant Impact (FONSI) for the 2019 Planned Deviation to the Water Control Plan for Lake Okeechobee and Everglades Agricultural Area, including concerns with the lack of stakeholder participation and the potential unpredictability of the proposed",
+   "section": "Regular",
+   "department": "Administration",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20190827/3B1.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

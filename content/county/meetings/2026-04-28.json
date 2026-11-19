@@ -1,0 +1,37 @@
+{
+ "date": "2026-04-28",
+ "type": "Workshop",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20260428.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20260428/20260428.htm",
+ "agenda_pages": 2,
+ "items_source": "order of business + agenda body",
+ "item_count": 3,
+ "backup_pdf_count": 2,
+ "items": [
+  {
+   "number": "4.A",
+   "title": "CDBG/HOME/ESG Action Plan – Fiscal Year 2026 – 2027 (HED)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "4.B",
+   "title": "Performance Review Process – Contractual Employees (ADMIN)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "3A-1",
+   "title": "Staff recommends motion to receive and file: Warrant List – Backup information can be viewed in the Clerk & Comptroller's Office. ************ 2",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": []
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

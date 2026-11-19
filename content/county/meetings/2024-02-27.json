@@ -1,0 +1,55 @@
+{
+ "date": "2024-02-27",
+ "type": "Workshop",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20240227.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20240227/20240227.htm",
+ "agenda_pages": 3,
+ "items_source": "order of business + agenda body",
+ "item_count": 5,
+ "backup_pdf_count": 4,
+ "items": [
+  {
+   "number": "4.A",
+   "title": "Revisions to the Purchasing Ordinance (FDO)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "4.B",
+   "title": "Overview of Governmental Center Renewal/Replacement Projects (FDO)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "4.C",
+   "title": "Overview of Animal Care & Control Facility Renewal/Replacement Project (FDO)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "3A-1",
+   "title": "Staff recommends motion to receive and file: Warrant List – Backup information can be viewed in the Clerk & Comptroller's Office.",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": []
+  },
+  {
+   "number": "3B-1",
+   "title": "Staff recommends motion to approve: On preliminary reading and permission to advertise for public hearing on March 12, 2024 at 9:30 AM: AN ORDINANCE OF THE BOARD OF COUNTY COMMISSIONERS OF PALM BEACH COUNTY, FLORIDA, AMENDING CHAPTER 2, ARTICLE III, DIVISION 2, PART C OF THE PALM BEACH COUNTY CODE, (ORDINANCE NO. 2018-021), PERTAINING TO THE EQUAL BUSINESS OPPORTUNITY PROGRAM; PROVIDING FOR DEFINITIONS; PROVIDING FOR PROGRAM ADMINISTRATION; PROVIDING",
+   "section": "Regular",
+   "department": "Office Of Equal Business Opportunity",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240227/3B1.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

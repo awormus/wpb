@@ -1,0 +1,488 @@
+{
+ "date": "2022-10-04",
+ "type": "Regular board meeting",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20221004.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20221004/20221004.htm",
+ "agenda_pages": 54,
+ "items_source": "table of contents",
+ "item_count": 53,
+ "backup_pdf_count": 52,
+ "items": [
+  {
+   "number": "3B-1",
+   "title": "Warrant list",
+   "section": "Consent",
+   "department": "Clerk & Comptroller",
+   "backup": []
+  },
+  {
+   "number": "3B-2",
+   "title": "Minutes",
+   "section": "Consent",
+   "department": "Clerk & Comptroller",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3B2.pdf"
+   ]
+  },
+  {
+   "number": "3B-3",
+   "title": "Contracts and claims settlements list",
+   "section": "Consent",
+   "department": "Clerk & Comptroller",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3B3.pdf"
+   ]
+  },
+  {
+   "number": "3B-4",
+   "title": "Change orders, work task orders, minor contracts, final payments, etc.",
+   "section": "Consent",
+   "department": "Clerk & Comptroller",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3B4.pdf"
+   ]
+  },
+  {
+   "number": "3B-5",
+   "title": "Receive and file records that have met retention schedule to be destroyed",
+   "section": "Consent",
+   "department": "Clerk & Comptroller",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3B5.pdf"
+   ]
+  },
+  {
+   "number": "3C-1",
+   "title": "Receive and file 16 street lighting agreements with Florida Power & Light",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3C1.pdf"
+   ]
+  },
+  {
+   "number": "3C-2",
+   "title": "Contract with Rosso Site Development, Inc. for the Flavor Pict Road from SR 7 to Lyons Road project",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3C2.pdf"
+   ]
+  },
+  {
+   "number": "3E-1",
+   "title": "Reappointment to the Community Action Advisory Board",
+   "section": "Consent",
+   "department": "Community Services",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3E1.pdf"
+   ]
+  },
+  {
+   "number": "3E-2",
+   "title": "Agreements with seven agencies for provision of homeless services",
+   "section": "Consent",
+   "department": "Community Services",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3E2.pdf"
+   ]
+  },
+  {
+   "number": "3E-3",
+   "title": "Agreements with twelve agencies for handicapped services",
+   "section": "Consent",
+   "department": "Community Services",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3E3.pdf"
+   ]
+  },
+  {
+   "number": "3E-4",
+   "title": "Ratify the Mayor's signature on the Grant Year 2022 Florida Department of Education Project Application for the Farmworker Career Development Program",
+   "section": "Consent",
+   "department": "Community Services",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3E4.pdf"
+   ]
+  },
+  {
+   "number": "3E-5",
+   "title": "Receive and file Notice of Award from the U.S. Department of Health and Human Services, Health Resources and Services Administration for programs to improving health outcomes for residents with HIV/AIDS",
+   "section": "Consent",
+   "department": "Community Services",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3E5.pdf"
+   ]
+  },
+  {
+   "number": "3F-1",
+   "title": "Receive and file award modification with the Transportation Security Administration for law enforcement services at Palm Beach International Airport",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3F1.pdf"
+   ]
+  },
+  {
+   "number": "3F-2",
+   "title": "Change order to amendment to contract with The Morganti Group, Inc. for the generator controller replacement project",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3F2.pdf"
+   ]
+  },
+  {
+   "number": "3F-3",
+   "title": "Change order to contract with Alen Construction Group, Inc. for the 400Hz ground power unit point of use replacement project",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3F3.pdf"
+   ]
+  },
+  {
+   "number": "3F-4",
+   "title": "Receive and file termination agreement with the Florida Department of Transportation for the Runway 14-32 Expansion at North Palm Beach County General Aviation Airport project",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3F4.pdf"
+   ]
+  },
+  {
+   "number": "3H-1",
+   "title": "Interlocal agreement with the City of Riviera Beach for radio equipment maintenance services",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3H1.pdf"
+   ]
+  },
+  {
+   "number": "3H-2",
+   "title": "Interlocal agreement with the City of Plantation for interoperable communications",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3H2.pdf"
+   ]
+  },
+  {
+   "number": "3H-3",
+   "title": "Appointments to the Public Art Committee",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3H3.pdf"
+   ]
+  },
+  {
+   "number": "3H-4",
+   "title": "Receive and file change order to amendment to contract with Hedrick Brothers Construction Co., Inc. for the Main Detention Center R/R South Tower Electronics project",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3H4.pdf"
+   ]
+  },
+  {
+   "number": "3H-5",
+   "title": "Contract with Solarguard Roofing, Inc. for general minor construction services",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3H5.pdf"
+   ]
+  },
+  {
+   "number": "3H-6",
+   "title": "Contract with CMS Plumbing Corp for plumbing services",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3H6.pdf"
+   ]
+  },
+  {
+   "number": "3H-7",
+   "title": "Contract with Mueller Construction and Management Company for flooring services",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3H7.pdf"
+   ]
+  },
+  {
+   "number": "3H-8",
+   "title": "Contract with Pro Sound, Inc. for low voltage services",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3H8.pdf"
+   ]
+  },
+  {
+   "number": "3H-9",
+   "title": "Increase in maximum dollar value of the annual electrical contract",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3H9.pdf"
+   ]
+  },
+  {
+   "number": "3H-10",
+   "title": "Contract with Kurisu, LLC for the Morikami Museum and Japanese Gardens project",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3H10.pdf"
+   ]
+  },
+  {
+   "number": "3L-1",
+   "title": "Contract with B&B Underground Construction, Inc. for the Casing Under A1A at Ocean Inlet Park Project",
+   "section": "Consent",
+   "department": "Environmental Resources Management",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3L1.pdf"
+   ]
+  },
+  {
+   "number": "3L-2",
+   "title": "Amendment to grant agreement with the State of Florida Department of Environmental Protection for the Loxahatchee River Watershed Hydrological Refinements Phase 1 project",
+   "section": "Consent",
+   "department": "Environmental Resources Management",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3L2.pdf"
+   ]
+  },
+  {
+   "number": "3L-3",
+   "title": "Receive and file amendment to Florida Inland Navigation District for the Sawfish Island Restoration project",
+   "section": "Consent",
+   "department": "Environmental Resources Management",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3L3.pdf"
+   ]
+  },
+  {
+   "number": "3L-4",
+   "title": "Task order to contract with Olsen Associates, Inc. for the North County Comprehensive Shore Protection project",
+   "section": "Consent",
+   "department": "Environmental Resources Management",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3L4.pdf"
+   ]
+  },
+  {
+   "number": "3L-5",
+   "title": "Amendment to agreement with the Department of Army for the remaining periodic nourishment of the Delray Beach Segment project",
+   "section": "Consent",
+   "department": "Environmental Resources Management",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3L5.pdf"
+   ]
+  },
+  {
+   "number": "3M-1",
+   "title": "Receive and file Amphitheater Rental Agreement with AEG Presents SE, LLC",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3M1.pdf"
+   ]
+  },
+  {
+   "number": "3M-2",
+   "title": "Receive and file Sound and Light Production Contractor Agreement for Sanderford Sound, Inc.",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3M2.pdf"
+   ]
+  },
+  {
+   "number": "3M-3",
+   "title": "Ratify the Mayor's signature on a Waterways Assistance Program grant to the Florida Inland Navigation District for the redevelopment of the southern portion of Bert Winters Park",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3M3.pdf"
+   ]
+  },
+  {
+   "number": "3M-4",
+   "title": "Receive and file amendment with the Florida Inland Navigation District Waterways Assistance Program grant for the redevelopment of the Ocean Inlet Park Marina",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3M4.pdf"
+   ]
+  },
+  {
+   "number": "3N-1",
+   "title": "Appointment to the Library Advisory Board",
+   "section": "Consent",
+   "department": "Library",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3N1.pdf"
+   ]
+  },
+  {
+   "number": "3X-1",
+   "title": "Receive and file agreements with seven governmental agencies for reimbursement of Emergency Medical Services grant funding for medical equipment",
+   "section": "Consent",
+   "department": "Public Safety",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3X1.pdf"
+   ]
+  },
+  {
+   "number": "3X-2",
+   "title": "Interlocal agreement with the City of Riviera Beach for adult reentry services",
+   "section": "Consent",
+   "department": "Public Safety",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3X2.pdf"
+   ]
+  },
+  {
+   "number": "3X-3",
+   "title": "Receive and file extension to Memorandum of Agreement with the City of Miami for the Urban Area Security Initiative to complete emergency management planning projects",
+   "section": "Consent",
+   "department": "Public Safety",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3X3.pdf"
+   ]
+  },
+  {
+   "number": "3Z-1",
+   "title": "Purchase of airport liability insurance through Risk Management Associates, Inc.",
+   "section": "Consent",
+   "department": "Risk Management",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3Z1.pdf"
+   ]
+  },
+  {
+   "number": "3BB-1",
+   "title": "Community based agency contracts with 20 agencies for a variety of services",
+   "section": "Consent",
+   "department": "Youth Services",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3BB1.pdf"
+   ]
+  },
+  {
+   "number": "3BB-2",
+   "title": "Interlocal funding collaboration agreement with the Children's Services Council of Palm Beach County for safety and justice services",
+   "section": "Consent",
+   "department": "Youth Services",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3BB2.pdf"
+   ]
+  },
+  {
+   "number": "3CC-1",
+   "title": "Receive and file modification to subgrant agreement with the State of Florida Division of Emergency Management extending the grant period",
+   "section": "Consent",
+   "department": "Sheriff",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3CC1.pdf"
+   ]
+  },
+  {
+   "number": "3CC-2",
+   "title": "Receive and file modification to subgrant agreement with the Florida Division of Emergency Management extending the grant period",
+   "section": "Consent",
+   "department": "Sheriff",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3CC2.pdf"
+   ]
+  },
+  {
+   "number": "3CC-3",
+   "title": "Receive and file modification with the Office of National Drug Control Policy for the Palm Beach County Narcotics Task Force",
+   "section": "Consent",
+   "department": "Sheriff",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3CC3.pdf"
+   ]
+  },
+  {
+   "number": "3DD-1",
+   "title": "Expenditure for the installation of speed humps in the Country Club Acres Community Revitalization Team area",
+   "section": "Consent",
+   "department": "Office Of Community Revitalization",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3DD1.pdf"
+   ]
+  },
+  {
+   "number": "3EE-1",
+   "title": "Appointments to the Equal Business Opportunity Advisory Committee",
+   "section": "Consent",
+   "department": "Office Of Equal Business Opportunity",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/3EE1.pdf"
+   ]
+  },
+  {
+   "number": "5A-1",
+   "title": "Interlocal agreement with Florida Inland Navigation District for dredging cut P-50 in the Intracoastal Waterway",
+   "section": "Regular",
+   "department": "Environmental Resources Management",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/5A1.pdf"
+   ]
+  },
+  {
+   "number": "5A-2",
+   "title": "Florida Department of Environmental Protection South Lake Worth Inlet Management Plan",
+   "section": "Regular",
+   "department": "Environmental Resources Management",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/5A2.pdf"
+   ]
+  },
+  {
+   "number": "5B-1",
+   "title": "Ratification of Labor Management Agreement with the Amalgamated Transit Union Local 1577",
+   "section": "Regular",
+   "department": "Palm Tran",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/5B1.pdf"
+   ]
+  },
+  {
+   "number": "5C-1",
+   "title": "Agreement with Peggy Adams Animal Rescue League of the Palm Beach, Inc. for the Countdown 2 Zero initiative",
+   "section": "Regular",
+   "department": "Public Safety",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/5C1.pdf"
+   ]
+  },
+  {
+   "number": "5C-2",
+   "title": "Receive and file Memorandum of Agreement with the Federal Emergency Management Agency Integrated Public Alert and Warning Systems Program Management Office for exchange of emergency messages using the interoperable systems",
+   "section": "Regular",
+   "department": "Public Safety",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/5C2.pdf"
+   ]
+  },
+  {
+   "number": "7A-1",
+   "title": "Receive and file updated Board Directive Reports",
+   "section": "Staff comments",
+   "department": null,
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221004/7A1.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

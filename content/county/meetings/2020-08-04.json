@@ -1,0 +1,31 @@
+{
+ "date": "2020-08-04",
+ "type": "Workshop",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20200804.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20200804/20200804.htm",
+ "agenda_pages": 4,
+ "items_source": "order of business",
+ "item_count": 2,
+ "backup_pdf_count": 1,
+ "items": [
+  {
+   "number": "3.A",
+   "title": "COVID-19 Update by Dr. Alonso and County Staff",
+   "section": "Special presentation",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20200804/3A.pdf"
+   ]
+  },
+  {
+   "number": "4.A",
+   "title": "Palm Beach County Legislative Governance Structure Discussion",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

@@ -1,0 +1,67 @@
+{
+ "date": "2021-05-25",
+ "type": "Workshop",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20210525.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20210525/20210525.htm",
+ "agenda_pages": 3,
+ "items_source": "order of business + agenda body",
+ "item_count": 6,
+ "backup_pdf_count": 5,
+ "items": [
+  {
+   "number": "5.A",
+   "title": "9:30 A.M. Update of FEMA's Proposed Flood Maps for Eastern Palm Beach County (Water Resources/Admin)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "5.B",
+   "title": "10:30 A.M. Palm Beach County's Broadband Digital Inclusion Initiatives (ISS)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "4A-1",
+   "title": "Staff recommends motion to receive and file: Warrant List – Backup information can be viewed in the Clerk & Comptroller's Office.",
+   "section": "Regular",
+   "department": "Clerk Of The Circuit Court & Comptroller",
+   "numbering": "from agenda body",
+   "backup": []
+  },
+  {
+   "number": "4A-2",
+   "title": "Staff recommends motion to approve: Contracts (regular) and claim settlements list as submitted by various departments to the Clerk & Comptroller=s Office. Countywide",
+   "section": "Regular",
+   "department": "Clerk Of The Circuit Court & Comptroller",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210525/4A2.pdf"
+   ]
+  },
+  {
+   "number": "4B-1",
+   "title": "Staff recommends motion to authorize: the County Administrator to submit an appeal of the Federal Emergency Management Agency's 2019 Preliminary Flood Insurance Rate Maps (FIRMs) and associated Flood Insurance Study (FIS) reports for Palm Beach County.",
+   "section": "Regular",
+   "department": "Administration",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210525/4B1.pdf"
+   ]
+  },
+  {
+   "number": "4B-2",
+   "title": "Staff recommends motion to approve: a resolution supporting the submission of community project funding requests and member designated transportation projects by U.S.",
+   "section": "Regular",
+   "department": "Administration",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210525/4B2.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

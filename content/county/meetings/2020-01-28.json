@@ -1,0 +1,39 @@
+{
+ "date": "2020-01-28",
+ "type": "Workshop",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20200128.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20200128/20200128.htm",
+ "agenda_pages": 3,
+ "items_source": "order of business + agenda body",
+ "item_count": 3,
+ "backup_pdf_count": 2,
+ "items": [
+  {
+   "number": "4.A",
+   "title": "9:30 A.M. Proposed Environmental General Obligation Bond Referendum (ERM/Water Resources)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "3A-1",
+   "title": "Staff recommends motion to receive and file: Warrant List – Backup information can be viewed in the Clerk & Comptroller's Office.",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": []
+  },
+  {
+   "number": "3A-2",
+   "title": "Staff recommends motion to approve: Contracts (regular) and claim settlements list as submitted by various departments to the Clerk & Comptroller's Office. Countywide ************ 2",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20200128/3A2.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

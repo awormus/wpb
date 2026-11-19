@@ -1,0 +1,443 @@
+{
+ "date": "2024-04-09",
+ "type": "Regular board meeting",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20240409.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20240409/20240409.htm",
+ "agenda_pages": 50,
+ "items_source": "table of contents",
+ "item_count": 48,
+ "backup_pdf_count": 48,
+ "items": [
+  {
+   "number": "3B-1",
+   "title": "Warrant list",
+   "section": "Consent",
+   "department": "Clerk & Comptroller",
+   "backup": []
+  },
+  {
+   "number": "3B-2",
+   "title": "Minutes",
+   "section": "Consent",
+   "department": "Clerk & Comptroller",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3B2.pdf"
+   ]
+  },
+  {
+   "number": "3B-3",
+   "title": "Contracts and claims settlements list",
+   "section": "Consent",
+   "department": "Clerk & Comptroller",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3B3.pdf"
+   ]
+  },
+  {
+   "number": "3C-1",
+   "title": "Work Order to mill and resurface Pratt Whitney Road for two miles.",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3C1.pdf"
+   ]
+  },
+  {
+   "number": "3D-1",
+   "title": "Settlement Agreement with Yannier Palomino Oria.",
+   "section": "Consent",
+   "department": "County Attorney",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3D1.pdf"
+   ]
+  },
+  {
+   "number": "3D-2",
+   "title": "Settlement Agreement with Amy Schwartz.",
+   "section": "Consent",
+   "department": "County Attorney",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3D2.pdf"
+   ]
+  },
+  {
+   "number": "3D-3",
+   "title": "Settlement Agreement with Patricia Chait.",
+   "section": "Consent",
+   "department": "County Attorney",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3D3.pdf"
+   ]
+  },
+  {
+   "number": "3F-1",
+   "title": "First Amendment to Declaration of Unity of Control and Cross Easements/Architectural Restrictive Covenants for the release of land at the northeast corner of Belvedere Road and Military Trial.",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3F1.pdf"
+   ]
+  },
+  {
+   "number": "3G-1",
+   "title": "Negotiated settlement of code enforcement lien against Nicole Ventress Barr.",
+   "section": "Consent",
+   "department": "Office Of Financial Management & Budget",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3G1.pdf"
+   ]
+  },
+  {
+   "number": "3G-2",
+   "title": "Negotiated settlement of code enforcement lien against Henriclese Dalfinus and Elisia Dalfinus-Charleron.",
+   "section": "Consent",
+   "department": "Office Of Financial Management & Budget",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3G2.pdf"
+   ]
+  },
+  {
+   "number": "3H-1",
+   "title": "First Amendment with West Palm Beach VA Medical Center to extend the term of the Agreement.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3H1.pdf"
+   ]
+  },
+  {
+   "number": "3H-2",
+   "title": "First Amendment with Boca Raton Regional Hospital Inc. to extend the term of the Agreement.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3H2.pdf"
+   ]
+  },
+  {
+   "number": "3H-3",
+   "title": "Work Order with T&G Corporation for the Mid-County Senior Center Roof Replacement project.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3H3.pdf"
+   ]
+  },
+  {
+   "number": "3H-4",
+   "title": "Amendment No. 1 with The Weitz Company, LLC establishing a Guaranteed Maximum Price for the Main County Courthouse Buildout and Renovations.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3H4.pdf"
+   ]
+  },
+  {
+   "number": "3H-5",
+   "title": "Amendment No. 3 with D. Stephenson Construction, Inc. establishing a Guaranteed Maximum Price for the Water Utilities Department Wastewater Repump Station A project.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3H5.pdf"
+   ]
+  },
+  {
+   "number": "3H-6",
+   "title": "Change Order No. 8 with D. Stephenson Construction, Inc. for the Canyon Branch Library project.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3H6.pdf"
+   ]
+  },
+  {
+   "number": "3H-7",
+   "title": "Change Order No. 8 with Kast Construction Company LLC for PBSO Headquarters Renovations – Exterior and Interior project.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3H7.pdf"
+   ]
+  },
+  {
+   "number": "3H-8",
+   "title": "Consultant Services Authorization No. 3 with Song & Associates, Inc. for the Vista Center Expansion project.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3H8.pdf"
+   ]
+  },
+  {
+   "number": "3H-9",
+   "title": "Emergency contract with Audio Video, Inc. to provide multimedia systems package services for the new Supervisor of Elections Production Facility.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3H9.pdf"
+   ]
+  },
+  {
+   "number": "3I-1",
+   "title": "Resolution authorizing the execution of an amendment to the financing agreement in connection with the issuance of the issuer's Industrial Development Revenue Bond.",
+   "section": "Consent",
+   "department": "Housing And Economic Development",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3I1.pdf"
+   ]
+  },
+  {
+   "number": "3I-2",
+   "title": "Resolution approving the reissuance of Housing Finance Authority Multifamily Mortgage Revenue Note Series 2022 – Inland Cove.",
+   "section": "Consent",
+   "department": "Housing And Economic Development",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3I2.pdf"
+   ]
+  },
+  {
+   "number": "3I-3",
+   "title": "Budget Transfer and Amendment to allocate funds for Melissa's Place FKA Royal Palm Lakes Apartments project.",
+   "section": "Consent",
+   "department": "Housing And Economic Development",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3I3.pdf"
+   ]
+  },
+  {
+   "number": "3I-4",
+   "title": "County's Industrial Development Revenue Bond with Provident Group.",
+   "section": "Consent",
+   "department": "Housing And Economic Development",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3I4.pdf"
+   ]
+  },
+  {
+   "number": "3K-1",
+   "title": "Subordination of County Utility Interests to FDOT.",
+   "section": "Consent",
+   "department": "Water Utilities",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3K1.pdf"
+   ]
+  },
+  {
+   "number": "3K-2",
+   "title": "Full Release of Utility Easement.",
+   "section": "Consent",
+   "department": "Water Utilities",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3K2.pdf"
+   ]
+  },
+  {
+   "number": "3K-3",
+   "title": "Request to pursue funding from FDMS for local government Cybersecurity Grant Program",
+   "section": "Consent",
+   "department": "Water Utilities",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3K3.pdf"
+   ]
+  },
+  {
+   "number": "3M-1",
+   "title": "Sponsorship Agreement with Nostaligic America, Inc. for Legenda on the Lawn events at Canyon Amphitheater.",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3M1.pdf"
+   ]
+  },
+  {
+   "number": "3M-2",
+   "title": "Two Entertainment Contractor Agreements.",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3M2.pdf"
+   ]
+  },
+  {
+   "number": "3M-3",
+   "title": "Sound and Light Production Services Contractor Agreement with Sanderford Sound, Inc.",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3M3.pdf"
+   ]
+  },
+  {
+   "number": "3M-4",
+   "title": "Infrastructure Surtax Project Plan Amendment.",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3M4.pdf"
+   ]
+  },
+  {
+   "number": "3M-5",
+   "title": "Land and Water Conservation Fund Grant Agreement for the Villages of Windsor Park Development Phase One Project.",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3M5.pdf"
+   ]
+  },
+  {
+   "number": "3M-6",
+   "title": "Ratify the Mayor's signature on DEO Grant Agreement for the Peanut Island Historic Restoration project.",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3M6.pdf"
+   ]
+  },
+  {
+   "number": "3M-7",
+   "title": "Ratify the Vice Mayor signature on Land and Water Conservation Fund Grant Application for the construction costs for the Canyon District Park Phase Two project.",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3M7.pdf"
+   ]
+  },
+  {
+   "number": "3P-1",
+   "title": "Grant Agreement with the Western Palm Beach County Farm Bureau, Inc. for the 2024 Palm Beach County Sweet Corn Fiesta.",
+   "section": "Consent",
+   "department": "Cooperative Extension Service",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3P1.pdf"
+   ]
+  },
+  {
+   "number": "3Q-1",
+   "title": "Board appointment of four (4) new members to the Criminal Justice Commission.",
+   "section": "Consent",
+   "department": "Criminal Justice Commission",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3Q1.pdf"
+   ]
+  },
+  {
+   "number": "3S-1",
+   "title": "Amendment memo to the FEMA FY2022 Staffing for Adequate Fire and Emergency Response Grant Program.",
+   "section": "Consent",
+   "department": "Fire Rescue",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3S1.pdf"
+   ]
+  },
+  {
+   "number": "3S-2",
+   "title": "Fire Rescue Improvement Fund Budget Transfer.",
+   "section": "Consent",
+   "department": "Fire Rescue",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3S2.pdf"
+   ]
+  },
+  {
+   "number": "3S-3",
+   "title": "Lease Agreement for the Use of School Facilities with the School Board of Palm Beach County for Fire Rescue Promotional testing.",
+   "section": "Consent",
+   "department": "Fire Rescue",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3S3.pdf"
+   ]
+  },
+  {
+   "number": "3S-4",
+   "title": "Board appointments to the Regional Hazardous Materials Oversight Committee.",
+   "section": "Consent",
+   "department": "Fire Rescue",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3S4.pdf"
+   ]
+  },
+  {
+   "number": "3U-1",
+   "title": "Participation Agreement revision of the signature block of the contract with CivicPlus, LLC.",
+   "section": "Consent",
+   "department": "Information Systems Services",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3U1.pdf"
+   ]
+  },
+  {
+   "number": "3AA-1",
+   "title": "Fiscal Year 2024 Certification and Assurances to the Federal Transit Administration.",
+   "section": "Consent",
+   "department": "Palm Tran",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3AA1.pdf"
+   ]
+  },
+  {
+   "number": "3AA-2",
+   "title": "Amendment to the agreement with South Florida Regional Transportation Authority.",
+   "section": "Consent",
+   "department": "Palm Tran",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3AA2.pdf"
+   ]
+  },
+  {
+   "number": "3CC-1",
+   "title": "Budget Transfer from the Law Enforcement Trust Fund.",
+   "section": "Consent",
+   "department": "Sheriff",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3CC1.pdf"
+   ]
+  },
+  {
+   "number": "3DD-1",
+   "title": "Subrecipient Commitment Form with FAU for a National Oceanic and Atmospheric Administration Climate Ready Workforce grant application.",
+   "section": "Consent",
+   "department": "Office Of Resilience",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/3DD1.pdf"
+   ]
+  },
+  {
+   "number": "5A-1",
+   "title": "Resolution calling for a referendum for the purpose to levy a discretionary sales surtax.",
+   "section": "Regular",
+   "department": "County Attorney",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/5A1.pdf"
+   ]
+  },
+  {
+   "number": "5B-1",
+   "title": "Ordinance to the Palm Beach County Procurement/Purchasing Code.",
+   "section": "Regular",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/5B1.pdf"
+   ]
+  },
+  {
+   "number": "5C-1",
+   "title": "SHIP Program award to Gulfstream Goodwill Industries, Inc.",
+   "section": "Regular",
+   "department": "Housing And Economice Development",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/5C1.pdf"
+   ]
+  },
+  {
+   "number": "5C-2",
+   "title": "SHIP Program award to Housing Partnership, Inc.",
+   "section": "Regular",
+   "department": "Housing And Economice Development",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240409/5C2.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

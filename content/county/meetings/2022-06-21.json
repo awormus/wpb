@@ -1,0 +1,65 @@
+{
+ "date": "2022-06-21",
+ "type": "Workshop",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20220621.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20220621/20220621.htm",
+ "agenda_pages": 4,
+ "items_source": "order of business + agenda body",
+ "item_count": 6,
+ "backup_pdf_count": 4,
+ "items": [
+  {
+   "number": "4.A",
+   "title": "11:00 A.M. Special Presentation by Supervisor of Elections (SOE)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "4.B",
+   "title": "2:00 P.M. Advisory Commission on Women Annual Report (Equal Opportunity)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "4.C",
+   "title": "3:00 P.M. Farmworker Program Advisory Board Update (Community Svs)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "3A-1",
+   "title": "Staff recommends motion to receive and file: Warrant List – Backup information can be viewed in the Clerk & Comptroller's Office.",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": []
+  },
+  {
+   "number": "3A-2",
+   "title": "Staff recommends motion to approve: Contracts (regular) and claim settlements list as submitted by various departments to the Clerk & Comptroller's Office. Countywide",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220621/3A2.pdf"
+   ]
+  },
+  {
+   "number": "3B-1",
+   "title": "Staff seeks Board direction regarding the issuance of a General Obligation Bond for Environmental/Water purposes and/or a General Obligation Bond for Workforce/Affordable Housing purposes and pursuant to direction recommends motion to: A) adopt a resolution calling for a bond referendum to be held on November 8, 2022 seeking authorization of the issuance of Environmental/Water General Obligation (GO) Bonds;",
+   "section": "Regular",
+   "department": "Administration",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220621/3B1.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

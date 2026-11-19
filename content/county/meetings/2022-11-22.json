@@ -1,0 +1,51 @@
+{
+ "date": "2022-11-22",
+ "type": "Reorganizational meeting",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20221122.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20221122/20221122.htm",
+ "agenda_pages": 6,
+ "items_source": "order of business + agenda body",
+ "item_count": 4,
+ "backup_pdf_count": 6,
+ "items": [
+  {
+   "number": "3.A",
+   "title": "Staff recommends motion to approve: a Resolution of the Board of County Commissioners of Palm Beach County, Florida, authorizing the issuance of general obligation bonds (workforce and affordable housing units), in one or more series, in the aggregate principal amount not to exceed two hundred million dollars ($200,000,000) for the purpose of financing all or a portion of increasing workforce and affordable housing in Palm Beach County, Florida; pledging the full faith, credit and taxing power of the county to secure repayment of the bonds; making certain covenants and agreements in connection therewith; authorizing the proper officials of Palm Beach County to do all other things deemed necessary or advisable in connection with the issuance of such bonds; providing for continuing disclosure; authorizing the filing of a complaint of validation pursuant to Chapter 75 of the Florida Statutes; providing for certain other matters in connection therewith; and providing for an effective date. AGENDA 1",
+   "section": "Call For Unfinished Business",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221122/3A.pdf"
+   ]
+  },
+  {
+   "number": "3A-1",
+   "title": "Staff recommends motion to receive and file: Warrant List – Backup information can be viewed in the Clerk & Comptroller's Office.",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": []
+  },
+  {
+   "number": "3A-2",
+   "title": "Staff recommends motion to approve: Contracts (regular) and claim settlements list as submitted by various departments to the Clerk & Comptroller's Office. Countywide",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221122/3A2.pdf"
+   ]
+  },
+  {
+   "number": "3B-1",
+   "title": "Staff recommends motion to approve and file: with the Clerk of the Circuit Court the official bonds on the newly elected or re-elected Commissioners of Palm Beach",
+   "section": "Regular",
+   "department": "County Attorney",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20221122/3B1.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

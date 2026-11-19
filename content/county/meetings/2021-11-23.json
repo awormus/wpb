@@ -1,0 +1,85 @@
+{
+ "date": "2021-11-23",
+ "type": "Workshop",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20211123.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20211123/20211123.htm",
+ "agenda_pages": 4,
+ "items_source": "order of business + agenda body",
+ "item_count": 8,
+ "backup_pdf_count": 7,
+ "items": [
+  {
+   "number": "4.A",
+   "title": "9:30 A.M. Infrastructure Surtax Project Plan Overview and Status Update (Budget)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "4.B",
+   "title": "10:30 A.M. Strategic Planning Cross-Departmental Team Presentations (Budget)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "4.C",
+   "title": "11:30 A.M. FY 2023 Budget Projections (Budget)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "3A-1",
+   "title": "Staff recommends motion to receive and file: Warrant List – Backup information can be viewed in the Clerk & Comptroller's Office.",
+   "section": "Regular",
+   "department": "Clerk Of The Circuit Court & Comptroller",
+   "numbering": "from agenda body",
+   "backup": []
+  },
+  {
+   "number": "3A-2",
+   "title": "Staff recommends motion to approve: Contracts (regular) and claim settlements list as submitted by various departments to the Clerk & Comptroller=s Office. Countywide",
+   "section": "Regular",
+   "department": "Clerk Of The Circuit Court & Comptroller",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20211123/3A2.pdf"
+   ]
+  },
+  {
+   "number": "3B-1",
+   "title": "Staff recommends motion to approve: the Labor-Management Bargaining Agreement (Agreement) between the Palm Beach County Board of County Commissioners (County) and the Communication Workers of America (CWA), Local 3181, effective October 1, 2021 through September 30, 2024. The Agreement covers compensation, leave benefits, and employment rules for more than 1,300 County employees. The previous Agreement was in place from October",
+   "section": "Regular",
+   "department": "Human Resources",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20211123/3B1.pdf"
+   ]
+  },
+  {
+   "number": "3C-1",
+   "title": "Staff recommends motion to adopt: a resolution supporting the Florida Association of Counties' ACCESS 67 initiative for affordable and reliable high-",
+   "section": "Regular",
+   "department": "Administration",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20211123/3C1.pdf"
+   ]
+  },
+  {
+   "number": "3C-2",
+   "title": "Staff recommends motion to approve on preliminary reading and advertise for public hearing on December 7, 2021 at 9:30 A.M.: an Ordinance of the Board of County Commissioners of Palm Beach County, Florida, amending the boundaries of the seven County Commission Districts, providing for publication, providing for minutes, providing for repeal of laws in conflict, providing for severability, providing for inclusion in the code of laws and",
+   "section": "Regular",
+   "department": "Administration",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20211123/3C2.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

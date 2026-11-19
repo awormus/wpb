@@ -1,0 +1,47 @@
+{
+ "date": "2025-10-28",
+ "type": "Workshop",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20251028.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20251028/20251028.htm",
+ "agenda_pages": 2,
+ "items_source": "order of business + agenda body",
+ "item_count": 4,
+ "backup_pdf_count": 3,
+ "items": [
+  {
+   "number": "4.A",
+   "title": "Home Buyer Assistance Program",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "4.B",
+   "title": "County Attorney Interviews",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "3A-1",
+   "title": "Staff recommends motion to receive and file: Warrant List – Backup information can be viewed in the Clerk & Comptroller's Office.",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": []
+  },
+  {
+   "number": "3B-1",
+   "title": "Staff recommends motion to adopt: The proposed 2026 State Legislative Agenda.",
+   "section": "Regular",
+   "department": "Intergovernmental Affairs",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20251028/3B1.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

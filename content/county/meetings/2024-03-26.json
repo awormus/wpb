@@ -1,0 +1,59 @@
+{
+ "date": "2024-03-26",
+ "type": "Workshop",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20240326.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20240326/20240326.htm",
+ "agenda_pages": 4,
+ "items_source": "order of business + agenda body",
+ "item_count": 5,
+ "backup_pdf_count": 3,
+ "items": [
+  {
+   "number": "4.A",
+   "title": "ARPA Hunger Relief Program Update",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240326/4A.pdf"
+   ]
+  },
+  {
+   "number": "4.B",
+   "title": "NACo Trip to Silicon Valley / Future Artificial Intelligence",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "3A-1",
+   "title": "Staff recommends motion to receive and file: Warrant List – Backup information can be viewed in the Clerk & Comptroller's Office.",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": []
+  },
+  {
+   "number": "3B-1",
+   "title": "Staff recommends motion to: A) receive and file the electronically executed Federal Transit Administration (FTA) Application obligating $56,503,870 in American Rescue Plan Act (ARPA) of 2021 (CFDA 20.507); B) approve an upward Budget Amendment of $56,503,870 in Palm Tran's Grant Fund 1341 to recognize the grant award and increase transfer to Palm Tran Operating Fund 1340; C) approve an upward Budget Amendment of $56,503,870 in Palm Tran's Operating",
+   "section": "Regular",
+   "department": "Palm Tran",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240326/3B1.pdf"
+   ]
+  },
+  {
+   "number": "3B-2",
+   "title": "Staff recommends motion to approve: A) a five (5) year Contract for Palm Tran Connection Paratransit Services by and between Palm Beach County, and First Transit, Inc., (First Transit), with a not-to- exceed amount of $329,557,535.44 for the period of May 1, 2024 through April 30, 2029 for the provision of paratransit and Go Glades services; and B) a Budget Transfer of $8,651,306 from Palm Tran Operating Reserves to",
+   "section": "Regular",
+   "department": "Palm Tran",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240326/3B2.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

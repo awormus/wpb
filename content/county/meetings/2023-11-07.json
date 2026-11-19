@@ -1,0 +1,542 @@
+{
+ "date": "2023-11-07",
+ "type": "Regular board meeting",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20231107.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20231107/20231107.htm",
+ "agenda_pages": 66,
+ "items_source": "table of contents",
+ "item_count": 59,
+ "backup_pdf_count": 59,
+ "items": [
+  {
+   "number": "3B-1",
+   "title": "Warrant list",
+   "section": "Consent",
+   "department": "Clerk & Comptroller",
+   "backup": []
+  },
+  {
+   "number": "3B-2",
+   "title": "Minutes",
+   "section": "Consent",
+   "department": "Clerk & Comptroller",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3B2.pdf"
+   ]
+  },
+  {
+   "number": "3B-3",
+   "title": "Contracts and claims settlements list",
+   "section": "Consent",
+   "department": "Clerk & Comptroller",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3B3.pdf"
+   ]
+  },
+  {
+   "number": "3C-1",
+   "title": "Fiscal Year 2024 sidewalk program.",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3C1.pdf"
+   ]
+  },
+  {
+   "number": "3C-2",
+   "title": "Resolution declaring the acquisition of fee simple right-of-way and temporary construction easement.",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3C2.pdf"
+   ]
+  },
+  {
+   "number": "3C-3",
+   "title": "Supplement No. 1 with Mehta and Associates, Inc. for CEI services for the Australian Avenue Drainage Improvements.",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3C3.pdf"
+   ]
+  },
+  {
+   "number": "3C-4",
+   "title": "Resolution approving a tri-party railroad reimbursement agreement with FDOT, and an agreement with FDOT and SFRTA to reimburse maintenance upgrades.",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3C4.pdf"
+   ]
+  },
+  {
+   "number": "3C-5",
+   "title": "Proportionate Share Agreement with BC Boynton Industrial, LLC for the proposed project BC Commerce Center.",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3C5.pdf"
+   ]
+  },
+  {
+   "number": "3E-1",
+   "title": "Reappointments of two members to the Palm Beach County HIV Comprehensive AIDS Resources Emergency Act Council.",
+   "section": "Consent",
+   "department": "Community Services",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3E1.pdf"
+   ]
+  },
+  {
+   "number": "3E-2",
+   "title": "Amendment No. 1 with Florida Rural Legal Services, Inc. to extend the end date, and Amendment No. 1 with Legal Aid Society of Palm Beach County to extend the end date.",
+   "section": "Consent",
+   "department": "Community Services",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3E2.pdf"
+   ]
+  },
+  {
+   "number": "3F-1",
+   "title": "Amendment for Extension with FDOT for the Public Transportation Agreements for Storm Hardening Facility Improvements, CCTV Camera Improvements at PBI, and Design and Construction of General Aviation Federal Inspection Service Facility Improvements at PBI.",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3F1.pdf"
+   ]
+  },
+  {
+   "number": "3F-2",
+   "title": "FAA Letter Amendment No. 1 to Conduct Noise Compatibility Plan Study at Palm Beach County Park Airport extending the Period of Performance.",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3F2.pdf"
+   ]
+  },
+  {
+   "number": "3F-3",
+   "title": "FAA Letter Amendment to Conduct Environmental Study at North Palm Beach County General Aviation Airport extending the Period of Performance.",
+   "section": "Consent",
+   "department": null,
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3F3.pdf"
+   ]
+  },
+  {
+   "number": "3F-4",
+   "title": "Award Modification Number 00006 with TSA for the Law Enforcement Officer Reimbursement Program, and approve a Budget Amendment.",
+   "section": "Consent",
+   "department": null,
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3F4.pdf"
+   ]
+  },
+  {
+   "number": "3F-5",
+   "title": "Change Order No. 3 with Alen Construction Group, Inc. for Repairs to Short-Term and Long- Term Parking Garages 2 and 3 for amount and calendar days.",
+   "section": "Consent",
+   "department": null,
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3F5.pdf"
+   ]
+  },
+  {
+   "number": "3F-6",
+   "title": "Amendment No. 1 with RS&H, Inc. for New Aircraft Rescue Fire Fighting Facility Phasing Services at PBI, and a Budget Transfer.",
+   "section": "Consent",
+   "department": null,
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3F6.pdf"
+   ]
+  },
+  {
+   "number": "3F-7",
+   "title": "Five Consent to Sublease by Signature Flight Support LLC at PBI.",
+   "section": "Consent",
+   "department": null,
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3F7.pdf"
+   ]
+  },
+  {
+   "number": "3F-8",
+   "title": "Unmanned Aircraft System Activity Permit with FPL.",
+   "section": "Consent",
+   "department": null,
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3F8.pdf"
+   ]
+  },
+  {
+   "number": "3G-1",
+   "title": "Reappointment of one member to the Contract Review Committee.",
+   "section": "Consent",
+   "department": "Office Of Financial Management & Budget",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3G1.pdf"
+   ]
+  },
+  {
+   "number": "3H-1",
+   "title": "Work Order No. 23-011 with Cedars Electro-Mechanical, Inc. for the Delray Health Clinic- Outside Air Unit Replacement project.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3H1.pdf"
+   ]
+  },
+  {
+   "number": "3I-1",
+   "title": "Two Capital Improvement Agreements with the Town of Lantana for the Community Sensory Garden, and City of Riviera Beach Sanitary Sewer Lift Stations control panel replacements.",
+   "section": "Consent",
+   "department": "Housing And Economic Development",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3I1.pdf"
+   ]
+  },
+  {
+   "number": "3I-2",
+   "title": "Documents executed in connection with a load made to Oceana Logistics International, Inc.",
+   "section": "Consent",
+   "department": "Housing And Economic Development",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3I2.pdf"
+   ]
+  },
+  {
+   "number": "3I-3",
+   "title": "Loan Agreement with Everglades Townhomes LP.",
+   "section": "Consent",
+   "department": "Housing And Economic Development",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3I3.pdf"
+   ]
+  },
+  {
+   "number": "3I-4",
+   "title": "Amendment No. 002 with the City of Lake Worth Beach for project completion, and Amendment No. 003 with the Village of Palm Springs to extend the performance timeline.",
+   "section": "Consent",
+   "department": null,
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3I4.pdf"
+   ]
+  },
+  {
+   "number": "3J-1",
+   "title": "Reappointment of one member to the Construction Board of Adjustments and Appeals.",
+   "section": "Consent",
+   "department": "Planning, Zoning & Building",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3J1.pdf"
+   ]
+  },
+  {
+   "number": "3K-1",
+   "title": "Work Order No. 3 with Johnson-Davis Inc. for the Gun Club Road Water Main Replacement project and Work Order No. 4 for the Haverhill Road Water Main project.",
+   "section": "Consent",
+   "department": "Water Utilities",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3K1.pdf"
+   ]
+  },
+  {
+   "number": "3K-2",
+   "title": "Change Order No. 5 with TLC Diversified, Inc. for the Improvements to Master Repump Station 9-North project.",
+   "section": "Consent",
+   "department": "Water Utilities",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3K2.pdf"
+   ]
+  },
+  {
+   "number": "3K-3",
+   "title": "Standard Potable Water and Wastewater Development Agreements with W&W XXIV, LLC, with Pebb Atlantic II, LLC and with Principal Development Group, LLC.",
+   "section": "Consent",
+   "department": "Water Utilities",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3K3.pdf"
+   ]
+  },
+  {
+   "number": "3K-4",
+   "title": "Amendment No. 3 with Hazen and Sawyer, P.C. to extend the contract for services.",
+   "section": "Consent",
+   "department": "Water Utilities",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3K4.pdf"
+   ]
+  },
+  {
+   "number": "3K-5",
+   "title": "Change Order No. 3 with TLC Diversified, Inc. for the Lift Station Rehabilitation Project B Bid Package 2 and for a project time extension.",
+   "section": "Consent",
+   "department": "Water Utilities",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3K5.pdf"
+   ]
+  },
+  {
+   "number": "3M-1",
+   "title": "Budget Transfer within the Golf Course Capital Fund to the John Prince Golf Learning Center Lighting Improvements project.",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3M1.pdf"
+   ]
+  },
+  {
+   "number": "3Q-1",
+   "title": "Grant Adjustment Notice, a Budget Transfer, and a Budget Amendment of the John D. and Catherine T. MacArthur Foundation Safety and Justice Challenge Grant.",
+   "section": "Consent",
+   "department": "Criminal Justice Commission",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3Q1.pdf"
+   ]
+  },
+  {
+   "number": "3S-1",
+   "title": "Acceptance and approval of FEMA Staff for Adequate Fire and Emergency Response Grant Program Agreement, a Budget Amendment, and a request to increase staffing.",
+   "section": "Consent",
+   "department": "Fire Rescue",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3S1.pdf"
+   ]
+  },
+  {
+   "number": "3S-2",
+   "title": "Acceptance and approval of FEMA Fire Prevention & Safety Grant Program Agreement, and a Budget Amendment for the purchase of smoke/carbon monoxide alarms.",
+   "section": "Consent",
+   "department": "Fire Rescue",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3S2.pdf"
+   ]
+  },
+  {
+   "number": "3S-3",
+   "title": "Standard Agreements with several municipalities for swimming lessons.",
+   "section": "Consent",
+   "department": "Fire Rescue",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3S3.pdf"
+   ]
+  },
+  {
+   "number": "3T-1",
+   "title": "Contract with DOH for Environmental Health and Engineering programs.",
+   "section": "Consent",
+   "department": "Health Department",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3T1.pdf"
+   ]
+  },
+  {
+   "number": "3U-1",
+   "title": "Rescind an Interlocal Agreement with the City of Lake Worth Beach, approve a replacement agreement and authorize County Administrator and/or designee.",
+   "section": "Consent",
+   "department": "Information Systems Services",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3U1.pdf"
+   ]
+  },
+  {
+   "number": "3U-2",
+   "title": "Third Amendment with the City of Greenacres to provide additional phone services.",
+   "section": "Consent",
+   "department": "Information Systems Services",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3U2.pdf"
+   ]
+  },
+  {
+   "number": "3X-1",
+   "title": "Second Amendment with Veterinary Emergency Group, LLC for relief veterinary services.",
+   "section": "Consent",
+   "department": "Public Safety",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3X1.pdf"
+   ]
+  },
+  {
+   "number": "3X-2",
+   "title": "Victim of Crime Act Grant Agreement with the State of Florida, and approve a Budget Amendment.",
+   "section": "Consent",
+   "department": "Public Safety",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3X2.pdf"
+   ]
+  },
+  {
+   "number": "3X-3",
+   "title": "Contract with Choice to Change, Inc. to provide community service assistance to eligible youth reentry participants.",
+   "section": "Consent",
+   "department": "Public Safety",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3X3.pdf"
+   ]
+  },
+  {
+   "number": "3CC-1",
+   "title": "Subrecipient Agreement for Federal grant funding assistance through FDLE, and approve a Budget Amendment.",
+   "section": "Consent",
+   "department": "Medical Examiner",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3CC1.pdf"
+   ]
+  },
+  {
+   "number": "3DD-1",
+   "title": "Human Trafficking Grant Award, and approve a Budget Amendment.",
+   "section": "Consent",
+   "department": "Sheriff",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3DD1.pdf"
+   ]
+  },
+  {
+   "number": "3DD-2",
+   "title": "Fentanyl Eradication Program Interlocal Agreement, and approve a Budget Amendment.",
+   "section": "Consent",
+   "department": null,
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3DD2.pdf"
+   ]
+  },
+  {
+   "number": "3DD-3",
+   "title": "Behavioral Health Response Program Grant Award, and approve a Budget Amendment.",
+   "section": "Consent",
+   "department": null,
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3DD3.pdf"
+   ]
+  },
+  {
+   "number": "3DD-4",
+   "title": "Unidentified Human Remains Program Grant Award, and approve a Budget Amendment.",
+   "section": "Consent",
+   "department": null,
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3DD4.pdf"
+   ]
+  },
+  {
+   "number": "3DD-5",
+   "title": "Victim of Crime Act Award, and approve a Budget Amendment.",
+   "section": "Consent",
+   "department": null,
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3DD5.pdf"
+   ]
+  },
+  {
+   "number": "3EE-1",
+   "title": "Expenditure for additional funds to complete the installation of speed bumps, and approve a Budget Transfer.",
+   "section": "Consent",
+   "department": "Office Of Community Revitalization",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3EE1.pdf"
+   ]
+  },
+  {
+   "number": "3EE-2",
+   "title": "Eleven agreements under the NEAT Grant to implement various community improvement projects and initiatives, and delegate authority to the County Administrator and/or designee.",
+   "section": "Consent",
+   "department": "Office Of Community Revitalization",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3EE2.pdf"
+   ]
+  },
+  {
+   "number": "3FF-1",
+   "title": "Two Grant Agreements, with Prospect Select Baseball, Inc. for the promotion of the Prospect Select World Invite, and Perfect Game USA, Inc. for the promotion of the Perfect Game Youth Fall Invitational.",
+   "section": "Consent",
+   "department": "Tourist Development Council",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3FF1.pdf"
+   ]
+  },
+  {
+   "number": "3GG-1",
+   "title": "Reappointment of one member to the Internal Audit Committee.",
+   "section": "Consent",
+   "department": "Internal Auditor",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3GG1.pdf"
+   ]
+  },
+  {
+   "number": "3GG-2",
+   "title": "Audit Risk Assessment and Annual Work Plan.",
+   "section": "Consent",
+   "department": "Internal Auditor",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/3GG2.pdf"
+   ]
+  },
+  {
+   "number": "5A-1",
+   "title": "Amendment No. 1 with AECOM Technical Services, Inc. for the continued performance of professional planning and design services to the Airport Capital Improvement Plan, and approve a Budget Transfer.",
+   "section": "Regular",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/5A1.pdf"
+   ]
+  },
+  {
+   "number": "5B-1",
+   "title": "HOME American Rescue Plan Program Award to West Palm Beach Housing Authority, direct staff to negotiate the Loan Agreement and authorize County Administrator and/or designee.",
+   "section": "Regular",
+   "department": "Housing And Economic Development",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/5B1.pdf"
+   ]
+  },
+  {
+   "number": "5B-2",
+   "title": "Request to HUD to convert Neighborhood Stabilization Program 1 income to Community Development Block Grant funds, allocation in CDBG conversion funds, a Budget Transfer and a Budget Amendment.",
+   "section": "Regular",
+   "department": "Housing And Economic Development",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/5B2.pdf"
+   ]
+  },
+  {
+   "number": "5C-1",
+   "title": "Resolution with FDOT approving Public Transportation Grant Agreement to provide operating assistance for the Port St. Lucie Express Regional Transit Pilot Program, along with a lease for coach bus, and a Budget Amendment.",
+   "section": "Regular",
+   "department": "Palm Tran",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/5C1.pdf"
+   ]
+  },
+  {
+   "number": "5D-1",
+   "title": "Agreement to purchase and sale of vacant land located north of Indiantown Road and east of Bee Line Highway, and a Memorandum of Agreement.",
+   "section": "Regular",
+   "department": "Facilities Development And Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/5D1.pdf"
+   ]
+  },
+  {
+   "number": "5E-1",
+   "title": "Multi-year Small/Minority/Women Business Enterprise utilization report, authorize a two (2) year extension, authorize an updated disparity study, authorize funding, and support an increase in the size standards.",
+   "section": "Regular",
+   "department": "Office Of Equal Business Opportunity",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/5E1.pdf"
+   ]
+  },
+  {
+   "number": "5E-2",
+   "title": "Preliminary reading and permission to advertise to amend Ordinance to Equal Business Opportunity Program.",
+   "section": "Regular",
+   "department": "Office Of Equal Business Opportunity",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20231107/5E2.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

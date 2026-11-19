@@ -1,0 +1,75 @@
+{
+ "date": "2024-07-09",
+ "type": "Workshop",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20240709.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20240709/20240709.htm",
+ "agenda_pages": 3,
+ "items_source": "order of business + agenda body",
+ "item_count": 7,
+ "backup_pdf_count": 6,
+ "items": [
+  {
+   "number": "5.A",
+   "title": "Public Housing Authorities Voucher Update (HED)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "5.B",
+   "title": "FEMA FIRM Map Update (PZB/WATER)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "5.C",
+   "title": "Palm Tran Paratransit RFP (PALM TRAN)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "3A-1",
+   "title": "Staff recommends motion to receive and file: Warrant List – Backup information can be viewed in the Clerk & Comptroller's Office.",
+   "section": "Consent",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": []
+  },
+  {
+   "number": "3A-2",
+   "title": "Staff recommends motion to approve: Contracts (regular) and claim settlements list as submitted by various departments to the Clerk & Comptroller's Office. Countywide",
+   "section": "Consent",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240709/3A2.pdf"
+   ]
+  },
+  {
+   "number": "3B-1",
+   "title": "Staff recommends motion to approve: payment in the amount of $30,000 for the food, beverage and space rental of the Kravis Center, West Palm Beach, Florida for",
+   "section": "Consent",
+   "department": "Planning, Zoning, & Building",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240709/3B1.pdf"
+   ]
+  },
+  {
+   "number": "4A-1",
+   "title": "Staff recommends motion to approve: an agreement with WPB Mobility Coalition, Inc. (WPBgo) in the amount of $20,000 for the purchase of Palm Tran fixed route",
+   "section": "Regular",
+   "department": "Palm Tran",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240709/4A1.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

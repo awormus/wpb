@@ -1,0 +1,57 @@
+{
+ "date": "2021-09-28",
+ "type": "Workshop",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20210928.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20210928/20210928.htm",
+ "agenda_pages": 4,
+ "items_source": "order of business + agenda body",
+ "item_count": 5,
+ "backup_pdf_count": 4,
+ "items": [
+  {
+   "number": "4.A",
+   "title": "9:30 A.M. Advisory Boards (Admin)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "4.B",
+   "title": "10:30 A.M. Property Assessed Clean Energy Program Update (Office of Resilience)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "3A-1",
+   "title": "Staff recommends motion to receive and file: Warrant List – Backup information can be viewed in the Clerk & Comptroller's Office.",
+   "section": "Regular",
+   "department": "Clerk Of The Circuit Court & Comptroller",
+   "numbering": "from agenda body",
+   "backup": []
+  },
+  {
+   "number": "3A-2",
+   "title": "Staff recommends motion to approve: Contracts (regular) and claim settlements list as submitted by various departments to the Clerk & Comptroller=s Office. Countywide",
+   "section": "Regular",
+   "department": "Clerk Of The Circuit Court & Comptroller",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210928/3A2.pdf"
+   ]
+  },
+  {
+   "number": "3B-1",
+   "title": "Staff recommends motion to: A) approve a first amendment to Interlocal Agreement with the City of Boca Raton for the construction and management of a communications tower: (i) modifying the legal description of the ingress and egress area for the Tower site; (ii) allowing the County the right to remove any existing trees and landscaping within said area and to make any necessary driveway improvements to maintain access to the Tower",
+   "section": "Regular",
+   "department": "Facilities Development & Operations",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210928/3B1.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

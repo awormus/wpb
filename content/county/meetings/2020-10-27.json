@@ -1,0 +1,59 @@
+{
+ "date": "2020-10-27",
+ "type": "Workshop",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20201027.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20201027/20201027.htm",
+ "agenda_pages": 3,
+ "items_source": "order of business + agenda body",
+ "item_count": 5,
+ "backup_pdf_count": 6,
+ "items": [
+  {
+   "number": "5.A",
+   "title": "10:30 A.M. Intimate Partner Violence and Child Abuse Considerations during COVID- 19 in Palm Beach County (Public Safety)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "4A-1",
+   "title": "Staff recommends motion to receive and file: Warrant List – Backup information can be viewed in the Clerk & Comptroller's Office.",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": []
+  },
+  {
+   "number": "4A-2",
+   "title": "Staff recommends motion to approve: Contracts (regular) and claim settlements list as submitted by various departments to the Clerk & Comptroller=s Office. Countywide",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20201027/4A2.pdf"
+   ]
+  },
+  {
+   "number": "4B-1",
+   "title": "Staff recommends motion to approve: Donation Agreement with Florida Power and Light Company providing 1,000 utility poles for usage within the School Board",
+   "section": "Regular",
+   "department": "Information Systems Services",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20201027/4B1.pdf"
+   ]
+  },
+  {
+   "number": "4C-1",
+   "title": "Staff recommends motion to approve: a budget transfer of $5,000,000 within the CARES Act Relief Fund from Operating Reserves to General Government",
+   "section": "Regular",
+   "department": "Office Of Financial Management & Budget",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20201027/4C1.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

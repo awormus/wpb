@@ -1,0 +1,697 @@
+{
+ "generated": "2026-11-19",
+ "sources": {
+  "soe_results_index": "https://www.votepalmbeach.gov/224/Election-Results",
+  "agendas": "https://discover.pbc.gov/countycommissioners/Pages/Agenda.aspx"
+ },
+ "reorganizational_meetings": {
+  "2018": "2018-11-20",
+  "2019": "2019-11-19",
+  "2020": "2020-11-17",
+  "2021": "2021-11-16",
+  "2022": "2022-11-22",
+  "2023": "2023-11-21",
+  "2024": "2024-11-19",
+  "2025": "2025-11-18",
+  "2026": "2026-11-17"
+ },
+ "commissioners": [
+  {
+   "slug": "hal-valeche",
+   "name": "Hal R. Valeche",
+   "district": 1,
+   "start": null,
+   "start_note": "In office before Nov 2018 (start of this record)",
+   "end": "2020-11-17",
+   "end_note": "Successor sworn in at the Nov 17, 2020 reorganizational meeting",
+   "elections": [],
+   "status": "verified-partial",
+   "evidence": [
+    "Listed as District 1 commissioner in the BCC comments section of 36 BCC agendas, 2018-11-20 through 2020-10-20 (later agendas in this record list Maria G. Marino).",
+    "Did not appear in the 2020 District 1 primary or general (SOE); Maria G. Marino won the seat."
+   ],
+   "mayor_terms": []
+  },
+  {
+   "slug": "maria-marino",
+   "name": "Maria G. Marino",
+   "district": 1,
+   "start": "2020-11-17",
+   "end": null,
+   "elections": [
+    {
+     "source": "2020 Primary Election Official Results",
+     "url": "https://enr.electionsfl.org/PAL/2697/Summary/",
+     "race": "Board of County Commissioners, District 1 (REP)",
+     "result": "Won, 56.35% (12,207 votes)"
+    },
+    {
+     "source": "2020 General Election Official Results",
+     "url": "https://enr.electionsfl.org/PAL/2801/Summary/",
+     "race": "Board of County Commissioners, District 1",
+     "result": "Won, 95.81% (95,603 votes)"
+    }
+   ],
+   "status": "verified",
+   "evidence": [
+    "Listed as District 1 commissioner in the BCC comments section of 117 BCC agendas, 2020-11-17 through 2026-11-17.",
+    "No contested District 1 race appeared on the SOE 2024 primary or general summaries; continued service confirmed by every 2025–2026 agenda."
+   ],
+   "mayor_terms": [
+    {
+     "term": "2023–24",
+     "role": "Vice Mayor",
+     "verification": "verified",
+     "evidence": [
+      "BCC agenda 2023-12-19: \"Mayor Maria Sachs\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20231219.pdf)",
+      "BCC agenda 2023-12-19: \"Vice Mayor Maria G. Marino\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20231219.pdf)"
+     ]
+    },
+    {
+     "term": "2024–25",
+     "role": "Mayor",
+     "verification": "verified",
+     "evidence": [
+      "BCC agenda 2024-12-10: \"Nominated by: 12/11/2024 Vice Mayor Baxter\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20241210.pdf)",
+      "BCC agenda 2025-03-11: \"Mayor Maria G. Marino\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20250311.pdf)"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "gregg-weiss",
+   "name": "Gregg K. Weiss",
+   "district": 2,
+   "start": "2018-11-20",
+   "start_note": "Won the 2018 election; the Nov 20, 2018 reorganizational meeting agenda includes \"Oath of office to newly elected county commissioners\". Whether he served before that date is outside this record. Re-elected 2022.",
+   "end": "2026-11-17",
+   "end_note": "Successor sworn in at the Nov 17, 2026 reorganizational meeting",
+   "elections": [
+    {
+     "source": "2018 Primary Election Official Results",
+     "url": "https://enr.electionsfl.org/PAL/2495/Summary/",
+     "race": "DEM - County Commission 2",
+     "result": "Won, 49.72% (6,896 votes)"
+    },
+    {
+     "source": "2018 General Election Official Results",
+     "url": "https://enr.electionsfl.org/PAL/2486/Summary/",
+     "race": "County Commission 2",
+     "result": "Only candidate listed, 100.00% (45,561 votes)"
+    },
+    {
+     "source": "2022 General Election Official Results",
+     "url": "https://enr.electionsfl.org/PAL/Summary/3278/",
+     "race": "Board of County Commissioners - District 2",
+     "result": "Won, 56.13% (37,273 votes)"
+    }
+   ],
+   "status": "verified",
+   "evidence": [
+    "Listed as District 2 commissioner in the BCC comments section of 152 BCC agendas, 2018-11-20 through 2026-11-10."
+   ],
+   "mayor_terms": [
+    {
+     "term": "2021–22",
+     "role": "Vice Mayor",
+     "verification": "verified",
+     "evidence": [
+      "BCC agenda 2021-12-07: \"Nominated By Mayor Weinroth Vice Mayor Weiss\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20211207.pdf)",
+      "BCC agenda 2022-09-13: \"Nominated by Mayor Weinroth Vice Mayor Weiss\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20220913.pdf)"
+     ]
+    },
+    {
+     "term": "2022–23",
+     "role": "Mayor",
+     "verification": "verified",
+     "evidence": [
+      "BCC agenda 2023-01-24: \"Mayor Weiss\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20230124.pdf)",
+      "BCC agenda 2023-11-07: \"Commissioner Gregg K. Weiss, Mayor Commissioner Maria Sachs, Vice Mayor\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20231107.pdf)"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "erica-whitfield",
+   "name": "Erica Whitfield",
+   "district": 2,
+   "start": "2026-11-17",
+   "end": null,
+   "elections": [
+    {
+     "source": "2026 Primary Election Results",
+     "url": "https://enr.electionsfl.org/PAL/4035/Summary/",
+     "race": "Board of County Commissioners, District 2 - DEM (Universal Primary Contest)",
+     "result": "Won, 62.73% (14,366 votes)"
+    }
+   ],
+   "status": "verified",
+   "evidence": [
+    "Nov 17, 2026 agenda BCC comments section lists \"District 2 – Commissioner Whitfield\"; pbc.gov district list (Nov 2026)."
+   ],
+   "mayor_terms": []
+  },
+  {
+   "slug": "dave-kerner",
+   "name": "Dave Kerner",
+   "district": 3,
+   "start": null,
+   "start_note": "In office before Nov 2018 (start of this record); re-elected 2020",
+   "end": "2023-01",
+   "end_note": "Left for a state appointment in January 2023 (exact last day not confirmed from an official County record)",
+   "elections": [
+    {
+     "source": "2020 General Election Official Results",
+     "url": "https://enr.electionsfl.org/PAL/2801/Summary/",
+     "race": "Board of County Commissioners, District 3",
+     "result": "Won, 60.24% (56,723 votes)"
+    }
+   ],
+   "status": "verified-partial",
+   "evidence": [
+    "Listed as District 3 commissioner in the BCC comments section of 79 BCC agendas, 2018-11-20 through 2023-01-10.",
+    "Departure: Governor's office press release, Jan 2023 (https://flgov.com/eog/news/press/2023/governor-ron-desantis-nominates-dave-kerner-executive-director-florida-department) — not yet confirmed against a County or Clerk record."
+   ],
+   "mayor_terms": [
+    {
+     "term": "2018–19",
+     "role": "Vice Mayor",
+     "verification": "verified",
+     "evidence": [
+      "BCC agenda 2018-12-04: \"COMMISSIONER MACK BERNARD, MAYOR\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20181204.pdf)",
+      "BCC agenda 2018-12-04: \"COMMISSIONER DAVE KERNER, VICE MAYOR\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20181204.pdf)"
+     ]
+    },
+    {
+     "term": "2019–20",
+     "role": "Mayor",
+     "verification": "verified",
+     "evidence": [
+      "BCC agenda 2019-12-03: \"(Sponsored by Vice Mayor Weinroth)\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20191203.pdf)",
+      "BCC agenda 2020-01-07: \"(Sponsored by Mayor Kerner)\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20200107.pdf)",
+      "BCC agenda 2020-09-01: \"Mayor Kerner Vice Mayor Weinroth\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20200901.pdf)"
+     ]
+    },
+    {
+     "term": "2020–21",
+     "role": "Mayor",
+     "verification": "verified",
+     "evidence": [
+      "BCC agenda 2020-12-08: \"Nominated By Mayor Kerner ... Vice-Mayor Weinroth\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20201208.pdf)",
+      "BCC agenda 2021-04-06: \"Nominated by Mayor Kerner Vice Mayor Weinroth\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20210406.pdf)"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "michael-barnett",
+   "name": "Michael A. Barnett",
+   "district": 3,
+   "start": "2023-01-10",
+   "start_note": "Appointed by the Governor; the Jan 10, 2023 BCC agenda lists an add-on oath of office to a newly appointed county commissioner",
+   "end": "2024-11-19",
+   "end_note": "Lost the 2024 general election; successor sworn in Nov 19, 2024",
+   "elections": [
+    {
+     "source": "2024 General Election Results",
+     "url": "https://enr.electionsfl.org/PAL/Summary/3703/",
+     "race": "Board of County Commissioners, District 3",
+     "result": "Lost, 45.37% (30,071 votes)"
+    }
+   ],
+   "status": "verified-partial",
+   "evidence": [
+    "Listed as District 3 commissioner in the BCC comments section of 36 BCC agendas, 2023-01-24 through 2024-11-05.",
+    "Jan 10, 2023 BCC agenda: \"ADD-ON: Oath of Office to Newly Appointed County Commissioner (To be administered by Judge Artau)\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20230110.pdf).",
+    "Appointment by the Governor: press reports (Palm Beach Post, WPTV, Jan 2023)."
+   ],
+   "mayor_terms": []
+  },
+  {
+   "slug": "joel-flores",
+   "name": "Joel G. Flores",
+   "district": 3,
+   "start": "2024-11-19",
+   "end": null,
+   "elections": [
+    {
+     "source": "2024 General Election Results",
+     "url": "https://enr.electionsfl.org/PAL/Summary/3703/",
+     "race": "Board of County Commissioners, District 3",
+     "result": "Won, 54.63% (36,208 votes)"
+    }
+   ],
+   "status": "verified",
+   "evidence": [
+    "Listed as District 3 commissioner in the BCC comments section of 38 BCC agendas, 2024-11-19 through 2026-11-17."
+   ],
+   "mayor_terms": [
+    {
+     "term": "2026–27",
+     "role": "Vice Mayor",
+     "verification": "press report — pending official record",
+     "evidence": [
+      "Palm Beach Post, Nov 17, 2026 (reorganizational meeting coverage: Woodward to serve as mayor, Joel Flores vice mayor). No County agenda after Nov 17, 2026 was available to confirm this."
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "robert-weinroth",
+   "name": "Robert S. Weinroth",
+   "district": 4,
+   "start": "2018-11-20",
+   "start_note": "Won the 2018 election; the Nov 20, 2018 reorganizational meeting agenda includes \"Oath of office to newly elected county commissioners\". Whether he served before that date is outside this record.",
+   "end": "2022-11-22",
+   "end_note": "Lost the 2022 general election; successor sworn in Nov 22, 2022",
+   "elections": [
+    {
+     "source": "2018 General Election Official Results",
+     "url": "https://enr.electionsfl.org/PAL/2486/Summary/",
+     "race": "County Commission 4",
+     "result": "Won, 54.27% (51,052 votes)"
+    },
+    {
+     "source": "2022 General Election Official Results",
+     "url": "https://enr.electionsfl.org/PAL/Summary/3278/",
+     "race": "Board of County Commissioners - District 4",
+     "result": "Lost, 48.18% (45,740 votes)"
+    }
+   ],
+   "status": "verified",
+   "evidence": [
+    "Listed as District 4 commissioner in the BCC comments section of 76 BCC agendas, 2018-11-20 through 2022-11-15."
+   ],
+   "mayor_terms": [
+    {
+     "term": "2019–20",
+     "role": "Vice Mayor",
+     "verification": "verified",
+     "evidence": [
+      "BCC agenda 2019-12-03: \"(Sponsored by Vice Mayor Weinroth)\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20191203.pdf)",
+      "BCC agenda 2020-01-07: \"(Sponsored by Mayor Kerner)\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20200107.pdf)",
+      "BCC agenda 2020-09-01: \"Mayor Kerner Vice Mayor Weinroth\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20200901.pdf)"
+     ]
+    },
+    {
+     "term": "2020–21",
+     "role": "Vice Mayor",
+     "verification": "verified",
+     "evidence": [
+      "BCC agenda 2020-12-08: \"Nominated By Mayor Kerner ... Vice-Mayor Weinroth\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20201208.pdf)",
+      "BCC agenda 2021-04-06: \"Nominated by Mayor Kerner Vice Mayor Weinroth\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20210406.pdf)"
+     ]
+    },
+    {
+     "term": "2021–22",
+     "role": "Mayor",
+     "verification": "verified",
+     "evidence": [
+      "BCC agenda 2021-12-07: \"Nominated By Mayor Weinroth Vice Mayor Weiss\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20211207.pdf)",
+      "BCC agenda 2022-09-13: \"Nominated by Mayor Weinroth Vice Mayor Weiss\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20220913.pdf)"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "marci-woodward",
+   "name": "Marci Woodward",
+   "district": 4,
+   "start": "2022-11-22",
+   "end": null,
+   "elections": [
+    {
+     "source": "2022 General Election Official Results",
+     "url": "https://enr.electionsfl.org/PAL/Summary/3278/",
+     "race": "Board of County Commissioners - District 4",
+     "result": "Won, 51.82% (49,198 votes)"
+    },
+    {
+     "source": "2026 General Election Results",
+     "url": "https://enr.electionsfl.org/PAL/4131/Summary/",
+     "race": "Board of County Commissioners, District 4",
+     "result": "Won, 50.58% (47,496 votes)"
+    }
+   ],
+   "status": "verified",
+   "evidence": [
+    "Listed as District 4 commissioner in the BCC comments section of 77 BCC agendas, 2022-12-06 through 2026-11-17. (The short Nov 22, 2022 reorganizational agenda has no BCC comments roster.)"
+   ],
+   "mayor_terms": [
+    {
+     "term": "2025–26",
+     "role": "Vice Mayor",
+     "verification": "verified",
+     "evidence": [
+      "BCC agenda 2026-01-06: \"Vice Mayor Marci Woodward\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20260106.pdf)",
+      "BCC agenda 2026-02-03: \"Mayor Baxter\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20260203.pdf)",
+      "BCC agenda 2026-11-10: \"SARA BAXTER, Mayor ... MARCI WOODWARD, Vice Mayor\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20261110.pdf)"
+     ]
+    },
+    {
+     "term": "2026–27",
+     "role": "Mayor",
+     "verification": "press report — pending official record",
+     "evidence": [
+      "Palm Beach Post, Nov 17, 2026 (reorganizational meeting coverage: Woodward to serve as mayor, Joel Flores vice mayor). No County agenda after Nov 17, 2026 was available to confirm this."
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "mary-lou-berger",
+   "name": "Mary Lou Berger",
+   "district": 5,
+   "start": null,
+   "start_note": "In office before Nov 2018 (start of this record)",
+   "end": "2020-11-17",
+   "end_note": "Successor sworn in at the Nov 17, 2020 reorganizational meeting",
+   "elections": [],
+   "status": "verified-partial",
+   "evidence": [
+    "Listed as District 5 commissioner in the BCC comments section of 36 BCC agendas, 2018-11-20 through 2020-10-20.",
+    "Did not appear in the 2020 District 5 general (SOE); Maria Sachs won the seat."
+   ],
+   "mayor_terms": []
+  },
+  {
+   "slug": "maria-sachs",
+   "name": "Maria Sachs",
+   "district": 5,
+   "start": "2020-11-17",
+   "end": null,
+   "elections": [
+    {
+     "source": "2020 General Election Official Results",
+     "url": "https://enr.electionsfl.org/PAL/2801/Summary/",
+     "race": "Board of County Commissioners, District 5",
+     "result": "Won, 58.82% (74,970 votes)"
+    },
+    {
+     "source": "2024 General Election Results",
+     "url": "https://enr.electionsfl.org/PAL/Summary/3703/",
+     "race": "Board of County Commissioners, District 5",
+     "result": "Won, 55.45% (69,546 votes)"
+    }
+   ],
+   "status": "verified",
+   "evidence": [
+    "Listed as District 5 commissioner in the BCC comments section of 117 BCC agendas, 2020-11-17 through 2026-11-17."
+   ],
+   "mayor_terms": [
+    {
+     "term": "2022–23",
+     "role": "Vice Mayor",
+     "verification": "verified",
+     "evidence": [
+      "BCC agenda 2023-01-24: \"Mayor Weiss\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20230124.pdf)",
+      "BCC agenda 2023-11-07: \"Commissioner Gregg K. Weiss, Mayor Commissioner Maria Sachs, Vice Mayor\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20231107.pdf)"
+     ]
+    },
+    {
+     "term": "2023–24",
+     "role": "Mayor",
+     "verification": "verified",
+     "evidence": [
+      "BCC agenda 2023-12-19: \"Mayor Maria Sachs\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20231219.pdf)",
+      "BCC agenda 2023-12-19: \"Vice Mayor Maria G. Marino\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20231219.pdf)"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "melissa-mckinlay",
+   "name": "Melissa McKinlay",
+   "district": 6,
+   "start": null,
+   "start_note": "In office before Nov 2018 (start of this record)",
+   "end": "2022-11-22",
+   "end_note": "Successor sworn in at the Nov 22, 2022 reorganizational meeting",
+   "elections": [],
+   "status": "verified-partial",
+   "evidence": [
+    "Listed as District 6 commissioner in the BCC comments section of 76 BCC agendas, 2018-11-20 through 2022-11-15.",
+    "Did not appear in the 2022 District 6 primary or general (SOE); Sara Baxter won the seat."
+   ],
+   "mayor_terms": []
+  },
+  {
+   "slug": "sara-baxter",
+   "name": "Sara Baxter",
+   "district": 6,
+   "start": "2022-11-22",
+   "end": "2026-11-17",
+   "end_note": "Lost the 2026 general election; successor sworn in Nov 17, 2026",
+   "elections": [
+    {
+     "source": "2022 General Election Official Results",
+     "url": "https://enr.electionsfl.org/PAL/Summary/3278/",
+     "race": "Board of County Commissioners - District 6",
+     "result": "Won, 52.52% (41,127 votes)"
+    },
+    {
+     "source": "2026 Primary Election Results",
+     "url": "https://enr.electionsfl.org/PAL/4035/Summary/",
+     "race": "Board of County Commissioners, District 6 - REP",
+     "result": "Won, 59.42% (7,725 votes)"
+    },
+    {
+     "source": "2026 General Election Results",
+     "url": "https://enr.electionsfl.org/PAL/4131/Summary/",
+     "race": "Board of County Commissioners, District 6",
+     "result": "Lost, 41.78% (36,542 votes)"
+    }
+   ],
+   "status": "verified",
+   "evidence": [
+    "Listed as District 6 commissioner in the BCC comments section of 76 BCC agendas, 2022-12-06 through 2026-11-10."
+   ],
+   "mayor_terms": [
+    {
+     "term": "2024–25",
+     "role": "Vice Mayor",
+     "verification": "verified",
+     "evidence": [
+      "BCC agenda 2024-12-10: \"Nominated by: 12/11/2024 Vice Mayor Baxter\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20241210.pdf)",
+      "BCC agenda 2025-03-11: \"Mayor Maria G. Marino\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20250311.pdf)"
+     ]
+    },
+    {
+     "term": "2025–26",
+     "role": "Mayor",
+     "verification": "verified",
+     "evidence": [
+      "BCC agenda 2026-01-06: \"Vice Mayor Marci Woodward\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20260106.pdf)",
+      "BCC agenda 2026-02-03: \"Mayor Baxter\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20260203.pdf)",
+      "BCC agenda 2026-11-10: \"SARA BAXTER, Mayor ... MARCI WOODWARD, Vice Mayor\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20261110.pdf)"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "katherine-waldron",
+   "name": "Katherine M. Waldron",
+   "district": 6,
+   "start": "2026-11-17",
+   "end": null,
+   "elections": [
+    {
+     "source": "2026 Primary Election Results",
+     "url": "https://enr.electionsfl.org/PAL/4035/Summary/",
+     "race": "Board of County Commissioners, District 6 - DEM",
+     "result": "Won, 53.42% (7,595 votes)"
+    },
+    {
+     "source": "2026 General Election Results",
+     "url": "https://enr.electionsfl.org/PAL/4131/Summary/",
+     "race": "Board of County Commissioners, District 6",
+     "result": "Won, 58.22% (50,913 votes)"
+    }
+   ],
+   "status": "verified",
+   "evidence": [
+    "Nov 17, 2026 agenda BCC comments section lists \"District 6 – Commissioner Waldron\"; pbc.gov district list (Nov 2026)."
+   ],
+   "mayor_terms": []
+  },
+  {
+   "slug": "mack-bernard",
+   "name": "Mack Bernard",
+   "district": 7,
+   "start": null,
+   "start_note": "In office before Nov 2018 (start of this record); re-elected 2020",
+   "end": "2024-11-19",
+   "end_note": "Successor sworn in at the Nov 19, 2024 reorganizational meeting",
+   "elections": [
+    {
+     "source": "2020 General Election Official Results",
+     "url": "https://enr.electionsfl.org/PAL/2801/Summary/",
+     "race": "Board of County Commissioners, District 7",
+     "result": "Won, 83.21% (66,614 votes)"
+    }
+   ],
+   "status": "verified",
+   "evidence": [
+    "Listed as District 7 commissioner in the BCC comments section of 114 BCC agendas, 2018-11-20 through 2024-10-22.",
+    "Did not appear in the 2024 District 7 primary or general (SOE); Bobby Powell Jr. won the seat."
+   ],
+   "mayor_terms": [
+    {
+     "term": "2018–19",
+     "role": "Mayor",
+     "verification": "verified",
+     "evidence": [
+      "BCC agenda 2018-12-04: \"COMMISSIONER MACK BERNARD, MAYOR\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20181204.pdf)",
+      "BCC agenda 2018-12-04: \"COMMISSIONER DAVE KERNER, VICE MAYOR\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20181204.pdf)"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "bobby-powell-jr",
+   "name": "Bobby Powell Jr.",
+   "district": 7,
+   "start": "2024-11-19",
+   "end": null,
+   "elections": [
+    {
+     "source": "2024 Primary Election Results",
+     "url": "https://enr.electionsfl.org/PAL/Summary/3630/",
+     "race": "Board of County Commissioners - District 7 - DEM",
+     "result": "Won, 65.77% (10,379 votes)"
+    },
+    {
+     "source": "2024 General Election Results",
+     "url": "https://enr.electionsfl.org/PAL/Summary/3703/",
+     "race": "Board of County Commissioners, District 7",
+     "result": "Won, 69.69% (52,978 votes)"
+    }
+   ],
+   "status": "verified",
+   "evidence": [
+    "Listed as District 7 commissioner in the BCC comments section of 38 BCC agendas, 2024-11-19 through 2026-11-17."
+   ],
+   "mayor_terms": []
+  }
+ ],
+ "mayors": [
+  {
+   "term": "2018–19",
+   "start": "2018-11-20",
+   "mayor": "Mack Bernard",
+   "vice": "Dave Kerner",
+   "mayor_slug": "mack-bernard",
+   "vice_slug": "dave-kerner",
+   "status": "verified",
+   "evidence": [
+    "BCC agenda 2018-12-04: \"COMMISSIONER MACK BERNARD, MAYOR\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20181204.pdf)",
+    "BCC agenda 2018-12-04: \"COMMISSIONER DAVE KERNER, VICE MAYOR\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20181204.pdf)"
+   ]
+  },
+  {
+   "term": "2019–20",
+   "start": "2019-11-19",
+   "mayor": "Dave Kerner",
+   "vice": "Robert S. Weinroth",
+   "mayor_slug": "dave-kerner",
+   "vice_slug": "robert-weinroth",
+   "status": "verified",
+   "evidence": [
+    "BCC agenda 2019-12-03: \"(Sponsored by Vice Mayor Weinroth)\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20191203.pdf)",
+    "BCC agenda 2020-01-07: \"(Sponsored by Mayor Kerner)\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20200107.pdf)",
+    "BCC agenda 2020-09-01: \"Mayor Kerner Vice Mayor Weinroth\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20200901.pdf)"
+   ]
+  },
+  {
+   "term": "2020–21",
+   "start": "2020-11-17",
+   "mayor": "Dave Kerner",
+   "vice": "Robert S. Weinroth",
+   "mayor_slug": "dave-kerner",
+   "vice_slug": "robert-weinroth",
+   "status": "verified",
+   "evidence": [
+    "BCC agenda 2020-12-08: \"Nominated By Mayor Kerner ... Vice-Mayor Weinroth\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20201208.pdf)",
+    "BCC agenda 2021-04-06: \"Nominated by Mayor Kerner Vice Mayor Weinroth\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20210406.pdf)"
+   ]
+  },
+  {
+   "term": "2021–22",
+   "start": "2021-11-16",
+   "mayor": "Robert S. Weinroth",
+   "vice": "Gregg K. Weiss",
+   "mayor_slug": "robert-weinroth",
+   "vice_slug": "gregg-weiss",
+   "status": "verified",
+   "evidence": [
+    "BCC agenda 2021-12-07: \"Nominated By Mayor Weinroth Vice Mayor Weiss\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20211207.pdf)",
+    "BCC agenda 2022-09-13: \"Nominated by Mayor Weinroth Vice Mayor Weiss\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20220913.pdf)"
+   ]
+  },
+  {
+   "term": "2022–23",
+   "start": "2022-11-22",
+   "mayor": "Gregg K. Weiss",
+   "vice": "Maria Sachs",
+   "mayor_slug": "gregg-weiss",
+   "vice_slug": "maria-sachs",
+   "status": "verified",
+   "evidence": [
+    "BCC agenda 2023-01-24: \"Mayor Weiss\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20230124.pdf)",
+    "BCC agenda 2023-11-07: \"Commissioner Gregg K. Weiss, Mayor Commissioner Maria Sachs, Vice Mayor\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20231107.pdf)"
+   ]
+  },
+  {
+   "term": "2023–24",
+   "start": "2023-11-21",
+   "mayor": "Maria Sachs",
+   "vice": "Maria G. Marino",
+   "mayor_slug": "maria-sachs",
+   "vice_slug": "maria-marino",
+   "status": "verified",
+   "evidence": [
+    "BCC agenda 2023-12-19: \"Mayor Maria Sachs\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20231219.pdf)",
+    "BCC agenda 2023-12-19: \"Vice Mayor Maria G. Marino\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20231219.pdf)"
+   ]
+  },
+  {
+   "term": "2024–25",
+   "start": "2024-11-19",
+   "mayor": "Maria G. Marino",
+   "vice": "Sara Baxter",
+   "mayor_slug": "maria-marino",
+   "vice_slug": "sara-baxter",
+   "status": "verified",
+   "evidence": [
+    "BCC agenda 2024-12-10: \"Nominated by: 12/11/2024 Vice Mayor Baxter\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20241210.pdf)",
+    "BCC agenda 2025-03-11: \"Mayor Maria G. Marino\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20250311.pdf)"
+   ]
+  },
+  {
+   "term": "2025–26",
+   "start": "2025-11-18",
+   "mayor": "Sara Baxter",
+   "vice": "Marci Woodward",
+   "mayor_slug": "sara-baxter",
+   "vice_slug": "marci-woodward",
+   "status": "verified",
+   "evidence": [
+    "BCC agenda 2026-01-06: \"Vice Mayor Marci Woodward\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20260106.pdf)",
+    "BCC agenda 2026-02-03: \"Mayor Baxter\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20260203.pdf)",
+    "BCC agenda 2026-11-10: \"SARA BAXTER, Mayor ... MARCI WOODWARD, Vice Mayor\" (https://discover.pbc.gov/countycommissioners/Agenda_Master/20261110.pdf)"
+   ]
+  },
+  {
+   "term": "2026–27",
+   "start": "2026-11-17",
+   "mayor": "Marci Woodward",
+   "vice": "Joel G. Flores",
+   "mayor_slug": "marci-woodward",
+   "vice_slug": "joel-flores",
+   "status": "press report — pending official record",
+   "evidence": [
+    "Palm Beach Post, Nov 17, 2026 (reorganizational meeting coverage: Woodward to serve as mayor, Joel Flores vice mayor). No County agenda after Nov 17, 2026 was available to confirm this."
+   ]
+  }
+ ]
+}

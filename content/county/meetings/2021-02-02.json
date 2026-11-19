@@ -1,0 +1,416 @@
+{
+ "date": "2021-02-02",
+ "type": "Regular board meeting",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20210202.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20210202/20210202.htm",
+ "agenda_pages": 30,
+ "items_source": "table of contents",
+ "item_count": 45,
+ "backup_pdf_count": 45,
+ "items": [
+  {
+   "number": "3B-1",
+   "title": "Warrant list",
+   "section": "Consent",
+   "department": "Clerk Of The Circuit Court & Comptroller",
+   "backup": []
+  },
+  {
+   "number": "3B-2",
+   "title": "Minutes",
+   "section": "Consent",
+   "department": "Clerk Of The Circuit Court & Comptroller",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3B2.pdf"
+   ]
+  },
+  {
+   "number": "3B-3",
+   "title": "Contracts and claims settlements list",
+   "section": "Consent",
+   "department": "Clerk Of The Circuit Court & Comptroller",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3B3.pdf"
+   ]
+  },
+  {
+   "number": "3C-1",
+   "title": "Release of drainage easements located at 3974 Okeechobee Boulevard",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3C1.pdf"
+   ]
+  },
+  {
+   "number": "3C-2",
+   "title": "Resolution certifying that the sidewalk area along 6th Avenue South at the northeast corner of the intersection with South “A” Street has been maintained for the past seven years by the County",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3C2.pdf"
+   ]
+  },
+  {
+   "number": "3C-3",
+   "title": "Work task order to contract with Mock, Roos & Associates, Inc. for Harbor Road from the seawall to Harbor Road North project",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3C3.pdf"
+   ]
+  },
+  {
+   "number": "3C-4",
+   "title": "Amendment to contract with Southeast Highway Guardrail and Attenuators, LLC extending the expiration date by two years",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3C4.pdf"
+   ]
+  },
+  {
+   "number": "3C-5",
+   "title": "Resolution vacating portions of the plat of Brentwood of Wellington, PUD",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3C5.pdf"
+   ]
+  },
+  {
+   "number": "3C-6",
+   "title": "Resolution approving a highway maintenance memorandum of agreement with the Florida Department of Transportation to replace traffic poles and lights at the intersection of Linton Boulevard and Homewood Boulevard",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3C6.pdf"
+   ]
+  },
+  {
+   "number": "3F-1",
+   "title": "Receive and file extensions of time to four Joint Participation Agreements with the Florida Department of Transportation",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3F1.pdf"
+   ]
+  },
+  {
+   "number": "3G-1",
+   "title": "Negotiated settlement offer for the full satisfaction of a code enforcement lien that was entered against Alba Nieves",
+   "section": "Consent",
+   "department": "Office Of Financial Management And Budget",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3G1.pdf"
+   ]
+  },
+  {
+   "number": "3H-1",
+   "title": "Receive and file amendment to agreement with Jupiter Stadium, Ltd. for purchases and improvements related to COVID-19",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3H1.pdf"
+   ]
+  },
+  {
+   "number": "3H-2",
+   "title": "Receive and file agreement with Aqua Escapes, Inc. for garden statues at Mounts Botanical Garden",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3H2.pdf"
+   ]
+  },
+  {
+   "number": "3H-3",
+   "title": "Receive and file amendment to agreement to Host Ribbit the Exhibit",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3H3.pdf"
+   ]
+  },
+  {
+   "number": "3H-4",
+   "title": "Receive and file amendment to Infrastructure Surtax Project Funding Agreement with Ric L. Bradshaw extending the term for the FY2020 vehicle replacement for one year",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3H4.pdf"
+   ]
+  },
+  {
+   "number": "3H-5",
+   "title": "Receive and file Standard License Agreement with the City of Boynton Beach for use of vacant equipment space at the Boynton Beach radio tower",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3H5.pdf"
+   ]
+  },
+  {
+   "number": "3H-6",
+   "title": "Interlocal agreement with the City of Boca Raton for use of the County's Public Radio System",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3H6.pdf"
+   ]
+  },
+  {
+   "number": "3H-7",
+   "title": "Work order to contract with The Airtex Corporation for the Water Utilities Department Southern Region Water Reclamation Facility – HVAC Replacement project",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3H7.pdf"
+   ]
+  },
+  {
+   "number": "3H-8",
+   "title": "Work order to contract with Johnson Controls Fire Protection LP for the Palm Beach County Convention Center – Closed Circuit Television Camera System Replacement project",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3H8.pdf"
+   ]
+  },
+  {
+   "number": "3H-9",
+   "title": "Work order to contract with Randolph Construction Group, Inc. for the Delray Health Department/Youth Services – Restroom Renovations Project",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3H9.pdf"
+   ]
+  },
+  {
+   "number": "3H-10",
+   "title": "Change order to amendment to contract with Robling Architecture Construction, Inc. for the Fire Rescue Station No. 29 Re-roof project",
+   "section": "Consent",
+   "department": null,
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3H10.pdf"
+   ]
+  },
+  {
+   "number": "3H-11",
+   "title": "Consultant Services Authorization with Currie Sowards Aguila Architects, Inc. for phase 1 of the Fire Rescue Comprehensive Fire Station Capital Improvements Program",
+   "section": "Consent",
+   "department": null,
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3H11.pdf"
+   ]
+  },
+  {
+   "number": "3H-12",
+   "title": "Receive and file Contingency Use Directive Change Order to contract with The Morganti Group, Inc. for the Palm Tran South Expansion project",
+   "section": "Consent",
+   "department": null,
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3H12.pdf"
+   ]
+  },
+  {
+   "number": "3H-13",
+   "title": "Contract with ACC Mastercraft Roofing Contractors, Inc. for roofing services",
+   "section": "Consent",
+   "department": null,
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3H13.pdf"
+   ]
+  },
+  {
+   "number": "3H-14",
+   "title": "Work order to contract with Protect Video, Inc. for the Fire Station No. 27 – Generator Replacement project",
+   "section": "Consent",
+   "department": null,
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3H14.pdf"
+   ]
+  },
+  {
+   "number": "3K-1",
+   "title": "Amendment to contract with Hinterland Group, Inc. for Wastewater Gravity Lines and Manhole Rehabilitation",
+   "section": "Consent",
+   "department": "Water Utilities",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3K1.pdf"
+   ]
+  },
+  {
+   "number": "3L-1",
+   "title": "Updated Management Plan for Delaware Scrub Natural Area",
+   "section": "Consent",
+   "department": "Environmental Resources Management",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3L1.pdf"
+   ]
+  },
+  {
+   "number": "3L-2",
+   "title": "Memorandum of Understanding with Discover Palm Beach County, Inc. for LagoonFest 2021 Event Management",
+   "section": "Consent",
+   "department": "Environmental Resources Management",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3L2.pdf"
+   ]
+  },
+  {
+   "number": "3L-3",
+   "title": "Receive and file the State of Florida, Florida Fish and Wildlife Conservation Commission Agreement for the Derelict Vessel Removal project",
+   "section": "Consent",
+   "department": "Environmental Resources Management",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3L3.pdf"
+   ]
+  },
+  {
+   "number": "3L-4",
+   "title": "Contract with Ferreira Construction Southern Division Co., Inc. for the Royal Palm Beach Pines Natural Area – Public Use Facilities Renovation Federalized project",
+   "section": "Consent",
+   "department": "Environmental Resources Management",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3L4.pdf"
+   ]
+  },
+  {
+   "number": "3L-5",
+   "title": "State of Florida Department of Environmental Protection purchase order to maintain and propagate corals in a close system, land-based coral nursery",
+   "section": "Consent",
+   "department": "Environmental Resources Management",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3L5.pdf"
+   ]
+  },
+  {
+   "number": "3M-1",
+   "title": "Receive and file Florida Fish and Wildlife Conservation Commission – Florida Boating Improvement Program Grant Agreement for the redevelopment of the John Prince Memorial Park boat ramps",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3M1.pdf"
+   ]
+  },
+  {
+   "number": "3N-1",
+   "title": "Contract with the Florida Department of State, Division of Library and Information Services, for a DLIS CARES Act Grant to purchase camera and computer equipment for website and social media platforms",
+   "section": "Consent",
+   "department": "Library",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3N1.pdf"
+   ]
+  },
+  {
+   "number": "3X-1",
+   "title": "Receive and file amendment to contract with the Battered Women's Justice Project, Inc. modifying the payment schedule",
+   "section": "Consent",
+   "department": "Public Safety",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3X1.pdf"
+   ]
+  },
+  {
+   "number": "3X-2",
+   "title": "Receive and file Victim of Crime Act grant agreement to provide victim advocacy services",
+   "section": "Consent",
+   "department": "Public Safety",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3X2.pdf"
+   ]
+  },
+  {
+   "number": "3X-3",
+   "title": "Receive and file seven Declarations/Emergency Order related to COVID-19",
+   "section": "Consent",
+   "department": "Public Safety",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3X3.pdf"
+   ]
+  },
+  {
+   "number": "3CC-1",
+   "title": "Department of Justice, Office of Justice Programs FY 2020 Prosecuting Cold Cases using DNA grant award",
+   "section": "Consent",
+   "department": "Sheriff",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3CC1.pdf"
+   ]
+  },
+  {
+   "number": "3CC-2",
+   "title": "Federally-Funded SubAward & Grant Agreement for a FY 20 State Homeland Security Grant",
+   "section": "Consent",
+   "department": "Sheriff",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3CC2.pdf"
+   ]
+  },
+  {
+   "number": "3CC-3",
+   "title": "Department of Justice, Office of Justice Programs FY 2020 Crime Gun Intelligence Center grant award",
+   "section": "Consent",
+   "department": "Sheriff",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3CC3.pdf"
+   ]
+  },
+  {
+   "number": "3CC-4",
+   "title": "Subgrant Agreement from the State of Florida Department of Transportation for the Palm Beach County Speed and Aggressive Driving Strategy project",
+   "section": "Consent",
+   "department": "Sheriff",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3CC4.pdf"
+   ]
+  },
+  {
+   "number": "3DD-1",
+   "title": "Receive and file FY 2021 Covid Recovery Grant Agreement for the promotion of The Winter Equestrian Festival",
+   "section": "Consent",
+   "department": "Tourist Development Council",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3DD1.pdf"
+   ]
+  },
+  {
+   "number": "3EE-1",
+   "title": "Memorandum of Understanding with the City of Westlake to Commission on Ethics services",
+   "section": "Consent",
+   "department": "Commission On Ethics",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/3EE1.pdf"
+   ]
+  },
+  {
+   "number": "5A-1",
+   "title": "Ordinance amending the EMS Ordinance",
+   "section": "Regular",
+   "department": "Public Safety",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/5A1.pdf"
+   ]
+  },
+  {
+   "number": "5B-1",
+   "title": "Amendment to Deed of Conservation Easement in favor of the South Florida Water Management District for the Pond Cypress Natural Area",
+   "section": "Regular",
+   "department": "Environmental Resources Management",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/5B1.pdf"
+   ]
+  },
+  {
+   "number": "7A-1",
+   "title": "Updated Board Directive Reports",
+   "section": "Staff comments",
+   "department": null,
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20210202/7A1.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

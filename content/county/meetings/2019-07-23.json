@@ -1,0 +1,37 @@
+{
+ "date": "2019-07-23",
+ "type": "Workshop",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20190723.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20190723/20190723.htm",
+ "agenda_pages": 15,
+ "items_source": "order of business",
+ "item_count": 3,
+ "backup_pdf_count": 20,
+ "items": [
+  {
+   "number": "4.A",
+   "title": "9:30 A.M. 2019 Final Legislative Report (Legislative Affairs)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "4.B",
+   "title": "10:00 A.M. Palm Tran RPM/Go Glades Pilot Project Update (Palm Tran)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "4.C",
+   "title": "11:00 A.M. Transportation Planning (Admin)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

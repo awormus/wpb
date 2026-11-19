@@ -1,0 +1,448 @@
+{
+ "date": "2026-10-20",
+ "type": "Regular board meeting",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20261020.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20261020/20261020.htm",
+ "agenda_pages": 58,
+ "items_source": "table of contents",
+ "item_count": 49,
+ "backup_pdf_count": 46,
+ "items": [
+  {
+   "number": "3A-1",
+   "title": "Overview of the current list of Contracts Report for agenda items submitted for this scheduled BCC meeting.",
+   "section": "Consent",
+   "department": "Administration",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3A1.pdf"
+   ]
+  },
+  {
+   "number": "3B-1",
+   "title": "Warrant list",
+   "section": "Consent",
+   "department": "Clerk & Comptroller",
+   "backup": []
+  },
+  {
+   "number": "3B-2",
+   "title": "Contracts and claims settlements list",
+   "section": "Consent",
+   "department": "Clerk & Comptroller",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3B2.pdf"
+   ]
+  },
+  {
+   "number": "3C-1",
+   "title": "Receive and file two FP&L agreements for street lighting in Districts 2 and 6.",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3C1.pdf"
+   ]
+  },
+  {
+   "number": "3F-1",
+   "title": "Receive and file the Sky Chefs cargo building lease for aviation catering storage and equipment.",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3F1.pdf"
+   ]
+  },
+  {
+   "number": "3F-2",
+   "title": "Receive and file a $10 million FAA grant for Concourse B Expansion Phase 2B and approve a budget amendment.",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3F2.pdf"
+   ]
+  },
+  {
+   "number": "3F-3",
+   "title": "Approve EXP Amendment No. 5 for $619,088.40 in terminal and concourse modernization services.",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3F3.pdf"
+   ]
+  },
+  {
+   "number": "3F-4",
+   "title": "Receive and file Suffolk Change Orders Nos. 6, 7 and 8 for Concourse B expansion.",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3F4.pdf"
+   ]
+  },
+  {
+   "number": "3F-5",
+   "title": "Extend the FDOT airport access roadway rehabilitation grant through December 31, 2026.",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3F5.pdf"
+   ]
+  },
+  {
+   "number": "3F-6",
+   "title": "Extend the FDOT air cargo roadway improvements grant through February 8, 2027.",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3F6.pdf"
+   ]
+  },
+  {
+   "number": "3G-1",
+   "title": "Reappoint Mark Feldmesser to the Contract Review Committee and waive the consecutive- meeting absence provision.",
+   "section": "Consent",
+   "department": "Office Of Financial Management & Budget",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3G1.pdf"
+   ]
+  },
+  {
+   "number": "3G-2",
+   "title": "Approve a $107,164 settlement of two Jorge L. Garcia code compliance liens.",
+   "section": "Consent",
+   "department": "Office Of Financial Management & Budget",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3G2.pdf"
+   ]
+  },
+  {
+   "number": "3G-3",
+   "title": "Receive and file the Health Care District agreement transferring remaining Local Provider Participation Fund funds to the County.",
+   "section": "Consent",
+   "department": "Office Of Financial Management & Budget",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3G3.pdf"
+   ]
+  },
+  {
+   "number": "3H-1",
+   "title": "Receive and file property-use licenses for FoundCare mobile health services and PBSO vehicle washing.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3H1.pdf"
+   ]
+  },
+  {
+   "number": "3H-2",
+   "title": "Approve FP&L underground utilities conversion agreement for the 45th Street Complex.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3H2.pdf"
+   ]
+  },
+  {
+   "number": "3H-3",
+   "title": "Ratify a $1,007,228.74 emergency archaeological services contract for Cam D. Milani Park.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3H3.pdf"
+   ]
+  },
+  {
+   "number": "3H-4",
+   "title": "Approve a five-year lease with Digital Vibez at Lake Lytal Park for youth enrichment and fitness programs.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3H4.pdf"
+   ]
+  },
+  {
+   "number": "3L-1",
+   "title": "Approve a $253,470 FWC contract for Lake Worth Lagoon oyster monitoring through May 30, 2030.",
+   "section": "Consent",
+   "department": "Environmental Resources Management",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3L1.pdf"
+   ]
+  },
+  {
+   "number": "3M-1",
+   "title": "Receive and file the AEG Presents rental agreement for the Slightly Stoopid concert at Sunset Cove Amphitheater.",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3M1.pdf"
+   ]
+  },
+  {
+   "number": "3M-2",
+   "title": "Receive and file the $1,240 Sanderford Sound production agreement for the Slightly Stoopid concert.",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3M2.pdf"
+   ]
+  },
+  {
+   "number": "3M-3",
+   "title": "Receive and file amendments increasing funding for three water aerobics and swim Coaching agreements.",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3M3.pdf"
+   ]
+  },
+  {
+   "number": "3S-1",
+   "title": "Ratify a $154,541 grant application for two handheld gas identification monitors and delegate grant administration authority.",
+   "section": "Consent",
+   "department": "Fire Rescue",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3S1.pdf"
+   ]
+  },
+  {
+   "number": "3S-2",
+   "title": "Ratify a $187,472.25 grant application for ten bunker gear washer/extractor machines and delegate grant administration authority.",
+   "section": "Consent",
+   "department": "Fire Rescue",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3S2.pdf"
+   ]
+  },
+  {
+   "number": "3S-3",
+   "title": "Approve a $5.35 million capital budget transfer for Fire Stations 16A and 16B.",
+   "section": "Consent",
+   "department": "Fire Rescue",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3S3.pdf"
+   ]
+  },
+  {
+   "number": "3S-4",
+   "title": "Receive and file nine Learn to Swim Program agreements through September 30, 2029.",
+   "section": "Consent",
+   "department": "Fire Rescue",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3S4.pdf"
+   ]
+  },
+  {
+   "number": "3S-5",
+   "title": "Approve a ten-year emergency services mutual assistance agreement with the City of Boca Raton.",
+   "section": "Consent",
+   "department": "Fire Rescue",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3S5.pdf"
+   ]
+  },
+  {
+   "number": "3T-1",
+   "title": "Receive and file FY 2025–2026 third-quarter and contract management variance reports.",
+   "section": "Consent",
+   "department": "Health Department",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3T1.pdf"
+   ]
+  },
+  {
+   "number": "3X-1",
+   "title": "Appoint Mark Dorestin, Sean Brammer and Adam McMichael to the Criminal Justice Commission.",
+   "section": "Consent",
+   "department": "Public Safety",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3X1.pdf"
+   ]
+  },
+  {
+   "number": "3BB-1",
+   "title": "Approve a $19,000 ANDRUS trauma-informed care recertification contract and a $7,625 budget transfer.",
+   "section": "Consent",
+   "department": "Youth Services",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3BB1.pdf"
+   ]
+  },
+  {
+   "number": "3BB-2",
+   "title": "Approve a $561,350 Prime Time contract for middle and high school expanded learning opportunities.",
+   "section": "Consent",
+   "department": "Youth Services",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3BB2.pdf"
+   ]
+  },
+  {
+   "number": "3CC-1",
+   "title": "Extend the FY 2024 Operation Stonegarden grant through June 30, 2027.",
+   "section": "Consent",
+   "department": "Sheriff",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3CC1.pdf"
+   ]
+  },
+  {
+   "number": "3CC-2",
+   "title": "Extend the FY 2023 Operation Stonegarden grant through June 30, 2027.",
+   "section": "Consent",
+   "department": "Sheriff",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3CC2.pdf"
+   ]
+  },
+  {
+   "number": "3CC-3",
+   "title": "Accept a $396,000 FY 2025 Operation Stonegarden grant and approve a budget amendment.",
+   "section": "Consent",
+   "department": "Sheriff",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3CC3.pdf"
+   ]
+  },
+  {
+   "number": "3CC-4",
+   "title": "Extend the Connect and Protect behavioral health response grant through September 30, 2027.",
+   "section": "Consent",
+   "department": "Sheriff",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3CC4.pdf"
+   ]
+  },
+  {
+   "number": "3CC-5",
+   "title": "Accept a $218,500 FY 2024 State Homeland Security Grant for Fusion Center staffing, overtime, training and software technology, and approve a budget amendment.",
+   "section": "Consent",
+   "department": "Sheriff",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3CC5.pdf"
+   ]
+  },
+  {
+   "number": "3CC-6",
+   "title": "Accept the $625,000 Forensic Genetic Testing Phase 2 award and approve a budget amendment.",
+   "section": "Consent",
+   "department": "Sheriff",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3CC6.pdf"
+   ]
+  },
+  {
+   "number": "3CC-7",
+   "title": "Accept $303,000 in TSA explosives detection canine funding and approve a budget amendment.",
+   "section": "Consent",
+   "department": "Sheriff",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/3CC7.pdf"
+   ]
+  },
+  {
+   "number": "5A-1",
+   "title": "Approve a $195,557.52 Stebbins eminent domain settlement for Parcels 125/325, including fees and costs.",
+   "section": "Regular",
+   "department": "County Attorney",
+   "backup": []
+  },
+  {
+   "number": "5A-2",
+   "title": "Approve a $128,703.64 Stebbins eminent domain settlement for Parcels 127/327, including fees and costs.",
+   "section": "Regular",
+   "department": "County Attorney",
+   "backup": []
+  },
+  {
+   "number": "5B-1",
+   "title": "Approve Morganti Amendment No. 2 for $18,768,500 in terminal modernization work, a contract renewal and a $9,300,944, $3,000,000, budget transfer.",
+   "section": "Regular",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/5B1.pdf"
+   ]
+  },
+  {
+   "number": "5B-2",
+   "title": "Provide direction on JET GREENE's proposed $30 million airport property purchase and second fixed base operation lease.",
+   "section": "Regular",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/5B2.pdf"
+   ]
+  },
+  {
+   "number": "5C-1",
+   "title": "Approve preliminary reading of Local Provider Participation Fund ordinance amendments and advertise a November 17 public hearing.",
+   "section": "Regular",
+   "department": "Office Of Financial Management & Budget",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/5C1.pdf"
+   ]
+  },
+  {
+   "number": "5C-2",
+   "title": "Authorize up to $42 million in Airport System Revenue Refunding Bonds, Series 2026.",
+   "section": "Regular",
+   "department": "Office Of Financial Management & Budget",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/5C2.pdf"
+   ]
+  },
+  {
+   "number": "5D-1",
+   "title": "Approve a $150,000 Space Connect agreement for BuildLocal business development and contract readiness services.",
+   "section": "Regular",
+   "department": "Housing And Economic Development",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/5D1.pdf"
+   ]
+  },
+  {
+   "number": "5E-1",
+   "title": "Approve five security officer positions and a $271,764 budget transfer for staffing, equipment and security upgrades.",
+   "section": "Regular",
+   "department": "Public Safety",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/5E1.pdf"
+   ]
+  },
+  {
+   "number": "5E-2",
+   "title": "Approve preliminary reading of the Micromobility Device Ordinance and advertise a December 1 public hearing.",
+   "section": "Regular",
+   "department": "Public Safety",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/5E2.pdf"
+   ]
+  },
+  {
+   "number": "5F-1",
+   "title": "Approve preliminary reading of Property Maintenance Code amendments.",
+   "section": "Regular",
+   "department": "Planning, Zoning & Building",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/5F1.pdf"
+   ]
+  },
+  {
+   "number": "5F-2",
+   "title": "Approve preliminary reading of contractor regulation amendments addressing penalties, enforcement authority and administrative updates.",
+   "section": "Regular",
+   "department": "Planning, Zoning & Building",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/5F2.pdf"
+   ]
+  },
+  {
+   "number": "5G-1",
+   "title": "Approve CSC youth program funding agreements, increased Greenacres teen program funding and a budget adjustment following termination of the Children's Home Society contract.",
+   "section": "Regular",
+   "department": "Youth Services",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20261020/5G1.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

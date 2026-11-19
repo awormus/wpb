@@ -1,0 +1,40 @@
+{
+ "date": "2020-04-14",
+ "type": "Special meeting",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20200414.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20200414/20200414.htm",
+ "agenda_pages": 6,
+ "items_source": "table of contents",
+ "item_count": 3,
+ "backup_pdf_count": 3,
+ "items": [
+  {
+   "number": "3A-1",
+   "title": "Contract with Gulfstream Goodwill Industries, Inc. for emergency shelter to homeless individuals",
+   "section": "Regular",
+   "department": "Community Services",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20200414/3A1.pdf"
+   ]
+  },
+  {
+   "number": "3B-1",
+   "title": "Consideration of an Environmental General Obligation Bond and a Housing General Obligation Bond",
+   "section": "Regular",
+   "department": "Office Of Financial Management & Budget",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20200414/3B1.pdf"
+   ]
+  },
+  {
+   "number": "3C-1",
+   "title": "Ordinance establishing an ad valorem tax exemption for Tellus Products, LLC",
+   "section": "Regular",
+   "department": "Housing And Economic Sustainability",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20200414/3C1.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

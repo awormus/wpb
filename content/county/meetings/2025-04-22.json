@@ -1,0 +1,21 @@
+{
+ "date": "2025-04-22",
+ "type": "Workshop",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20250422.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20250422/20250422.htm",
+ "agenda_pages": 11,
+ "items_source": "order of business",
+ "item_count": 1,
+ "backup_pdf_count": 7,
+ "items": [
+  {
+   "number": "5.A",
+   "title": "Consolidated Plan for Fiscal Years 2025 – 2029 and Action Plan for Fiscal Year 2025-2026 (HED)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

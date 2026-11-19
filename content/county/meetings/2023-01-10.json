@@ -1,0 +1,459 @@
+{
+ "date": "2023-01-10",
+ "type": "Regular board meeting; Environmental Control Board session",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20230110.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20230110/20230110.htm",
+ "agenda_pages": 48,
+ "items_source": "table of contents",
+ "item_count": 50,
+ "backup_pdf_count": 48,
+ "items": [
+  {
+   "number": "3B-1",
+   "title": "Warrant list",
+   "section": "Consent",
+   "department": "Clerk & Comptroller",
+   "backup": []
+  },
+  {
+   "number": "3B-2",
+   "title": "Minutes",
+   "section": "Consent",
+   "department": "Clerk & Comptroller",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3B2.pdf"
+   ]
+  },
+  {
+   "number": "3B-3",
+   "title": "Contracts and claims settlements list",
+   "section": "Consent",
+   "department": "Clerk & Comptroller",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3B3.pdf"
+   ]
+  },
+  {
+   "number": "3B-4",
+   "title": "Change orders, work task orders, minor contracts, final payments, etc.",
+   "section": "Consent",
+   "department": "Clerk & Comptroller",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3B4.pdf"
+   ]
+  },
+  {
+   "number": "3C-1",
+   "title": "Consultant Services Authorization to contract with Alan Gerwig & Associates, Inc. for the Jupiter Beach Road Bridge Replacement project",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3C1.pdf"
+   ]
+  },
+  {
+   "number": "3C-2",
+   "title": "Amendment to contract with Southeast Highway Guardrail & Attenuators, LLC for guardrail services",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3C2.pdf"
+   ]
+  },
+  {
+   "number": "3C-3",
+   "title": "Consultant Services Authorization to contract with Keith and Associates, Inc. for the El Clair Ranch Road and Pipers Glen Boulevard Intersection Improvements project",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3C3.pdf"
+   ]
+  },
+  {
+   "number": "3C-4",
+   "title": "Work order to contract with Ranger Construction Industries, Inc. for the Rogers Road from West county Line to Miami Canal Road project",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3C4.pdf"
+   ]
+  },
+  {
+   "number": "3C-5",
+   "title": "Work orders to contract with M&M Asphalt Maintenance, Inc. for the Haverhill Road from Roebuck Road to 45th Street and 45th Street to Blue Heron Boulevard projects",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3C5.pdf"
+   ]
+  },
+  {
+   "number": "3C-6",
+   "title": "Work order to contract with Ranger Construction Industries, Inc. for the Cabana Colony Subdivision mill and resurface project",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3C6.pdf"
+   ]
+  },
+  {
+   "number": "3D-1",
+   "title": "Mediated Settlement Agreement with Nancy Albert",
+   "section": "Consent",
+   "department": "County Attorney",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3D1.pdf"
+   ]
+  },
+  {
+   "number": "3E-1",
+   "title": "Agreement with Southeast Florida Behavioral Health Network, Inc. for the Wraparound Services Model",
+   "section": "Consent",
+   "department": "Community Services",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3E1.pdf"
+   ]
+  },
+  {
+   "number": "3E-2",
+   "title": "Appointments to the Citizens Advisory Committee on Health and Human Services",
+   "section": "Consent",
+   "department": "Community Services",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3E2.pdf"
+   ]
+  },
+  {
+   "number": "3E-3",
+   "title": "Agreements with three agencies to focus on reducing HIV infection",
+   "section": "Consent",
+   "department": "Community Services",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3E3.pdf"
+   ]
+  },
+  {
+   "number": "3F-1",
+   "title": "Receive and file license agreement with Atlantic Aviation – West Palm Beach, LLC for use of ground area for the parking of vehicles",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3F1.pdf"
+   ]
+  },
+  {
+   "number": "3H-1",
+   "title": "Work order to contract with Florida Mechanical LLC for the Palm Beach County Convention Center – Variable Air Volume and Controls Replacement project",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3H1.pdf"
+   ]
+  },
+  {
+   "number": "3H-2",
+   "title": "Authorization for the County Administrator or designee to execute an amendment to contract with Lebolo Construction Management, Inc. for the Glades Pioneer Park Orange Bowl Playground project",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3H2.pdf"
+   ]
+  },
+  {
+   "number": "3H-3",
+   "title": "Authorization for the County Administrator or designee to execute an amendment to contract with Lebolo Construction Management, Inc. for the Melissa's Place Lake Village at the Glades project",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3H3.pdf"
+   ]
+  },
+  {
+   "number": "3I-1",
+   "title": "Impact Fee Affordable Housing Assistance Program funding to Atlantic Grove Partners, LLC",
+   "section": "Consent",
+   "department": "Housing And Economic Development",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3I1.pdf"
+   ]
+  },
+  {
+   "number": "3I-2",
+   "title": "Modification of deed restriction for parcel located at 928 West 7 th Street in the City of Riviera Beach",
+   "section": "Consent",
+   "department": "Housing And Economic Development",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3I2.pdf"
+   ]
+  },
+  {
+   "number": "3J-1",
+   "title": "Receive and file a Hazard Mitigation Grant with the Florida Department of Emergency Management to develop a Watershed Master Plan",
+   "section": "Consent",
+   "department": "Planning, Zoning & Building",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3J1.pdf"
+   ]
+  },
+  {
+   "number": "3K-1",
+   "title": "Seat change on the Water Utilities Department's Advisory Board",
+   "section": "Consent",
+   "department": "Water Utilities",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3K1.pdf"
+   ]
+  },
+  {
+   "number": "3L-1",
+   "title": "Receive and file Interlocal Agreement with the City of Delray Beach for law enforcement services",
+   "section": "Consent",
+   "department": "Environmental Resources Management",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3L1.pdf"
+   ]
+  },
+  {
+   "number": "3L-2",
+   "title": "Contracts with Aptim Environmental & Infrastructure, LLC and W.F. Baird & Associates Ltd. Incorporated for coastal and marine engineering services",
+   "section": "Consent",
+   "department": "Environmental Resources Management",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3L2.pdf"
+   ]
+  },
+  {
+   "number": "3M-1",
+   "title": "Amendment to agreement with O.B. PIONEER PARK, LLC for the Orange Bowl Field at Glades Pioneer Park project",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3M1.pdf"
+   ]
+  },
+  {
+   "number": "3M-2",
+   "title": "Amendment to Interlocal Agreement with the Town of Jupiter for the South Jupiter Community Park Roller Hockey Facility – Phase 1 project",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3M2.pdf"
+   ]
+  },
+  {
+   "number": "3X-1",
+   "title": "Resolution authorizing the County Administrator or designee to sign the FY2022-2023 annual Emergency Medical Services County grant application",
+   "section": "Consent",
+   "department": "Public Safety",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3X1.pdf"
+   ]
+  },
+  {
+   "number": "3X-2",
+   "title": "Receive and file grant agreement with the State of Florida, Division of Emergency Management to improve and enhance emergency management plans",
+   "section": "Consent",
+   "department": "Public Safety",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3X2.pdf"
+   ]
+  },
+  {
+   "number": "3X-3",
+   "title": "Contract with Lee Giordano for training on the Intimate Partner Violence Prevention Curriculum",
+   "section": "Consent",
+   "department": "Public Safety",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3X3.pdf"
+   ]
+  },
+  {
+   "number": "3AA-1",
+   "title": "Resolution approving the FY2023 Public Transportation Grant Agreement with the State of Florida Department of Transportation to offset costs of fixed route services to the public",
+   "section": "Consent",
+   "department": "Palm Tran",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3AA1.pdf"
+   ]
+  },
+  {
+   "number": "3AA-2",
+   "title": "Resolution approving a Public Transportation Grant Agreement to partially offset operational costs of providing services to the public in rural areas of Palm Beach County",
+   "section": "Consent",
+   "department": "Palm Tran",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3AA2.pdf"
+   ]
+  },
+  {
+   "number": "3AA-3",
+   "title": "Extension with the Lakes of Delray, Inc. for provision of transportation services",
+   "section": "Consent",
+   "department": "Palm Tran",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3AA3.pdf"
+   ]
+  },
+  {
+   "number": "3CC-1",
+   "title": "Agreement with the State of Florida, Office of the Attorney General for a Victim of Crime Act award to fund three victim advocate positions",
+   "section": "Consent",
+   "department": "Sheriff",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3CC1.pdf"
+   ]
+  },
+  {
+   "number": "3CC-2",
+   "title": "Grant award for the FY2022-2023 Coach Aaron Feis Guardian Program",
+   "section": "Consent",
+   "department": "Sheriff",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3CC2.pdf"
+   ]
+  },
+  {
+   "number": "3CC-3",
+   "title": "Receive and file grant extension approval notice from the Office of National Drug Control Policy to extend the FY20 High Intensity Drive Trafficking award",
+   "section": "Consent",
+   "department": "Sheriff",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3CC3.pdf"
+   ]
+  },
+  {
+   "number": "3CC-4",
+   "title": "Receive and file grant extension approval notice from the Office of National Drug Control Policy to extend the FY21 High Intensity Drive Trafficking award",
+   "section": "Consent",
+   "department": "Sheriff",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3CC4.pdf"
+   ]
+  },
+  {
+   "number": "3CC-5",
+   "title": "Bureau of Justice Assistance State Criminal Alien Assistance Program FY2021 grant for correctional purposes",
+   "section": "Consent",
+   "department": "Sheriff",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3CC5.pdf"
+   ]
+  },
+  {
+   "number": "3CC-6",
+   "title": "Subgrant agreement with the State of Florida Department of Transportation for the Impaired Driving Strategy program",
+   "section": "Consent",
+   "department": null,
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3CC6.pdf"
+   ]
+  },
+  {
+   "number": "3CC-7",
+   "title": "Amendment to contract with the University of North Florida Training and Services Institute, Inc. for the High Visibility Enforcement project",
+   "section": "Consent",
+   "department": null,
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3CC7.pdf"
+   ]
+  },
+  {
+   "number": "3DD-1",
+   "title": "Contract with Legal Aid Society of Palm Beach County, Inc. for the Wage Dispute project",
+   "section": "Consent",
+   "department": "Office Of Equal Opportunity",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3DD1.pdf"
+   ]
+  },
+  {
+   "number": "3EE-1",
+   "title": "Receive and file three grant agreements for promotion of sports activities",
+   "section": "Consent",
+   "department": "Tourist Development Council",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3EE1.pdf"
+   ]
+  },
+  {
+   "number": "3EE-2",
+   "title": "Receive and file two grant agreements for promotion of sports activities",
+   "section": "Consent",
+   "department": "Tourist Development Council",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/3EE2.pdf"
+   ]
+  },
+  {
+   "number": "5A-1",
+   "title": "Purchase of a Sutphen Heavy Duty Monarch S-Series 750 Pumper vehicle",
+   "section": "Regular",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/5A1.pdf"
+   ]
+  },
+  {
+   "number": "5A-2",
+   "title": "Agreement with ARINC Incorporated for hardware and firmware updates to the Common Use Passenger Processing System",
+   "section": "Regular",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/5A2.pdf"
+   ]
+  },
+  {
+   "number": "5B-1",
+   "title": "Direction on the inclusion of a 401(a) plan as part of the County's investment options for employee participation that direct unused sick and/or vacation leave into the Special Pay Plan",
+   "section": "Regular",
+   "department": "Administration",
+   "backup": []
+  },
+  {
+   "number": "5C-1",
+   "title": "American Rescue Plan Act Response Replacement Project funds to Neighborhood Renaissance, Inc.",
+   "section": "Regular",
+   "department": "Housing And Economic Development",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/5C1.pdf"
+   ]
+  },
+  {
+   "number": "5D-1",
+   "title": "Agreement for purchase and sale of a 1.3 acre parcel of vacant land located north of Indiantown Road and east of Bee Line Highway from Maryann S. Peterson and Jeanne M. Givens",
+   "section": "Regular",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/5D1.pdf"
+   ]
+  },
+  {
+   "number": "5E-1",
+   "title": "Proposed 2023 State Legislative Agenda",
+   "section": "Regular",
+   "department": "Intergovernmental Affairs",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/5E1.pdf"
+   ]
+  },
+  {
+   "number": "6A-1",
+   "title": "Appointment to the Environmental Control Hearing Board",
+   "section": "Regular",
+   "department": "Intergovernmental Affairs",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/6A1.pdf"
+   ]
+  },
+  {
+   "number": "8A-1",
+   "title": "Receive and file updated Board Directive Reports",
+   "section": "Staff comments",
+   "department": null,
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20230110/8A1.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

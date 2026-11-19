@@ -1,0 +1,459 @@
+{
+ "date": "2025-06-03",
+ "type": "Regular board meeting",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20250603.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20250603/20250603.htm",
+ "agenda_pages": 52,
+ "items_source": "table of contents",
+ "item_count": 50,
+ "backup_pdf_count": 51,
+ "items": [
+  {
+   "number": "3A-1",
+   "title": "List of applicants for the County Administrator position for the Board of County Commissioners to schedule interviews.",
+   "section": "Consent",
+   "department": "Administration",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3A1.pdf"
+   ]
+  },
+  {
+   "number": "3B-1",
+   "title": "Warrant list",
+   "section": "Consent",
+   "department": "Clerk & Comptroller",
+   "backup": []
+  },
+  {
+   "number": "3B-2",
+   "title": "Minutes",
+   "section": "Consent",
+   "department": "Clerk & Comptroller",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3B2.pdf"
+   ]
+  },
+  {
+   "number": "3B-3",
+   "title": "Contracts and claims settlements list",
+   "section": "Consent",
+   "department": "Clerk & Comptroller",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3B3.pdf"
+   ]
+  },
+  {
+   "number": "3B-4",
+   "title": "Change orders, work task orders, minor contracts, final payments, etc.",
+   "section": "Consent",
+   "department": "Clerk & Comptroller",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3B4.pdf"
+   ]
+  },
+  {
+   "number": "3B-5",
+   "title": "Bond Sufficiency Report",
+   "section": "Consent",
+   "department": "Clerk & Comptroller",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3B5.pdf"
+   ]
+  },
+  {
+   "number": "3C-1",
+   "title": "Resolution supporting the Transportation Alternatives Set-Aside Program Funding Application.",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3C1.pdf"
+   ]
+  },
+  {
+   "number": "3C-2",
+   "title": "License Plate Reader permits report.",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3C2.pdf"
+   ]
+  },
+  {
+   "number": "3C-3",
+   "title": "Resolution designating Parcel 102 as road right-of-way for the drainage improvements at Belvedere Road and Wynne Drive project.",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3C3.pdf"
+   ]
+  },
+  {
+   "number": "3D-1",
+   "title": "Settlement in the eminent domain action with Elaine Novalien.",
+   "section": "Consent",
+   "department": "County Attorney",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3D1.pdf"
+   ]
+  },
+  {
+   "number": "3F-1",
+   "title": "Sublease by Jet Aviation Associates, Ltd. with Wheels Up Private Jets, LLC at PBI.",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3F1.pdf"
+   ]
+  },
+  {
+   "number": "3F-2",
+   "title": "General Aeronautical Services Permit with ERMC Aviation LLC to provide services to airlines operating at PBI.",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3F2.pdf"
+   ]
+  },
+  {
+   "number": "3F-3",
+   "title": "License Agreement with AGI Ground, Inc. providing for temporary relocation of AGI at PBI to accommodate on-going construction activities.",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3F3.pdf"
+   ]
+  },
+  {
+   "number": "3F-4",
+   "title": "Operating Permit with National Air Cargo Group Inc. for authorized use of terminal facilities at PBI.",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3F4.pdf"
+   ]
+  },
+  {
+   "number": "3F-5",
+   "title": "Operating Permit with DHL Air (UK) Limited for authorized use of facilities at PBI.",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3F5.pdf"
+   ]
+  },
+  {
+   "number": "3F-6",
+   "title": "Declaration of Easement for water utility improvements on County-owned property leased to Signature Flight Support, LLC.",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3F6.pdf"
+   ]
+  },
+  {
+   "number": "3F-7",
+   "title": "Letter of Release from Federal Aviation Administration of unimproved property; Resolution determining such property is not necessary for airport purposes, and Resolution imposing certain easements, covenants and restriction.",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3F7.pdf"
+   ]
+  },
+  {
+   "number": "3F-8",
+   "title": "Amendment for Extension of Public Transportation Grant Agreement with FDOT for Design Runway at PBI.",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3F8.pdf"
+   ]
+  },
+  {
+   "number": "3F-9",
+   "title": "Amendment No. 6 with Ricondo & Associates, Inc. for the provision of professional consulting services for the Department of Airports.",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3F9.pdf"
+   ]
+  },
+  {
+   "number": "3G-1",
+   "title": "Annual Report and Financial Statements from Boynton Beach Community Redevelopment Agency).",
+   "section": "Consent",
+   "department": "Office Of Financial Management & Budget",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3G1.pdf"
+   ]
+  },
+  {
+   "number": "3G-2",
+   "title": "Annual Report from the Village of Palm Springs Community Redevelopment Agency.",
+   "section": "Consent",
+   "department": "Office Of Financial Management & Budget",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3G2.pdf"
+   ]
+  },
+  {
+   "number": "3G-3",
+   "title": "Annual Report from the West Palm Beach Community Redevelopment Agency.",
+   "section": "Consent",
+   "department": "Office Of Financial Management & Budget",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3G3.pdf"
+   ]
+  },
+  {
+   "number": "3H-1",
+   "title": "Notice to extend Governmental Center Lease Agreement with LJL Food Management Inc. d/b/a The Hideout Kitchen & Café for continued operation of food and beverage services.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3H1.pdf"
+   ]
+  },
+  {
+   "number": "3H-2",
+   "title": "Consultant Services Authorization No. 2 with Colome & Associates, Inc. for the Dubois Pioneer Residence Renovation project.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3H2.pdf"
+   ]
+  },
+  {
+   "number": "3H-3",
+   "title": "Consultant Services Authorization No. 3 with Colome & Associates, Inc. for the Palm Beach County Breath, Alcohol Testing Unit Relocation to Stockade project.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3H3.pdf"
+   ]
+  },
+  {
+   "number": "3H-4",
+   "title": "Amendment No. 4 with Jacobs Project Management Co. to provide program management services for the General Government Capital Program.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3H4.pdf"
+   ]
+  },
+  {
+   "number": "3J-1",
+   "title": "Appointment of one (1) member to the At-large seat on the Planning Commission.",
+   "section": "Consent",
+   "department": "Planning, Zoning & Building",
+   "backup": []
+  },
+  {
+   "number": "3M-1",
+   "title": "Executed Special Events Rental Agreements with CC Leisure LLC, Lights 4 Hope Inc., FOMO Entertainment Group LLC, and Battle Bros LLC.",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3M1.pdf"
+   ]
+  },
+  {
+   "number": "3M-2",
+   "title": "Executed Sound and Light Production Service Contractor Agreements with Sanderford Sound, Inc.",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3M2.pdf"
+   ]
+  },
+  {
+   "number": "3M-3",
+   "title": "Executed Promoter Amphitheater Rental Agreements with Deutermanproductions.Com.LLC and FOMO Entertainment Group, LLC.",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3M3.pdf"
+   ]
+  },
+  {
+   "number": "3M-4",
+   "title": "Agreement with Faith's Place Center For Arts Education, Inc. for Operation of Summer Camp at Westgate Park and Recreation Center.",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3M4.pdf"
+   ]
+  },
+  {
+   "number": "3X-1",
+   "title": "Ratify the Mayor's signature on the Federally Funded Subaward Grant Agreement for Hurricane Milton.",
+   "section": "Consent",
+   "department": "Public Safety",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3X1.pdf"
+   ]
+  },
+  {
+   "number": "3X-2",
+   "title": "Appointment of one (1) At-large member to the Emergency Medical Services Advisory Council for the Emergency Room Nurses Forum seat.",
+   "section": "Consent",
+   "department": "Public Safety",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3X2.pdf"
+   ]
+  },
+  {
+   "number": "3X-3",
+   "title": "Ratify the Mayor's signature on the Florida Department of Juvenile Justice Solicitation – Aftercare Resource Navigator Program application.",
+   "section": "Consent",
+   "department": "Public Safety",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3X3.pdf"
+   ]
+  },
+  {
+   "number": "3X-4",
+   "title": "Payback of unexpended grant funds with Florida Council Against Sexual Violence.",
+   "section": "Consent",
+   "department": "Public Safety",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3X4.pdf"
+   ]
+  },
+  {
+   "number": "3X-5",
+   "title": "Acceptance of the U.S. Department of Justice Office on Violence Against women to Improve the Criminal Justice Response Program.",
+   "section": "Consent",
+   "department": "Public Safety",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3X5.pdf"
+   ]
+  },
+  {
+   "number": "3CC-1",
+   "title": "Second donation from the Howard E. Hill Foundation, Inc. to offset the contractual services cost of a ShotSpotter System for the Gunfire Detection and Location project.",
+   "section": "Consent",
+   "department": "Sheriff",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3CC1.pdf"
+   ]
+  },
+  {
+   "number": "3CC-2",
+   "title": "Grant Award from FDLE in supplemental funding for State Assistance for Fentanyl Eradication in Florida Program.",
+   "section": "Consent",
+   "department": "Sheriff",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3CC2.pdf"
+   ]
+  },
+  {
+   "number": "3DD-1",
+   "title": "Appointment of one (1) member to the CareerSource Palm Beach County, Inc. Board of Directors.",
+   "section": "Consent",
+   "department": "Careersource",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3DD1.pdf"
+   ]
+  },
+  {
+   "number": "3EE-1",
+   "title": "Appointment of one (1) member to the Fair Housing/Equal Employment Board.",
+   "section": "Consent",
+   "department": "Equal Employment Opportunity",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/3EE1.pdf"
+   ]
+  },
+  {
+   "number": "5A-1",
+   "title": "Ordinance reimposing the six (6) cent local option fuel tax upon every gallon of motor fuel and diesel fuel sold in the County.",
+   "section": "Public hearing",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/5A1.pdf"
+   ]
+  },
+  {
+   "number": "6A-1",
+   "title": "Ordinance regarding the Property Assessed Clean Energy Program (PACE).",
+   "section": "Regular",
+   "department": "Office Of Resilience",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/6A1.pdf"
+   ]
+  },
+  {
+   "number": "6B-1",
+   "title": "Third Amendment to the Lease Agreement with RREEF America REIT II Corp. S for continued use of space.",
+   "section": "Regular",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/6B1.pdf"
+   ]
+  },
+  {
+   "number": "6C-1",
+   "title": "Interim Contract for Interim County Administrator with employee Todd Bonlarron.",
+   "section": "Regular",
+   "department": "Administration",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/6C1.pdf"
+   ]
+  },
+  {
+   "number": "6C-2",
+   "title": "Performance Reviews for the Contractual Employees.",
+   "section": "Regular",
+   "department": "Administration",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/6C2.pdf"
+   ]
+  },
+  {
+   "number": "6C-3",
+   "title": "Request from County Commissioners regarding interview process for applicants for the County Administrator position.",
+   "section": "Regular",
+   "department": "Administration",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/6C3.pdf"
+   ]
+  },
+  {
+   "number": "6C-4",
+   "title": "Request direction Board of County Commissioners increased participation in the County's selection processes for competitive procurements.",
+   "section": "Regular",
+   "department": "Administration",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/6C4.pdf"
+   ]
+  },
+  {
+   "number": "6D-1",
+   "title": "Emergency Ordinance regarding Diversity, Equity and Inclusion (DEI) Programs within Palm Beach County.",
+   "section": "Regular",
+   "department": "County Attorney",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/6D1.pdf"
+   ]
+  },
+  {
+   "number": "6D-2",
+   "title": "Resolution repealing and replacing Palm Beach County Policy doing business with nor appropriate funds under Diversity, Equity, and Inclusion (DEI).",
+   "section": "Regular",
+   "department": "County Attorney",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/6D2.pdf"
+   ]
+  },
+  {
+   "number": "6E-1",
+   "title": "FAA Grant approval for Concourse B Expansion – Phase 2B at PBI.",
+   "section": "Regular",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250603/6E1.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

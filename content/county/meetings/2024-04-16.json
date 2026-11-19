@@ -1,0 +1,63 @@
+{
+ "date": "2024-04-16",
+ "type": "Workshop",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20240416.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20240416/20240416.htm",
+ "agenda_pages": 3,
+ "items_source": "order of business + agenda body",
+ "item_count": 6,
+ "backup_pdf_count": 5,
+ "items": [
+  {
+   "number": "4.A",
+   "title": "Palm Beach County Action Plan for FY 2024-2025 & Housing Update (HED)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "4.B",
+   "title": "Code Enforcement Comprehensive Inspections/Compliance Initiatives (PZB)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "4.C",
+   "title": "Overview of Airport's 5-Year Capital Plan (Airports)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "4.D",
+   "title": "Governmental Center Renewal/Replacement Project Overview (FDO)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "3A-1",
+   "title": "Staff recommends motion to receive and file: Warrant List – Backup information can be viewed in the Clerk & Comptroller's Office.",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": []
+  },
+  {
+   "number": "3B-1",
+   "title": "Staff recommends motion to authorize: A) the County Administrator or designee, who in this case shall be the Director of the Facilities Development and Operations (FDO) department, to retain professional services to initiate design of a capital improvements project (Project) to effectuate the relocation of the Palm Beach County Sheriff's Office (PBSO) Traffic Division to the Stockade (located at 673 Fairgrounds, West Palm",
+   "section": "Regular",
+   "department": "Facilities Development & Operations",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240416/3B1.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

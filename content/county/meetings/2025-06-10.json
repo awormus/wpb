@@ -1,0 +1,702 @@
+{
+ "date": "2025-06-10",
+ "type": "Regular board meeting",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20250610.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20250610/20250610.htm",
+ "agenda_pages": 85,
+ "items_source": "table of contents",
+ "item_count": 77,
+ "backup_pdf_count": 75,
+ "items": [
+  {
+   "number": "3A-1",
+   "title": "Naming of the County Complex Verdenia C. Baker Vista Complex.",
+   "section": "Consent",
+   "department": "Administration",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3A1.pdf"
+   ]
+  },
+  {
+   "number": "3B-1",
+   "title": "Warrant list",
+   "section": "Consent",
+   "department": "Clerk & Comptroller",
+   "backup": []
+  },
+  {
+   "number": "3B-2",
+   "title": "Contracts and claims settlements list",
+   "section": "Consent",
+   "department": "Clerk & Comptroller",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3B2.pdf"
+   ]
+  },
+  {
+   "number": "3B-3",
+   "title": "List of records that have met required retention schedule and ready for destruction",
+   "section": "Consent",
+   "department": "Clerk & Comptroller",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3B3.pdf"
+   ]
+  },
+  {
+   "number": "3C-1",
+   "title": "Change Order No. 15 with Rosso Site Development, Inc. for Benoist Farms Road project and a retroactive time extension.",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3C1.pdf"
+   ]
+  },
+  {
+   "number": "3C-2",
+   "title": "Change Order No. 12 with R&D Paving, LLC for a retroactive Contract time extension to the PGA Boulevard project.",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3C2.pdf"
+   ]
+  },
+  {
+   "number": "3C-3",
+   "title": "Change Order No. 13 with R&D Paving, LLC for a retroactive Contract time extension to the PGA Boulevard project.",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3C3.pdf"
+   ]
+  },
+  {
+   "number": "3C-4",
+   "title": "Lighting Agreements with FPL for various locations.",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3C4.pdf"
+   ]
+  },
+  {
+   "number": "3C-5",
+   "title": "Resolution declaring acquisition of property designated as fee simple right-of-way and temporary construction easement to extend Congress Avenue.",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3C5.pdf"
+   ]
+  },
+  {
+   "number": "3C-6",
+   "title": "Amendment to the Traffic Signal Maintenance and Compensation Agreement with FDOT.",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3C6.pdf"
+   ]
+  },
+  {
+   "number": "3C-7",
+   "title": "Resolution supporting the submittal of a Transportation Alternatives Set-Aside Program Funding Application.",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3C7.pdf"
+   ]
+  },
+  {
+   "number": "3C-8",
+   "title": "State Funded Grant Agreement with FDOT for the construction of Lyons Road.",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3C8.pdf"
+   ]
+  },
+  {
+   "number": "3C-9",
+   "title": "Change Order No. 6 with Ranger Construction Industries, Inc. for the Palmetto Park Road project for a retroactive time extension.",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3C9.pdf"
+   ]
+  },
+  {
+   "number": "3E-1",
+   "title": "Notices of Grant Award/Fund Availability from FDOC for the Low-Income Home Energy Assistance Program.",
+   "section": "Consent",
+   "department": "Community Services",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3E1.pdf"
+   ]
+  },
+  {
+   "number": "3G-1",
+   "title": "Annual Report and Financial Statement from Boca Raton Community Redevelopment Agency.",
+   "section": "Consent",
+   "department": "Office Of Financial Management & Budget",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3G1.pdf"
+   ]
+  },
+  {
+   "number": "3G-2",
+   "title": "Annual Report from Jupiter Community Redevelopment Agency.",
+   "section": "Consent",
+   "department": "Office Of Financial Management & Budget",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3G2.pdf"
+   ]
+  },
+  {
+   "number": "3G-3",
+   "title": "Annual Report from the Riviera Beach Community Redevelopment Agency.",
+   "section": "Consent",
+   "department": "Office Of Financial Management & Budget",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3G3.pdf"
+   ]
+  },
+  {
+   "number": "3G-4",
+   "title": "Annual Report and Audited Financial Statement from the Westgate/Belvedere Homes Community Redevelopment Agency.",
+   "section": "Consent",
+   "department": "Office Of Financial Management & Budget",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3G4.pdf"
+   ]
+  },
+  {
+   "number": "3G-5",
+   "title": "Budget Transfer from School Impact Fee Zone 1 in accordance with the ULDC.",
+   "section": "Consent",
+   "department": "Office Of Financial Management & Budget",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3G5.pdf"
+   ]
+  },
+  {
+   "number": "3G-6",
+   "title": "Settlement Agreement against Wynn & Sons Environmental Construction Company Inc.",
+   "section": "Consent",
+   "department": "Office Of Financial Management & Budget",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3G6.pdf"
+   ]
+  },
+  {
+   "number": "3G-7",
+   "title": "Settlement Offer of code compliance lien entered against Alejandro Gonzalez and Rosemary Rodriguez.",
+   "section": "Consent",
+   "department": "Office Of Financial Management & Budget",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3G7.pdf"
+   ]
+  },
+  {
+   "number": "3H-1",
+   "title": "Roger Dean Chevrolet Stadium Renovation Project development report period.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3H1.pdf"
+   ]
+  },
+  {
+   "number": "3H-2",
+   "title": "First Amendment with the City of Riviera Beach to extend the term of the Agreement for direct access to the County's Public Safety Radio System.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3H2.pdf"
+   ]
+  },
+  {
+   "number": "3H-3",
+   "title": "Amendments to the Infrastructure Surtax Project Funding Agreements with PBSO for vehicle replacement project and public safety equipment project.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3H3.pdf"
+   ]
+  },
+  {
+   "number": "3H-4",
+   "title": "Standard License Agreements for Use of County-Owned Property for various locations and uses.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3H4.pdf"
+   ]
+  },
+  {
+   "number": "3H-5",
+   "title": "First Amendments to the respective Amended and Restated Interlocal Agreements for interoperable communications to extend the term of the Agreements.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3H5.pdf"
+   ]
+  },
+  {
+   "number": "3H-6",
+   "title": "First Amendment fo the Amended and Restated Agreement with Universal Protection Service, LLC to extend the term of the Agreement for interoperable radio communications.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3H6.pdf"
+   ]
+  },
+  {
+   "number": "3H-7",
+   "title": "Consultant Services Authorization No. 4 with Netta Architects, LLC for professional services for Phase I of the Governmental Center Renewal/Replacement project.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3H7.pdf"
+   ]
+  },
+  {
+   "number": "3H-8",
+   "title": "Amendment No. 2 with several Consultants extending the contract term retroactively for architectural/engineering services.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3H8.pdf"
+   ]
+  },
+  {
+   "number": "3H-9",
+   "title": "Annual Contract with Fire and Security Solutions Inc. for fire alarm repair and replacement services.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3H9.pdf"
+   ]
+  },
+  {
+   "number": "3H-10",
+   "title": "Work Order No. 25-006 with Grid-One Electrical Construction, Inc. for the Morikami Park Lighting Replacement project.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3H10.pdf"
+   ]
+  },
+  {
+   "number": "3H-11",
+   "title": "Contract with CORE Construction Services of Florida, LLC for the Fire Stations No. 25 and 33 project, and Task Order No. 1 for preconstruction services.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3H11.pdf"
+   ]
+  },
+  {
+   "number": "3H-12",
+   "title": "Amendment No. 1 with Netta Architects, LLC for professional services and amended scope of work for the Medical Examiner's Office.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3H12.pdf"
+   ]
+  },
+  {
+   "number": "3H-13",
+   "title": "Utility Easement Agreement in favor of FPL for above-ground pad-mounted transformer at Haverhill park.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3H13.pdf"
+   ]
+  },
+  {
+   "number": "3H-14",
+   "title": "Utility Easement Agreement in favor of FPL for above-ground pad-mounted transformer at Lake Ida East park.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3H14.pdf"
+   ]
+  },
+  {
+   "number": "3H-15",
+   "title": "Utility Easement Agreement in favor of FPL for above-ground pad-mounted transformer at Anchor park.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3H15.pdf"
+   ]
+  },
+  {
+   "number": "3H-16",
+   "title": "Change Order No. 28 with Kast Construction Company LLC for the SOE Production Facility project.",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3H16.pdf"
+   ]
+  },
+  {
+   "number": "3I-1",
+   "title": "Termination of CBG Capital Improvement Agreement with the City of Riviera Beach for the Sanitary Sewer Control Panels for Lift Stations and Amendment 001 with the City of Riviera Beach for the Lindsey Davis Senior Community project.",
+   "section": "Consent",
+   "department": "Housing And Economic Development",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3I1.pdf"
+   ]
+  },
+  {
+   "number": "3I-2",
+   "title": "Resolution authorizing the issuance of one (1) or more series of Health Facilities Authority Hospital Revenue Bonds.",
+   "section": "Consent",
+   "department": "Housing And Economic Development",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3I2.pdf"
+   ]
+  },
+  {
+   "number": "3I-3",
+   "title": "Executed documents in connection with a loan made to Michel Invest LLC under HUD Section 108 Loan Program.",
+   "section": "Consent",
+   "department": "Housing And Economic Development",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3I3.pdf"
+   ]
+  },
+  {
+   "number": "3I-4",
+   "title": "Notification of Termination of the CDBG Capital Agreement with the Town of Lake Park for the Aquatic and Community Center and reallocate the funds towards an outdoor Splash Pad project; and CDBG Capital Improvement Agreement for the design and construction.",
+   "section": "Consent",
+   "department": "Housing And Economic Development",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3I4.pdf"
+   ]
+  },
+  {
+   "number": "3I-5",
+   "title": "Resolution approving the issuance of Housing Finance Authority Multifamily Housing Revenue Bonds for project known as Village of Valor.",
+   "section": "Consent",
+   "department": "Housing And Economic Development",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3I5.pdf"
+   ]
+  },
+  {
+   "number": "3J-1",
+   "title": "Hazard Mitigation Grant extension with FDEM for a modification extension; and a Master Research Agreement No. C-23-229 with FAU to extend and complete the project.",
+   "section": "Consent",
+   "department": "Planning, Zoning & Building",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3J1.pdf"
+   ]
+  },
+  {
+   "number": "3K-1",
+   "title": "Amendment No. 1 with Parsons Environment & Infrastructure Group Inc. for professional services to assist with the implementation of the Capital Improvement Plan.",
+   "section": "Consent",
+   "department": "Water Utilities",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3K1.pdf"
+   ]
+  },
+  {
+   "number": "3K-2",
+   "title": "Consultant Services Authorization No. 7 with Chen Moore and Associates, Inc. for professional services for Septic to Sewer Conversion for Parks Department project.",
+   "section": "Consent",
+   "department": "Water Utilities",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3K2.pdf"
+   ]
+  },
+  {
+   "number": "3K-3",
+   "title": "Standard Potable Water and Wastewater Development Agreements, Memorandum of Understanding Regarding Reclaimed Water Service Lake Discharge System.",
+   "section": "Consent",
+   "department": "Water Utilities",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3K3.pdf"
+   ]
+  },
+  {
+   "number": "3K-4",
+   "title": "Consultant Services Authorization No. 4 with Hillers Electrical Engineering, Inc. for Facility Wide Short Circuit Arc Flash Study and One Line Diagram Updates project.",
+   "section": "Consent",
+   "department": "Water Utilities",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3K4.pdf"
+   ]
+  },
+  {
+   "number": "3K-5",
+   "title": "Standard Grant Agreement with FDEP for the East Main Street Sanitary Sewer Lateral Installation project.",
+   "section": "Consent",
+   "department": "Water Utilities",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3K5.pdf"
+   ]
+  },
+  {
+   "number": "3K-6",
+   "title": "Change Order No. 6 with PC Construction Company dba PCEO, Inc. to the Water Treatment Plant No. 2 Treatment and Disposal Packages project.",
+   "section": "Consent",
+   "department": "Water Utilities",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3K6.pdf"
+   ]
+  },
+  {
+   "number": "3K-7",
+   "title": "Standard Grant Agreement with FDOT for the Golfview Heights of Westgate Water System Improvements project.",
+   "section": "Consent",
+   "department": "Water Utilities",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3K7.pdf"
+   ]
+  },
+  {
+   "number": "3L-1",
+   "title": "Consultant Services Authorization No. 0090-13 with Foth Infrastructure & Environment, LLC to provide professional engineering, surveys, reporting and documentation to be used in permit required monitoring.",
+   "section": "Consent",
+   "department": "Environmental Resources Management",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3L1.pdf"
+   ]
+  },
+  {
+   "number": "3L-2",
+   "title": "Approval for North American Wetlands Conservation Act Grant Partner Agreement with Ducks Unlimited, Inc. to restore historic hydrological connections within Cypress Creek.",
+   "section": "Consent",
+   "department": "Environmental Resources Management",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3L2.pdf"
+   ]
+  },
+  {
+   "number": "3M-1",
+   "title": "Executed Special Events Rental Agreements for Spartan Race, Inc.; Salto Entertainment LLC, Battle Bros LLC, and Quadlife Entertainment LLC.",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3M1.pdf"
+   ]
+  },
+  {
+   "number": "3M-2",
+   "title": "Executed Entertainment Contractor Agreements for Mark Shubert and Claudette Roccapriore.",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3M2.pdf"
+   ]
+  },
+  {
+   "number": "3M-3",
+   "title": "Executed Amphitheater Rental Agreements for EKTARA FLORIDA Inc. and Genesis Marketing & Promotions, LLC.",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3M3.pdf"
+   ]
+  },
+  {
+   "number": "3M-4",
+   "title": "Executed Recreation Instructor Services Agreement with Chet's Inc. for water ski instruction at Burt Aaronson South County Regional Park.",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3M4.pdf"
+   ]
+  },
+  {
+   "number": "3X-1",
+   "title": "Florida Emergency Communications Board 9-1-1 State Grant Program application to purchase and install 911 Call Handling Equipment IP softphones for FHP.",
+   "section": "Consent",
+   "department": "Public Safety",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3X1.pdf"
+   ]
+  },
+  {
+   "number": "3X-2",
+   "title": "Amendments with The Lord's Place, Inc. and Integrated Healthcare System Riviera, Inc. decreasing the overall contract based on funding amounts.",
+   "section": "Consent",
+   "department": "Public Safety",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3X2.pdf"
+   ]
+  },
+  {
+   "number": "3AA-1",
+   "title": "FTA Master Agreement for approval.",
+   "section": "Consent",
+   "department": "Palm Tran",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3AA1.pdf"
+   ]
+  },
+  {
+   "number": "3AA-2",
+   "title": "FTA Application and Grant Agreement for Shelter Replacement Project.",
+   "section": "Consent",
+   "department": "Palm Tran",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3AA2.pdf"
+   ]
+  },
+  {
+   "number": "3AA-3",
+   "title": "Resolution approving the Standard Grant Agreement Amendment No. 1 with FDEP to provide assistance for the purchase of electric transit buses.",
+   "section": "Consent",
+   "department": "Palm Tran",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3AA3.pdf"
+   ]
+  },
+  {
+   "number": "3AA-4",
+   "title": "Amendment No. 1 to the Public Transportation Grant Agreement with FDOT to continue the Voucher/Mobility on Demand.",
+   "section": "Consent",
+   "department": "Palm Tran",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3AA4.pdf"
+   ]
+  },
+  {
+   "number": "3AA-5",
+   "title": "Interlocal Agreement with the City of Boca Raton regarding the funding and operation of a Mobility on Demand Service.",
+   "section": "Consent",
+   "department": "Palm Tran",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3AA5.pdf"
+   ]
+  },
+  {
+   "number": "3AA-6",
+   "title": "FY 2025 Certifications and Assurances for FTA Assistance Programs.",
+   "section": "Consent",
+   "department": "Palm Tran",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3AA6.pdf"
+   ]
+  },
+  {
+   "number": "3CC-1",
+   "title": "Executed Category “G” Grant Agreements with Quadlife Entertainment, LLC and Boca Raton Champions Golf Charities, Inc.",
+   "section": "Consent",
+   "department": "Tourist Development Council",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3CC1.pdf"
+   ]
+  },
+  {
+   "number": "3CC-2",
+   "title": "Executed Category “G” Grant Agreements with Spartan Race, Inc. and Development Player League, Inc.",
+   "section": "Consent",
+   "department": "Tourist Development Council",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3CC2.pdf"
+   ]
+  },
+  {
+   "number": "3DD-1",
+   "title": "Semi-Annual OEBO Report.",
+   "section": "Consent",
+   "department": "Office Of Equal Business Opportunity",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3DD1.pdf"
+   ]
+  },
+  {
+   "number": "3EE-1",
+   "title": "Agreement with FAU Board of Trustees on behalf of Charles E. Schmidt College of Medicine for placement of medical students in clinical rotations.",
+   "section": "Consent",
+   "department": "Medical Examiner",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/3EE1.pdf"
+   ]
+  },
+  {
+   "number": "4A-1",
+   "title": "Economic Development Incentive Agreement with Finfrock, previously referred to Project Jacobson for cash grant.",
+   "section": "Public hearing",
+   "department": "Housing & Economic Development",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/4A1.pdf"
+   ]
+  },
+  {
+   "number": "4B-1",
+   "title": "Alignment Alternative 1 for 60th Street North and Alignment Alternative 1 for 190th Street North for the development of Indian Trail Groves.",
+   "section": "Public hearing",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/4B1.pdf"
+   ]
+  },
+  {
+   "number": "4C-1",
+   "title": "Primary Provider COPCN for Pilot Program Services for the Town of Jupiter Transport Services.",
+   "section": "Public hearing",
+   "department": "Public Safety Department",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/4C1.pdf"
+   ]
+  },
+  {
+   "number": "5A-1",
+   "title": "Request direction Board of County Commissioners increased participation in the County's selection processes for competitive procurements.",
+   "section": "Regular",
+   "department": "Administration",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/5A1.pdf"
+   ]
+  },
+  {
+   "number": "5A-2",
+   "title": "Performance Review for the Contractual Employee Internal Auditor.",
+   "section": "Regular",
+   "department": "Administration",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/5A2.pdf"
+   ]
+  },
+  {
+   "number": "5B-1",
+   "title": "2025 Disaster Preparedness Storm Season Report.",
+   "section": "Regular",
+   "department": "Public Safety Department",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/5B1.pdf"
+   ]
+  },
+  {
+   "number": "5C-1",
+   "title": "Contract with CareerSource Palm Beach County, Inc. to provide the Internship Portal.",
+   "section": "Regular",
+   "department": "Youth Services",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/5C1.pdf"
+   ]
+  },
+  {
+   "number": "5D-1",
+   "title": "Data Transfer and Use Agreement with University of Florida Board of Trustees to share limited client-level information for purpose of research.",
+   "section": "Regular",
+   "department": "Community Services",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250610/5D1.pdf"
+   ]
+  },
+  {
+   "number": "5E-1",
+   "title": "Contract with WSP USA Inc. to assist in the development of a Countywide Transportation Master Plan.",
+   "section": "Regular",
+   "department": "Planning, Zoning, & Building",
+   "backup": []
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

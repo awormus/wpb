@@ -1,0 +1,57 @@
+{
+ "date": "2025-05-20",
+ "type": "Workshop",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20250520.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20250520/20250520.htm",
+ "agenda_pages": 3,
+ "items_source": "order of business + agenda body",
+ "item_count": 5,
+ "backup_pdf_count": 4,
+ "items": [
+  {
+   "number": "4.A",
+   "title": "Behavioral Health",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "4.B",
+   "title": "FY 2026 Budget Review",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "3A-1",
+   "title": "Staff recommends motion to receive and file: Warrant List – Backup information can be viewed in the Clerk & Comptroller's Office.",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": []
+  },
+  {
+   "number": "3A-2",
+   "title": "Staff recommends motion to approve: Contracts (regular) and claim settlements list as submitted by various departments to the Clerk & Comptroller=s Office. Countywide",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250520/3A2.pdf"
+   ]
+  },
+  {
+   "number": "3B-1",
+   "title": "Staff recommends motion to approve: A) an Amendment to the Board of County Commissioners (BCC) Plan outlining the recruitment and retention process for the County Administrator position. The County Administrator Task Force (CATF) is requesting to extend the duration of the CATF interviews from 20 minutes to a maximum of 45 minutes per applicant; and B) an Amendment to Resolution R2025-0509, Section 5 Duties and Functions;",
+   "section": "Regular",
+   "department": "Administration",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250520/3B1.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

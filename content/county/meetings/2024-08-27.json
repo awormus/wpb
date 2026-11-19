@@ -1,0 +1,65 @@
+{
+ "date": "2024-08-27",
+ "type": "Workshop",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20240827.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20240827/20240827.htm",
+ "agenda_pages": 5,
+ "items_source": "order of business + agenda body",
+ "item_count": 6,
+ "backup_pdf_count": 5,
+ "items": [
+  {
+   "number": "6.A",
+   "title": "FEMA FIRM Map Updates (PZB / WATER)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "6.B",
+   "title": "Palm Tran paratransit RFP (PALM TRAN)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "6.C",
+   "title": "Emergency Medical Services Secondary Certificate of Public Convenience and Necessity (COPCN) Update (PUBLIC SAFETY)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "3A-1",
+   "title": "Staff recommends motion to: A) receive and file a zero-dollar ($0) value Change Order No. 5 documenting an increase in the amount of $83,494.83 to the project contingency fund of Amendment No. 3 (R2021-0345) to the Construction Manager (CM) at Risk Services contract (R2020-0249.1) with Kast Construction Company LLC (Kast) for the Palm Beach Sheriff's Office (PBSO) Headquarters Renovations-Exterior and Interior project (Project);",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240827/3A1.pdf"
+   ]
+  },
+  {
+   "number": "5A-1",
+   "title": "Staff recommends motion to receive and file: Warrant List – Backup information can be viewed in the Clerk & Comptroller's Office.",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": []
+  },
+  {
+   "number": "5A-2",
+   "title": "Staff recommends motion to approve: Contracts (regular) and claim settlements list as submitted by various departments to the Clerk & Comptroller's Office. Countywide ************ 5",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240827/5A2.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

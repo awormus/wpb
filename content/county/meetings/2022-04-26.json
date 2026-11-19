@@ -1,0 +1,83 @@
+{
+ "date": "2022-04-26",
+ "type": "Workshop",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20220426.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20220426/20220426.htm",
+ "agenda_pages": 3,
+ "items_source": "order of business + agenda body",
+ "item_count": 8,
+ "backup_pdf_count": 8,
+ "items": [
+  {
+   "number": "5.A",
+   "title": "9:30 A.M. FY2022-2023 Action Plan (HED)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "5.B",
+   "title": "10:30 A.M. South County Administrative Complex Master Plan (FDO)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "5.C",
+   "title": "2:00 P.M. Vulnerability Assessment and Resilience Action Plan – Greenhouse Gas Emission Reduction Options (OOR)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "5.D",
+   "title": "3:00 P.M. Single-Use Plastic and Polystyrene Waste Reduction (OOR)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "4A-1",
+   "title": "Staff recommends motion to receive and file: Warrant List – Backup information can be viewed in the Clerk & Comptroller's Office.",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": []
+  },
+  {
+   "number": "4A-2",
+   "title": "Staff recommends motion to approve: the following final minutes of the Board of County Commissioners' meetings: Meeting Date Meeting Type December 15, 2021 Zoning February 8, 2022 Regular January 27, 2022 Zoning",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220426/4A2.pdf"
+   ]
+  },
+  {
+   "number": "4A-3",
+   "title": "Staff recommends motion to approve: Contracts (regular) and claim settlements list as submitted by various departments to the Clerk & Comptroller's Office. Countywide",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220426/4A3.pdf"
+   ]
+  },
+  {
+   "number": "4A-4",
+   "title": "Staff recommends motion to receive and file: change orders, work task orders, minor contracts, final payments and other items approved by the Contract Review Committee and by the department heads for the Engineering Department; Facilities Development and Operations; Water Utilities Department; Environmental Resources Department; and the Department of Airports during March 2022. ************ 2",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220426/4A4.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

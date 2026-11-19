@@ -1,0 +1,67 @@
+{
+ "date": "2024-06-18",
+ "type": "Workshop",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20240618.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20240618/20240618.htm",
+ "agenda_pages": 5,
+ "items_source": "order of business + agenda body",
+ "item_count": 6,
+ "backup_pdf_count": 5,
+ "items": [
+  {
+   "number": "4.A",
+   "title": "Partnerships with Non-Profits (ADMIN)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "4.B",
+   "title": "Density Bonus Program & Workforce Housing Concepts (PZB)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "3A-1",
+   "title": "Staff recommends motion to receive and file: Warrant List – Backup information can be viewed in the Clerk & Comptroller's Office.",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": []
+  },
+  {
+   "number": "3B-1",
+   "title": "Staff recommends motion to: A) approve Agreement No. DMS-24/25-141 a Grant Agreement For Local Cybersecurity Grant Program (Agreement) with State of Florida Department of Management Services (FDMS) through Florida Digital Service (FDS) for assistance in the amount of $450,000; B) delegate authority to the County Administrator, or her designee which in this case shall be the Director of Palm Beach County Water Utilities Department",
+   "section": "Regular",
+   "department": "Water Utilities",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240618/3B1.pdf"
+   ]
+  },
+  {
+   "number": "3C-1",
+   "title": "Staff recommends motion to approve: a twelve (12) month lease agreement between the Board of County Commissioners (BCC), of Palm Beach County, Florida, and Nations Bus Corp, a California Corporation, for the leasing of three (3) coach bus vehicles to operate the Port St. Lucie Express (PSL Express) Regional",
+   "section": "Regular",
+   "department": "Palm Tran",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240618/3C1.pdf"
+   ]
+  },
+  {
+   "number": "3C-2",
+   "title": "Staff recommends motion to approve: A) Memorandum of Understanding (MOU) between South Florida Regional Transportation Authority (SFRTA), Broward County Transit (BCT), Miami Dade Public Works (MDPW), and Palm Tran (PT) setting forth the required co- operation between the Agencies allowing for the purchase of fares and the successful implementation of SFRTA's new mobile application; and B) an Application Programming Interface (API) License and Services Agreement",
+   "section": "Regular",
+   "department": "Palm Tran",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20240618/3C2.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

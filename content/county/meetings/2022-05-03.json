@@ -1,0 +1,533 @@
+{
+ "date": "2022-05-03",
+ "type": "Regular board meeting",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20220503.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20220503/20220503.htm",
+ "agenda_pages": 53,
+ "items_source": "table of contents",
+ "item_count": 58,
+ "backup_pdf_count": 57,
+ "items": [
+  {
+   "number": "3B-1",
+   "title": "Warrant list",
+   "section": "Consent",
+   "department": "Clerk & Comptroller",
+   "backup": []
+  },
+  {
+   "number": "3B-2",
+   "title": "Contracts and claims settlements list",
+   "section": "Consent",
+   "department": "Clerk & Comptroller",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3B2.pdf"
+   ]
+  },
+  {
+   "number": "3C-1",
+   "title": "Agreement with CSX Transportation, Inc. for reconstruction of the Haverhill Road railroad crossing",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3C1.pdf"
+   ]
+  },
+  {
+   "number": "3C-2",
+   "title": "Contract with Seacoast, Inc. for the Donald Ross Road Bascule Bridge project",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3C2.pdf"
+   ]
+  },
+  {
+   "number": "3C-3",
+   "title": "Amendment to contract with Alan Gerwig & Associates, Inc. to modify the fee schedule",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3C3.pdf"
+   ]
+  },
+  {
+   "number": "3C-4",
+   "title": "Interlocal Agreement with the Town of Jupiter for drainage improvements on A1A and Indiantown Road",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3C4.pdf"
+   ]
+  },
+  {
+   "number": "3C-5",
+   "title": "Interlocal Agreement with The Town of Jupiter transferring ownership, operations and maintenance of Longshore Drive and Northfork Drive",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3C5.pdf"
+   ]
+  },
+  {
+   "number": "3C-6",
+   "title": "Consultant Services Authorization to contract with WGI, Inc. for the Palmetto Park Road Bascule Bridge over Intracoastal Waterway project",
+   "section": "Consent",
+   "department": "Engineering & Public Works",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3C6.pdf"
+   ]
+  },
+  {
+   "number": "3E-1",
+   "title": "Agreement with the Area Agency on Aging of Palm Beach/Treasure Coast, Inc. for supportive services to seniors due to the COVID-19 pandemic",
+   "section": "Consent",
+   "department": "Community Services",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3E1.pdf"
+   ]
+  },
+  {
+   "number": "3E-2",
+   "title": "Data Sharing Agreement with the Florida Department of Health to provide medical care and support for clients with HIV",
+   "section": "Consent",
+   "department": "Community Services",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3E2.pdf"
+   ]
+  },
+  {
+   "number": "3E-3",
+   "title": "Ratify the Mayor's signature on the Phase 29 Emergency Food and Shelter Program Grant Application for rental assistance",
+   "section": "Consent",
+   "department": "Community Services",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3E3.pdf"
+   ]
+  },
+  {
+   "number": "3E-4",
+   "title": "Receive and file Emergency Rental Assistance Program 1 Report from the U.S. Department of the Treasury",
+   "section": "Consent",
+   "department": "Community Services",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3E4.pdf"
+   ]
+  },
+  {
+   "number": "3F-1",
+   "title": "Receive and file license agreement with Florida Power & Light Company for lease of area at the North Palm Beach County General Aviation Airport",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3F1.pdf"
+   ]
+  },
+  {
+   "number": "3F-2",
+   "title": "Receive and file terminal space lease agreement with Unifi Aviation, LLC for lease of office space at the Palm Beach International Airport",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3F2.pdf"
+   ]
+  },
+  {
+   "number": "3F-3",
+   "title": "Receive and file consent to sublease between PAE Applied Technologies LLC and Amentum Services, Inc.",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3F3.pdf"
+   ]
+  },
+  {
+   "number": "3F-4",
+   "title": "Change order to amendment to contract with The Morganti Group, Inc. for Miscellaneous Airport Improvmeents",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3F4.pdf"
+   ]
+  },
+  {
+   "number": "3F-5",
+   "title": "Receive and file general aeronautical services permit with Dade GSE, Inc. for support services to airlines operating at Palm Beach International Airport",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3F5.pdf"
+   ]
+  },
+  {
+   "number": "3F-6",
+   "title": "Receive and file terminal space lease agreement with G2 Secure Staff, LLC for lease of airline ticket office space at Palm Beach International Airport",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3F6.pdf"
+   ]
+  },
+  {
+   "number": "3F-7",
+   "title": "Change order to contract with Ranger Construction Industries, Inc. for the Northeast Airfield Improvements project",
+   "section": "Consent",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3F7.pdf"
+   ]
+  },
+  {
+   "number": "3G-1",
+   "title": "Receive and file annual report for the fiscal year ending September 30, 2021 from the Palm Springs Community Redevelopment Agency",
+   "section": "Consent",
+   "department": "Office Of Financial Management & Budget",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3G1.pdf"
+   ]
+  },
+  {
+   "number": "3G-2",
+   "title": "Receive and file annual report for the fiscal year ending September 30, 2021 from the Westgate Community Redevelopment Agency",
+   "section": "Consent",
+   "department": "Office Of Financial Management & Budget",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3G2.pdf"
+   ]
+  },
+  {
+   "number": "3G-3",
+   "title": "Receive and file annual report for the fiscal year ending September 30, 2021 from the Boca Raton Community Redevelopment Agency",
+   "section": "Consent",
+   "department": "Office Of Financial Management & Budget",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3G3.pdf"
+   ]
+  },
+  {
+   "number": "3G-4",
+   "title": "Receive and file annual report for the fiscal year ending September 30, 2021 from the Riviera Beach Community Redevelopment Agency",
+   "section": "Consent",
+   "department": "Office Of Financial Management & Budget",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3G4.pdf"
+   ]
+  },
+  {
+   "number": "3G-5",
+   "title": "Settlement offer for full satisfaction of a code enforcement lien for Alejandro Saravia and Rina Soriano",
+   "section": "Consent",
+   "department": "Office Of Financial Management & Budget",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3G5.pdf"
+   ]
+  },
+  {
+   "number": "3G-6",
+   "title": "Recording of the FY 2021 retirements of tangible personal property",
+   "section": "Consent",
+   "department": "Office Of Financial Management & Budget",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3G6.pdf"
+   ]
+  },
+  {
+   "number": "3H-1",
+   "title": "Interlocal agreement with the Clerk of the Circuit Court & Comptroller, 15 th Judicial Circuit for fleet management services",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3H1.pdf"
+   ]
+  },
+  {
+   "number": "3H-2",
+   "title": "Amendment to agreement with Global Spectrum, L.P. for operation and management of the Palm Beach County Convention Center",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3H2.pdf"
+   ]
+  },
+  {
+   "number": "3H-3",
+   "title": "Utility Easement Agreement in favor of Florida Power & Light Company for electrical services at the Canyon District Park",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3H3.pdf"
+   ]
+  },
+  {
+   "number": "3H-4",
+   "title": "Contract with Colome & Associates, Inc. for the Gramercy Park Neighborhood Center project",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3H4.pdf"
+   ]
+  },
+  {
+   "number": "3J-1",
+   "title": "Resolution granting County tax exemption for historic rehabilitation of property located in Lake Worth Beach",
+   "section": "Consent",
+   "department": "Planning, Zoning & Building",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3J1.pdf"
+   ]
+  },
+  {
+   "number": "3J-2",
+   "title": "Resolutions granting County tax exemption for historical rehabilitation of properties located in Palm Beach",
+   "section": "Consent",
+   "department": "Planning, Zoning & Building",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3J2.pdf"
+   ]
+  },
+  {
+   "number": "3J-3",
+   "title": "Resolutions granting County tax exemption for historical rehabilitation of properties located in Delray Beach",
+   "section": "Consent",
+   "department": "Planning, Zoning & Building",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3J3.pdf"
+   ]
+  },
+  {
+   "number": "3J-4",
+   "title": "Resolutions granting County tax exemption for historical rehabilitation of properties located in West Palm Beach",
+   "section": "Consent",
+   "department": "Planning, Zoning & Building",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3J4.pdf"
+   ]
+  },
+  {
+   "number": "3K-1",
+   "title": "Work authorization to contract with Johnson-Davis Incorporated for the S.R.15/U.S. 441 from south of Shirley Drive to east of Main Street",
+   "section": "Consent",
+   "department": "Water Utilities",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3K1.pdf"
+   ]
+  },
+  {
+   "number": "3L-1",
+   "title": "Contract with Florida Fish and Wildlife Conservation Commission for the Bonefish Cove Estuarine Habitat Restoration project",
+   "section": "Consent",
+   "department": "Environmental Resources Management",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3L1.pdf"
+   ]
+  },
+  {
+   "number": "3L-2",
+   "title": "Resolution in support of a Waterways Assistance Program Grant Application to the Florida Inland Navigation District for the Providencia Cay Habitat Restoration Project",
+   "section": "Consent",
+   "department": "Environmental Resources Management",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3L2.pdf"
+   ]
+  },
+  {
+   "number": "3M-1",
+   "title": "Receive and file executed Amphitheater Rental Agreement with DEUTERMANPRODUCTIONS.COM.LLC for the Jupiter Seafood Festival",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3M1.pdf"
+   ]
+  },
+  {
+   "number": "3M-2",
+   "title": "Receive and file executed Entertainment Contractor Agreement with Gary Frost for the Sour Mash concert",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3M2.pdf"
+   ]
+  },
+  {
+   "number": "3M-3",
+   "title": "Ratify the Mayor's signature on a Waterways Assistance Program grant application to the Florida Inland Navigation District for the redevelopment of the southern portion of Bert Winters Park",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3M3.pdf"
+   ]
+  },
+  {
+   "number": "3M-4",
+   "title": "Ratify the Mayor's signature on a Waterways Assistance Program grant application to the Florida Inland Navigation District for the renovation of the Peanut Island Park Dock",
+   "section": "Consent",
+   "department": "Parks & Recreation",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3M4.pdf"
+   ]
+  },
+  {
+   "number": "3P-1",
+   "title": "Payment to Friends of Mounts Botanical Garden to fund staff and operational responsibilities at Mounts Botanical Garden",
+   "section": "Consent",
+   "department": "Cooperative Extension Service",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3P1.pdf"
+   ]
+  },
+  {
+   "number": "3Q-1",
+   "title": "Receive and file amendment to Interlocal Agreement with Florida Atlantic University extending the term of the agreement",
+   "section": "Consent",
+   "department": "Criminal Justice Commission",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3Q1.pdf"
+   ]
+  },
+  {
+   "number": "3S-1",
+   "title": "Business Associate Agreement with ESO Solutions, Inc. for electronic patient care reporting",
+   "section": "Consent",
+   "department": "Fire Rescue",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3S1.pdf"
+   ]
+  },
+  {
+   "number": "3S-2",
+   "title": "Resolution authorizing the County Administrator or designee to execute standard agreements with municipalities and independent contractors for swimming lessons",
+   "section": "Consent",
+   "department": "Fire Rescue",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3S2.pdf"
+   ]
+  },
+  {
+   "number": "3AA-1",
+   "title": "Resolution approving amendment to the Public Transportation grant agreement with the State of Florida Department of Transportation increasing the agreement for operational expenses for the Go Glades Service",
+   "section": "Consent",
+   "department": "Palm Tran",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3AA1.pdf"
+   ]
+  },
+  {
+   "number": "3CC-1",
+   "title": "Amendment to contract with the University of North Florida Training and Services Institute, Inc. for the Florida Department of Transportations' Bicycle Pedestrian Focused Initiative",
+   "section": "Consent",
+   "department": "Sheriff",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3CC1.pdf"
+   ]
+  },
+  {
+   "number": "3CC-2",
+   "title": "Receive and file modification to subgrant agreement with the State of Florida Division of Emergency Management extending the grant period",
+   "section": "Consent",
+   "department": "Sheriff",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3CC2.pdf"
+   ]
+  },
+  {
+   "number": "3CC-3",
+   "title": "Budget amendment for FY 2022 law enforcement services to the School Board of Palm Beach County",
+   "section": "Consent",
+   "department": "Sheriff",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3CC3.pdf"
+   ]
+  },
+  {
+   "number": "3CC-4",
+   "title": "Receive and file modification to subgrant agreement with the State of Florida Division of Emergency Management extending the grant period",
+   "section": "Consent",
+   "department": "Sheriff",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3CC4.pdf"
+   ]
+  },
+  {
+   "number": "3DD-1",
+   "title": "Receive and file executed FY2022 Grant Agreement management by the Palm Beach County Sports Commission, Inc. for the promotion of the Delray Beach Open",
+   "section": "Consent",
+   "department": "Tourist Development Council",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/3DD1.pdf"
+   ]
+  },
+  {
+   "number": "5A-1",
+   "title": "Receive and file presentation of the Palm Beach County Annual Comprehensive Financial Report",
+   "section": "Regular",
+   "department": "Clerk Of The Circuit Court & Comptroller",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/5A1.pdf"
+   ]
+  },
+  {
+   "number": "5B-1",
+   "title": "Resolution calling for referendum on the November 8, 2022 ballot increasing the millage for the School Board of Palm Beach County",
+   "section": "Regular",
+   "department": "County Attorney",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/5B1.pdf"
+   ]
+  },
+  {
+   "number": "5C-1",
+   "title": "Amendment to contract with Lebolo Construction Management, Inc. for the Federal Inspection Services & Building 846 Storm Resilience Modifications project",
+   "section": "Regular",
+   "department": "Airports",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/5C1.pdf"
+   ]
+  },
+  {
+   "number": "5D-1",
+   "title": "Resolution supporting the expansion of roadways designated as Alternative Fuels Corridors by the Federal Highway Administration",
+   "section": "Regular",
+   "department": "Office Of Resilience",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/5D1.pdf"
+   ]
+  },
+  {
+   "number": "5E-1",
+   "title": "Memorandum of Understanding with the University of Florida regarding the sublease of state- owned property located at 571 N. Military Trail in West Palm Beach",
+   "section": "Regular",
+   "department": "Facilities Development And Operations",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/5E1.pdf"
+   ]
+  },
+  {
+   "number": "5F-1",
+   "title": "Ordinance amending the Palm Beach County Commission on Ethics Ordinance",
+   "section": "Regular",
+   "department": "Commission On Ethics",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/5F1.pdf"
+   ]
+  },
+  {
+   "number": "5G-1",
+   "title": "Subrecipient Agreement with United Way of Palm Beach County, Inc. to provide funding assistance for the expansion of hunger relief system in order to increase food bank storage and food processing capacity",
+   "section": "Regular",
+   "department": "Community Services",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/5G1.pdf"
+   ]
+  },
+  {
+   "number": "7A-1",
+   "title": "Receive and file updated Board Directive Reports",
+   "section": "Staff comments",
+   "department": null,
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220503/7A1.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

@@ -1,0 +1,57 @@
+{
+ "date": "2026-05-19",
+ "type": "Workshop",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20260519.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20260519/20260519.htm",
+ "agenda_pages": 5,
+ "items_source": "order of business + agenda body",
+ "item_count": 5,
+ "backup_pdf_count": 3,
+ "items": [
+  {
+   "number": "4.A",
+   "title": "Parks Capital Bonds",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "4.B",
+   "title": "Palm Tran Budget Review",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "3A-1",
+   "title": "Staff recommends motion to receive and file: Warrant List – Backup information can be viewed in the Clerk & Comptroller's Office.",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": []
+  },
+  {
+   "number": "3B-1",
+   "title": "Staff recommends motion to adopt: A) a Resolution approving the submittal of the 2026 Safe Streets and Roads for All (SS4A) grant program application (Application) to the Federal Highway Administration (FHWA), an agency of the United States Department of Transportation (USDOT), for funding the operational analysis, design, construction, and construction management of directional median conversions on five (5) Palm",
+   "section": "Regular",
+   "department": "Engineering & Public Works",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20260519/3B1.pdf"
+   ]
+  },
+  {
+   "number": "3C-1",
+   "title": "Staff requests board direction: regarding current and future fire rescue emergency",
+   "section": "Regular",
+   "department": "Fire Rescue",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20260519/3C1.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

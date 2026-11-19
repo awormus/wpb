@@ -1,0 +1,105 @@
+{
+ "date": "2025-07-22",
+ "type": "Workshop",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20250722.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20250722/20250722.htm",
+ "agenda_pages": 8,
+ "items_source": "order of business + agenda body",
+ "item_count": 10,
+ "backup_pdf_count": 9,
+ "items": [
+  {
+   "number": "5.A",
+   "title": "Emergency Medical Services (EMS) Ordinance Revision Overview (PSD)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "5.B",
+   "title": "Youth Reentry Program Update (PSD)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "5.C",
+   "title": "Animal Care & Control (ACC) Overview (PSD)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "3A-1",
+   "title": "Staff recommends motion to receive and file: Warrant List – Backup information can be viewed in the Clerk & Comptroller's Office.",
+   "section": "Consent",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": []
+  },
+  {
+   "number": "3A-2",
+   "title": "Staff recommends motion to approve: Contracts (regular) and claim settlements list as submitted by various departments to the Clerk & Comptroller's Office. Countywide",
+   "section": "Consent",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250722/3A2.pdf"
+   ]
+  },
+  {
+   "number": "3B-1",
+   "title": "Staff recommends motion to adopt: a Resolution replacing Exhibit A to Resolution 2020-1017 with the updated Federal Aviation Administration (FAA) grant template;",
+   "section": "Consent",
+   "department": "Airports",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250722/3B1.pdf"
+   ]
+  },
+  {
+   "number": "3C-1",
+   "title": "Staff recommends motion to approve: a Second Amendment to the Agreement with Community Foundation for Palm Beach and Martin Counties, Inc. (Community Foundation) (R2024-0660) for the development and planning of the Palm Beach County African American Museum and Research Library (Museum), increasing to $2,000,000 the County's Not to Exceed Amount and updating the Non-Discrimination",
+   "section": "Consent",
+   "department": "Facilities Development & Operations",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250722/3C1.pdf"
+   ]
+  },
+  {
+   "number": "4A-1",
+   "title": "Staff recommends motion to commence: a private attorney-client session in the case of B. & B. Properties, Inc. v. Palm Beach County, Florida: 50-2019-CA-008660- XXXX-MB AI, during the Board of County Commission (BCC) Meeting on July 22, 2025 at 1:00 p.m., in the McEaddy Conference Room at 301 North Olive Avenue, 12th Floor, West Palm Beach, Florida. The following persons will attend the meeting with the",
+   "section": "Regular",
+   "department": "County Attorney",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250722/4A1.pdf"
+   ]
+  },
+  {
+   "number": "4B-1",
+   "title": "Staff recommends motion to approve: Amendment No. 10 to the continuing Construction Manager (CM) at Risk Services contract (R2020-1690) with Robling Architecture Construction, Inc. (Robling), establishing a Guaranteed Maximum Price (GMP) in the amount of $3,427,688.09 for the construction of the Melissa's Place Crawl Space Phase 2 project for a period of 365 calendar days from notice to proceed.",
+   "section": "Regular",
+   "department": "Facilities Development & Operations",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250722/4B1.pdf"
+   ]
+  },
+  {
+   "number": "4B-2",
+   "title": "Staff recommends motion to approve: A) an Agreement for Purchase and Sale with Ryan and Michelle L. Maki, husband and wife, for the acquisition of a property consisting of approximately 1.11 acres parcel improved with a 2,580 sq. ft. single family residence located at 6519 Donald Ross Road in unincorporated Palm Beach County (Property) for the purposes of retrofitting as a Fire Station at a purchase price of $1,092,500 plus closing costs",
+   "section": "Regular",
+   "department": "Facilities Development & Operations",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20250722/4B2.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

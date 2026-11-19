@@ -1,0 +1,87 @@
+{
+ "date": "2022-01-25",
+ "type": "Workshop",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20220125.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20220125/20220125.htm",
+ "agenda_pages": 4,
+ "items_source": "order of business + agenda body",
+ "item_count": 8,
+ "backup_pdf_count": 8,
+ "items": [
+  {
+   "number": "5.A",
+   "title": "9:30 A.M. Strategic Planning Cross-Departmental Team Presentations (Budget)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "5.B",
+   "title": "11:00 A.M. Affordable and Workforce Housing (Admin)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "4A-1",
+   "title": "Staff recommends motion to receive and file: Warrant List – Backup information can be viewed in the Clerk & Comptroller's Office.",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": []
+  },
+  {
+   "number": "4A-2",
+   "title": "Staff recommends motion to approve: Contracts (regular) and claim settlements list as submitted by various departments to the Clerk & Comptroller=s Office. Countywide",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220125/4A2.pdf"
+   ]
+  },
+  {
+   "number": "4A-3",
+   "title": "Staff recommends motion to: A) review for sufficiency Report of County Officials Bonds dated January 2022, and B) receive and file Report of County Officials Bonds dated January 2022.",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220125/4A3.pdf"
+   ]
+  },
+  {
+   "number": "4A-4",
+   "title": "Staff recommends motion to receive and file: change orders, work task orders, minor contracts, final payments, and other items approved by the Contract Review Committee and by the department heads for the Engineering Department; Facilities Development and Operations; Water Utilities Department; Environmental Resources Department; and the Department of Airports during September, October and November of 2021. Countywide",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220125/4A4.pdf"
+   ]
+  },
+  {
+   "number": "4B-1",
+   "title": "Staff recommends motion to approve: an Assignment Assumption and Consent Agreement (Assignment) to transfer both the Gateway Boulevard and High Ridge Road (Gateway/High Ridge) construction contract (R2020-1314) dated September 15, 2020, and the Palmetto Park Road from SW 7th Avenue to SW 5th Avenue (Palmetto Park) construction contract (R2021-0212) dated February 9, 2021 (Contracts) from Hardrives of Delray, Inc. (HDI) to Ranger Construction Industries,",
+   "section": "Regular",
+   "department": "Engineering & Public Works",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220125/4B1.pdf"
+   ]
+  },
+  {
+   "number": "4C-1",
+   "title": "Staff recommends motion to approve: Amendment No. 2 to the Contract",
+   "section": "Regular",
+   "department": "County Attorney",
+   "numbering": "from agenda body",
+   "backup": [
+    "https://www.pbcgov.com/pubInf/Agenda/20220125/4C1.pdf"
+   ]
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}

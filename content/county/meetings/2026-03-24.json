@@ -1,0 +1,45 @@
+{
+ "date": "2026-03-24",
+ "type": "Workshop",
+ "agenda_pdf": "https://discover.pbc.gov/countycommissioners/Agenda_Master/20260324.pdf",
+ "agenda_html": "https://www.pbcgov.com/pubInf/Agenda/20260324/20260324.htm",
+ "agenda_pages": 3,
+ "items_source": "order of business + agenda body",
+ "item_count": 4,
+ "backup_pdf_count": 2,
+ "items": [
+  {
+   "number": "4.A",
+   "title": "For Sale Housing Development & Homeownership Strategies (HED)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "4.B",
+   "title": "Tourism Master Plan (TMP) Overview (TDC)",
+   "section": "Workshop",
+   "department": null,
+   "numbering": "from order of business",
+   "backup": []
+  },
+  {
+   "number": "3A-1",
+   "title": "Staff recommends motion to receive and file: Warrant List – Backup information can be viewed in the Clerk & Comptroller's Office.",
+   "section": "Regular",
+   "department": "Clerk And Comptroller",
+   "numbering": "from agenda body",
+   "backup": []
+  },
+  {
+   "number": "3B-1",
+   "title": "Staff recommends motion to commence: a private meeting to discuss security plans relevant to the safety for the Board of County Commissioners (BCC), pursuant to Section 286.0113, Florida Statutes, on March 24, 2026 at 1:00 p.m., The meeting shall take place in the McEaddy Conference Room at 301 North Olive Avenue, 12th Floor, West Palm Beach, Florida, The following persons will attend the meeting with the",
+   "section": "Regular",
+   "department": "Administration",
+   "numbering": "from agenda body",
+   "backup": []
+  }
+ ],
+ "source_note": "Items and titles transcribed from the official agenda (table of contents or order of business). Agendas list what was scheduled, not what was decided; votes are not in agendas."
+}
