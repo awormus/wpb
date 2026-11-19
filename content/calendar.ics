@@ -363,6 +363,18 @@ CATEGORIES:Boards
 DESCRIPTION:City of West Palm Beach Planning Board meeting. The event page lists Tuesday\, November 17\, 2026\, at 6:00 p.m. in City Hall\, City Commission Chambers\, 401 Clematis St. No end time is listed. Agenda PDF: https://www.wpb.org/files/assets/city/v/1/development-services/documents/planning-board/2026-pb-agendas/pb-agenda-2026.11.17.pdf Final packet: https://www.wpb.org/files/assets/city/v/1/development-services/documents/planning-board/2026-pb-agendas/final-packet-pb-11.17.26.pdf Source: City email "Planning Board | November Staff Reports" (Nov 13\, 2026)\; event page (retrieved 2026-11-14): https://www.wpb.org/Events-Folder/2026/111726-PB
 URL:https://www.wpb.org/Events-Folder/2026/111726-PB
 END:VEVENT
+
+BEGIN:VEVENT
+UID:wpb-hpb-meeting-2026-11-18@awormus.github.io
+DTSTAMP:20261119T141924Z
+STATUS:CANCELLED
+DTSTART;TZID=America/New_York:20261118T163000
+SUMMARY:CANCELLED: Historic Preservation Board Meeting
+LOCATION:City Hall\, City Commission Chambers\, 401 Clematis Street\, West Palm Beach\, FL 33401
+CATEGORIES:Boards
+DESCRIPTION:Cancelled because of severe weather warnings. No new date has been announced; the board and staff will set one as soon as possible. Source: City email "Historic Preservation Board | *November Meeting Update*" from WPB Development Services (received Nov 18\, 2026). The City event page (retrieved 2026-11-19) lists Wednesday\, November 18\, 2026\, at 4:30 p.m. in City Hall\, City Commission Chambers\, 401 Clematis St.\, and is marked "Canceled" with the notice "Canceled in anticipation of inclement weather" and "(All dates canceled).": https://www.wpb.org/Events-Folder/2026/112426-HPB
+URL:https://www.wpb.org/Events-Folder/2026/112426-HPB
+END:VEVENT
 BEGIN:VEVENT
 UID:wpb-gwp-wild-neighbors-2026-11-15@awormus.github.io
 DTSTAMP:20261114T142600Z
@@ -426,5 +438,83 @@ LOCATION:Howard Park Community Center\, 1302 Parker Avenue\, West Palm Beach\, F
 CATEGORIES:Parks,Kids
 DESCRIPTION:Registration for 2027 Winter Junior Soccer is open\, as stated in the Mayor's Insider Newsletter. On parks.wpb.org the program is listed as Youth Winter / Spring Soccer League (activity 211103). No registration deadline was listed on the parks activity pages retrieved 2026-11-14. Confirmed winter-session dates for Coed Soccer Ages 4 through 6 (211103-H1): January 9 through February 20\, 2027\, Saturdays 9:00-10:00 a.m.\, at Howard Park Community Center\, 1302 Parker Ave\, West Palm Beach\, FL 33401. Fees listed: $60 resident / $75 non-resident. The activity page asks participants to bring water\, a size 3 ball\, and cleats\, and notes volunteer coaches are needed. The same league also lists spring sections for ages 7-8\, 9-10 (Tue/Thu 6:00-7:00 p.m.) and ages 11-14 (Tue/Thu 7:00-8:30 p.m.) from March 9 through May 13\, 2027\, also at Howard Park Community Center. The newsletter also says you can register in person at any City of West Palm Beach Community Center or by calling (561) 804-4900 (TTY: 800-955-8771). Register online: https://parks.wpb.org/wbwsc/webtrac.wsc/search.html?module=AR&type=10 Source: City email "News & Events in the City of West Palm Beach" (Nov 13\, 2026)\; Mayor's Insider Newsletter (published 2026-11-13\, retrieved 2026-11-14): https://www.wpb.org/News-Folder/News-2026/111226-Mayrs-Insider-Newsletter\; parks activity listing (retrieved 2026-11-14): https://parks.wpb.org/wbwsc/webtrac.wsc/search.html?module=AR&type=10
 URL:https://parks.wpb.org/wbwsc/webtrac.wsc/search.html?module=AR&type=10
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wpb-svc-road-closure-greenmarket-2026-11-21@awormus.github.io
+DTSTAMP:20261119T141924Z
+DTSTART;TZID=America/New_York:20261121T050000
+DTEND;TZID=America/New_York:20261121T153000
+SUMMARY:Road closures: GreenMarket
+LOCATION:Clematis Street area\, West Palm Beach\, FL
+CATEGORIES:City services
+DESCRIPTION:Event road closures for GreenMarket on Saturday\, November 21\, 2026. Saturdays from 5 a.m. to 3:30 p.m.: 100 blocks of North and South Clematis Streets; Lantana Avenue between Banyan Boulevard and North Clematis Street; 200 – 400 block of Clematis Street. Saturdays 7:15 a.m. to 2:15 p.m.: South Dixie Highway\, South Olive Avenue\, Flagler Drive\, and Narcissus Avenue between Banyan Boulevard and Datura Street. Source: City email 'Update: 111926 - Road and Dock' (Nov 19\, 2026); City news release 'Road and Dock for Thursday\, Nov.19\, 2026' (published 2026-11-18\, retrieved 2026-11-19): https://www.wpb.org/News-Folder/News-2026/111926-Road-and-Dock
+URL:https://www.wpb.org/News-Folder/News-2026/111926-Road-and-Dock
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-svc-road-closure-uyi-5k-2026-11-21@awormus.github.io
+DTSTAMP:20261119T141924Z
+DTSTART;TZID=America/New_York:20261121T070000
+DTEND;TZID=America/New_York:20261121T093000
+SUMMARY:Road closures: Urban Youth Impact 5K
+LOCATION:South Flagler Drive\, West Palm Beach\, FL
+CATEGORIES:City services
+DESCRIPTION:Event road closures for the Urban Youth Impact 5K on Saturday\, November 21\, 2026. Saturday from 7 a.m. to 9:30 a.m.: South Flagler Drive from Banyan Boulevard to Belmonte Road. Source: City email 'Update: 111926 - Road and Dock' (Nov 19\, 2026); City news release 'Road and Dock for Thursday\, Nov.19\, 2026' (published 2026-11-18\, retrieved 2026-11-19): https://www.wpb.org/News-Folder/News-2026/111926-Road-and-Dock
+URL:https://www.wpb.org/News-Folder/News-2026/111926-Road-and-Dock
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-svc-road-closure-nights-in-northwood-2026-11-27@awormus.github.io
+DTSTAMP:20261119T141924Z
+DTSTART;TZID=America/New_York:20261127T130000
+DTEND;TZID=America/New_York:20261127T220000
+SUMMARY:Road closures: Nights in Northwood Village
+LOCATION:Northwood Road\, West Palm Beach\, FL
+CATEGORIES:City services
+DESCRIPTION:Event road closures for Nights in Northwood Village on Friday\, November 27\, 2026. Friday\, November 27\, from 1 p.m. to 10 p.m.: Northwood Road will be closed from Broadway Avenue to North Dixie Highway. Source: City email 'Update: 111926 - Road and Dock' (Nov 19\, 2026); City news release 'Road and Dock for Thursday\, Nov.19\, 2026' (published 2026-11-18\, retrieved 2026-11-19): https://www.wpb.org/News-Folder/News-2026/111926-Road-and-Dock
+URL:https://www.wpb.org/News-Folder/News-2026/111926-Road-and-Dock
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-svc-road-closure-greenmarket-2026-11-28@awormus.github.io
+DTSTAMP:20261119T141924Z
+DTSTART;TZID=America/New_York:20261128T050000
+DTEND;TZID=America/New_York:20261128T153000
+SUMMARY:Road closures: GreenMarket
+LOCATION:Clematis Street area\, West Palm Beach\, FL
+CATEGORIES:City services
+DESCRIPTION:Event road closures for GreenMarket on Saturday\, November 28\, 2026. Saturdays from 5 a.m. to 3:30 p.m.: 100 blocks of North and South Clematis Streets; Lantana Avenue between Banyan Boulevard and North Clematis Street; 200 – 400 block of Clematis Street. Saturdays 7:15 a.m. to 2:15 p.m.: South Dixie Highway\, South Olive Avenue\, Flagler Drive\, and Narcissus Avenue between Banyan Boulevard and Datura Street. Source: City email 'Update: 111926 - Road and Dock' (Nov 19\, 2026); City news release 'Road and Dock for Thursday\, Nov.19\, 2026' (published 2026-11-18\, retrieved 2026-11-19): https://www.wpb.org/News-Folder/News-2026/111926-Road-and-Dock
+URL:https://www.wpb.org/News-Folder/News-2026/111926-Road-and-Dock
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-svc-road-closure-cbn-tree-lighting-2026-12-03@awormus.github.io
+DTSTAMP:20261119T141924Z
+DTSTART;TZID=America/New_York:20261203T133000
+DTEND;TZID=America/New_York:20261203T220000
+SUMMARY:Road closures: Clematis by Night Tree Lighting
+LOCATION:Clematis Street and Flagler Drive area\, West Palm Beach\, FL
+CATEGORIES:City services
+DESCRIPTION:Event road closures for Clematis by Night Tree Lighting on Thursday\, December 3\, 2026. The notice lists Thursday\, December 3 and states: Thursdays 1:30 p.m. to 10 p.m.: North & South Clematis Streets between Narcissus Avenue and Flagler Drive; Lantana Avenue between Banyan Boulevard and North Clematis Street; Narcissus Avenue between Dramaworks Alley and North Clematis Street; Flagler Drive between Banyan Boulevard and Datura Street. Source: City email 'Update: 111926 - Road and Dock' (Nov 19\, 2026); City news release 'Road and Dock for Thursday\, Nov.19\, 2026' (published 2026-11-18\, retrieved 2026-11-19): https://www.wpb.org/News-Folder/News-2026/111926-Road-and-Dock
+URL:https://www.wpb.org/News-Folder/News-2026/111926-Road-and-Dock
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-svc-road-closure-winter-in-paradise-2026-12-04@awormus.github.io
+DTSTAMP:20261119T141924Z
+DTSTART;TZID=America/New_York:20261204T173000
+DTEND;TZID=America/New_York:20261204T210000
+SUMMARY:Road closures: Winter in Paradise
+LOCATION:7th Street and Rosemary Avenue area\, West Palm Beach\, FL
+CATEGORIES:City services
+DESCRIPTION:Event road closures for Winter in Paradise on Friday\, December 4\, 2026. Friday from 5:30 p.m. to 9 p.m.: 7th Street from Sapodilla Avenue to Rosemary Avenue; Henrietta Avenue from 7th Street to 8th Street; 8th Street from Henrietta Avenue to Rosemary Avenue; Rosemary Avenue from 7th Street to 8th Street. Source: City email 'Update: 111926 - Road and Dock' (Nov 19\, 2026); City news release 'Road and Dock for Thursday\, Nov.19\, 2026' (published 2026-11-18\, retrieved 2026-11-19): https://www.wpb.org/News-Folder/News-2026/111926-Road-and-Dock
+URL:https://www.wpb.org/News-Folder/News-2026/111926-Road-and-Dock
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-svc-road-closure-palm-beaches-marathon-2026-12-11@awormus.github.io
+DTSTAMP:20261119T141924Z
+DTSTART;TZID=America/New_York:20261211T100000
+DTEND;TZID=America/New_York:20261214T070000
+SUMMARY:Road closures: U.S. Polo Assn. Palm Beaches Marathon
+LOCATION:Flagler Drive and surrounding streets\, West Palm Beach\, FL
+CATEGORIES:City services
+DESCRIPTION:Event road closures for the U.S. Polo Assn. Palm Beaches Marathon. The notice heading is "Saturday\, December 12 through Monday\, December 15." Dated windows as printed: From Friday\, December 11\, 2026\, at 10 a.m. to Sunday\, December 14\, 2026\, at 7 a.m.: Flagler Drive between Banyan Boulevard and Lakeview Avenue. On Saturday\, December 12\, 2026\, from 6 a.m. with rolling openings starting at 9:15 a.m.: South Flagler Drive between Lakeview Boulevard and Southern Boulevard; Washington Road between Avila Road and Southern Boulevard. On Sunday\, December 13\, 2026\, from 5 a.m. with rolling openings beginning at noon: North/South Flagler Drive from 59th Street to Southern Boulevard; Washington Road between Avila Road and Southern Boulevard; Greenwood Road and Roosevelt Place\, between Flagler Drive and Vincent Road inclusive. No separate times are given for Monday\, December 15. Source: City email 'Update: 111926 - Road and Dock' (Nov 19\, 2026); City news release 'Road and Dock for Thursday\, Nov.19\, 2026' (published 2026-11-18\, retrieved 2026-11-19): https://www.wpb.org/News-Folder/News-2026/111926-Road-and-Dock
+URL:https://www.wpb.org/News-Folder/News-2026/111926-Road-and-Dock
 END:VEVENT
 END:VCALENDAR
