@@ -155,15 +155,17 @@ URL:https://www.wpb.org/Events-Folder/2026/City-Commission-Agenda-Review-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:wpb-hip-nights-northwood-2026-11-27@awormus.github.io
-DTSTAMP:20261109T184500Z
+DTSTAMP:20261121T143500Z
 DTSTART;TZID=America/New_York:20261127T180000
 DTEND;TZID=America/New_York:20261127T210000
 SUMMARY:Nights in Northwood — Holiday Edition (Jam-X The Band) — FREE
 LOCATION:Northwood Road\, West Palm Beach\, FL 33406
 CATEGORIES:City events,Holiday in Paradise
-DESCRIPTION:Holiday in Paradise signature event. Live music from Jam-X The Band (Top 40\, R&B\, Pop) on the NewDay USA stage. Open-air night market with more than 50 vendors (art\, fashion\, handmade goods\, vintage\, local food). Held on Black Friday\, the day before Small Business Saturday. Source: City of West Palm Beach news release "City Kicks Off the Holiday Season with Holiday in Paradise" (published 2026-11-09\, retrieved 2026-11-09): https://www.wpb.org/News-Folder/News-2026/110926-HiP-kickoff Holiday in Paradise Presented by FPL runs Nov 27–Dec 31\, 2026 ("The Art of Holidays"). All signature events are free to attend. Sandi music and light shows nightly on the quarter hour 6–10 p.m. Dec 3–30 (adjusted during special events\; through midnight on New Year's Eve). Ferris wheel rides $5 per person during Sandi's show hours. More info: https://wpb.org/holiday Also listed as a 4th Friday quarterly event on the City's Nights in Northwood Village page (6-9 p.m., Northwood Road, West Palm Beach, FL 33406). The Mayor's Insider Newsletter describes it as a FREE event and says Jam-X The Band, emerging from West Palm Beach, blends pop, neo soul, funk, reggae, rock, country, and jazz. More info: https://wpb.org/NIN (canonical page, retrieved 2026-11-14): https://www.wpb.org/Residents/Community-Events/Events/Nights-in-Northwood-Village Additional source: City email "News & Events in the City of West Palm Beach" (Nov 13, 2026); Mayor's Insider Newsletter (published 2026-11-13, retrieved 2026-11-14): https://www.wpb.org/News-Folder/News-2026/111226-Mayrs-Insider-Newsletter
+DESCRIPTION:Holiday in Paradise signature event. Live music from Jam-X The Band (Top 40\, R&B\, Pop) on the NewDay USA stage. Open-air night market with more than 50 vendors (art\, fashion\, handmade goods\, vintage\, local food). Held on Black Friday\, the day before Small Business Saturday. Source: City of West Palm Beach news release "City Kicks Off the Holiday Season with Holiday in Paradise" (published 2026-11-09\, retrieved 2026-11-09): https://www.wpb.org/News-Folder/News-2026/110926-HiP-kickoff Holiday in Paradise Presented by FPL runs Nov 27–Dec 31\, 2026 ("The Art of Holidays"). All signature events are free to attend. Sandi music and light shows nightly on the quarter hour 6–10 p.m. Dec 3–30 (adjusted during special events\; through midnight on New Year's Eve). Ferris wheel rides $5 per person during Sandi's show hours. More info: https://wpb.org/holiday Also listed as a 4th Friday quarterly event on the City's Nights in Northwood Village page (6-9 p.m.\, Northwood Road\, West Palm Beach\, FL 33406). The Mayor's Insider Newsletter describes it as a FREE event and says Jam-X The Band\, emerging from West Palm Beach\, blends pop\, neo soul\, funk\, reggae\, rock\, country\, and jazz. The November 20\, 2026 newsletter lists it as "NEXT Friday: Shop Local This Holiday Season! Nights in Northwood is Back with 50+ Vendors\," Friday\, November 27\, 6-9 p.m.\, free\, and points to wpb.org/NIN. The canonical event page retrieved 2026-11-21 still lists Friday\, November 27\, 2026\, 6-9:00 p.m.\, Northwood Road\, West Palm Beach\, FL 33406\, with Jam-X The Band and 50+ vendors. More info: https://wpb.org/NIN (canonical page\, retrieved 2026-11-14 and 2026-11-21): https://www.wpb.org/Residents/Community-Events/Events/Nights-in-Northwood-Village Additional sources: City email "News & Events in the City of West Palm Beach" (Nov 13\, 2026)\; Mayor's Insider Newsletter (published 2026-11-13\, retrieved 2026-11-14): https://www.wpb.org/News-Folder/News-2026/111226-Mayrs-Insider-Newsletter\; City email "News & Events in the City of West Palm Beach" (Nov 20\, 2026)\; Mayor's Insider Newsletter (published 2026-11-20\, retrieved 2026-11-21): https://www.wpb.org/News-Folder/News-2026/112026-Mayors-Insider-Newsletter
 URL:https://www.wpb.org/News-Folder/News-2026/110926-HiP-kickoff
+SEQUENCE:1
 END:VEVENT
+
 BEGIN:VEVENT
 UID:wpb-hip-tree-lighting-2026-12-03@awormus.github.io
 DTSTAMP:20261109T184500Z
@@ -229,6 +231,17 @@ LOCATION:Great Lawn\, 100 N. Clematis Street\, West Palm Beach\, FL
 CATEGORIES:City events,Holiday in Paradise
 DESCRIPTION:Holiday in Paradise season finale. Sandi shows 6 p.m.–midnight\; party 8 p.m.–midnight featuring DJ Reflex and Wonderama on the NewDay USA Stage. Food vendors on site. Fireworks from Flagler Museum at midnight. Source: City of West Palm Beach news release "City Kicks Off the Holiday Season with Holiday in Paradise" (published 2026-11-09\, retrieved 2026-11-09): https://www.wpb.org/News-Folder/News-2026/110926-HiP-kickoff Holiday in Paradise Presented by FPL runs Nov 27–Dec 31\, 2026 ("The Art of Holidays"). All signature events are free to attend. Sandi music and light shows nightly on the quarter hour 6–10 p.m. Dec 3–30 (adjusted during special events\; through midnight on New Year's Eve). Ferris wheel rides $5 per person during Sandi's show hours. More info: https://wpb.org/holiday
 URL:https://www.wpb.org/News-Folder/News-2026/110926-HiP-kickoff
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-evt-share-a-supper-2026-11-24@awormus.github.io
+DTSTAMP:20261121T143500Z
+DTSTART;TZID=America/New_York:20261124T163000
+DTEND;TZID=America/New_York:20261124T183000
+SUMMARY:35th Annual Pleasant City Share-A-Supper
+LOCATION:500 22nd Street\, West Palm Beach\, FL 33407
+CATEGORIES:City events
+DESCRIPTION:The City of West Palm Beach is celebrating its 35th Annual Pleasant City Share-A-Supper community event to offer Thanksgiving dinner to residents. City leaders and employees will serve an estimated 400 Thanksgiving dinners to residents and families. The dinner will include turkey\, string beans\, rice\, mashed potatoes\, a dinner roll\, and a beverage. Meals will be provided while supplies last. Tuesday\, November 24\, 2026\, 4:30-6:30 p.m.\, at 500 22nd Street\, West Palm Beach\, FL 33407. Free. For more info\, the Mayor's Insider Newsletter (published 2026-11-20\, retrieved 2026-11-21) says to contact the Pleasant City Community Center at (561) 804-4930 (TTY: 800-955-8771). The Pleasant City Community Center page lists the same event as "Thanksgiving Share-A-Supper\," all ages\, Tuesday\, November 24\, 4:30 p.m.-6:30 p.m.\, free\, at the same address\; that page does not print a year next to November 24\, and its Contact listing is 561-822-4930. The year 2026 is taken from the newsletter page (title: "Mayor's Insider Newsletter for Friday\, Nov. 20\, 2026")\; November 24\, 2026 is a Tuesday. Source: City email "News & Events in the City of West Palm Beach" (Nov 20\, 2026)\; Mayor's Insider Newsletter: https://www.wpb.org/News-Folder/News-2026/112026-Mayors-Insider-Newsletter\; Pleasant City Community Center page (retrieved 2026-11-21): https://www.wpb.org/Departments/Parks-Recreation/Parks-Facilities/Pleasant-City-Community-Center-and-Youth-Empowerment-Center
+URL:https://www.wpb.org/News-Folder/News-2026/112026-Mayors-Insider-Newsletter
 END:VEVENT
 BEGIN:VEVENT
 UID:wpb-aipp-new-wave-panel-2026-11-19@awormus.github.io
@@ -352,6 +365,16 @@ LOCATION:Mandel Public Library of West Palm Beach\, 411 Clematis Street\, West P
 CATEGORIES:Library,Kids
 DESCRIPTION:Teens can earn free books by reading this winter. Log your reading into the Beanstack app or website to be eligible for free books and prize drawings. Listed as all day\, December 1\, 2026 through January 31\, 2027. The event page also lists the audience as All Ages. Source: Mandel Public Library newsletter "It's National Native American Heritage Month" (Nov 12\, 2026)\; event page (retrieved 2026-11-13): https://mandel-fl.whofi.com/calendar/event/356219
 URL:https://mandel-fl.whofi.com/calendar/event/356219
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-lib-early-close-2026-11-25@awormus.github.io
+DTSTAMP:20261121T143500Z
+DTSTART;TZID=America/New_York:20261125T170000
+SUMMARY:Mandel Public Library closes early at 5 p.m.
+LOCATION:Mandel Public Library of West Palm Beach\, 411 Clematis Street\, West Palm Beach\, FL
+CATEGORIES:Library,City services
+DESCRIPTION:As part of the Thanksgiving holiday observance\, the Mandel Public Library will be closing at 5 p.m. on Wednesday\, November 25\, 2026. The official release and related City notices do not list an opening time for that Wednesday\, so this entry marks the 5 p.m. early close only. The library is also closed Thursday\, November 26\, and Friday\, November 27\, 2026 (see the Thanksgiving holiday closure entries). The library will open at 9:30 a.m. on Saturday\, November 28\, 2026. Source: City email "Update: 112026 - Thanksgiving" (Nov 20\, 2026)\; official release "City Offices to Close in Observance of the Thanksgiving Holidays" (published 2026-11-20\, retrieved 2026-11-21): https://www.wpb.org/News-Folder/News-2026/112026-Thanksgiving\; also stated on the City event page "Celebrating Thanksgiving 2026" (retrieved 2026-11-21): https://www.wpb.org/Events-Folder/2026/112626-Thanksgiving-Holiday
+URL:https://www.wpb.org/News-Folder/News-2026/112026-Thanksgiving
 END:VEVENT
 BEGIN:VEVENT
 UID:wpb-pb-meeting-2026-11-17@awormus.github.io
@@ -631,6 +654,48 @@ LOCATION:South Flagler Drive\, West Palm Beach\, FL
 CATEGORIES:City services
 DESCRIPTION:Event road closures for the Urban Youth Impact 5K on Saturday\, November 21\, 2026. Saturday from 7 a.m. to 9:30 a.m.: South Flagler Drive from Banyan Boulevard to Belmonte Road. Source: City email 'Update: 111926 - Road and Dock' (Nov 19\, 2026); City news release 'Road and Dock for Thursday\, Nov.19\, 2026' (published 2026-11-18\, retrieved 2026-11-19): https://www.wpb.org/News-Folder/News-2026/111926-Road-and-Dock
 URL:https://www.wpb.org/News-Folder/News-2026/111926-Road-and-Dock
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-svc-thanksgiving-closures-2026-11-26@awormus.github.io
+DTSTAMP:20261121T143500Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Thanksgiving holiday closures (City Hall, Mandel Public Library, Grassy Waters, non-essential services)
+LOCATION:City Hall\, Mandel Public Library\, and Grassy Waters Preserve Nature Center\, West Palm Beach\, FL
+CATEGORIES:City services
+DESCRIPTION:West Palm Beach City Hall\, the Mandel Public Library\, the Grassy Waters Preserve Nature Center\, and all non-essential services will be closed on Thursday\, November 26\, and Friday\, November 27\, 2026\, in observance of the Thanksgiving holiday. This all-day closure entry is for Thursday\, November 26\, 2026. Grassy Waters will reopen at 8 a.m.\, on Saturday\, November 28\, 2026\; the Mandel Public Library will open at 9:30 a.m. that Saturday. City Hall will reopen at 8 a.m. on Monday\, November 30\, 2026. The City's "Celebrating Thanksgiving 2026" event page lists a When range of Thursday\, November 26\, 2026\, 8:00 a.m. through Saturday\, November 28\, 2026\, 8:00 a.m.\, which ends at the stated Grassy Waters reopen time. The same page's notice and the official news release describe Thursday and Friday as closure days\, so this calendar uses all-day date entries for November 26 and 27 rather than a timed 8:00 a.m. start. This entry also covers the Grassy Waters Thanksgiving closure notice on that event page (the listing previously skipped when only December Grassy Waters programs were ingested). Source: City email "Update: 112026 - Thanksgiving" (Nov 20\, 2026)\; official release "City Offices to Close in Observance of the Thanksgiving Holidays" (published 2026-11-20\, retrieved 2026-11-21): https://www.wpb.org/News-Folder/News-2026/112026-Thanksgiving\; event page "Celebrating Thanksgiving 2026" (retrieved 2026-11-21): https://www.wpb.org/Events-Folder/2026/112626-Thanksgiving-Holiday
+URL:https://www.wpb.org/News-Folder/News-2026/112026-Thanksgiving
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-svc-thanksgiving-trash-2026-11-26@awormus.github.io
+DTSTAMP:20261121T143500Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Thanksgiving Holiday Trash Collection Schedule (Thanksgiving Day)
+CATEGORIES:City services
+DESCRIPTION:Thanksgiving Holiday Trash Collection Schedule for Thursday\, November 26\, 2026 (Thanksgiving Day): Residential: No service. Collection will resume on your next scheduled service day. Recycling: No service. Collection will resume on your next scheduled service day. Bulk/Yard Waste: Service will be delayed by one day. Commercial: Service will be delayed by one day. The City's Holiday Trash Pick Up Schedule page lists the same rules for Thanksgiving (4th Thursday of November) and the Day after Thanksgiving (4th Friday of November). Notes on that page: "No service = Service will resume on your next scheduled service day"\; "One day delay = Service will be delayed by one day for the remainder of the week." A banner on related City pages says "No trash collection Thurs. Resumes Fri.\," which matches Friday residential and recycling being back on schedule but does not mention the bulk/yard and commercial one-day delays listed on the detailed schedule. This entry follows the official news release and the Holiday Trash Pick Up Schedule table. Source: City email "Update: 112026 - Thanksgiving" (Nov 20\, 2026)\; official release "City Offices to Close in Observance of the Thanksgiving Holidays" (published 2026-11-20\, retrieved 2026-11-21): https://www.wpb.org/News-Folder/News-2026/112026-Thanksgiving\; Holiday Trash Pick Up Schedule (retrieved 2026-11-21): https://www.wpb.org/Departments/Public-Works/Solid-Waste/Holiday-Trash-Pick-Up-Schedule\; also linked from the event page "Celebrating Thanksgiving 2026": https://www.wpb.org/Events-Folder/2026/112626-Thanksgiving-Holiday
+URL:https://www.wpb.org/Departments/Public-Works/Solid-Waste/Holiday-Trash-Pick-Up-Schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-svc-thanksgiving-closures-2026-11-27@awormus.github.io
+DTSTAMP:20261121T143500Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Thanksgiving holiday closures (City Hall, Mandel Public Library, Grassy Waters, non-essential services)
+LOCATION:City Hall\, Mandel Public Library\, and Grassy Waters Preserve Nature Center\, West Palm Beach\, FL
+CATEGORIES:City services
+DESCRIPTION:West Palm Beach City Hall\, the Mandel Public Library\, the Grassy Waters Preserve Nature Center\, and all non-essential services will be closed on Thursday\, November 26\, and Friday\, November 27\, 2026\, in observance of the Thanksgiving holiday. This all-day closure entry is for Friday\, November 27\, 2026. Grassy Waters will reopen at 8 a.m.\, on Saturday\, November 28\, 2026\; the Mandel Public Library will open at 9:30 a.m. that Saturday. City Hall will reopen at 8 a.m. on Monday\, November 30\, 2026. The City's "Celebrating Thanksgiving 2026" event page lists a When range of Thursday\, November 26\, 2026\, 8:00 a.m. through Saturday\, November 28\, 2026\, 8:00 a.m.\, which ends at the stated Grassy Waters reopen time. The same page's notice and the official news release describe Thursday and Friday as closure days\, so this calendar uses all-day date entries for November 26 and 27 rather than a timed 8:00 a.m. start. This entry also covers the Grassy Waters Thanksgiving closure notice on that event page (the listing previously skipped when only December Grassy Waters programs were ingested). Source: City email "Update: 112026 - Thanksgiving" (Nov 20\, 2026)\; official release "City Offices to Close in Observance of the Thanksgiving Holidays" (published 2026-11-20\, retrieved 2026-11-21): https://www.wpb.org/News-Folder/News-2026/112026-Thanksgiving\; event page "Celebrating Thanksgiving 2026" (retrieved 2026-11-21): https://www.wpb.org/Events-Folder/2026/112626-Thanksgiving-Holiday
+URL:https://www.wpb.org/News-Folder/News-2026/112026-Thanksgiving
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-svc-thanksgiving-trash-2026-11-27@awormus.github.io
+DTSTAMP:20261121T143500Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Thanksgiving Holiday Trash Collection Schedule (Day After Thanksgiving)
+CATEGORIES:City services
+DESCRIPTION:Thanksgiving Holiday Trash Collection Schedule for Friday\, November 27\, 2026 (Day After Thanksgiving): Residential: On schedule. Recycling: On schedule. Bulk/Yard Waste: Service will be delayed by one day. Commercial: Service will be delayed by one day. The City's Holiday Trash Pick Up Schedule page lists the same rules for Thanksgiving (4th Thursday of November) and the Day after Thanksgiving (4th Friday of November). Notes on that page: "No service = Service will resume on your next scheduled service day"\; "One day delay = Service will be delayed by one day for the remainder of the week." A banner on related City pages says "No trash collection Thurs. Resumes Fri.\," which matches Friday residential and recycling being back on schedule but does not mention the bulk/yard and commercial one-day delays listed on the detailed schedule. This entry follows the official news release and the Holiday Trash Pick Up Schedule table. Source: City email "Update: 112026 - Thanksgiving" (Nov 20\, 2026)\; official release "City Offices to Close in Observance of the Thanksgiving Holidays" (published 2026-11-20\, retrieved 2026-11-21): https://www.wpb.org/News-Folder/News-2026/112026-Thanksgiving\; Holiday Trash Pick Up Schedule (retrieved 2026-11-21): https://www.wpb.org/Departments/Public-Works/Solid-Waste/Holiday-Trash-Pick-Up-Schedule\; also linked from the event page "Celebrating Thanksgiving 2026": https://www.wpb.org/Events-Folder/2026/112626-Thanksgiving-Holiday
+URL:https://www.wpb.org/Departments/Public-Works/Solid-Waste/Holiday-Trash-Pick-Up-Schedule
 END:VEVENT
 BEGIN:VEVENT
 UID:wpb-svc-road-closure-nights-in-northwood-2026-11-27@awormus.github.io
