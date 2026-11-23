@@ -1,21 +1,20 @@
 ---
 date: 2026-11-23
 doc_type: agenda
-title: Draft City Commission Agenda
+title: Final City Commission Agenda
 meeting: Regular City Commission Meeting
-status: draft
-official_pdf: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-draft-city-commission-agendas/11-nov-2026-draft-cca/11_23_26_draft_city-commission-agenda.pdf
-retrieved: 2026-11-16
+official_pdf: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/11-nov-2026-final-cca/11_23_26_final-city-commission-agenda.pdf
+retrieved: 2026-11-23
 extractor: pdftotext + civic-pdf-cleanup
 notes: >
   Plain-text extract of the official PDF. Binary PDF not stored in this repo.
 ---
 
-# Draft City Commission Agenda — 2026-11-23
+# Final City Commission Agenda — 2026-11-23
 
-**Official PDF (wpb.org):** [11_23_26_draft_city-commission-agenda.pdf](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-draft-city-commission-agendas/11-nov-2026-draft-cca/11_23_26_draft_city-commission-agenda.pdf)
+**Official PDF (wpb.org):** [11_23_26_final-city-commission-agenda.pdf](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/11-nov-2026-final-cca/11_23_26_final-city-commission-agenda.pdf)
 
-**This is a DRAFT agenda** posted by the City — not the final packet. Text extract below is for search and deep-linking. The official PDF is authoritative.
+Text extract below is for search and deep-linking. The official PDF is authoritative.
 
 ---
 
@@ -23,7 +22,8 @@ notes: >
 
 City Administrator Faye W. Johnson City Attorney Kimberly Rothenburg City Clerk Shaquita Edwards
 
-City of West Palm Beach City Commission DRAFT Agenda Monday, November 23, 2026 5:00 PM In accordance with the provisions of the Americans with Disabilities Act (ADA), persons in need of a special accommodation to participate in this proceeding shall, within three days prior to any proceeding, contact the City Clerk's Office, 401 Clematis Street, West Palm Beach, FL 33401, (561) 822-1210.
+City of West Palm Beach City Commission Agenda Monday, November 23, 2026 5:00 PM In accordance with the provisions of the Americans with Disabilities Act (ADA), persons in need of a special accommodation to participate in this proceeding shall, within three days prior to any proceeding, contact the City Clerk's Office, 401 Clematis Street, West Palm Beach, FL 33401, (561) 822-1210.
+City of West Palm Beach City Commission Agenda Monday, November 23, 2026 5:00 PM In accordance with the provisions of the Americans with Disabilities Act (ADA), persons in need of a special accommodation to participate in this proceeding shall, within three days prior to any proceeding, contact the City Clerk's Office, 401 Clematis Street, West Palm Beach, FL 33401, (561) 822-1210.
 
 <a id="item-1"></a>
 ## 1. CALL TO ORDER
@@ -115,7 +115,7 @@ Fire
 #### Ordinance/Resolution
 
 
-> RESOLUTION NO. 255-26: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, ACCEPTING THE 2026-2027 FLORIDA FIREFIGHTER DECONTAMINATION GRANT IN THE AMOUNT OF $47,320, WITH A REQUIRED 25% MATCH OF $11,830, FOR THE PURCHASE OF 350 FIREFIGHTER HOODS; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
+> RESOLUTION NO. 255-26: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, ACCEPTING THE 2026-2027 FLORIDA FIREFIGHTER DECONTAMINATION GRANT IN THE AMOUNT OF $35,490 WITH A REQUIRED 25% MATCH OF $11,830, FOR THE PURCHASE OF 350 FIREFIGHTER HOODS; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
 
 
 > RESOLUTION NO. 256-26(F): A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF WEST PALM BEACH, FLORIDA, AUTHORIZING THE APPROPRIATION OR TRANSFER OF CITY FUNDS IN FISCAL YEAR 2026/2027 IN ACCORDANCE WITH SECTION 4.03 OF THE CITY CHARTER OF THE CITY OF WEST PALM BEACH, FLORIDA, FOR THE PURPOSE OF AMENDING THE FIRE ASSESSMENT FEE FUND AND GRANT PROGRAMS SPECIAL REVENUE FUND BUDGETS TO PROVIDE FOR THE RECEIPT OF THE FLORIDA DEPARTMENT OF FINANCIAL SERVICES, DIVISION OF THE STATE FIRE MARSHAL GRANT AND MATCHING CITY FUNDS TO PROVIDE APPROPRIATIONS FOR THE PURCHASE OF FIREFIGHTER HOODS; PROVIDING AN EFFECTIVE DATE; AND FOR OTHER PURPOSES.
@@ -179,7 +179,7 @@ Development Services
 
 #### PROJECT DESCRIPTION & BACKGROUND
 
-Palm Beach Atlantic University (PBAU) is currently developing a 25-story, 358,400-square-foot student dormitory building, accompanied by an 11level parking garage measuring approximately 116 feet, 9 inches in height, providing 906 parking spaces, 4,100 square feet of office space, and 4,300 square feet of supporting facilities. The development is located on PBAU's main campus at 1215 Wallingford Place, West Palm Beach, Florida, within the block bounded by South Dixie Highway, Wallingford Place, Gruber Place, and Acacia Road.
+Palm Beach Atlantic University (PBAU) is currently developing a 25-story, 358,400-square-foot student dormitory building, accompanied by an 8level parking garage measuring approximately 116 feet, 9 inches in height, providing 906 parking spaces, 4,100 square feet of office space, and 4,300 square feet of supporting facilities. The development is located on PBAU's main campus at 1215 Wallingford Place, West Palm Beach, Florida, within the block bounded by South Dixie Highway, Wallingford Place, Gruber Place, and Acacia Road.
 
 As part of the proposed development, PBAU intends to install landscape and hardscape improvements within the Florida Department of Transportation (FDOT) State Road 5/South Dixie Highway right-of-way, including landscaping, irrigation systems, tree grates, and landscape lighting. These improvements are intended to enhance the streetscape, improve pedestrian amenities, and contribute to the overall aesthetic character of the surrounding area.
 

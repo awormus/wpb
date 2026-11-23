@@ -6,11 +6,11 @@ time: "17:00"
 location: "Commission Chambers, 401 Clematis Street, West Palm Beach, FL 33401"
 summary_basis: agenda
 agenda_text: ./agenda.md
-notes: "DRAFT agenda-based summary only. Official minutes / pass-fail sheet not used for vote outcomes; do not treat items below as adopted outcomes."
+notes: "Scheduled items below follow the final agenda (retrieved 2026-11-23). The pass/fail sheet is not posted yet, so no vote outcomes are recorded; do not treat items below as adopted outcomes."
 sources:
-  - title: Draft City Commission Agenda — November 23, 2026
-    url: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-draft-city-commission-agendas/11-nov-2026-draft-cca/11_23_26_draft_city-commission-agenda.pdf
-    retrieved: 2026-11-16
+  - title: Final City Commission Agenda — November 23, 2026
+    url: https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/11-nov-2026-final-cca/11_23_26_final-city-commission-agenda.pdf
+    retrieved: 2026-11-23
   - title: November 2026 City Commission Agendas (index)
     url: https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/November-2026
     retrieved: 2026-11-16
@@ -23,9 +23,9 @@ sources:
 
 **When:** November 23, 2026, 5:00 PM  
 **Where:** Commission Chambers, 401 Clematis Street  
-**Source:** Official DRAFT agenda PDF on wpb.org (linked below). This page summarizes **what is scheduled on the draft**, not vote outcomes. A final agenda has not been used for this extract.
+**Source:** Official final agenda PDF on wpb.org (linked below). This page summarizes **what is scheduled on the final agenda**, not vote outcomes; the pass/fail sheet is not posted yet.
 
-**This is a DRAFT agenda** (retrieved 2026-11-16). It includes second reading of Ordinance No. 5188-26 (Publix Outside Closing Date; first reading was approved November 9) and second reading of Ordinance No. 5183-26 (CityPlace DRI Small Business Enterprise language; first reading was approved November 9). Resolution No. 217-26, approved November 9, is not on this draft. Ordinance No. 5190-26 (Breakwater Hospitality Group ground lease), which was on the November 2 draft for the November 9 meeting but not on that meeting’s final agenda or pass/fail sheet, is also not on this draft.
+**Final agenda** (retrieved 2026-11-23; it replaces the draft retrieved 2026-11-16). It includes second reading of Ordinance No. 5188-26 (Publix Outside Closing Date; first reading was approved November 9) and second reading of Ordinance No. 5183-26 (CityPlace DRI Small Business Enterprise language; first reading was approved November 9). Resolution No. 217-26, approved November 9, is not on this agenda. Ordinance No. 5190-26 (Breakwater Hospitality Group ground lease), which was on the November 2 draft for the November 9 meeting but not on that meeting’s final agenda or pass/fail sheet, is also not on this agenda.
 
 ## Opening
 
@@ -43,7 +43,7 @@ Call to order, moment of silence, pledge, civility/decorum, and any agenda addit
 
 ## Public Hearing ([7](./agenda.md#item-7))
 
-- **[7.1](./agenda.md#item-7-1):** Public Hearing and Second Reading of Ordinance No. 5188-26 approving an amendment to the Agreement for Sale and Purchase of Real Property with Publix Supermarkets to extend the Outside Closing Date (the draft’s background states an extension from December 1, 2026, to May 26, 2027).
+- **[7.1](./agenda.md#item-7-1):** Public Hearing and Second Reading of Ordinance No. 5188-26 approving an amendment to the Agreement for Sale and Purchase of Real Property with Publix Supermarkets to extend the Outside Closing Date (the agenda’s background states an extension from December 1, 2026, to May 26, 2027).
 - **[7.2](./agenda.md#item-7-2):** Public Hearing and First Reading of Ordinance No. 5187-26, a City-initiated amendment to Chapter 78, Article XI, Communication Facilities in the Public Right-of-Way, to reflect Florida Statutes, Section 337.401(7)(d)5.
 - **[7.3](./agenda.md#item-7-3):** Public Hearing and First Reading of Ordinance No. 5189-26, a privately initiated text amendment to Chapter 94 — Zoning and Land Development Regulations and Article IV — Downtown Master Plan Urban Regulations for full-service supermarket use regulations and to modify curb-cut permissions.
 
@@ -58,5 +58,5 @@ See [9. Comments From The Public](./agenda.md#item-9) in the full agenda text.
 
 ## Official documents (on wpb.org — not stored here)
 
-- [DRAFT agenda PDF (November 23, 2026)](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-draft-city-commission-agendas/11-nov-2026-draft-cca/11_23_26_draft_city-commission-agenda.pdf)
+- [Final agenda PDF (November 23, 2026)](https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-final-city-commission-agendas/11-nov-2026-final-cca/11_23_26_final-city-commission-agenda.pdf)
 - [Month agendas folder](https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/November-2026)
