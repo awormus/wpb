@@ -116,13 +116,14 @@ URL:https://www.wpb.org/Events-Folder/2026/City-Commission-Agenda-Review-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:wpb-cc-meeting-2026-12-07@awormus.github.io
-DTSTAMP:20261005T130445Z
+DTSTAMP:20261126T142200Z
 DTSTART;TZID=America/New_York:20261207T170000
 DTEND;TZID=America/New_York:20261207T235900
-SUMMARY:City Commission Meeting — Agenda not published yet
+SUMMARY:City Commission Meeting — DRAFT agenda available
 LOCATION:Commission Chambers\, 401 Clematis Street\, West Palm Beach\, FL 33401
-DESCRIPTION:Agenda not published yet. Date\, time\, and location as listed on the City's City Commission Meeting 2026 event page (retrieved 2026-10-05): https://www.wpb.org/Events-Folder/2026/City-Commission-Meeting-2026 End time 11:59 PM is the City's listed placeholder\, not an expected end. Agendas folder: https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/December-2026 Meetings hub: https://www.wpb.org/Our-City/Meetings-Agendas
-URL:https://www.wpb.org/Events-Folder/2026/City-Commission-Meeting-2026
+DESCRIPTION:DRAFT agenda posted (retrieved 2026-11-26): https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-draft-city-commission-agendas/12-dec-2026-draft-cca/12_07_26_draft-city-commission-agenda.pdf Date\, time\, and location as listed on the City's City Commission Meeting 2026 event page and confirmed in the Mayor's Insider Newsletter for Thanksgiving Week\, 2026 (published 2026-11-25\, retrieved 2026-11-26): Monday\, December 7\, 2026\, at 5 p.m. in City Hall\, 401 Clematis Street. End time 11:59 PM is the City's listed placeholder\, not an expected end. December agendas folder: https://www.wpb.org/Our-City/City-Clerk/Commission-CRA-Agendas/City-Commission-Agendas/City-Commission-Agendas-2026/2026-City-Commission-Agendas/December-2026 Meetings hub: https://www.wpb.org/Our-City/Meetings-Agendas Source: City email "News & Events in the City of West Palm Beach" (Nov 25\, 2026)\; Mayor's Insider Newsletter: https://www.wpb.org/News-Folder/News-2026/112526-Mayors-Insider.
+URL:https://www.wpb.org/files/assets/city/v/1/city-clerk/documents/agendas/2026-agendas/2026-draft-city-commission-agendas/12-dec-2026-draft-cca/12_07_26_draft-city-commission-agenda.pdf
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:wpb-cc-agenda-review-2026-12-17@awormus.github.io
@@ -177,15 +178,15 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:wpb-hip-tree-lighting-2026-12-03@awormus.github.io
-DTSTAMP:20261124T143000Z
+DTSTAMP:20261126T142200Z
 DTSTART;TZID=America/New_York:20261203T180000
 DTEND;TZID=America/New_York:20261203T220000
 SUMMARY:Clematis by Night Holiday Tree Lighting (Sandi debut) — FREE
 LOCATION:West Palm Beach Waterfront\, 100 N. Clematis Street\, West Palm Beach\, FL 33401
 CATEGORIES:City events,Holiday in Paradise
-DESCRIPTION:Holiday in Paradise signature event and season debut of Sandi's synchronized music and light shows. The official Holiday Tree Lighting event page (retrieved 2026-11-24) lists Thursday\, December 3\, from 6-10:00 p.m.\, FREE on the West Palm Beach Waterfront\, 100 N. Clematis Street. Clematis by Night Holiday Tree Lighting featuring Phoenix5 (Soul\, Funk\, Rock\, Reggae) on the NewDay USA Stage. The page says Phoenix5\, twice named Best Live Performers by The Guide to Florida\, brings crowd favorites and mini tributes to artists including Prince\, Santana\, Bob Marley\, Stevie Wonder\, and Bruno Mars. Also joining: Officers & Gentlemen with the Rhythm Chicks\, with holiday favorites and hits from the '60s and '70s (military veterans and a polished vocal trio). The main Holiday Tree Lighting page prints the ensemble name as "Officers & Gentleman" (singular)\; the schedule subpage and the Nov 9\, 2026 news release print "Gentlemen." The event page says the celebration features FREE live music\, special entertainment\, photos with Santa\, and the Holiday Gift Boutique inside the Lake Pavilion and along Flagler Drive. The schedule subpage describes the boutique as inside the Lake Pavilion and does not mention Flagler Drive. PLEASE NOTE: the concert\, activities and the Holiday Boutique take place until 9:00 p.m.\; Sandi shows and rides on Ferris continue until 10 p.m. The Nov 9\, 2026 news release also listed live painting by Laura Serna 6-9 p.m.\, Santa and Mrs. Claus\, face painters\, and stilt walkers\; those details are not restated on the 2026-11-24 event pages and are kept here from that release. The City email "Holiday in Paradise presented by FPL~ Sandi Tree Lighting" (received Nov 23\, 2026) gave the December 3 date and downtown waterfront location but no time\; the time is taken from the official event page. That email also called Sandi a 35-ft sand tree\; none of the Holiday in Paradise pages retrieved 2026-11-24 state a height (an event-page image alt text calls Sandi a "holiday sand tree"). Source: City of West Palm Beach news release "City Kicks Off the Holiday Season with Holiday in Paradise" (published 2026-11-09\, retrieved 2026-11-09): https://www.wpb.org/News-Folder/News-2026/110926-HiP-kickoff\; Holiday Tree Lighting event page (retrieved 2026-11-24): https://www.wpb.org/Residents/Community-Events/Events/Holiday-in-Paradise/Holiday-Tree-Lighting-12.03.2026\; schedule listing and subpage (retrieved 2026-11-24): https://www.wpb.org/Residents/Community-Events/Events/Holiday-in-Paradise/Schedule-of-Holiday-Events and https://www.wpb.org/Residents/Community-Events/Events/Holiday-in-Paradise/Schedule-of-Holiday-Events/Clematis-by-Night-Holiday-Tree-LIghting\; City email "Holiday in Paradise presented by FPL~ Sandi Tree Lighting" (received Nov 23\, 2026). Holiday in Paradise Presented by FPL runs Nov 27-Dec 31\, 2026 ("The Art of Holidays"). More info: https://wpb.org/holiday (canonical page: https://www.wpb.org/Residents/Community-Events/Events/Holiday-in-Paradise).
+DESCRIPTION:Holiday in Paradise signature event and season debut of Sandi's synchronized music and light shows. The official Holiday Tree Lighting event page (retrieved 2026-11-24) lists Thursday\, December 3\, from 6-10:00 p.m.\, FREE on the West Palm Beach Waterfront\, 100 N. Clematis Street. The Mayor's Insider Newsletter for Thanksgiving Week\, 2026 (published 2026-11-25\, retrieved 2026-11-26) lists the same date\, 6-10 p.m.\, free\, at the West Palm Beach Waterfront\, 100 N. Clematis Street\, and describes Sandi as "the world's only 35-foot\, 700-ton sand tree\," lighting up with Ferris the Ferris Wheel. That newsletter also lists FREE live entertainment\, holiday performances\, photos with Santa\, family-friendly activities\, and the Holiday Gift Boutique featuring unique gifts and finds from local vendors\, plus nightly music and light shows and Ferris wheel rides ($5 per person per ride\, tickets sold on site). Clematis by Night Holiday Tree Lighting featuring Phoenix5 (Soul\, Funk\, Rock\, Reggae) on the NewDay USA Stage. The event page says Phoenix5\, twice named Best Live Performers by The Guide to Florida\, brings crowd favorites and mini tributes to artists including Prince\, Santana\, Bob Marley\, Stevie Wonder\, and Bruno Mars. Also joining: Officers & Gentlemen with the Rhythm Chicks\, with holiday favorites and hits from the '60s and '70s (military veterans and a polished vocal trio). The main Holiday Tree Lighting page prints the ensemble name as "Officers & Gentleman" (singular)\; the schedule subpage and the Nov 9\, 2026 news release print "Gentlemen." The event page says the celebration features FREE live music\, special entertainment\, photos with Santa\, and the Holiday Gift Boutique inside the Lake Pavilion and along Flagler Drive. The schedule subpage describes the boutique as inside the Lake Pavilion and does not mention Flagler Drive. PLEASE NOTE: the concert\, activities and the Holiday Boutique take place until 9:00 p.m.\; Sandi shows and rides on Ferris continue until 10 p.m. The Nov 9\, 2026 news release also listed live painting by Laura Serna 6-9 p.m.\, Santa and Mrs. Claus\, face painters\, and stilt walkers\; those details are not restated on the 2026-11-24 event pages or in the Nov 25 newsletter and are kept here from that release. A City email "Holiday in Paradise presented by FPL~ Sandi Tree Lighting" (received Nov 23\, 2026) gave the December 3 date and downtown waterfront location but no time\; the time is taken from the official event page and is confirmed in the Nov 25 newsletter. Source: City of West Palm Beach news release "City Kicks Off the Holiday Season with Holiday in Paradise" (published 2026-11-09\, retrieved 2026-11-09): https://www.wpb.org/News-Folder/News-2026/110926-HiP-kickoff\; Holiday Tree Lighting event page (retrieved 2026-11-24): https://www.wpb.org/Residents/Community-Events/Events/Holiday-in-Paradise/Holiday-Tree-Lighting-12.03.2026\; Mayor's Insider Newsletter for Thanksgiving Week\, 2026 (published 2026-11-25\, retrieved 2026-11-26): https://www.wpb.org/News-Folder/News-2026/112526-Mayors-Insider\; City email "News & Events in the City of West Palm Beach" (Nov 25\, 2026). More info: https://wpb.org/holiday (canonical page: https://www.wpb.org/Residents/Community-Events/Events/Holiday-in-Paradise).
 URL:https://www.wpb.org/Residents/Community-Events/Events/Holiday-in-Paradise/Holiday-Tree-Lighting-12.03.2026
-SEQUENCE:1
+SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 UID:wpb-hip-sandi-light-shows-2026-12-03@awormus.github.io
@@ -290,6 +291,26 @@ LOCATION:500 22nd Street\, West Palm Beach\, FL 33407
 CATEGORIES:City events
 DESCRIPTION:The City of West Palm Beach is celebrating its 35th Annual Pleasant City Share-A-Supper community event to offer Thanksgiving dinner to residents. City leaders and employees will serve an estimated 400 Thanksgiving dinners to residents and families. The dinner will include turkey\, string beans\, rice\, mashed potatoes\, a dinner roll\, and a beverage. Meals will be provided while supplies last. Tuesday\, November 24\, 2026\, 4:30-6:30 p.m.\, at 500 22nd Street\, West Palm Beach\, FL 33407. Free. For more info\, the Mayor's Insider Newsletter (published 2026-11-20\, retrieved 2026-11-21) says to contact the Pleasant City Community Center at (561) 804-4930 (TTY: 800-955-8771). The Pleasant City Community Center page lists the same event as "Thanksgiving Share-A-Supper\," all ages\, Tuesday\, November 24\, 4:30 p.m.-6:30 p.m.\, free\, at the same address\; that page does not print a year next to November 24\, and its Contact listing is 561-822-4930. The year 2026 is taken from the newsletter page (title: "Mayor's Insider Newsletter for Friday\, Nov. 20\, 2026")\; November 24\, 2026 is a Tuesday. Source: City email "News & Events in the City of West Palm Beach" (Nov 20\, 2026)\; Mayor's Insider Newsletter: https://www.wpb.org/News-Folder/News-2026/112026-Mayors-Insider-Newsletter\; Pleasant City Community Center page (retrieved 2026-11-21): https://www.wpb.org/Departments/Parks-Recreation/Parks-Facilities/Pleasant-City-Community-Center-and-Youth-Empowerment-Center
 URL:https://www.wpb.org/News-Folder/News-2026/112026-Mayors-Insider-Newsletter
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-evt-playground-lab-ribbon-2026-12-04@awormus.github.io
+DTSTAMP:20261126T142200Z
+DTSTART;TZID=America/New_York:20261204T163000
+SUMMARY:Playground Lab Ribbon Cutting
+LOCATION:319 Clematis Street\, West Palm Beach\, FL
+CATEGORIES:City events
+DESCRIPTION:Ribbon cutting ceremony for the Playground Lab\, a new tech incubator in downtown West Palm Beach. Friday\, December 4\, 2026\, 4:30 p.m.\, at 319 Clematis Street\, West Palm Beach. No end time is published. The Mayor's Insider Newsletter for Thanksgiving Week\, 2026 (published 2026-11-25\, retrieved 2026-11-26) describes Playground Lab as a semester-long tech incubator that brings together top university students and industry leaders to develop real-world products from concept to launch\, a 16-week program covering product management\, design\, software development\, and business growth with mentorship from industry professionals. The grand opening is supported by the City's Office of Economic Development through its Business Grand Opening (BGO) Grant Program\, which provides up to $1\,000 in financial assistance for eligible expenses and promotional opportunities. To learn more about the grant program\, the newsletter says to contact ecd@wpb.org. No dedicated City event page was found (a guessed Events-Folder URL returned 404\; the City Ribbon Cuttings page did not list this ceremony). The public source used is the newsletter page. Source: Mayor's Insider Newsletter for Thanksgiving Week\, 2026 (published 2026-11-25\, retrieved 2026-11-26): https://www.wpb.org/News-Folder/News-2026/112526-Mayors-Insider\; City email "News & Events in the City of West Palm Beach" (Nov 25\, 2026).
+URL:https://www.wpb.org/News-Folder/News-2026/112526-Mayors-Insider
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-pr-howard-park-groundbreaking-2026-12-05@awormus.github.io
+DTSTAMP:20261126T142200Z
+DTSTART;TZID=America/New_York:20261205T103000
+SUMMARY:Howard Park Community Center Groundbreaking
+LOCATION:1302 Parker Avenue\, West Palm Beach\, FL 33401
+CATEGORIES:City events
+DESCRIPTION:Groundbreaking ceremony celebrating the construction of the new Howard Park Community Center. Saturday\, December 5\, 2026\, at 10:30 a.m.\, 1302 Parker Avenue\, West Palm Beach\, FL 33401. No end time is published. Refreshments will be provided. The Parks & Recreation groundbreaking flyer on the Howard Park Community Center page (retrieved 2026-11-26) lists the same date\, time\, and address\, with additional information (561) 804-4900 (TTY: 800-955-8771) and WPB.org/Departments/Parks-Recreation. The Mayor's Insider Newsletter for Thanksgiving Week\, 2026 (published 2026-11-25\, retrieved 2026-11-26) also lists those details and states that Howard Park renovations are funded through the Palm Beach County Penny Sales Tax initiative. Questions: (561) 804-4900 (TTY: 800-955-8771). A guessed dedicated event URL returned 404. Source: Howard Park Community Center page and groundbreaking flyer (retrieved 2026-11-26): https://www.wpb.org/Departments/Parks-Recreation/Parks-Facilities/Howard-Park-and-Community-Center and https://www.wpb.org/files/assets/city/v/1/parks-amp-recreation/images/ribbon-cutting/hp-groundbreaking-flyer.jpg\; Mayor's Insider Newsletter: https://www.wpb.org/News-Folder/News-2026/112526-Mayors-Insider\; City email "News & Events in the City of West Palm Beach" (Nov 25\, 2026).
+URL:https://www.wpb.org/Departments/Parks-Recreation/Parks-Facilities/Howard-Park-and-Community-Center
 END:VEVENT
 BEGIN:VEVENT
 UID:wpb-aipp-new-wave-panel-2026-11-19@awormus.github.io
@@ -469,6 +490,28 @@ CATEGORIES:City events
 DESCRIPTION:Palm Beach County Environmental Resources Management\, Avian Research and Conservation Institute\, and the Palm Beach Zoo & Conservation Society team up to share how their research partnership has helped shape our understanding of the swallow-tailed kite and helped to inform successful management strategies for this incredible bird. Film followed by Q & A with Executive Producer Benji Studt. Saturday\, November 21\, 2026\, 10:00 a.m.–11:30 a.m. Ages: 15+. Cost: Free\, but space is limited. Reservations required. Check-in 15 mins before program start time at Nature Center. Come prepared: This will be a seated\, indoor presentation. Reservations required\, space is limited. Please call the Nature Center to reserve a spot. 561-804-4985. The official program page lists the end time as 11:30 a.m. (the earlier bulletin and the City email listed 11:00 a.m.).  Source: City email "Grassy Waters Film Screening & December Programs" (received Nov 19\, 2026)\; Public Program Calendar (retrieved 2026-11-20): https://www.wpb.org/Departments/Grassy-Waters-Preserve/Public-Program-Calendar\; program page (retrieved 2026-11-20): https://www.wpb.org/Departments/Grassy-Waters-Preserve/Public-Program-Calendar/Speaker-Series-Tracking-Kites-Film-Screening-112126\; earlier sources: City email "Upcoming Speakers and Film Screening!" (Nov 13\, 2026)\; Grassy Waters Preserve bulletin (sent 2026-11-13\, retrieved 2026-11-14): https://content.govdelivery.com/accounts/FLWPB/bulletins/432ad0e
 URL:https://www.wpb.org/Departments/Grassy-Waters-Preserve/Public-Program-Calendar/Speaker-Series-Tracking-Kites-Film-Screening-112126
 END:VEVENT
+BEGIN:VEVENT
+UID:wpb-gwp-canoe-cruise-2026-11-28@awormus.github.io
+DTSTAMP:20261126T142200Z
+DTSTART;TZID=America/New_York:20261128T100000
+DTEND;TZID=America/New_York:20261128T113000
+SUMMARY:Canoe Cruise
+LOCATION:Grassy Waters Preserve Nature Center\, 8264 Northlake Blvd\, West Palm Beach\, FL 33412
+CATEGORIES:City events
+DESCRIPTION:Paddle your canoe through the shallow waters of the Everglades as you learn about the history and ecology of Grassy Waters on this guided tour. Be sure to sign up with a partner\, canoes require two paddlers. Saturday\, November 28\, 2026\, 10:00 a.m.–11:30 a.m. *Check in at the Nature Center 30 min prior to program start time. Ages: 6-11 require two participating adults. Cost: $10 per adult\, $5 per child. Come Prepared: Wear clothes that can get wet and muddy. Bring a water bottle\, hat\, and sun protection. Reservations required\, space is limited. Please call the Nature Center to reserve a spot: 561-804-4985. These details match the program page (retrieved 2026-11-26) and the Mayor's Insider Newsletter for Thanksgiving Week\, 2026 (published 2026-11-25\, retrieved 2026-11-26). Source: program page: https://www.wpb.org/Departments/Grassy-Waters-Preserve/Public-Program-Calendar/Canoe-Cruise-112826\; Mayor's Insider Newsletter: https://www.wpb.org/News-Folder/News-2026/112526-Mayors-Insider\; City email "News & Events in the City of West Palm Beach" (Nov 25\, 2026).
+URL:https://www.wpb.org/Departments/Grassy-Waters-Preserve/Public-Program-Calendar/Canoe-Cruise-112826
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-gwp-sunset-canoe-2026-11-28@awormus.github.io
+DTSTAMP:20261126T142200Z
+DTSTART;TZID=America/New_York:20261128T160000
+DTEND;TZID=America/New_York:20261128T180000
+SUMMARY:Sunset Canoe
+LOCATION:Grassy Waters Preserve Nature Center\, 8264 Northlake Blvd\, West Palm Beach\, FL 33412
+CATEGORIES:City events
+DESCRIPTION:Great photographic opportunities abound as you enjoy this late afternoon canoe tour. Watch as birds fly in to roost as the sun sets over the marsh. Be sure to sign up with a partner\, canoes require two paddlers. Date: Saturday\, November 28\, 2026. Time: 4:00 p.m.–6:00 p.m. *Check in at the Nature Center 30 min prior to program start time. Ages: 15 and over (with participating adult). Cost: $15 per person. Come Prepared: Wear closed-toe shoes and clothes that can get wet and muddy. Bring a water bottle\, hat\, and sun protection. Binoculars and bug repellent also suggested. Reservations required\, space is limited. Please call the Nature Center to reserve a spot: 561-804-4985. The City email "News & Events in the City of West Palm Beach" (Nov 25\, 2026) summarized ages as 15+\; the program page and the Mayor's Insider Newsletter (published 2026-11-25\, retrieved 2026-11-26) print "Ages: 15 and over (with participating adult)." This calendar follows the program page. Source: program page: https://www.wpb.org/Departments/Grassy-Waters-Preserve/Public-Program-Calendar/Sunset-Canoe-112826\; Mayor's Insider Newsletter: https://www.wpb.org/News-Folder/News-2026/112526-Mayors-Insider\; City email "News & Events in the City of West Palm Beach" (Nov 25\, 2026).
+URL:https://www.wpb.org/Departments/Grassy-Waters-Preserve/Public-Program-Calendar/Sunset-Canoe-112826
+END:VEVENT
 
 BEGIN:VEVENT
 UID:wpb-gwp-kayak-cruise-2026-12-05@awormus.github.io
@@ -505,14 +548,15 @@ URL:https://www.wpb.org/Departments/Grassy-Waters-Preserve/Public-Program-Calend
 END:VEVENT
 BEGIN:VEVENT
 UID:wpb-gwp-earth-friendly-gift-wrapping-2026-12-12@awormus.github.io
-DTSTAMP:20261120T142119Z
+DTSTAMP:20261126T142200Z
 DTSTART;TZID=America/New_York:20261212T100000
 DTEND;TZID=America/New_York:20261212T130000
 SUMMARY:Homemade Holidays Series: Earth Friendly Gift Wrapping Workshop
 LOCATION:8264 Northlake Blvd\, West Palm Beach\, FL 33412
 CATEGORIES:City events
-DESCRIPTION:Join us for a little creative fun and discover easy ways to turn everyday materials\, reusable fabrics\, and a few unexpected treasures into gift-wrap magic. Saturday\, December 12\, 2026. Time: Anytime between 10:00 a.m.–1:00 p.m. Ages: ALL. Cost: Free. Come prepared: This is an indoor program\, bring your creativity. No Reservations required. Source: City email "Grassy Waters Film Screening & December Programs" (received Nov 19\, 2026)\; Public Program Calendar (retrieved 2026-11-20): https://www.wpb.org/Departments/Grassy-Waters-Preserve/Public-Program-Calendar\; program page (retrieved 2026-11-20): https://www.wpb.org/Departments/Grassy-Waters-Preserve/Public-Program-Calendar/Homemade-Holidays-Series-Earth-Friendly-Gift-Wrapping-Workshop
+DESCRIPTION:Join us for a little creative fun and discover easy ways to turn everyday materials\, reusable fabrics\, and a few unexpected treasures into gift-wrap magic. Saturday\, December 12\, 2026. Time: Anytime between 10:00 a.m.–1:00 p.m. Ages: ALL. Cost: Free. Come prepared: This is an indoor program\, bring your creativity. No Reservations required. The program page (retrieved 2026-11-26) still lists those times and does not use the phrase "self-service wrapping stations" from the City email "WPB Office of Sustainability Newsletter" (Nov 25\, 2026)\; this calendar follows the program page wording and notes that email as an additional source. Source: City email "Grassy Waters Film Screening & December Programs" (received Nov 19\, 2026)\; Public Program Calendar (retrieved 2026-11-20): https://www.wpb.org/Departments/Grassy-Waters-Preserve/Public-Program-Calendar\; program page (retrieved 2026-11-20 and 2026-11-26): https://www.wpb.org/Departments/Grassy-Waters-Preserve/Public-Program-Calendar/Homemade-Holidays-Series-Earth-Friendly-Gift-Wrapping-Workshop\; City email "WPB Office of Sustainability Newsletter" (Nov 25\, 2026).
 URL:https://www.wpb.org/Departments/Grassy-Waters-Preserve/Public-Program-Calendar/Homemade-Holidays-Series-Earth-Friendly-Gift-Wrapping-Workshop
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:wpb-gwp-canoe-cruise-2026-12-12@awormus.github.io
@@ -705,14 +749,15 @@ URL:https://www.wpb.org/News-Folder/News-2026/111926-Road-and-Dock
 END:VEVENT
 BEGIN:VEVENT
 UID:wpb-svc-thanksgiving-closures-2026-11-26@awormus.github.io
-DTSTAMP:20261121T143500Z
+DTSTAMP:20261126T142200Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:Thanksgiving holiday closures (City Hall, Mandel Public Library, Grassy Waters, non-essential services)
-LOCATION:City Hall\, Mandel Public Library\, and Grassy Waters Preserve Nature Center\, West Palm Beach\, FL
+SUMMARY:Thanksgiving holiday closures (City Hall, Mandel Public Library, Grassy Waters, Cypress Boardwalk, non-essential services)
+LOCATION:City Hall\, Mandel Public Library\, Grassy Waters Preserve Nature Center\, and Cypress Boardwalk Trail\, West Palm Beach\, FL
 CATEGORIES:City services
-DESCRIPTION:West Palm Beach City Hall\, the Mandel Public Library\, the Grassy Waters Preserve Nature Center\, and all non-essential services will be closed on Thursday\, November 26\, and Friday\, November 27\, 2026\, in observance of the Thanksgiving holiday. This all-day closure entry is for Thursday\, November 26\, 2026. Grassy Waters will reopen at 8 a.m.\, on Saturday\, November 28\, 2026\; the Mandel Public Library will open at 9:30 a.m. that Saturday. City Hall will reopen at 8 a.m. on Monday\, November 30\, 2026. The City's "Celebrating Thanksgiving 2026" event page lists a When range of Thursday\, November 26\, 2026\, 8:00 a.m. through Saturday\, November 28\, 2026\, 8:00 a.m.\, which ends at the stated Grassy Waters reopen time. The same page's notice and the official news release describe Thursday and Friday as closure days\, so this calendar uses all-day date entries for November 26 and 27 rather than a timed 8:00 a.m. start. This entry also covers the Grassy Waters Thanksgiving closure notice on that event page (the listing previously skipped when only December Grassy Waters programs were ingested). Source: City email "Update: 112026 - Thanksgiving" (Nov 20\, 2026)\; official release "City Offices to Close in Observance of the Thanksgiving Holidays" (published 2026-11-20\, retrieved 2026-11-21): https://www.wpb.org/News-Folder/News-2026/112026-Thanksgiving\; event page "Celebrating Thanksgiving 2026" (retrieved 2026-11-21): https://www.wpb.org/Events-Folder/2026/112626-Thanksgiving-Holiday
+DESCRIPTION:West Palm Beach City Hall\, the Mandel Public Library\, the Grassy Waters Preserve Nature Center\, and all non-essential services will be closed on Thursday\, November 26\, and Friday\, November 27\, 2026\, in observance of the Thanksgiving holiday. The Mayor's Insider Newsletter for Thanksgiving Week\, 2026 (published 2026-11-25\, retrieved 2026-11-26) also lists the Cypress Boardwalk Trail as closed those days\, with City Hall\, the Mandel Public Library\, and the Grassy Waters Nature Center. This all-day closure entry is for Thursday\, November 26\, 2026. The official Thanksgiving release (published 2026-11-20) states: Grassy Waters will reopen at 8 a.m.\, on Saturday\, November 28\, 2026\; the Mandel Public Library will open at 9:30 a.m. that Saturday. City Hall will reopen at 8 a.m. on Monday\, November 30\, 2026. The Nov 25 newsletter says the library and Grassy Waters will reopen Saturday morning during regular business hours\, and City Hall will reopen on Monday at 8 a.m.\, without restating those clock times\; this calendar keeps the specific reopen times from the official release\, which are consistent with regular business hours. The newsletter also states that all other trails at Grassy Waters (Hog Hammock\, Eagle\, Owahee\, and Apoxee) remain CLOSED indefinitely due to flooded conditions (see the separate trail-closure notice). Source: City email "Update: 112026 - Thanksgiving" (Nov 20\, 2026)\; official release "City Offices to Close in Observance of the Thanksgiving Holidays" (published 2026-11-20\, retrieved 2026-11-21): https://www.wpb.org/News-Folder/News-2026/112026-Thanksgiving\; event page "Celebrating Thanksgiving 2026" (retrieved 2026-11-21): https://www.wpb.org/Events-Folder/2026/112626-Thanksgiving-Holiday\; Mayor's Insider Newsletter for Thanksgiving Week\, 2026 (published 2026-11-25\, retrieved 2026-11-26): https://www.wpb.org/News-Folder/News-2026/112526-Mayors-Insider\; City email "News & Events in the City of West Palm Beach" (Nov 25\, 2026).
 URL:https://www.wpb.org/News-Folder/News-2026/112026-Thanksgiving
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:wpb-svc-thanksgiving-trash-2026-11-26@awormus.github.io
@@ -726,14 +771,25 @@ URL:https://www.wpb.org/Departments/Public-Works/Solid-Waste/Holiday-Trash-Pick-
 END:VEVENT
 BEGIN:VEVENT
 UID:wpb-svc-thanksgiving-closures-2026-11-27@awormus.github.io
-DTSTAMP:20261121T143500Z
+DTSTAMP:20261126T142200Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-SUMMARY:Thanksgiving holiday closures (City Hall, Mandel Public Library, Grassy Waters, non-essential services)
-LOCATION:City Hall\, Mandel Public Library\, and Grassy Waters Preserve Nature Center\, West Palm Beach\, FL
+SUMMARY:Thanksgiving holiday closures (City Hall, Mandel Public Library, Grassy Waters, Cypress Boardwalk, non-essential services)
+LOCATION:City Hall\, Mandel Public Library\, Grassy Waters Preserve Nature Center\, and Cypress Boardwalk Trail\, West Palm Beach\, FL
 CATEGORIES:City services
-DESCRIPTION:West Palm Beach City Hall\, the Mandel Public Library\, the Grassy Waters Preserve Nature Center\, and all non-essential services will be closed on Thursday\, November 26\, and Friday\, November 27\, 2026\, in observance of the Thanksgiving holiday. This all-day closure entry is for Friday\, November 27\, 2026. Grassy Waters will reopen at 8 a.m.\, on Saturday\, November 28\, 2026\; the Mandel Public Library will open at 9:30 a.m. that Saturday. City Hall will reopen at 8 a.m. on Monday\, November 30\, 2026. The City's "Celebrating Thanksgiving 2026" event page lists a When range of Thursday\, November 26\, 2026\, 8:00 a.m. through Saturday\, November 28\, 2026\, 8:00 a.m.\, which ends at the stated Grassy Waters reopen time. The same page's notice and the official news release describe Thursday and Friday as closure days\, so this calendar uses all-day date entries for November 26 and 27 rather than a timed 8:00 a.m. start. This entry also covers the Grassy Waters Thanksgiving closure notice on that event page (the listing previously skipped when only December Grassy Waters programs were ingested). Source: City email "Update: 112026 - Thanksgiving" (Nov 20\, 2026)\; official release "City Offices to Close in Observance of the Thanksgiving Holidays" (published 2026-11-20\, retrieved 2026-11-21): https://www.wpb.org/News-Folder/News-2026/112026-Thanksgiving\; event page "Celebrating Thanksgiving 2026" (retrieved 2026-11-21): https://www.wpb.org/Events-Folder/2026/112626-Thanksgiving-Holiday
+DESCRIPTION:West Palm Beach City Hall\, the Mandel Public Library\, the Grassy Waters Preserve Nature Center\, and all non-essential services will be closed on Thursday\, November 26\, and Friday\, November 27\, 2026\, in observance of the Thanksgiving holiday. The Mayor's Insider Newsletter for Thanksgiving Week\, 2026 (published 2026-11-25\, retrieved 2026-11-26) also lists the Cypress Boardwalk Trail as closed those days\, with City Hall\, the Mandel Public Library\, and the Grassy Waters Nature Center. This all-day closure entry is for Friday\, November 27\, 2026. The official Thanksgiving release (published 2026-11-20) states: Grassy Waters will reopen at 8 a.m.\, on Saturday\, November 28\, 2026\; the Mandel Public Library will open at 9:30 a.m. that Saturday. City Hall will reopen at 8 a.m. on Monday\, November 30\, 2026. The Nov 25 newsletter says the library and Grassy Waters will reopen Saturday morning during regular business hours\, and City Hall will reopen on Monday at 8 a.m.\, without restating those clock times\; this calendar keeps the specific reopen times from the official release\, which are consistent with regular business hours. The newsletter also states that all other trails at Grassy Waters (Hog Hammock\, Eagle\, Owahee\, and Apoxee) remain CLOSED indefinitely due to flooded conditions (see the separate trail-closure notice). Source: City email "Update: 112026 - Thanksgiving" (Nov 20\, 2026)\; official release "City Offices to Close in Observance of the Thanksgiving Holidays" (published 2026-11-20\, retrieved 2026-11-21): https://www.wpb.org/News-Folder/News-2026/112026-Thanksgiving\; event page "Celebrating Thanksgiving 2026" (retrieved 2026-11-21): https://www.wpb.org/Events-Folder/2026/112626-Thanksgiving-Holiday\; Mayor's Insider Newsletter for Thanksgiving Week\, 2026 (published 2026-11-25\, retrieved 2026-11-26): https://www.wpb.org/News-Folder/News-2026/112526-Mayors-Insider\; City email "News & Events in the City of West Palm Beach" (Nov 25\, 2026).
 URL:https://www.wpb.org/News-Folder/News-2026/112026-Thanksgiving
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-svc-gwp-trails-flooded-2026-11-26@awormus.github.io
+DTSTAMP:20261126T142200Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Grassy Waters trails closed indefinitely (Hog Hammock, Eagle, Owahee, Apoxee)
+LOCATION:Grassy Waters Preserve\, West Palm Beach\, FL
+CATEGORIES:City services
+DESCRIPTION:All other trails at Grassy Waters (Hog Hammock\, Eagle\, Owahee\, and Apoxee) remain CLOSED indefinitely due to flooded conditions\, as stated in the Mayor's Insider Newsletter for Thanksgiving Week\, 2026 (published 2026-11-25\, retrieved 2026-11-26). The newsletter also says: Avoid standing water and do not cross barricades\, and to monitor Grassy Waters' social media and website for the most up-to-date trail conditions and closures. This all-day notice is dated with the Thanksgiving holiday notice that restates the closures\; no end date is published\, and none is invented here. The Cypress Boardwalk Trail is listed separately as closed November 26 and 27 for the holiday (see the Thanksgiving holiday closure entries) and is not in this indefinitely-closed trail list. Source: Mayor's Insider Newsletter for Thanksgiving Week\, 2026 (published 2026-11-25\, retrieved 2026-11-26): https://www.wpb.org/News-Folder/News-2026/112526-Mayors-Insider\; City email "News & Events in the City of West Palm Beach" (Nov 25\, 2026).
+URL:https://www.wpb.org/News-Folder/News-2026/112526-Mayors-Insider
 END:VEVENT
 BEGIN:VEVENT
 UID:wpb-svc-thanksgiving-trash-2026-11-27@awormus.github.io
@@ -747,14 +803,15 @@ URL:https://www.wpb.org/Departments/Public-Works/Solid-Waste/Holiday-Trash-Pick-
 END:VEVENT
 BEGIN:VEVENT
 UID:wpb-svc-road-closure-nights-in-northwood-2026-11-27@awormus.github.io
-DTSTAMP:20261119T141924Z
-DTSTART;TZID=America/New_York:20261127T130000
-DTEND;TZID=America/New_York:20261127T220000
+DTSTAMP:20261126T142200Z
+DTSTART;TZID=America/New_York:20261127T150000
+DTEND;TZID=America/New_York:20261127T230000
 SUMMARY:Road closures: Nights in Northwood Village
 LOCATION:Northwood Road\, West Palm Beach\, FL
 CATEGORIES:City services
-DESCRIPTION:Event road closures for Nights in Northwood Village on Friday\, November 27\, 2026. Friday\, November 27\, from 1 p.m. to 10 p.m.: Northwood Road will be closed from Broadway Avenue to North Dixie Highway. Source: City email 'Update: 111926 - Road and Dock' (Nov 19\, 2026); City news release 'Road and Dock for Thursday\, Nov.19\, 2026' (published 2026-11-18\, retrieved 2026-11-19): https://www.wpb.org/News-Folder/News-2026/111926-Road-and-Dock
-URL:https://www.wpb.org/News-Folder/News-2026/111926-Road-and-Dock
+DESCRIPTION:Event road closures for Nights in Northwood Village on Friday\, November 27\, 2026. The Road and Dock Report for Wednesday\, November 25\, 2026 (retrieved 2026-11-26) lists Friday\, 3 p.m. to 11 p.m.: Northwood Road will be closed from Broadway Avenue to North Dixie Highway. This updates the earlier Nov 19 Road and Dock notice\, which listed 1 p.m. to 10 p.m. for the same segment. This calendar follows the November 25 notice. This is a road-closure notice for the existing Nights in Northwood event\, not a second event listing. Source: City email "Update: 112526 - Road and Dock" (Nov 25\, 2026)\; City news release "Road and Dock Report for Wednesday\, November 25\, 2026" (published 2026-11-25\, retrieved 2026-11-26): https://www.wpb.org/News-Folder/News-2026/112526-Road-and-Dock.
+URL:https://www.wpb.org/News-Folder/News-2026/112526-Road-and-Dock
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:wpb-svc-road-closure-greenmarket-2026-11-28@awormus.github.io
@@ -768,37 +825,62 @@ DESCRIPTION:Event road closures for GreenMarket on Saturday\, November 28\, 2026
 URL:https://www.wpb.org/News-Folder/News-2026/111926-Road-and-Dock
 END:VEVENT
 BEGIN:VEVENT
+UID:wpb-svc-road-closure-greenmarket-2026-12-05@awormus.github.io
+DTSTAMP:20261126T142200Z
+DTSTART;TZID=America/New_York:20261205T050000
+DTEND;TZID=America/New_York:20261205T153000
+SUMMARY:Road closures: GreenMarket
+LOCATION:Clematis Street area\, West Palm Beach\, FL
+CATEGORIES:City services
+DESCRIPTION:Event road closures for the West Palm Beach GreenMarket on Saturday\, December 5\, 2026\, as listed in the Road and Dock Report for Wednesday\, November 25\, 2026 (retrieved 2026-11-26)\, which names Saturday\, November 28 and Saturday\, December 5. Saturdays from 5 a.m. to 3:30 p.m.: 100 blocks of North and South Clematis Streets\; Lantana Avenue between Banyan Boulevard and North Clematis Street\; 200-400 block of Clematis Street. Saturdays 7:15 a.m. to 2:15 p.m.: South Dixie Highway\, South Olive Avenue\, Flagler Drive\, and Narcissus Avenue between Banyan Boulevard and Datura Street. Source: City email "Update: 112526 - Road and Dock" (Nov 25\, 2026)\; City news release "Road and Dock Report for Wednesday\, November 25\, 2026" (published 2026-11-25\, retrieved 2026-11-26): https://www.wpb.org/News-Folder/News-2026/112526-Road-and-Dock.
+URL:https://www.wpb.org/News-Folder/News-2026/112526-Road-and-Dock
+END:VEVENT
+BEGIN:VEVENT
 UID:wpb-svc-road-closure-cbn-tree-lighting-2026-12-03@awormus.github.io
-DTSTAMP:20261119T141924Z
+DTSTAMP:20261126T142200Z
 DTSTART;TZID=America/New_York:20261203T133000
 DTEND;TZID=America/New_York:20261203T220000
 SUMMARY:Road closures: Clematis by Night Tree Lighting
 LOCATION:Clematis Street and Flagler Drive area\, West Palm Beach\, FL
 CATEGORIES:City services
-DESCRIPTION:Event road closures for Clematis by Night Tree Lighting on Thursday\, December 3\, 2026. The notice lists Thursday\, December 3 and states: Thursdays 1:30 p.m. to 10 p.m.: North & South Clematis Streets between Narcissus Avenue and Flagler Drive; Lantana Avenue between Banyan Boulevard and North Clematis Street; Narcissus Avenue between Dramaworks Alley and North Clematis Street; Flagler Drive between Banyan Boulevard and Datura Street. Source: City email 'Update: 111926 - Road and Dock' (Nov 19\, 2026); City news release 'Road and Dock for Thursday\, Nov.19\, 2026' (published 2026-11-18\, retrieved 2026-11-19): https://www.wpb.org/News-Folder/News-2026/111926-Road-and-Dock
-URL:https://www.wpb.org/News-Folder/News-2026/111926-Road-and-Dock
+DESCRIPTION:Event road closures for Clematis by Night Tree Lighting on Thursday\, December 3\, 2026. The Road and Dock Report for Wednesday\, November 25\, 2026 (retrieved 2026-11-26) states: Thursdays 1:30 p.m. to 10 p.m.: North & South Clematis Streets between Narcissus Avenue and Flagler Drive\; Lantana Avenue between Banyan Boulevard and North Clematis Street\; Narcissus Avenue between Dramaworks Alley and North Clematis Street\; Flagler Drive between Banyan Boulevard and Datura St. Those times and streets match the earlier Nov 19 Road and Dock notice. Source: City email "Update: 112526 - Road and Dock" (Nov 25\, 2026)\; City news release "Road and Dock Report for Wednesday\, November 25\, 2026" (published 2026-11-25\, retrieved 2026-11-26): https://www.wpb.org/News-Folder/News-2026/112526-Road-and-Dock\; also previously cited from the Nov 19 Road and Dock notice: https://www.wpb.org/News-Folder/News-2026/111926-Road-and-Dock.
+URL:https://www.wpb.org/News-Folder/News-2026/112526-Road-and-Dock
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:wpb-svc-road-closure-winter-in-paradise-2026-12-04@awormus.github.io
-DTSTAMP:20261119T141924Z
+DTSTAMP:20261126T142200Z
 DTSTART;TZID=America/New_York:20261204T173000
 DTEND;TZID=America/New_York:20261204T210000
 SUMMARY:Road closures: Winter in Paradise
 LOCATION:7th Street and Rosemary Avenue area\, West Palm Beach\, FL
 CATEGORIES:City services
-DESCRIPTION:Event road closures for Winter in Paradise on Friday\, December 4\, 2026. Friday from 5:30 p.m. to 9 p.m.: 7th Street from Sapodilla Avenue to Rosemary Avenue; Henrietta Avenue from 7th Street to 8th Street; 8th Street from Henrietta Avenue to Rosemary Avenue; Rosemary Avenue from 7th Street to 8th Street. Source: City email 'Update: 111926 - Road and Dock' (Nov 19\, 2026); City news release 'Road and Dock for Thursday\, Nov.19\, 2026' (published 2026-11-18\, retrieved 2026-11-19): https://www.wpb.org/News-Folder/News-2026/111926-Road-and-Dock
-URL:https://www.wpb.org/News-Folder/News-2026/111926-Road-and-Dock
+DESCRIPTION:Event road closures for Winter in Paradise on Friday\, December 4\, 2026. The Road and Dock Report for Wednesday\, November 25\, 2026 (retrieved 2026-11-26) lists Friday from 5:30 P.M. to 9 p.m.: 7th Street from Sapodilla Avenue to Rosemary Avenue\; Henrietta Avenue from 7th Street to 8th Street\; 8th Street from Henrietta Avenue to Rosemary Avenue\; Rosemary Avenue from 7th Street to 8th Street. Those times and streets match the earlier Nov 19 Road and Dock notice. Source: City email "Update: 112526 - Road and Dock" (Nov 25\, 2026)\; City news release "Road and Dock Report for Wednesday\, November 25\, 2026" (published 2026-11-25\, retrieved 2026-11-26): https://www.wpb.org/News-Folder/News-2026/112526-Road-and-Dock\; also previously cited from the Nov 19 Road and Dock notice: https://www.wpb.org/News-Folder/News-2026/111926-Road-and-Dock.
+URL:https://www.wpb.org/News-Folder/News-2026/112526-Road-and-Dock
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:wpb-svc-road-closure-palm-beaches-marathon-2026-12-11@awormus.github.io
-DTSTAMP:20261119T141924Z
+DTSTAMP:20261126T142200Z
 DTSTART;TZID=America/New_York:20261211T100000
 DTEND;TZID=America/New_York:20261214T070000
 SUMMARY:Road closures: U.S. Polo Assn. Palm Beaches Marathon
 LOCATION:Flagler Drive and surrounding streets\, West Palm Beach\, FL
 CATEGORIES:City services
-DESCRIPTION:Event road closures for the U.S. Polo Assn. Palm Beaches Marathon. The notice heading is "Saturday\, December 12 through Monday\, December 15." Dated windows as printed: From Friday\, December 11\, 2026\, at 10 a.m. to Sunday\, December 14\, 2026\, at 7 a.m.: Flagler Drive between Banyan Boulevard and Lakeview Avenue. On Saturday\, December 12\, 2026\, from 6 a.m. with rolling openings starting at 9:15 a.m.: South Flagler Drive between Lakeview Boulevard and Southern Boulevard; Washington Road between Avila Road and Southern Boulevard. On Sunday\, December 13\, 2026\, from 5 a.m. with rolling openings beginning at noon: North/South Flagler Drive from 59th Street to Southern Boulevard; Washington Road between Avila Road and Southern Boulevard; Greenwood Road and Roosevelt Place\, between Flagler Drive and Vincent Road inclusive. No separate times are given for Monday\, December 15. Source: City email 'Update: 111926 - Road and Dock' (Nov 19\, 2026); City news release 'Road and Dock for Thursday\, Nov.19\, 2026' (published 2026-11-18\, retrieved 2026-11-19): https://www.wpb.org/News-Folder/News-2026/111926-Road-and-Dock
-URL:https://www.wpb.org/News-Folder/News-2026/111926-Road-and-Dock
+DESCRIPTION:Event road closures for the Palm Beach Marathon. The Road and Dock Report for Wednesday\, November 25\, 2026 (retrieved 2026-11-26) heading is "Palm Beach Marathon – Friday\, December 11 through Monday\, December 14." Dated windows as printed: From Friday\, December 11\, at 10 a.m. through Monday\, December 14 at 7 a.m.: Flagler Drive between Banyan Boulevard and Lakeview Avenue. On Saturday\, December 12\, from 6 a.m. with rolling openings starting at 9:15 a.m.: South Flagler Drive between Lakeview Boulevard and Southern Boulevard\; Washington Road between Avila Road and Southern Boulevard. On Sunday\, December 13\, from 5 a.m. with rolling openings starting at noon: North/South Flagler Drive from 59th Street to Southern Boulevard\; Washington Road between Avila Road and Southern Boulevard\; Greenwood Road & Roosevelt Place between Flagler Drive and Vincent Road inclusive. The earlier Nov 19 Road and Dock notice used the heading "Saturday\, December 12 through Monday\, December 15" and described the first Flagler Drive window as ending Sunday\, December 14\, at 7 a.m. The November 25 notice aligns the heading with Friday\, December 11 through Monday\, December 14\, and prints that first window as through Monday\, December 14 at 7 a.m. This calendar follows the November 25 notice. Source: City email "Update: 112526 - Road and Dock" (Nov 25\, 2026)\; City news release "Road and Dock Report for Wednesday\, November 25\, 2026" (published 2026-11-25\, retrieved 2026-11-26): https://www.wpb.org/News-Folder/News-2026/112526-Road-and-Dock.
+URL:https://www.wpb.org/News-Folder/News-2026/112526-Road-and-Dock
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-svc-beeline-710-closures-2026-11-30@awormus.github.io
+DTSTAMP:20261126T142200Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261211
+SUMMARY:S.R. 710/Beeline Highway overnight closures (Haverhill Rd to N. Jog Rd)
+LOCATION:S.R. 710/Beeline Highway between Haverhill Road and North Jog Road\, and Florida's Turnpike southbound entrance ramp at North Jog Road (Exit 107)
+CATEGORIES:City services
+DESCRIPTION:Overnight closures November 30 through December 10\, 2026\, to allow crews to install bridge beams for Florida's Turnpike (S.R. 91)\, as stated in the Mayor's Insider Newsletter for Thanksgiving Week\, 2026 (published 2026-11-25\, retrieved 2026-11-26): S.R. 710/Beeline Highway closed between Haverhill Road and North Jog Road\; Florida's Turnpike southbound entrance ramp at North Jog Road (Exit 107) closed. Closure hours: Monday-Thursday\, 9 p.m.-5 a.m.\; Sunday\, 10 p.m.-6 a.m. Florida Highway Patrol officers will be on-site\, and detour signs will guide motorists. Detour routes as printed in the newsletter: Southeast Beeline Highway: North Jog Road to Northlake Boulevard to Military Trail to Blue Heron Boulevard to Beeline Highway. Northwest Beeline Highway: Beeline Highway to Military Trail to Northlake Boulevard to North Jog Road to Beeline Highway. Southbound Turnpike entrance: Northlake Boulevard to Military Trail to Okeechobee Boulevard to southbound Turnpike entrance. An FDOT overnight-closure flyer dated updated 11/16/2026 (retrieved 2026-11-26) lists the same dates\, hours\, and locations. This is a multi-day traffic notice with those hours in the description\, not a single continuous closure. Source: Mayor's Insider Newsletter for Thanksgiving Week\, 2026 (published 2026-11-25\, retrieved 2026-11-26): https://www.wpb.org/News-Folder/News-2026/112526-Mayors-Insider\; City email "News & Events in the City of West Palm Beach" (Nov 25\, 2026)\; FDOT overnight closure notice (updated 11/16/2026\, retrieved 2026-11-26): https://d4fdot.com/wp-content/uploads/2026/01/T4613_SR91_SR710_BeamInstallationDetour_2026_111626__.pdf.
+URL:https://www.wpb.org/News-Folder/News-2026/112526-Mayors-Insider
 END:VEVENT
 BEGIN:VEVENT
 UID:wpb-audit-committee-2026-11-24@awormus.github.io
@@ -813,14 +895,15 @@ URL:https://www.wpb.org/Our-City/Meetings-Agendas
 END:VEVENT
 BEGIN:VEVENT
 UID:wpb-south-flagler-outreach-2026-12-01@awormus.github.io
-DTSTAMP:20261123T140500Z
+DTSTAMP:20261126T142200Z
 DTSTART;TZID=America/New_York:20261201T180000
 DTEND;TZID=America/New_York:20261201T200000
-SUMMARY:South Flagler Overlay District Public Outreach Meeting
-LOCATION:Saint Catherine Greek Orthodox Church\, 110 Southern Boulevard\, West Palm Beach\, FL 33405
+SUMMARY:SOFOD 3rd Public Outreach Meeting (South Flagler Overlay District)
+LOCATION:Saint Catherine Hall\, Saint Catherine Greek Orthodox Church\, 110 Southern Boulevard\, West Palm Beach\, FL 33405
 CATEGORIES:Boards
-DESCRIPTION:Listed on the City's Meetings & Agendas page (retrieved 2026-11-23). Planning Division public outreach meeting regarding the South Flagler Overlay District\, Tuesday Dec 1\, 6-8 p.m. Agenda not published yet; check the City page: https://www.wpb.org/Our-City/Meetings-Agendas
-URL:https://www.wpb.org/Our-City/Meetings-Agendas
+DESCRIPTION:Third public outreach meeting regarding proposed zoning code updates for the South Flagler Overlay District (SOFOD)\, as described in the Mayor's Insider Newsletter for Thanksgiving Week\, 2026 (published 2026-11-25\, retrieved 2026-11-26). The City event page and the Meetings & Agendas page (retrieved 2026-11-26) list Tuesday\, December 1\, 2026\, 6:00 p.m. to 8:00 p.m. The newsletter lists 6 p.m. without an end time\; this calendar follows the event page and Meetings & Agendas listing for the 6-8 p.m. window. The official meeting postcard (linked from the event page\, retrieved 2026-11-26) lists the location as Saint Catherine Greek Orthodox Church\, Saint Catherine Hall\, 110 Southern Boulevard\, West Palm Beach\, FL 33405\, matching the newsletter. The event page and Meetings & Agendas listing name the church and street address but do not print "Saint Catherine Hall." The postcard and newsletter say this is an informational and public input meeting and that no formal decisions will be made. The study area includes properties within Southern Boulevard\, Washington Road\, Monroe Drive\, and Flagler Drive. Postcard contacts: Ana Maria Aponte\, Development Services Director\, 561-822-1439 / aaponte@wpb.org\, or Anne Clerisse Gaisha Volcy\, Senior Planner\, 561-822-1552 / avolcy@wpb.org. The event page Contact listing is West Palm Beach Development Services\, (561) 822-1461\, planning@wpb.org (also printed on the postcard). The newsletter lists Ana Maria Aponte\, (561) 822-1439\, aaponte@wpb.org. Source: City event page (retrieved 2026-11-26): https://www.wpb.org/Events-Folder/2026/120126-SFOD-Outreach\; meeting postcard (retrieved 2026-11-26): https://www.wpb.org/files/assets/city/v/2/development-services/documents/south-flagler-overlay/12-01-26-south-flagler-overlay-district-meeting-postcard.pdf\; Meetings & Agendas (retrieved 2026-11-26): https://www.wpb.org/Our-City/Meetings-Agendas\; Mayor's Insider Newsletter for Thanksgiving Week\, 2026 (published 2026-11-25\, retrieved 2026-11-26): https://www.wpb.org/News-Folder/News-2026/112526-Mayors-Insider\; City email "News & Events in the City of West Palm Beach" (Nov 25\, 2026).
+URL:https://www.wpb.org/Events-Folder/2026/120126-SFOD-Outreach
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:wpb-code-magistrate-2026-12-02@awormus.github.io
