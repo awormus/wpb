@@ -426,14 +426,103 @@ URL:https://mandel-fl.whofi.com/calendar?search_events=Search&keyword_search=&ta
 END:VEVENT
 BEGIN:VEVENT
 UID:wpb-lib-winter-reading-program-2026-12-01@awormus.github.io
-DTSTAMP:20261113T142600Z
+DTSTAMP:20261127T141700Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20270201
 SUMMARY:Winter Reading Program: Starry Nights and Reading Lights
 LOCATION:Mandel Public Library of West Palm Beach\, 411 Clematis Street\, West Palm Beach\, FL 33401
-CATEGORIES:Library,Kids
-DESCRIPTION:Teens can earn free books by reading this winter. Log your reading into the Beanstack app or website to be eligible for free books and prize drawings. Listed as all day\, December 1\, 2026 through January 31\, 2027. The event page also lists the audience as All Ages. Source: Mandel Public Library newsletter "It's National Native American Heritage Month" (Nov 12\, 2026)\; event page (retrieved 2026-11-13): https://mandel-fl.whofi.com/calendar/event/356219
+CATEGORIES:Library
+DESCRIPTION:Winter Reading Program: Starry Nights and Reading Lights. The official event page (retrieved 2026-11-27) lists this as an all-day program from Tuesday\, December 1\, 2026\, through Sunday\, January 31\, 2027\, for All Ages: earn free books by reading this winter\, and log reading into the Beanstack app or website to be eligible for free books and prize drawings. Log reading at https://mandelpubliclibrary.beanstack.com/reader365. The Beanstack page (retrieved 2026-11-27) is the library's reading-challenge login and registration site and does not itself print these December 1\, 2026–January 31\, 2027 dates\; those dates and the official title are taken from the event page. The Mandel Public Library email "Winter Programs starts now!" (Nov 26\, 2026) called this the Winter Reading Challenge and said all ages can log reading on Beanstack for free books and prize-drawing entries. An earlier library newsletter\, "It's National Native American Heritage Month" (Nov 12\, 2026)\, had described the program as teens earning free books\; the event page and the Nov 26 email list All Ages\, and this calendar follows the event page. Source: event page (retrieved 2026-11-13 and 2026-11-27): https://mandel-fl.whofi.com/calendar/event/356219\; Beanstack: https://mandelpubliclibrary.beanstack.com/reader365\; Mandel Public Library email "Winter Programs starts now!" (Nov 26\, 2026).
 URL:https://mandel-fl.whofi.com/calendar/event/356219
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-lib-upcycled-art-2026-12-01@awormus.github.io
+DTSTAMP:20261127T141700Z
+DTSTART;TZID=America/New_York:20261201T160000
+DTEND;TZID=America/New_York:20261201T180000
+SUMMARY:Upcycled Art with Marie-Louise
+LOCATION:Studio 411\, 2nd floor\, Mandel Public Library of West Palm Beach\, 411 Clematis Street\, West Palm Beach\, FL 33401
+CATEGORIES:Library,Arts
+DESCRIPTION:Join Marie-Louise Duvert\, owner of Handmade Co-op\, to learn how to create art using recycled materials. Registration is required and begins at 9:30 a.m. one week before the program. All materials are provided. Funding for this program was provided through a grant from the Palm Beach International Boat Show Gives Back. Tuesday\, December 1\, 2026\, 4:00–6:00 p.m.\, Studio 411\, 2nd floor. Audience: Adults. Tagged Adult Art. The City email listed the date and presenter but no time or room\; those are taken from the event page (retrieved 2026-11-27). Source: event page: https://mandel-fl.whofi.com/calendar/event/354925\; Mandel Public Library email "Winter Programs starts now!" (Nov 26\, 2026).
+URL:https://mandel-fl.whofi.com/calendar/event/354925
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-lib-teens-who-meditate-2026-12-01@awormus.github.io
+DTSTAMP:20261127T141700Z
+DTSTART;TZID=America/New_York:20261201T160000
+DTEND;TZID=America/New_York:20261201T164500
+SUMMARY:Teens Who Meditate
+LOCATION:TeenSource\, 2nd floor\, Mandel Public Library of West Palm Beach\, 411 Clematis Street\, West Palm Beach\, FL 33401
+CATEGORIES:Library,Kids
+DESCRIPTION:For teens and tweens in grades 6-12. Join instructor Shanna in a welcoming\, relaxed space to explore meditation. Through fun\, beginner-friendly gatherings\, we'll explore different meditation styles\, sacred hand gestures (mudras)\, animal symbolism and energies\, breathwork\, and guided visualizations. No experience is required. Tuesday\, December 1\, 2026\, 4:00–4:45 p.m.\, TeenSource\, 2nd floor. The City email listed the date but no time or room\; those are taken from the event page (retrieved 2026-11-27). Source: event page: https://mandel-fl.whofi.com/calendar/event/357813\; Mandel Public Library email "Winter Programs starts now!" (Nov 26\, 2026).
+URL:https://mandel-fl.whofi.com/calendar/event/357813
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-lib-norton-storytime-2026-12-02@awormus.github.io
+DTSTAMP:20261127T141700Z
+DTSTART;TZID=America/New_York:20261202T163000
+DTEND;TZID=America/New_York:20261202T173000
+SUMMARY:Creative Storytime with the Norton Museum
+LOCATION:Kids Programming Space\, Mandel Public Library of West Palm Beach\, 411 Clematis Street\, West Palm Beach\, FL 33401
+CATEGORIES:Library,Kids,Arts
+DESCRIPTION:For families with children in grades K-5. Join Ms. Ingrid from the Norton Museum of Art as we read How Kids Celebrate Christmas Around the World by Pavla Hanackova and Karolina Medkova. Celebrate the holiday season with a festive bilingual story and family art activity inspired by the spirit of the holidays. Creative Storytime is in collaboration with Norton Museum of Art made possible through the generosity of the Diane and Bruce Halle Foundation. Space is limited\, and in-person sign-up begins in KidSpace at 4 p.m. Wednesday\, December 2\, 2026\, 4:30–5:30 p.m.\, Kids Programming Space. The City email listed the date\, Ms. Ingrid\, and the book title but no time or room\; those are taken from the event page (retrieved 2026-11-27). Source: event page: https://mandel-fl.whofi.com/calendar/event/356290\; Mandel Public Library email "Winter Programs starts now!" (Nov 26\, 2026).
+URL:https://mandel-fl.whofi.com/calendar/event/356290
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-lib-sierra-club-sustainable-growth-2026-12-02@awormus.github.io
+DTSTAMP:20261127T141700Z
+DTSTART;TZID=America/New_York:20261202T180000
+DTEND;TZID=America/New_York:20261202T200000
+SUMMARY:The Sierra Club Presents: Sustainable Growth and Development in Florida
+LOCATION:Auditorium\, 3rd floor\, Mandel Public Library of West Palm Beach\, 411 Clematis Street\, West Palm Beach\, FL 33401
+CATEGORIES:Library,Lecture
+DESCRIPTION:Join our local Loxahatchee Group of the Sierra Club for an engaging discussion with Paul Owens\, President of 1\,000 Friends of Florida\, a non-profit\, non-partisan\, member-supported organization dedicated to planning for environmentally and fiscally sustainable communities. In celebration of the end of the year\, The Cravens\, a renowned five-piece acoustic band\, will play original eclectic Americana\, glam pop\, rock compositions and classic covers. Light refreshments provided by the Sierra Club. BYO reusable water bottle. Funding for this program was provided through a grant from the Palm Beach International Boat Show Gives Back. Wednesday\, December 2\, 2026\, 6:00–8:00 p.m.\, Auditorium\, 3rd floor. Audience: Adults. Tagged Adult Lecture. The official event page (retrieved 2026-11-27) includes The Cravens in that program description\, matching the City email "Winter Programs starts now!" (Nov 26\, 2026). This calendar follows the event page (the band mention was flagged as a possible copy-paste error in the email\, but it is also on the public event page\, so it is not treated as email-only). Source: event page: https://mandel-fl.whofi.com/calendar/event/356216\; Mandel Public Library email "Winter Programs starts now!" (Nov 26\, 2026).
+URL:https://mandel-fl.whofi.com/calendar/event/356216
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-lib-personalized-gift-2026-12-05@awormus.github.io
+DTSTAMP:20261127T141700Z
+DTSTART;TZID=America/New_York:20261205T100000
+DTEND;TZID=America/New_York:20261205T120000
+SUMMARY:Personalized Gift Creation
+LOCATION:TIC (Technology & Innovation Center)\, Mandel Public Library of West Palm Beach\, 411 Clematis Street\, West Palm Beach\, FL 33401
+CATEGORIES:Library,Technology
+DESCRIPTION:Personalize a key chain to give as a gift this holiday season. Choose from various designs and add a loved one's name to cut on our laser cutter. Library card and registration are required. Saturday\, December 5\, 2026\, 10:00 a.m.–12:00 p.m.\, TIC (Technology & Innovation Center). Audience: Adults. Tagged Adult Computers & Technology. The City email listed the date\, a laser-cut personalized key chain\, and that registration is required\, but no time or room\; those are taken from the event page (retrieved 2026-11-27). Source: event page: https://mandel-fl.whofi.com/calendar/event/357660\; Mandel Public Library email "Winter Programs starts now!" (Nov 26\, 2026).
+URL:https://mandel-fl.whofi.com/calendar/event/357660
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-lib-create-3d-pens-2026-12-05@awormus.github.io
+DTSTAMP:20261127T141700Z
+DTSTART;TZID=America/New_York:20261205T140000
+DTEND;TZID=America/New_York:20261205T160000
+SUMMARY:Create with 3D Pens
+LOCATION:TeenSource\, 2nd floor\, Mandel Public Library of West Palm Beach\, 411 Clematis Street\, West Palm Beach\, FL 33401
+CATEGORIES:Library,Kids,Technology
+DESCRIPTION:For teens and tweens in grades 6-12. If you like to sketch or draw\, take your drawing to the next dimension with a 3D pen! We'll supply the 3D pens\, PLA plastic filament\, sample drawings you can trace\, and snacks to fuel your creativity. Saturday\, December 5\, 2026\, 2:00–4:00 p.m.\, TeenSource\, 2nd floor. The time and room match the City email and the event page (retrieved 2026-11-27). Source: event page: https://mandel-fl.whofi.com/calendar/event/355945\; Mandel Public Library email "Winter Programs starts now!" (Nov 26\, 2026).
+URL:https://mandel-fl.whofi.com/calendar/event/355945
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-lib-girls-in-stem-2026-12-06@awormus.github.io
+DTSTAMP:20261127T141700Z
+DTSTART;TZID=America/New_York:20261206T133000
+DTEND;TZID=America/New_York:20261206T143000
+SUMMARY:Discovery Makerspace Lab with Girls in STEM
+LOCATION:Kids Programming Space\, Mandel Public Library of West Palm Beach\, 411 Clematis Street\, West Palm Beach\, FL 33401
+CATEGORIES:Library,Kids
+DESCRIPTION:For kids in grades 1-5. Join us for a fun\, hands-on engineering program packed with exciting STEM projects! Build awesome creations like electrical circuits and marble roller coasters to take home. While the Girls in STEM initiative works to close the gender gap and inspire future girl engineers\, this event is open to everyone. All are welcome! Sunday\, December 6\, 2026\, 1:30–2:30 p.m.\, Kids Programming Space. The time matches the City email. The email listed the room as KidSpace\, 3rd floor\; the event page (retrieved 2026-11-27) lists Kids Programming Space and does not print KidSpace or a floor\, so this calendar follows the event page. The page also lists the audience as grades 1-5 and states that the program is open to everyone. Source: event page: https://mandel-fl.whofi.com/calendar/event/356617\; Mandel Public Library email "Winter Programs starts now!" (Nov 26\, 2026).
+URL:https://mandel-fl.whofi.com/calendar/event/356617
+END:VEVENT
+BEGIN:VEVENT
+UID:wpb-lib-canva-crafting-holiday-2026-12-09@awormus.github.io
+DTSTAMP:20261127T141700Z
+DTSTART;TZID=America/New_York:20261209T180000
+DTEND;TZID=America/New_York:20261209T193000
+SUMMARY:Canva Crafting: Holiday Edition
+LOCATION:TIC (Technology & Innovation Center)\, Mandel Public Library of West Palm Beach\, 411 Clematis Street\, West Palm Beach\, FL 33401
+CATEGORIES:Library,Technology
+DESCRIPTION:Design festive digital photos using Canva\, then frame your finished artwork for a personalized seasonal keepsake. Picture frames will be provided. Drinks and light refreshments will be served. 'Tis the season to get creative! Wednesday\, December 9\, 2026\, 6:00–7:30 p.m.\, TIC (Technology & Innovation Center). Audience: Adults. Tagged Adult Computers & Technology. Organizer listed on the event page: Career and Technology Programs\, (561) 868-7760. The time matches the City email. The email listed the room as Technology & Innovation Center\, 2nd floor\; the event page (retrieved 2026-11-27) lists TIC (Technology & Innovation Center) and does not print a floor\, so this calendar follows the event page and does not add a floor. Source: event page: https://mandel-fl.whofi.com/calendar/event/357646\; Mandel Public Library email "Winter Programs starts now!" (Nov 26\, 2026).
+URL:https://mandel-fl.whofi.com/calendar/event/357646
 END:VEVENT
 BEGIN:VEVENT
 UID:wpb-lib-early-close-2026-11-25@awormus.github.io
